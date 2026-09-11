@@ -12,3 +12,9 @@ renders/v2/frames/
 renders/v2/motion-test/
 previews/v2/early-dust-review/
 observatory-v2-environment.blend
+renders/v3/frames/
+renders/v3/motion-test/
+renders/v3/galaxy-motion-test/
+renders/v3/service-tasks/
+observatory-v3-environment.blend
+assets/reference/

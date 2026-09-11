@@ -1,0 +1,15 @@
+{
+  "ai_model": "meshy-7",
+  "model_type": "standard",
+  "ultra_mode": true,
+  "should_remesh": false,
+  "should_texture": true,
+  "enable_pbr": true,
+  "texture_resolution": "8k",
+  "pose_mode": "a-pose",
+  "image_enhancement": false,
+  "target_formats": [
+    "glb"
+  ],
+  "multi_view_thumbnails": true
+}

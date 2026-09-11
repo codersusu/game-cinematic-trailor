@@ -1,0 +1,14 @@
+{
+  "model_path": "assets/character/heroine_v3/rigged.glb",
+  "animation_path": "assets/character/heroine_v3/walking-woman.glb",
+  "detail_mesh_path": "assets/character/heroine_v3/master.glb",
+  "source_cycle": [
+    6,
+    29.199999928474426
+  ],
+  "forward_axis": [
+    0,
+    -1,
+    0
+  ]
+}

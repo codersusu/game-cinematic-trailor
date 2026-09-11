@@ -1,0 +1,190 @@
+{
+  "version": "Celestial v3",
+  "completed_utc": "2026-09-11T14:12:45.941733+00:00",
+  "status": "complete",
+  "movie": {
+    "path": "The Last Observatory - Celestial.mp4",
+    "bytes": 21230652,
+    "sha256": "fcb0d222d949fc89caf54e66bd499f3448143c0a6ba34d0aed3d85edff08375e"
+  },
+  "scene": {
+    "path": "observatory-v3.blend",
+    "bytes": 413605272,
+    "sha256": "c0e88be1c1d6ffa515a478b615889ed45bac4e5a3976ce762f722056861ad40b"
+  },
+  "hero_still": {
+    "path": "renders/v3/hero-4k.png",
+    "bytes": 10473855,
+    "sha256": "a5ef93b7280594d251f340b20829545356698722e1fcec99339879c7eca7c62d",
+    "frame": 390,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "samples": 128
+  },
+  "render": {
+    "blender": "4.5.13 LTS",
+    "engine": "Cycles",
+    "device": "Apple M5 Pro Metal",
+    "metal_rt": false,
+    "kernel_optimization": false,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "frames": 576,
+    "duration_seconds": 24,
+    "samples": 64,
+    "adaptive_threshold": 0.025,
+    "denoising": true,
+    "texture_cap": 8192,
+    "motion_blur_shutter": 0.4,
+    "color_management": "AgX / Medium High Contrast",
+    "exposure": -0.55,
+    "notes": "Frame 80 reused from the native final-settings benchmark; other 575 frames rendered in the final sequence."
+  },
+  "character": {
+    "master_triangles": 3024348,
+    "rig_proxy_triangles": 243515,
+    "bones": 24,
+    "base_color_size": [
+      8192,
+      8192
+    ],
+    "source": "Original ImageGen concept; Meshy 7 Ultra image-to-3D",
+    "facial_animation": false,
+    "meshy_credits_used": 53
+  },
+  "galaxy": {
+    "stars": 5456,
+    "main_rotation_degrees": 165,
+    "source": "Original procedural geometry inspired by the supplied reference"
+  },
+  "audio_source": {
+    "path": "audio/v2/last_observatory_v2_mix.wav",
+    "bytes": 4608044,
+    "sha256": "7b9c9cf567fc97f767cf4be4a92c393f8553d01d05186d00cd135bc3ae4393f1"
+  },
+  "qa": {
+    "movie": "The Last Observatory - Celestial.mp4",
+    "decoded_frames": 576,
+    "metadata": {
+      "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        1920,
+        1080
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "rotate": 0,
+      "duration": 24.0
+    },
+    "technical_checks": "passed",
+    "visual_review": {
+      "status": "reviewed",
+      "method": "Representative decoded movie contact sheet plus native render frames and retained character pose/motion proofs",
+      "checks": [
+        "Doorway clearance and planted walking poses",
+        "Spiral and ring orientation changes",
+        "Wide and closing camera composition",
+        "Title and attribution legibility"
+      ],
+      "contact_sheet": "previews/v3/final-contact-sheet.jpg"
+    },
+    "encoded_audio": {
+      "codec": "AAC",
+      "integrated_loudness_lufs": -17.8,
+      "true_peak_dbtp": -2.7,
+      "loudness_range_lu": 4.2,
+      "duration_seconds": 24,
+      "decode": "passed",
+      "clipping": false
+    }
+  },
+  "scene_dependency_audit": "docs/submission-assets-v3.json",
+  "source_scripts": [
+    {
+      "path": "scripts/audit_scene_v3.py",
+      "bytes": 2112,
+      "sha256": "75f0a9cbc4734ff5ffa1ab84cb2ba994ae56a093de6bb7f581492ef30e3e46f6"
+    },
+    {
+      "path": "scripts/build_scene_v3.py",
+      "bytes": 21330,
+      "sha256": "0a51a3548f76140e1fef9459d1304b1033366c8ed8d5f64f48fa7470f1ff5b15"
+    },
+    {
+      "path": "scripts/compositor_v3.py",
+      "bytes": 1118,
+      "sha256": "55a8610f60f6e471f231289c2f7a7d65a4e5af09d5e776dbb41b8914a0c0c1a7"
+    },
+    {
+      "path": "scripts/encode_v3.py",
+      "bytes": 7695,
+      "sha256": "4c18e9dac6de95fcad14fa297332df95ecf1fd4f3607edc5e221d094c689a28e"
+    },
+    {
+      "path": "scripts/galaxy_v3.py",
+      "bytes": 6237,
+      "sha256": "6a564e0394bea1c617632c81527a39b8034940b8540246ef4097a37caceb2f80"
+    },
+    {
+      "path": "scripts/heroine_groom_v3.py",
+      "bytes": 4357,
+      "sha256": "a576ab406b0e3de99d492505cb24f5d235ac7ae51c029fd99a7401215d6a7af3"
+    },
+    {
+      "path": "scripts/heroine_v3.py",
+      "bytes": 15211,
+      "sha256": "e6c4f32c6c039031c6c0892a1f0cc74562f12846da73cf92b0cb5fb24bad2137"
+    },
+    {
+      "path": "scripts/inspect_glb_v3.py",
+      "bytes": 1687,
+      "sha256": "c85b5c870b9272e3bd5fcadbbe1831cb90bb6000cc42767091664f7c595b96c9"
+    },
+    {
+      "path": "scripts/meshy_v3.py",
+      "bytes": 2704,
+      "sha256": "a3c94ffa692e5e17c375b8a629a062a2f2896c58034232b11970e859ba08c4ba"
+    },
+    {
+      "path": "scripts/proof_v3_from_frames.py",
+      "bytes": 1769,
+      "sha256": "6e2bd935668755a570a278aa5a2020f1ff19fe4cac6ad7143503c6c493699d6a"
+    },
+    {
+      "path": "scripts/render_status_v3.py",
+      "bytes": 1034,
+      "sha256": "519fbae671c2678af5f4f0e718180ab5c336b6a85b0f4d0ab030d411654b197a"
+    },
+    {
+      "path": "scripts/render_v3.py",
+      "bytes": 3586,
+      "sha256": "1bf21daa810ce80f9d497480ca8c340e0ad803f8a5bb6464e667f2ade32b411d"
+    },
+    {
+      "path": "scripts/validate_movie_v3.py",
+      "bytes": 1505,
+      "sha256": "cc318d5c5ec730624a87e649cca798d1b9c09d4028676ab8e709b49402abd12f"
+    },
+    {
+      "path": "scripts/finish_film_v3.sh",
+      "bytes": 750,
+      "sha256": "20cd968cc1b4b5b0158b0291ecffa0ba29aeeea50f58d51bfbd7ea4df8d29629"
+    }
+  ],
+  "visual_limits": [
+    "The character uses a body/head rig without facial-expression performance.",
+    "Sculpted hair and painted eye detail are suited to these medium/wide shots.",
+    "The galaxy is a stylized artistic spiral, not an astronomical simulation."
+  ]
+}

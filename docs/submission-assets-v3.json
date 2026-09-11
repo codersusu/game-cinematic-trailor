@@ -1,0 +1,210 @@
+{
+  "scene": "observatory-v3.blend",
+  "sha256": "c0e88be1c1d6ffa515a478b615889ed45bac4e5a3976ce762f722056861ad40b",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": [
+    1,
+    576
+  ],
+  "engine": "CYCLES",
+  "samples": 64,
+  "stars": 5456,
+  "rig_bones": 24,
+  "master_triangles": 3024348,
+  "cameras": [
+    {
+      "frame": 1,
+      "name": "01 \u2022 Across the threshold",
+      "camera": "01 \u2022 Across the threshold",
+      "lens_mm": 30.0
+    },
+    {
+      "frame": 193,
+      "name": "02 \u2022 The turning heavens",
+      "camera": "02 \u2022 The turning heavens",
+      "lens_mm": 48.0
+    },
+    {
+      "frame": 289,
+      "name": "03 \u2022 Under a billion stars",
+      "camera": "03 \u2022 Under a billion stars",
+      "lens_mm": 29.0
+    },
+    {
+      "frame": 481,
+      "name": "04 \u2022 The stars remember",
+      "camera": "04 \u2022 The stars remember",
+      "lens_mm": 30.0
+    }
+  ],
+  "images": [
+    {
+      "name": "Image_0",
+      "path": null,
+      "packed": true,
+      "dimensions": [
+        8192,
+        8192
+      ]
+    },
+    {
+      "name": "Image_1",
+      "path": null,
+      "packed": true,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Image_2",
+      "path": null,
+      "packed": true,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "monastery_stone_floor_diff_2k.jpg",
+      "path": "assets/texture/monastery_stone_floor/monastery_stone_floor_diff_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "monastery_stone_floor_disp_2k.png",
+      "path": "assets/texture/monastery_stone_floor/monastery_stone_floor_disp_2k.png",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "monastery_stone_floor_rough_2k.jpg",
+      "path": "assets/texture/monastery_stone_floor/monastery_stone_floor_rough_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "old_stone_wall_02_diff_2k.jpg",
+      "path": "assets/texture/old_stone_wall_02/old_stone_wall_02_diff_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "old_stone_wall_02_disp_2k.png",
+      "path": "assets/texture/old_stone_wall_02/old_stone_wall_02_disp_2k.png",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "old_stone_wall_02_rough_2k.jpg",
+      "path": "assets/texture/old_stone_wall_02/old_stone_wall_02_rough_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rock_face_01_diff",
+      "path": "assets/model/rock_face_01/textures/rock_face_01_diff_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rock_face_01_nor_gl",
+      "path": "assets/model/rock_face_01/textures/rock_face_01_nor_gl_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rock_face_01_rough",
+      "path": "assets/model/rock_face_01/textures/rock_face_01_arm_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "starmap_2020_8k_gal.exr",
+      "path": "assets/hdri/stars/starmap_2020_8k_gal.exr",
+      "packed": false,
+      "dimensions": [
+        8192,
+        4096
+      ]
+    },
+    {
+      "name": "stone_01_diff",
+      "path": "assets/model/stone_01/textures/stone_01_diff_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "stone_01_nor_gl",
+      "path": "assets/model/stone_01/textures/stone_01_nor_gl_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "stone_01_rough",
+      "path": "assets/model/stone_01/textures/stone_01_arm_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "texture_0",
+      "path": null,
+      "packed": true,
+      "dimensions": [
+        8192,
+        8192
+      ]
+    },
+    {
+      "name": "texture_0.001",
+      "path": null,
+      "packed": true,
+      "dimensions": [
+        8192,
+        8192
+      ]
+    }
+  ],
+  "missing_images": [],
+  "outside_project_images": []
+}

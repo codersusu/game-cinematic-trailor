@@ -1,0 +1,38 @@
+{
+  "file": "assets/character/heroine_v3/master.glb",
+  "bytes": 137238236,
+  "vertices": 1657108,
+  "triangles": 3024348,
+  "meshes": 1,
+  "skins": 0,
+  "animations": [],
+  "images": [
+    {
+      "name": null,
+      "mimeType": "image/jpeg",
+      "size": [
+        8192,
+        8192
+      ],
+      "mode": "RGB"
+    },
+    {
+      "name": null,
+      "mimeType": "image/jpeg",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB"
+    },
+    {
+      "name": null,
+      "mimeType": "image/jpeg",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB"
+    }
+  ]
+}

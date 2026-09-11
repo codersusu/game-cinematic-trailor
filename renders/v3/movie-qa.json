@@ -1,0 +1,42 @@
+{
+  "movie": "The Last Observatory - Celestial.mp4",
+  "decoded_frames": 576,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 24.0
+  },
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "reviewed",
+    "method": "Representative decoded movie contact sheet plus native render frames and retained character pose/motion proofs",
+    "checks": [
+      "Doorway clearance and planted walking poses",
+      "Spiral and ring orientation changes",
+      "Wide and closing camera composition",
+      "Title and attribution legibility"
+    ],
+    "contact_sheet": "previews/v3/final-contact-sheet.jpg"
+  },
+  "encoded_audio": {
+    "codec": "AAC",
+    "integrated_loudness_lufs": -17.8,
+    "true_peak_dbtp": -2.7,
+    "loudness_range_lu": 4.2,
+    "duration_seconds": 24,
+    "decode": "passed",
+    "clipping": false
+  }
+}

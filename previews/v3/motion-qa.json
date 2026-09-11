@@ -1,0 +1,26 @@
+{
+  "source_frames": [
+    49,
+    96
+  ],
+  "decoded_frames": 48,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 2.0
+  },
+  "audio_start_seconds": 2,
+  "output": "previews/v3/Celestial-motion-1080p.mp4"
+}

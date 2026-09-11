@@ -1,0 +1,42 @@
+{
+  "provider": "Meshy",
+  "date": "2026-09-11",
+  "stages": [
+    {
+      "stage": "heroine-master",
+      "endpoint": "/openapi/v1/image-to-3d",
+      "status": "SUCCEEDED",
+      "consumed_credits": 40,
+      "created_at": 1789124018859,
+      "finished_at": 1789124340933
+    },
+    {
+      "stage": "heroine-proxy",
+      "endpoint": "/openapi/v1/remesh",
+      "status": "SUCCEEDED",
+      "consumed_credits": 5,
+      "created_at": 1789124457197,
+      "finished_at": 1789124917798
+    },
+    {
+      "stage": "heroine-rig",
+      "endpoint": "/openapi/v1/rigging",
+      "status": "SUCCEEDED",
+      "consumed_credits": 5,
+      "created_at": 1789124965961,
+      "finished_at": 1789125066966
+    },
+    {
+      "stage": "heroine-walk",
+      "endpoint": "/openapi/v1/animations",
+      "status": "SUCCEEDED",
+      "consumed_credits": 3,
+      "created_at": 1789125114617,
+      "finished_at": 1789125168278
+    }
+  ],
+  "total_credits": 53,
+  "input": "concept.png",
+  "settings": "generation-settings.json",
+  "master_sha256": "0b7d62a325dd7fd569e3c3cdb7603a56d07140e20e2892139ac423e8f4a90b83"
+}
