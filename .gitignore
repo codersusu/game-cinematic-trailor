@@ -18,3 +18,12 @@ renders/v3/galaxy-motion-test/
 renders/v3/service-tasks/
 observatory-v3-environment.blend
 assets/reference/
+renders/v4/frames/
+renders/v4/motion-test/
+renders/v4/service-tasks/
+previews/v4/acting-frames/
+previews/v4/acting-prior/
+previews/v4/native-walk-probe/
+previews/v4/rocketbox-native-motion/
+assets/character/candidates_v4/
+observatory-v4-environment.blend

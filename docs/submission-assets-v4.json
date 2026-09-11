@@ -1,0 +1,253 @@
+{
+  "scene": "observatory-v4.blend",
+  "sha256": "6f745b8ca4607860564a3b790287c3601ef1abcb47d2856754c4fc0ccb8990f7",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": [
+    1,
+    576
+  ],
+  "engine": "CYCLES",
+  "samples": 64,
+  "rig_bones": 80,
+  "facial_shapes": 175,
+  "source_vertices": 5170,
+  "facial_evaluation": {
+    "1": {
+      "AK_03_BrowInnerUp": 0.0,
+      "AK_21_EyeWideLeft": 0.0,
+      "AK_25_JawOpen": 0.0,
+      "AK_32_MouthFunnel": 0.0,
+      "AK_44_MouthSmileLeft": 0.0
+    },
+    "15": {
+      "AK_03_BrowInnerUp": 0.55,
+      "AK_21_EyeWideLeft": 0.32,
+      "AK_25_JawOpen": 0.28,
+      "AK_32_MouthFunnel": 0.0,
+      "AK_44_MouthSmileLeft": 0.0
+    },
+    "317": {
+      "AK_03_BrowInnerUp": 0.36,
+      "AK_21_EyeWideLeft": 0.25,
+      "AK_25_JawOpen": 0.42,
+      "AK_32_MouthFunnel": 0.55,
+      "AK_44_MouthSmileLeft": 0.055
+    },
+    "331": {
+      "AK_03_BrowInnerUp": 0.19,
+      "AK_21_EyeWideLeft": 0.095,
+      "AK_25_JawOpen": 0.09,
+      "AK_32_MouthFunnel": 0.04,
+      "AK_44_MouthSmileLeft": 0.52
+    }
+  },
+  "camera_cuts": [
+    {
+      "frame": 1,
+      "name": "00 \u2022 A breath at the threshold",
+      "camera": "00 \u2022 A breath at the threshold",
+      "lens_mm": 72.0
+    },
+    {
+      "frame": 37,
+      "name": "01 \u2022 Across the threshold",
+      "camera": "01 \u2022 Across the threshold",
+      "lens_mm": 30.0
+    },
+    {
+      "frame": 193,
+      "name": "02 \u2022 The turning heavens",
+      "camera": "02 \u2022 The turning heavens",
+      "lens_mm": 48.0
+    },
+    {
+      "frame": 289,
+      "name": "03A \u2022 Wonder",
+      "camera": "03A \u2022 Wonder",
+      "lens_mm": 75.0
+    },
+    {
+      "frame": 345,
+      "name": "03 \u2022 Under a billion stars",
+      "camera": "03 \u2022 Under a billion stars",
+      "lens_mm": 29.0
+    },
+    {
+      "frame": 481,
+      "name": "04 \u2022 The stars remember",
+      "camera": "04 \u2022 The stars remember",
+      "lens_mm": 30.0
+    }
+  ],
+  "images": [
+    {
+      "name": "Map #13",
+      "path": "assets/character/heroine_v4/f004_body_color.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #15",
+      "path": "assets/character/heroine_v4/f004_body_normal.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #17",
+      "path": "assets/character/heroine_v4/f004_head_color.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #19",
+      "path": "assets/character/heroine_v4/f004_head_normal.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #6",
+      "path": "assets/character/heroine_v4/f004_opacity_color.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "monastery_stone_floor_diff_2k.jpg",
+      "path": "assets/texture/monastery_stone_floor/monastery_stone_floor_diff_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "monastery_stone_floor_disp_2k.png",
+      "path": "assets/texture/monastery_stone_floor/monastery_stone_floor_disp_2k.png",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "monastery_stone_floor_rough_2k.jpg",
+      "path": "assets/texture/monastery_stone_floor/monastery_stone_floor_rough_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "old_stone_wall_02_diff_2k.jpg",
+      "path": "assets/texture/old_stone_wall_02/old_stone_wall_02_diff_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "old_stone_wall_02_disp_2k.png",
+      "path": "assets/texture/old_stone_wall_02/old_stone_wall_02_disp_2k.png",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "old_stone_wall_02_rough_2k.jpg",
+      "path": "assets/texture/old_stone_wall_02/old_stone_wall_02_rough_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rock_face_01_diff",
+      "path": "assets/model/rock_face_01/textures/rock_face_01_diff_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rock_face_01_nor_gl",
+      "path": "assets/model/rock_face_01/textures/rock_face_01_nor_gl_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rock_face_01_rough",
+      "path": "assets/model/rock_face_01/textures/rock_face_01_arm_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "starmap_2020_8k_gal.exr",
+      "path": "assets/hdri/stars/starmap_2020_8k_gal.exr",
+      "packed": false,
+      "dimensions": [
+        8192,
+        4096
+      ]
+    },
+    {
+      "name": "stone_01_diff",
+      "path": "assets/model/stone_01/textures/stone_01_diff_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "stone_01_nor_gl",
+      "path": "assets/model/stone_01/textures/stone_01_nor_gl_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "stone_01_rough",
+      "path": "assets/model/stone_01/textures/stone_01_arm_2k.jpg",
+      "packed": true,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "missing_images": [],
+  "outside_project_images": [],
+  "status": "passed"
+}

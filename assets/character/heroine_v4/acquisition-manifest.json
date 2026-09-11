@@ -1,0 +1,91 @@
+{
+  "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+  "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+  "files": [
+    {
+      "file": "f_idle_breathe_01.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_01.max.fbx",
+      "bytes": 1379504,
+      "sha256": "e470ba984484149c8269772b7640b754bd996ba83b23ae75535128412997aa45"
+    },
+    {
+      "file": "f_walk_neutral_01.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_01.max.fbx",
+      "bytes": 993792,
+      "sha256": "20238709c689d46f5864aebaa58918cc1233cb9045b24aa4d58cf2752786a73b"
+    },
+    {
+      "file": "f_walk_start.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_start.max.fbx",
+      "bytes": 922800,
+      "sha256": "509cb6486c0938bdc8ed000041c6c6be82bc7324b8b2ab68515a6bc143b3e24b"
+    },
+    {
+      "file": "f_walk_stop.max.fbx",
+      "upstream_path": "Assets/Animations/all_animations_max_motextr_xy/f_walk_stop.max.fbx",
+      "bytes": 1147184,
+      "sha256": "e2f7d8dd7b08f53e33befb5515095af54f87effc6491b0774e401c99f497256b"
+    },
+    {
+      "file": "Female_Adult_04_facial.fbx",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Export/Female_Adult_04_facial.fbx",
+      "bytes": 2349152,
+      "sha256": "ce83b428828314ef675d1a64ca17d8c3d2178cc4f8b3e80273483f83f08748fb"
+    },
+    {
+      "file": "f004_body_color.tga",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Textures/f004_body_color.tga",
+      "bytes": 12582956,
+      "sha256": "02c1362ed7daed6cb3aac33dc85f8e635c9be29265c7d96515c8ca7230c50781"
+    },
+    {
+      "file": "f004_body_normal.tga",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Textures/f004_body_normal.tga",
+      "bytes": 12582956,
+      "sha256": "01e3802e124c854ebfef58fd36f4dc188433e1d7a989a92cfd0699adaed0a947"
+    },
+    {
+      "file": "f004_body_specular.tga",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Textures/f004_body_specular.tga",
+      "bytes": 12582956,
+      "sha256": "3ad2a628cfffd6c097d3d512ef91866d0b2c82e54b16c6d17460ab98194e952e"
+    },
+    {
+      "file": "f004_head_color.tga",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Textures/f004_head_color.tga",
+      "bytes": 12582956,
+      "sha256": "61b418a825e85514541f28c5968e9e0a0d1897506f7c7bccd27eef336e1473ef"
+    },
+    {
+      "file": "f004_head_normal.tga",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Textures/f004_head_normal.tga",
+      "bytes": 12582956,
+      "sha256": "f9e94fcc0952d60fc86eef3d737f46d53473ffc9e306984bf64570306d900823"
+    },
+    {
+      "file": "f004_head_specular.tga",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Textures/f004_head_specular.tga",
+      "bytes": 12582956,
+      "sha256": "59e6049bed79f690cd35537ca781da5dfd123964c71bd6035c7a1b2015928ebe"
+    },
+    {
+      "file": "f004_opacity_color.tga",
+      "upstream_path": "Assets/Avatars/Adults/Female_Adult_04/Textures/f004_opacity_color.tga",
+      "bytes": 16777260,
+      "sha256": "cf9b868f3f2b9f48ee3d764d1b8f611df94167e393f6275c04779963b3ddd506"
+    },
+    {
+      "file": "LICENSE.md",
+      "upstream_path": "LICENSE.md",
+      "bytes": 1066,
+      "sha256": "17474e386e0b9e1a700cc3d06b2b0882a2c376d9c6b49c7f8274409b8f8d2352"
+    },
+    {
+      "file": "UPSTREAM_README.md",
+      "upstream_path": "README.md",
+      "bytes": 5345,
+      "sha256": "bcf8013e3d5817a5dee5d1770b9943278189cd76b2d9b2abc243db99b703ecd6"
+    }
+  ],
+  "scope": "Unmodified upstream files included in the selected heroine_v4 package; local production documents and inspection reports are separate."
+}

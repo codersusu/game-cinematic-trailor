@@ -1,0 +1,42 @@
+{
+  "version": 4,
+  "new_paid_api_requests": 0,
+  "dialogue": false,
+  "description": "Reuse existing music and effects, with footsteps and doorway air transition retimed to the native Rocketbox heroine performance.",
+  "source_manifests": [
+    "audio/generation_manifest.json",
+    "audio/v2/generation_manifest.json"
+  ],
+  "animation_sync": "audio/v4/walk_sync.json",
+  "mix_script": "scripts/audio_mix_v4.py",
+  "master_file": "audio/v4/last_observatory_v4_mix.wav",
+  "master_sha256": "a0e8b1c93dee7c1938230f2de204156fae3f9ae79eacb2b493ac0461b2ca9ac2",
+  "mix_script_sha256": "885f9a3ce31524c4d98c45cd41ca1f75916b6adb51caceb7372665950bab6783",
+  "source_files": [
+    {
+      "file": "audio/stems/original_underscore.wav",
+      "sha256": "89a658d780c0cf846528465ec2ae7c2b2df92b8cd4573283b428eb6baa0d8203"
+    },
+    {
+      "file": "audio/stems/alignment.wav",
+      "sha256": "7340f02678b4c294665ade5c150abb9f92861ea1165772d87ec3eb6192a3e7d8"
+    },
+    {
+      "file": "audio/stems/anticipation.wav",
+      "sha256": "c26896dec6762cda6371d45eb3349262d20e05af50e00f9e6d064838fb5154cf"
+    },
+    {
+      "file": "audio/stems/ambience.wav",
+      "sha256": "9f318e5c00781af8e0a9a7c96569eb6bf50ed7b45472e35ec5ead2cfda92d3a3"
+    },
+    {
+      "file": "audio/raw/bronze_mechanism.wav",
+      "sha256": "a369887b8c5ac433efb8cb33f63b28c4c9b1f7e0ae03feea4e92fbcea22c9bfc"
+    },
+    {
+      "file": "audio/v2/raw/stone_footsteps.wav",
+      "sha256": "e9d12d3ef46301a218fe6fa30120eb83475c778bccb08fbcd12c11bbc14bb236"
+    }
+  ],
+  "audio_qa": "audio/v4/mix_qa.json"
+}

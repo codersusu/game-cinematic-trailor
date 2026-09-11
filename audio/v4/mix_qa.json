@@ -1,0 +1,166 @@
+{
+  "version": 4,
+  "duration_seconds": 24.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "encoding": "16-bit PCM WAV",
+  "loudness_integrated_lufs": -18.0,
+  "true_peak_dbtp": -2.88,
+  "loudness_range_lu": 10.3,
+  "clipped_samples": 0,
+  "finite_values": true,
+  "footstep_count": 11,
+  "footstep_events": [
+    {
+      "time_seconds": 2.0416666666666665,
+      "frame": 50,
+      "foot": "right",
+      "variant": 1
+    },
+    {
+      "time_seconds": 2.7916666666666665,
+      "frame": 68,
+      "foot": "left",
+      "variant": 2
+    },
+    {
+      "time_seconds": 3.375,
+      "frame": 82,
+      "foot": "right",
+      "variant": 3
+    },
+    {
+      "time_seconds": 4.0,
+      "frame": 97,
+      "foot": "left",
+      "variant": 4
+    },
+    {
+      "time_seconds": 4.541666666666667,
+      "frame": 110,
+      "foot": "right",
+      "variant": 5
+    },
+    {
+      "time_seconds": 5.208333333333333,
+      "frame": 126,
+      "foot": "left",
+      "variant": 6
+    },
+    {
+      "time_seconds": 5.75,
+      "frame": 139,
+      "foot": "right",
+      "variant": 7
+    },
+    {
+      "time_seconds": 6.416666666666667,
+      "frame": 155,
+      "foot": "left",
+      "variant": 8
+    },
+    {
+      "time_seconds": 6.958333333333333,
+      "frame": 168,
+      "foot": "right",
+      "variant": 1
+    },
+    {
+      "time_seconds": 7.458333333333333,
+      "frame": 180,
+      "foot": "left",
+      "variant": 2
+    },
+    {
+      "time_seconds": 7.916666666666667,
+      "frame": 191,
+      "foot": "right",
+      "variant": 3
+    }
+  ],
+  "doorway_crossing_seconds": 3.4054740275,
+  "alignment_seconds": 20,
+  "sync_status": "confirmed_by_native_motion_world_root_measurement",
+  "sync_source": "audio/v4/walk_sync.json",
+  "step_extraction": [
+    {
+      "source_peak_seconds": 0.62,
+      "source_start_seconds": 0.62,
+      "duration_seconds": 0.44
+    },
+    {
+      "source_peak_seconds": 1.58,
+      "source_start_seconds": 1.579,
+      "duration_seconds": 0.441
+    },
+    {
+      "source_peak_seconds": 2.53,
+      "source_start_seconds": 2.526,
+      "duration_seconds": 0.444
+    },
+    {
+      "source_peak_seconds": 3.46,
+      "source_start_seconds": 3.457,
+      "duration_seconds": 0.443
+    },
+    {
+      "source_peak_seconds": 4.42,
+      "source_start_seconds": 4.415,
+      "duration_seconds": 0.445
+    },
+    {
+      "source_peak_seconds": 5.36,
+      "source_start_seconds": 5.355,
+      "duration_seconds": 0.445
+    },
+    {
+      "source_peak_seconds": 6.22,
+      "source_start_seconds": 6.211,
+      "duration_seconds": 0.449
+    },
+    {
+      "source_peak_seconds": 7.68,
+      "source_start_seconds": 7.676,
+      "duration_seconds": 0.324
+    }
+  ],
+  "stems": [
+    "ambience",
+    "original_underscore",
+    "continuous_mechanism",
+    "footsteps",
+    "doorway_arrival",
+    "sky_harmonics",
+    "alignment",
+    "anticipation"
+  ],
+  "sources": [
+    {
+      "file": "audio/stems/original_underscore.wav",
+      "sha256": "89a658d780c0cf846528465ec2ae7c2b2df92b8cd4573283b428eb6baa0d8203"
+    },
+    {
+      "file": "audio/stems/alignment.wav",
+      "sha256": "7340f02678b4c294665ade5c150abb9f92861ea1165772d87ec3eb6192a3e7d8"
+    },
+    {
+      "file": "audio/stems/anticipation.wav",
+      "sha256": "c26896dec6762cda6371d45eb3349262d20e05af50e00f9e6d064838fb5154cf"
+    },
+    {
+      "file": "audio/stems/ambience.wav",
+      "sha256": "9f318e5c00781af8e0a9a7c96569eb6bf50ed7b45472e35ec5ead2cfda92d3a3"
+    },
+    {
+      "file": "audio/raw/bronze_mechanism.wav",
+      "sha256": "a369887b8c5ac433efb8cb33f63b28c4c9b1f7e0ae03feea4e92fbcea22c9bfc"
+    },
+    {
+      "file": "audio/v2/raw/stone_footsteps.wav",
+      "sha256": "e9d12d3ef46301a218fe6fa30120eb83475c778bccb08fbcd12c11bbc14bb236"
+    }
+  ],
+  "dialogue": false,
+  "new_paid_api_requests": 0,
+  "license": "Existing ElevenLabs SFX reused from v1/v2 follow the original account plan; tier unverified. Original synthesized layers created for this project. Not CC0."
+}

@@ -1,0 +1,26 @@
+{
+  "file": "previews/v4/Native-walk-and-expressions.mp4",
+  "decoded_frames": 140,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      960,
+      540
+    ],
+    "size": [
+      960,
+      540
+    ],
+    "rotate": 0,
+    "duration": 5.83
+  },
+  "segments": [
+    "surprise 1\u201336",
+    "native walking 97\u2013144",
+    "wonder 289\u2013344"
+  ]
+}

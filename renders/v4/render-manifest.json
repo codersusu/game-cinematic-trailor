@@ -1,0 +1,278 @@
+{
+  "version": "Wonder v4",
+  "completed_utc": "2026-09-11T18:21:06.069932+00:00",
+  "status": "complete",
+  "movie": {
+    "path": "The Last Observatory - Wonder.mp4",
+    "bytes": 19479164,
+    "sha256": "a332b386b66313a92f88a8a08bdc4966c311f88623224c4d16c7d3dba27d4246"
+  },
+  "scene": {
+    "path": "observatory-v4.blend",
+    "bytes": 29853704,
+    "sha256": "6f745b8ca4607860564a3b790287c3601ef1abcb47d2856754c4fc0ccb8990f7"
+  },
+  "hero_still": {
+    "path": "renders/v4/hero-4k.png",
+    "bytes": 7367550,
+    "sha256": "5b42bda7bc7f9d299aae74e116beda56e09e23548eed64923a2acd693e1dfad2",
+    "frame": 317,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "samples": 128
+  },
+  "render": {
+    "blender": "4.5.13 LTS",
+    "engine": "Cycles",
+    "device": "Apple M5 Pro Metal",
+    "metal_rt": false,
+    "kernel_optimization": false,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "frames": 576,
+    "duration_seconds": 24,
+    "samples": 64,
+    "adaptive_threshold": 0.025,
+    "denoising": true,
+    "texture_cap": 8192,
+    "motion_blur_shutter": 0.4,
+    "color_management": "AgX / Medium High Contrast",
+    "exposure": {
+      "default": -0.55,
+      "frames_289_344": -0.85
+    },
+    "notes": "All 576 frames rendered from the V4 scene; no previous-version final frames reused."
+  },
+  "character": {
+    "source": "Microsoft Rocketbox Female Adult 04",
+    "upstream": "https://github.com/microsoft/Microsoft-Rocketbox",
+    "license": "MIT",
+    "source_vertices": 5170,
+    "source_polygons": 9284,
+    "bones": 80,
+    "facial_shapes": 175,
+    "source_texture_resolution": [
+      2048,
+      2048
+    ],
+    "native_clips": [
+      "f_walk_start.max.fbx",
+      "f_walk_neutral_01.max.fbx",
+      "f_walk_stop.max.fbx",
+      "f_idle_breathe_01.max.fbx"
+    ],
+    "native_motion_report": "renders/v4/native-motion-report.json",
+    "facial_performance": {
+      "surprise_peak_frame": 15,
+      "wonder_peak_frame": 317,
+      "smile_frame": 331,
+      "blink_frames": [
+        34,
+        111,
+        181,
+        251,
+        339,
+        425,
+        509
+      ],
+      "animated_channels": [
+        "AK_03_BrowInnerUp",
+        "AK_04_BrowOuterUpLeft",
+        "AK_05_BrowOuterUpRight",
+        "AK_07_CheekSquintLeft",
+        "AK_08_CheekSquintRight",
+        "AK_09_EyeBlinkLeft",
+        "AK_10_EyeBlinkRight",
+        "AK_17_EyeLookUpLeft",
+        "AK_18_EyeLookUpRight",
+        "AK_21_EyeWideLeft",
+        "AK_22_EyeWideRight",
+        "AK_25_JawOpen",
+        "AK_32_MouthFunnel",
+        "AK_38_MouthPucker",
+        "AK_44_MouthSmileLeft",
+        "AK_45_MouthSmileRight"
+      ],
+      "facial_meshes": [
+        "f004_hipoly_81_bones_opacity"
+      ]
+    },
+    "new_paid_api_requests": 0
+  },
+  "camera_cuts": [
+    {
+      "frame": 1,
+      "name": "00 \u2022 A breath at the threshold",
+      "camera": "00 \u2022 A breath at the threshold",
+      "lens_mm": 72.0
+    },
+    {
+      "frame": 37,
+      "name": "01 \u2022 Across the threshold",
+      "camera": "01 \u2022 Across the threshold",
+      "lens_mm": 30.0
+    },
+    {
+      "frame": 193,
+      "name": "02 \u2022 The turning heavens",
+      "camera": "02 \u2022 The turning heavens",
+      "lens_mm": 48.0
+    },
+    {
+      "frame": 289,
+      "name": "03A \u2022 Wonder",
+      "camera": "03A \u2022 Wonder",
+      "lens_mm": 75.0
+    },
+    {
+      "frame": 345,
+      "name": "03 \u2022 Under a billion stars",
+      "camera": "03 \u2022 Under a billion stars",
+      "lens_mm": 29.0
+    },
+    {
+      "frame": 481,
+      "name": "04 \u2022 The stars remember",
+      "camera": "04 \u2022 The stars remember",
+      "lens_mm": 30.0
+    }
+  ],
+  "galaxy": {
+    "stars": 5456,
+    "main_rotation_degrees": 165,
+    "source": "Original V3 procedural geometry inspired by the supplied reference"
+  },
+  "audio_source": {
+    "path": "audio/v4/last_observatory_v4_mix.wav",
+    "bytes": 4608044,
+    "sha256": "a0e8b1c93dee7c1938230f2de204156fae3f9ae79eacb2b493ac0461b2ca9ac2"
+  },
+  "qa": {
+    "movie": "The Last Observatory - Wonder.mp4",
+    "decoded_frames": 576,
+    "metadata": {
+      "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        1920,
+        1080
+      ],
+      "size": [
+        1920,
+        1080
+      ],
+      "rotate": 0,
+      "duration": 24.0
+    },
+    "technical_checks": "passed",
+    "visual_review": {
+      "status": "reviewed",
+      "method": "Representative decoded movie contact sheet, native 1080p render frames, and retained character motion/expression proofs",
+      "checks": [
+        "Doorway clearance and walking poses",
+        "Readable surprise at frame 15 and wonder at frame 317",
+        "Delighted recovery at frame 331",
+        "Wide and closing camera composition",
+        "Title and attribution legibility"
+      ],
+      "contact_sheet": "previews/v4/final-contact-sheet.jpg",
+      "limits": "Representative frame inspection and successful decoding; not a human real-time playback review."
+    },
+    "encoded_audio": {
+      "codec": "AAC",
+      "integrated_loudness_lufs": -17.8,
+      "true_peak_dbtp": -2.8,
+      "loudness_range_lu": 4.1,
+      "duration_seconds": 24,
+      "decode": "passed",
+      "clipping": false
+    }
+  },
+  "scene_dependency_audit": "docs/submission-assets-v4.json",
+  "source_scripts": [
+    {
+      "path": "scripts/build_scene_v4.py",
+      "bytes": 22906,
+      "sha256": "32ab0310ebe40300df1e59f7ce31f5e9b116ccf27a9620e340a4a6bb6004883e"
+    },
+    {
+      "path": "scripts/heroine_motion_v4.py",
+      "bytes": 9483,
+      "sha256": "d39ad7f315d6183d7acb70c6dcfbd891d335dae77f4cb109a932b4315c5d68ec"
+    },
+    {
+      "path": "scripts/heroine_look_v4.py",
+      "bytes": 7798,
+      "sha256": "203845291c801fc59ba7755c367f0b1efba1432a3bf8ab89dea78e9536274cef"
+    },
+    {
+      "path": "scripts/audio_mix_v4.py",
+      "bytes": 9933,
+      "sha256": "885f9a3ce31524c4d98c45cd41ca1f75916b6adb51caceb7372665950bab6783"
+    },
+    {
+      "path": "scripts/render_v4.py",
+      "bytes": 4356,
+      "sha256": "df93466dc5956adc7b8c6a03d59834764af627d619a9a72cc603a7859031701b"
+    },
+    {
+      "path": "scripts/encode_v4.py",
+      "bytes": 7782,
+      "sha256": "8d54bbf7a660e5d647dc93845336499fd60f590e09490735db30de8d591ac2ef"
+    },
+    {
+      "path": "scripts/encode_acting_v4.py",
+      "bytes": 1791,
+      "sha256": "4a4d421e2c8009929a2978f0c760ab8b5accb04cc415b73e4c95289089589643"
+    },
+    {
+      "path": "scripts/validate_movie_v4.py",
+      "bytes": 1502,
+      "sha256": "cfb9463a7574416487c8c839df1be5449a7cc410102c15cb5dc26dbd7c68d212"
+    },
+    {
+      "path": "scripts/audit_scene_v4.py",
+      "bytes": 2555,
+      "sha256": "81493366aea86615002a00867b343cbe858ff5adf923cfc30c6d94a605de1f42"
+    },
+    {
+      "path": "scripts/finish_film_v4.sh",
+      "bytes": 723,
+      "sha256": "7b43e1ba6d9e00d107083bbfc080f4e61766ecc22dee543a573a82c3e382cab9"
+    },
+    {
+      "path": "scripts/render_status_v4.py",
+      "bytes": 1112,
+      "sha256": "c84be32f30a5cbcce0e3c61373e64fa1e5b53f2c885ec7d3786977dbdf523962"
+    },
+    {
+      "path": "scripts/open_wonder.py",
+      "bytes": 667,
+      "sha256": "32af037f0ac07ccc0f2c851169048f9e6a1ddf156dad8dd277ce7f44eba722a4"
+    },
+    {
+      "path": "scripts/galaxy_v3.py",
+      "bytes": 6237,
+      "sha256": "6a564e0394bea1c617632c81527a39b8034940b8540246ef4097a37caceb2f80"
+    },
+    {
+      "path": "scripts/compositor_v3.py",
+      "bytes": 1118,
+      "sha256": "55a8610f60f6e471f231289c2f7a7d65a4e5af09d5e776dbb41b8914a0c0c1a7"
+    }
+  ],
+  "visual_limits": [
+    "Older game character with 2K maps; skin and hair detail remain below modern cinematic scans.",
+    "Hair cards, bright eye textures and a dark mouth interior remain visible in portraits.",
+    "The later wow is a facial reaction, with no spoken dialogue.",
+    "The galaxy is a stylized artistic spiral, not an astronomical simulation."
+  ]
+}

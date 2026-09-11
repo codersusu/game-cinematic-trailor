@@ -1,0 +1,35 @@
+{
+  "surprise_peak_frame": 15,
+  "wonder_peak_frame": 317,
+  "smile_frame": 331,
+  "blink_frames": [
+    34,
+    111,
+    181,
+    251,
+    339,
+    425,
+    509
+  ],
+  "animated_channels": [
+    "AK_03_BrowInnerUp",
+    "AK_04_BrowOuterUpLeft",
+    "AK_05_BrowOuterUpRight",
+    "AK_07_CheekSquintLeft",
+    "AK_08_CheekSquintRight",
+    "AK_09_EyeBlinkLeft",
+    "AK_10_EyeBlinkRight",
+    "AK_17_EyeLookUpLeft",
+    "AK_18_EyeLookUpRight",
+    "AK_21_EyeWideLeft",
+    "AK_22_EyeWideRight",
+    "AK_25_JawOpen",
+    "AK_32_MouthFunnel",
+    "AK_38_MouthPucker",
+    "AK_44_MouthSmileLeft",
+    "AK_45_MouthSmileRight"
+  ],
+  "facial_meshes": [
+    "f004_hipoly_81_bones_opacity"
+  ]
+}
