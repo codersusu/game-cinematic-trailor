@@ -1,0 +1,12 @@
+{
+  "provider": "ElevenLabs",
+  "model": "eleven_text_to_sound_v2",
+  "date": "2026-09-11",
+  "file": "audio/v2/raw/stone_footsteps.mp3",
+  "prompt": "Foley recording of one person in soft leather walking boots taking six slow individual heel-to-toe footsteps on a hard ancient stone floor. Each footfall is separated by quiet space, with a soft heel impact, short granular sole scuff, and natural leather movement. Close dry recording, very little reverb. Deliberate cautious walking, not running, no high heels, no stomping, no background atmosphere, no music, no voices.",
+  "duration_requested_seconds": 8,
+  "billed_characters": "44",
+  "bytes": 129193,
+  "subscription_tier": "unverified",
+  "source": "https://elevenlabs.io/docs/api-reference/text-to-sound-effects/convert"
+}

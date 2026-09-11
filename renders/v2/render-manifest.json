@@ -1,0 +1,53 @@
+{
+  "completed_utc": "2026-09-11T09:22:31.562851+00:00",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 576,
+  "duration_seconds": 24,
+  "engine": "Cycles Metal / Blender 4.5.13 LTS",
+  "samples": 48,
+  "metalrt": "OFF",
+  "kernel_optimization": "OFF",
+  "texture_limit": 8192,
+  "files": {
+    "The Last Observatory - Arrival.mp4": {
+      "bytes": 18883644,
+      "sha256": "36bab720dd262376b6e037ee34fa6693d78180d1052b7eb03cd048badd53e158"
+    },
+    "observatory-v2.blend": {
+      "bytes": 97228307,
+      "sha256": "e7cdbce1298d159f001e3908356bd37719c850ae2b42a278566794eb43e290ae"
+    },
+    "scripts/build_scene_v2.py": {
+      "bytes": 21643,
+      "sha256": "1e88013ad14a7a97f6349652d6f2307b92362e543b5b41bbed8c7a37b6cf8c17"
+    },
+    "scripts/render_v2.py": {
+      "bytes": 3093,
+      "sha256": "5477cd8afee8b4569b49cec6bf19388bf2c77e871628280111812c5f01999cfe"
+    },
+    "scripts/young_keeper.py": {
+      "bytes": 9240,
+      "sha256": "df69b1cb57eeaea7d6cb5dd79f7e8c85f6d2f38be4d361d9520b476cd7a3aac9"
+    },
+    "scripts/armillary_v2.py": {
+      "bytes": 15824,
+      "sha256": "ce3e72caa59b2cb2e5c48ad0ce9bc31485d8adf248043f999cfb993291a94001"
+    },
+    "scripts/star_sky_v2.py": {
+      "bytes": 4990,
+      "sha256": "1fcce23ccfe02a340a4c62d3aa1e6b6cb127337352c84174a3357a1f3c894d13"
+    },
+    "scripts/encode_v2.py": {
+      "bytes": 7223,
+      "sha256": "709fa1a6abc1ccdcf46cfe91918a9024490b9ea3979db3303af97b55d2e92b09"
+    },
+    "audio/v2/last_observatory_v2_mix.wav": {
+      "bytes": 4608044,
+      "sha256": "7b9c9cf567fc97f767cf4be4a92c393f8553d01d05186d00cd135bc3ae4393f1"
+    }
+  }
+}

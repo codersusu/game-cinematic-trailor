@@ -1,0 +1,22 @@
+{
+  "duration_seconds": 24,
+  "sample_rate": 48000,
+  "channels": 2,
+  "encoding": "PCM signed 16-bit",
+  "sample_peak_dbfs": -1.74,
+  "rms_dbfs": -20.37,
+  "clipped_samples": 0,
+  "loudness_integrated_lufs": -19.53,
+  "true_peak_dbtp": -1.63,
+  "loudness_range_lu": 11.0,
+  "original_score_seed": 80241,
+  "alignment_seconds": 20,
+  "stems": [
+    "ambience",
+    "original_underscore",
+    "mechanism",
+    "alignment",
+    "anticipation"
+  ],
+  "license_status": "ElevenLabs subscription lookup returned HTTP 401, though sound generation succeeded; tier unverified; generated SFX usage follows account plan. Original synthesized underscore and anticipation are made for this project."
+}

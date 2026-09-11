@@ -1,0 +1,104 @@
+{
+  "status": "confirmed_by_character_agent",
+  "animation_contact_source": "assets/character/young_keeper/proof/contacts.json",
+  "fps": 24,
+  "doorway_crossing_frame": 64.2647059,
+  "doorway_crossing_seconds": 2.636029412,
+  "walk_path_start_frame": 1,
+  "walk_path_end_frame": 240,
+  "final_settle_contact_frame": 252,
+  "mechanism_start_seconds": 0,
+  "mechanism_end_seconds": 24,
+  "foot_contacts": [
+    {
+      "frame": 15,
+      "time_seconds": 0.5833333333333334,
+      "foot": "right"
+    },
+    {
+      "frame": 29,
+      "time_seconds": 1.1666666666666667,
+      "foot": "left"
+    },
+    {
+      "frame": 43,
+      "time_seconds": 1.75,
+      "foot": "right"
+    },
+    {
+      "frame": 57,
+      "time_seconds": 2.3333333333333335,
+      "foot": "left"
+    },
+    {
+      "frame": 71,
+      "time_seconds": 2.9166666666666665,
+      "foot": "right"
+    },
+    {
+      "frame": 85,
+      "time_seconds": 3.5,
+      "foot": "left"
+    },
+    {
+      "frame": 99,
+      "time_seconds": 4.083333333333333,
+      "foot": "right"
+    },
+    {
+      "frame": 113,
+      "time_seconds": 4.666666666666667,
+      "foot": "left"
+    },
+    {
+      "frame": 127,
+      "time_seconds": 5.25,
+      "foot": "right"
+    },
+    {
+      "frame": 141,
+      "time_seconds": 5.833333333333333,
+      "foot": "left"
+    },
+    {
+      "frame": 155,
+      "time_seconds": 6.416666666666667,
+      "foot": "right"
+    },
+    {
+      "frame": 169,
+      "time_seconds": 7.0,
+      "foot": "left"
+    },
+    {
+      "frame": 183,
+      "time_seconds": 7.583333333333333,
+      "foot": "right"
+    },
+    {
+      "frame": 197,
+      "time_seconds": 8.166666666666666,
+      "foot": "left"
+    },
+    {
+      "frame": 211,
+      "time_seconds": 8.75,
+      "foot": "right"
+    },
+    {
+      "frame": 225,
+      "time_seconds": 9.333333333333334,
+      "foot": "left"
+    },
+    {
+      "frame": 239,
+      "time_seconds": 9.916666666666666,
+      "foot": "right"
+    },
+    {
+      "frame": 252,
+      "time_seconds": 10.458333333333334,
+      "foot": "left"
+    }
+  ]
+}

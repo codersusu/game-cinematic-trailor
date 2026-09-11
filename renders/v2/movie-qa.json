@@ -1,0 +1,32 @@
+{
+  "movie": "The Last Observatory - Arrival.mp4",
+  "decoded_frames": 576,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 24.0
+  },
+  "technical_checks": "passed",
+  "visual_review": "Passed: inspected all four shot types and final decoded contact sheet; doorway crossing, clear changing ring silhouettes, sky, title and credit layout reviewed.",
+  "audio_review": {
+    "integrated_lufs": -18.02,
+    "true_peak_dbtp": -2.68,
+    "loudness_range_lu": 10.3,
+    "clipping_check": "passed",
+    "synchronization": "18 authored foot contacts; matching audio/v2/walk_sync.json",
+    "perceptual_listening": "not performed"
+  },
+  "completed_utc": "2026-09-11T09:22:31.562851+00:00"
+}

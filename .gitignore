@@ -1,0 +1,14 @@
+tools/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.blend1
+*.blend2
+.DS_Store
+renders/v2/frames/
+renders/v2/motion-test/
+previews/v2/early-dust-review/
+observatory-v2-environment.blend
