@@ -1,0 +1,84 @@
+{
+  "curated_date": "2026-09-12",
+  "license": "CC0-1.0",
+  "source_archives_required_to_build": false,
+  "sources": [
+    {
+      "id": "industrial",
+      "authors": [
+        "rubberduck",
+        "a52",
+        "yughues (some original textures)"
+      ],
+      "source_page": "https://opengameart.org/content/pbr-industrial-asset-pack",
+      "download_url": "https://opengameart.org/sites/default/files/oga_industrial_a52_version_0.zip",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_archive": {
+        "path": "oga-industrial-pbr.zip",
+        "bytes": 57954847,
+        "sha256": "4499f14fa664e83fd2b746c0e88a12249e8143ec9cd2b7ca9dd3d75aad50da47"
+      },
+      "selected_objects": [
+        "pipe_05",
+        "vent_mat"
+      ]
+    },
+    {
+      "id": "irondust",
+      "authors": [
+        "Irondust"
+      ],
+      "source_page": "https://opengameart.org/content/sci-fi-environment-pack",
+      "download_url": "https://opengameart.org/sites/default/files/Sci-fi%20env2.zip",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_archive": {
+        "path": "irondust-scifi-env.zip",
+        "bytes": 185047932,
+        "sha256": "d756531f835afca5ee0d4767b92b1017ebcefb1dc2539a957744ad045d9d329f"
+      },
+      "selected_objects": [
+        "Wall1",
+        "Locker1"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "service-modules.blend",
+      "bytes": 49666271,
+      "sha256": "0771310e40f354fe224bdd0a0d880e7da50c6ae18b84232e84c38fd070a4062d"
+    },
+    {
+      "path": "textures/WhiteColor_Albedo.tga",
+      "bytes": 67108882,
+      "sha256": "5d4f75372ae1647c2955ebb34b4bab7a148ffbda84cd073da7416204aa7bf2ee"
+    },
+    {
+      "path": "textures/WhiteColor_Emission.png",
+      "bytes": 345067,
+      "sha256": "1e3ee2e3562e4c33822f00bdcdf1ab3fda496581cc2f1d893dab2c38d15565c5"
+    },
+    {
+      "path": "textures/WhiteColor_NormalMap.png",
+      "bytes": 16194980,
+      "sha256": "a37d1b3f16ab18e64c520152054d2c8945eb9bc76ae48dbd733762727c3dd0c7"
+    },
+    {
+      "path": "textures/WhiteColor_Specular.tga",
+      "bytes": 67108882,
+      "sha256": "7f2a2b642aba0789eca0489c611e18cc00058d5acf4045a5a5406f4b8ea5bc8e"
+    },
+    {
+      "path": "textures/vent.JPG",
+      "bytes": 31065,
+      "sha256": "e5dc60cdfa22477d16d8cb88f9386253b1746581e6969445db2760e699cc264b"
+    },
+    {
+      "path": "textures/vent_norm.JPG",
+      "bytes": 36072,
+      "sha256": "8cfdd8ef84bcbe1647820609ca6f79ec7ecec3b6e9b2dda59356cd85e120392e"
+    }
+  ]
+}

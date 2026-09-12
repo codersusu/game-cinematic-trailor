@@ -1,0 +1,49 @@
+{
+  "objects": [
+    "Locker1",
+    "pipe_05",
+    "vent_mat",
+    "Wall1"
+  ],
+  "meshes": 4,
+  "materials": [
+    "V5 | Clean satin service metal",
+    "V5 | Irondust ivory service atlas",
+    "V5 | Original vent grille"
+  ],
+  "images": [
+    {
+      "name": "vent.JPG",
+      "path": "//textures/vent.JPG",
+      "packed": true
+    },
+    {
+      "name": "vent_norm.JPG",
+      "path": "//textures/vent_norm.JPG",
+      "packed": true
+    },
+    {
+      "name": "WhiteColor_Albedo.tga",
+      "path": "//textures/WhiteColor_Albedo.tga",
+      "packed": true
+    },
+    {
+      "name": "WhiteColor_Emission.png",
+      "path": "//textures/WhiteColor_Emission.png",
+      "packed": true
+    },
+    {
+      "name": "WhiteColor_NormalMap.png",
+      "path": "//textures/WhiteColor_NormalMap.png",
+      "packed": true
+    },
+    {
+      "name": "WhiteColor_Specular.tga",
+      "path": "//textures/WhiteColor_Specular.tga",
+      "packed": true
+    }
+  ],
+  "texts": [],
+  "actions": 0,
+  "libraries": 0
+}

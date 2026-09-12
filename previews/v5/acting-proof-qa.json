@@ -1,0 +1,49 @@
+{
+  "file": "previews/v5/Astra-Chamber-motion-proof.mp4",
+  "decoded_frames": 144,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      960,
+      540
+    ],
+    "size": [
+      960,
+      540
+    ],
+    "rotate": 0,
+    "duration": 6.0
+  },
+  "segments": [
+    "native entrance 97\u2013144",
+    "galaxy and precision rings 205\u2013252",
+    "chamber reveal 401\u2013448"
+  ],
+  "visual_review": {
+    "status": "reviewed representative sequential samples",
+    "source_frames": [
+      97,
+      105,
+      113,
+      121,
+      129,
+      137,
+      205,
+      221,
+      237,
+      401,
+      417,
+      433
+    ],
+    "findings": [
+      "Native entrance poses and floor contacts remain consistent",
+      "Instrument indexes and galaxy rotate across the samples",
+      "No central ring obstruction or coplanar floor artifacts in reviewed samples"
+    ],
+    "contact_sheet": "previews/v5/motion-review.jpg"
+  }
+}

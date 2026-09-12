@@ -1,0 +1,150 @@
+{
+  "baseline_scene": "observatory-v4.blend",
+  "baseline_sha256": "6f745b8ca4607860564a3b790287c3601ef1abcb47d2856754c4fc0ccb8990f7",
+  "candidate_scene": "observatory-v5.blend",
+  "candidate_sha256": "50c416d855eb24389c44683ac7f8f1a1ed2929b5044044344af8ac4c69045f5c",
+  "comparison": "Meshes, topology, UVs, facial morph coordinates, bone rest matrices, object and facial fcurves, material node inputs/links, frame-1 transforms and descendant membership.",
+  "roots": {
+    "Heroine v4 \u2022 native root motion": {
+      "baseline_count": 3,
+      "candidate_count": 3,
+      "baseline_sha256": "e62d17bd1014e55b0d59bd86e24e019a2594bbbf87d4688cbaebe3e181c94586",
+      "candidate_sha256": "e62d17bd1014e55b0d59bd86e24e019a2594bbbf87d4688cbaebe3e181c94586",
+      "missing_objects": [],
+      "added_objects": [],
+      "changed_objects": [],
+      "changed_fields": {},
+      "object_fingerprints": {
+        "Bip01": "9294f4acd7e4567a891f223697c48116ee46a4976f800bf320d7975e0e990142",
+        "Heroine v4 \u2022 native root motion": "086873bcd4b92972ad890766c2012fa6cf0809ffa8015078092e4e7d61bd0db5",
+        "f004_hipoly_81_bones_opacity": "b3eed7a4ee38061523e8598e7f4d9a088d3ad4a867add12318cddd4460edacf5"
+      },
+      "passed": true
+    },
+    "GALAXY V3 | master": {
+      "baseline_count": 19,
+      "candidate_count": 19,
+      "baseline_sha256": "194e6ad4b68d84d2a590ed9db0cdd3dc3497801d4ed022e49bd8747297951c0b",
+      "candidate_sha256": "194e6ad4b68d84d2a590ed9db0cdd3dc3497801d4ed022e49bd8747297951c0b",
+      "missing_objects": [],
+      "added_objects": [],
+      "changed_objects": [],
+      "changed_fields": {},
+      "object_fingerprints": {
+        "GALAXY V3 | master": "0cd1aa734843f5691222d6bb8ba3d0793677a6741b4f5c162f993d4912396bb6",
+        "Galaxy | differential shell 0": "26c4eda69ec3b86755739f361a2b6ead9760d31f8b0e436a39de8d29d16f095a",
+        "Galaxy | differential shell 1": "3c7106d1a6d439cb1c9de669717a86bb480ee9d51a2170a3175ecdcd85c19c85",
+        "Galaxy | differential shell 2": "deff3a289264b9a7572c6ad56b590daacbe82059ab19ec606e412bf291863928",
+        "Galaxy | differential shell 3": "2a0facb749d2f4e1b49af0c64dc27657eacdce924165e68614c3ce5914e3a71b",
+        "Galaxy | differential shell 4": "aa8f809b317f1089c834813b3cbbea4f79dd22fc02677bc8e6645a6a42f062f0",
+        "Galaxy | differential shell 5": "fb9f3b26bc6577cd3d20ae20988f0c0ea01f254619473fba27a74177594ed341",
+        "Galaxy | differential shell 6": "20723c3a8c3a3f557965c513e0817555f8fbb28bd7914a2e39d27825c067989c",
+        "Galaxy | differential shell 7": "3b7f2a4714438f517c3a2702ac806f17fe54fb0dca40d3c6297edb8f24a745fe",
+        "Galaxy | inclined stellar disk": "dc583b97c05483557f131c1457d61a3963f2e15683ecffe73816ca2b56ec6ec8",
+        "Galaxy | main orbital rotation": "302e634983a15459040a1b6631b2b13cdf9ecae3992d44766a811408a2f9dd56",
+        "Galaxy | resolved stars 0": "240da4422cb3f7a1b59cea9db71d3657c93734af58e4b263bf4058ee030bffe8",
+        "Galaxy | resolved stars 1": "87ecd57e70b4ba49f0c0ff98a11efa4331e5fed430b3521168fda12ef0dc0cdc",
+        "Galaxy | resolved stars 2": "7f3390837e778583cd00be73535f48ecb08524491f83089a77c8cefe495651e6",
+        "Galaxy | resolved stars 3": "23bd53a95525dbd58b4d54ae783687f0c30098654674266a0021b90ebaecab0b",
+        "Galaxy | resolved stars 4": "9de56276e255dfc68d2f6a91e4597a7613f33dda18cec0b905535c12488ffe60",
+        "Galaxy | resolved stars 5": "f3349f4d2c8937bc41ad2e7dffd4334626962246d1ddcf3eb776d5c488842ff3",
+        "Galaxy | resolved stars 6": "de33e81c3aec8f8db354bcca5e96ab96db10db8d0c239b617bb78c0980c6bb13",
+        "Galaxy | resolved stars 7": "3e7f7927878b6adb09076cc4929b2fc2aadb2d8c4b0cc1614635e6146524aa21"
+      },
+      "passed": true
+    }
+  },
+  "retained_legacy_environment_meshes": [],
+  "door_clearance": {
+    "37": {
+      "actor_bounds": {
+        "min": [
+          -4.016119003295898,
+          -7.786983966827393,
+          0.14091050624847412
+        ],
+        "max": [
+          -3.5713579654693604,
+          -7.450716495513916,
+          1.7896450757980347
+        ]
+      },
+      "left_leaf_bounds": {
+        "min": [
+          -7.189999580383301,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -5.609999656677246,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "right_leaf_bounds": {
+        "min": [
+          -1.9900000095367432,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -0.4100000262260437,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "open_width_m": 3.619999647140503,
+      "actor_horizontal_clearance_m": [
+        1.5938806533813477,
+        1.5813579559326172
+      ],
+      "passed": true
+    },
+    "82": {
+      "actor_bounds": {
+        "min": [
+          -4.044063091278076,
+          -6.2488694190979,
+          0.14195872843265533
+        ],
+        "max": [
+          -3.5976717472076416,
+          -5.377556324005127,
+          1.7356071472167969
+        ]
+      },
+      "left_leaf_bounds": {
+        "min": [
+          -7.189999580383301,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -5.609999656677246,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "right_leaf_bounds": {
+        "min": [
+          -1.9900000095367432,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -0.4100000262260437,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "open_width_m": 3.619999647140503,
+      "actor_horizontal_clearance_m": [
+        1.56593656539917,
+        1.6076717376708984
+      ],
+      "passed": true
+    }
+  },
+  "status": "passed",
+  "errors": []
+}

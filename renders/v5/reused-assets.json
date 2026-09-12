@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "author": "Irondust",
+      "license": "CC0-1.0",
+      "url": "https://opengameart.org/content/sci-fi-environment-pack",
+      "file": "assets/v5/models/service-modules.blend",
+      "objects": [
+        "Wall1",
+        "Locker1"
+      ]
+    },
+    {
+      "author": "rubberduck / a52",
+      "license": "CC0-1.0",
+      "url": "https://opengameart.org/content/pbr-industrial-asset-pack",
+      "file": "assets/v5/models/service-modules.blend",
+      "objects": [
+        "pipe_05",
+        "vent_mat"
+      ]
+    }
+  ],
+  "dependencies": [
+    "assets/v5/models/textures/WhiteColor_Albedo.tga",
+    "assets/v5/models/textures/WhiteColor_Emission.png",
+    "assets/v5/models/textures/WhiteColor_NormalMap.png",
+    "assets/v5/models/textures/WhiteColor_Specular.tga",
+    "assets/v5/models/textures/vent.JPG",
+    "assets/v5/models/textures/vent_norm.JPG"
+  ]
+}

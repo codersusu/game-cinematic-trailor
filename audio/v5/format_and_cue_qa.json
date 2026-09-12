@@ -1,0 +1,38 @@
+{
+  "last_observatory_v5_mix.wav": {
+    "frames": 1152000,
+    "sample_rate": 48000,
+    "channels": 2,
+    "sample_width_bytes": 2,
+    "first_active_seconds": 0.01975,
+    "last_active_seconds": 23.9225625,
+    "max_absolute_pcm": 21835
+  },
+  "stems/sliding_airlock.wav": {
+    "frames": 1152000,
+    "sample_rate": 48000,
+    "channels": 2,
+    "sample_width_bytes": 2,
+    "first_active_seconds": 0.0089375,
+    "last_active_seconds": 1.4455208333333334,
+    "max_absolute_pcm": 1125
+  },
+  "stems/instrument_hum.wav": {
+    "frames": 1152000,
+    "sample_rate": 48000,
+    "channels": 2,
+    "sample_width_bytes": 2,
+    "first_active_seconds": 0.048979166666666664,
+    "last_active_seconds": 23.7665625,
+    "max_absolute_pcm": 300
+  },
+  "stems/footsteps.wav": {
+    "frames": 1152000,
+    "sample_rate": 48000,
+    "channels": 2,
+    "sample_width_bytes": 2,
+    "first_active_seconds": 2.0419583333333335,
+    "last_active_seconds": 8.615666666666666,
+    "max_absolute_pcm": 9409
+  }
+}

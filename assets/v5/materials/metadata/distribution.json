@@ -1,0 +1,60 @@
+{
+  "scope": "The eleven PBR maps used by V5; full-download provenance remains in manifest.json",
+  "files": [
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Color.jpg",
+      "sha256": "f444c07a08de291049d0dda880d6fca9faae4b172f293f604c87e5e96ad30370",
+      "bytes": 3843751
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Displacement.jpg",
+      "sha256": "9df0c2f82662c7e863d17531cbc364f7ea52ad7921f9a547e7357ba29ec2d620",
+      "bytes": 2588353
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Roughness.jpg",
+      "sha256": "8a0570593c028cf0eca32a0107d7bc936817f0de7076f1b8b8f48ea7745aee27",
+      "bytes": 2105192
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Color.jpg",
+      "sha256": "890f5d68324127f005e84363e4af1f72cafbcd61857f2b568a20b47cf291919f",
+      "bytes": 6369723
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+      "sha256": "f60c50de5934b17793b71dcef7b03a34f916605ef32bc501b75f635009c63a4a",
+      "bytes": 66830
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+      "sha256": "fb7d4d762273ba459cfe4c351d55a042c226aee35c695f9ed64e2dc1fb95ca2f",
+      "bytes": 5213197
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Color.jpg",
+      "sha256": "9e966978debc85c05e1e4834e1ac8406d863f9267c396d1580ec2d94fdce9738",
+      "bytes": 638778
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+      "sha256": "9a2b7e0397fd811ac20444aeb33ae3b4057e645c46a292baa33ee18b8dea22df",
+      "bytes": 2302259
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+      "sha256": "44a1a3eb43252db6c242cd3e777a2e41819e872058e032e3cf8285cc578f35bb",
+      "bytes": 2011305
+    },
+    {
+      "file": "assets/v5/materials/rubber_tiles/rubber_tiles_diff_2k.jpg",
+      "sha256": "a14ed9c9b8235a71ce2d7d0d5d0d949a07b8e895d2b78cb3589a6c755bd95215",
+      "bytes": 1685204
+    },
+    {
+      "file": "assets/v5/materials/rubber_tiles/rubber_tiles_rough_2k.jpg",
+      "sha256": "5679ff2440d15093bd60df56460199f3b31cdee14bb7bf1983be3af8b8fa60c2",
+      "bytes": 2752062
+    }
+  ]
+}

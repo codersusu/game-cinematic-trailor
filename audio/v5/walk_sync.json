@@ -1,0 +1,74 @@
+{
+  "status": "confirmed_by_native_motion_world_root_measurement",
+  "animation_contact_source": "previews/v4/rocketbox-native-motion/motion-report.json",
+  "fps": 24,
+  "doorway_crossing_frame": 82.73137666,
+  "doorway_crossing_seconds": 3.4054740275,
+  "walk_path_start_frame": 37,
+  "walk_path_end_frame": 217,
+  "initial_hold_frames": [
+    1,
+    36
+  ],
+  "mechanism_start_seconds": 0,
+  "mechanism_end_seconds": 24,
+  "foot_contacts": [
+    {
+      "frame": 50,
+      "time_seconds": 2.0416666666666665,
+      "foot": "right"
+    },
+    {
+      "frame": 68,
+      "time_seconds": 2.7916666666666665,
+      "foot": "left"
+    },
+    {
+      "frame": 82,
+      "time_seconds": 3.375,
+      "foot": "right"
+    },
+    {
+      "frame": 97,
+      "time_seconds": 4.0,
+      "foot": "left"
+    },
+    {
+      "frame": 110,
+      "time_seconds": 4.541666666666667,
+      "foot": "right"
+    },
+    {
+      "frame": 126,
+      "time_seconds": 5.208333333333333,
+      "foot": "left"
+    },
+    {
+      "frame": 139,
+      "time_seconds": 5.75,
+      "foot": "right"
+    },
+    {
+      "frame": 155,
+      "time_seconds": 6.416666666666667,
+      "foot": "left"
+    },
+    {
+      "frame": 168,
+      "time_seconds": 6.958333333333333,
+      "foot": "right"
+    },
+    {
+      "frame": 180,
+      "time_seconds": 7.458333333333333,
+      "foot": "left"
+    },
+    {
+      "frame": 191,
+      "time_seconds": 7.916666666666667,
+      "foot": "right"
+    }
+  ],
+  "doorway_plane_y": -5.8,
+  "source_motion_fps": 30
+}

@@ -1,5 +1,7 @@
 # The Last Observatory — Wonder
 
+[V5 Astra Chamber: editable scene and motion preview](README-v5.md) is now available. Its full 1080p film is rendering.
+
 A 24-second cinematic revision focused on character performance: a young adult woman reacts at the threshold, walks naturally into the observatory, and watches the rotating stellar machine with growing wonder.
 
 **[Watch / download the finished trailer](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/The%20Last%20Observatory%20-%20Wonder.mp4)** · [Acting preview](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v4/Native-walk-and-expressions.mp4) · [Editable Blender scene](observatory-v4.blend)

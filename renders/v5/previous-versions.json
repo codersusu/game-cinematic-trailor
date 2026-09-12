@@ -1,0 +1,22 @@
+{
+  "The Last Observatory - Arrival.mp4": {
+    "bytes": 18883644,
+    "sha256": "36bab720dd262376b6e037ee34fa6693d78180d1052b7eb03cd048badd53e158"
+  },
+  "The Last Observatory - Celestial.mp4": {
+    "bytes": 21230652,
+    "sha256": "fcb0d222d949fc89caf54e66bd499f3448143c0a6ba34d0aed3d85edff08375e"
+  },
+  "The Last Observatory - Wonder.mp4": {
+    "bytes": 19479164,
+    "sha256": "a332b386b66313a92f88a8a08bdc4966c311f88623224c4d16c7d3dba27d4246"
+  },
+  "The Last Observatory.mp4": {
+    "bytes": 18605743,
+    "sha256": "f7a83b4e20974ace8e443cfe4d439a8b3ef1b505630c411440f6b9dafeed8a23"
+  },
+  "observatory-v4.blend": {
+    "bytes": 29853704,
+    "sha256": "6f745b8ca4607860564a3b790287c3601ef1abcb47d2856754c4fc0ccb8990f7"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "version": 5,
+  "new_paid_api_requests": 0,
+  "master_file": "audio/v5/last_observatory_v5_mix.wav",
+  "master_sha256": "ddc5853467622f5f9a1b76b59669de8f5bcaaca16121d18be31361f42901e0da",
+  "mix_script": "scripts/audio_mix_v5.py",
+  "mix_script_sha256": "0edf30835dfb4440af5fd466445f8ec9c5028cedad65d8b29495b0e75fcc608c",
+  "sync_file": "audio/v5/walk_sync.json",
+  "source_files": [
+    {
+      "file": "audio/stems/original_underscore.wav",
+      "sha256": "89a658d780c0cf846528465ec2ae7c2b2df92b8cd4573283b428eb6baa0d8203"
+    },
+    {
+      "file": "audio/stems/anticipation.wav",
+      "sha256": "c26896dec6762cda6371d45eb3349262d20e05af50e00f9e6d064838fb5154cf"
+    },
+    {
+      "file": "audio/v2/raw/stone_footsteps.wav",
+      "sha256": "e9d12d3ef46301a218fe6fa30120eb83475c778bccb08fbcd12c11bbc14bb236"
+    }
+  ],
+  "synthesis": [
+    "muted metal/rubber footfall resonances",
+    "sliding electric airlock",
+    "ventilation",
+    "instrument hum",
+    "instrument alignment",
+    "doorway air",
+    "sky harmonics"
+  ],
+  "source_footfall_manifest": "audio/v2/generation_manifest.json",
+  "dialogue": false
+}

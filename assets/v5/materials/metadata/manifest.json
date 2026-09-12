@@ -1,0 +1,511 @@
+{
+  "created_utc": "2026-09-11T21:44:45.849230+00:00",
+  "path_base": "assets/v5/materials",
+  "license_scope": "CC0-1.0 applies to the downloaded material assets; this does not change the license of the surrounding project. ambientCG preview renders are also CC0.",
+  "api_credit": "Powered by Poly Haven",
+  "assets": [
+    {
+      "id": "Metal032",
+      "provider": "ambientCG",
+      "source_page": "https://ambientcg.com/a/Metal032",
+      "license": "CC0-1.0",
+      "license_url": "https://docs.ambientcg.com/license/",
+      "archive_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+      "resolution": "2K",
+      "intended_use": "Cool grey satin alloy: broad structural rings and metal panel trim.",
+      "files": [
+        {
+          "path": "Metal032/Metal032.png",
+          "archive_member": "Metal032.png",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 210838,
+          "sha256": "3647fa0bf225ee70fe835fc7c1943fffc8d2f1aef1b836e3a6599eefbe44e798"
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG.blend",
+          "archive_member": "Metal032_2K-JPG.blend",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 1109172,
+          "sha256": "c22cedd9c7f66bb1e61d78737233507be4e5b9085e289795a26055c3a0f0a8fe"
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG.mtlx",
+          "archive_member": "Metal032_2K-JPG.mtlx",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 2595,
+          "sha256": "e5d6c16b1e0ea733b25340c9a06daf63526d77ddf429e930854a4879516eab87"
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG.tres",
+          "archive_member": "Metal032_2K-JPG.tres",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 1003,
+          "sha256": "b299044ba4cdc001988e7c72a0a3e58bff5f77e217ff4125247e99678209f3c7"
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG.usdc",
+          "archive_member": "Metal032_2K-JPG.usdc",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 2959,
+          "sha256": "86e52e0b224fd9fd4a53efee01970556b3717276a05228a0c0175ecbd7cf86f9"
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG_Color.jpg",
+          "archive_member": "Metal032_2K-JPG_Color.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 3843751,
+          "sha256": "f444c07a08de291049d0dda880d6fca9faae4b172f293f604c87e5e96ad30370",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG_Displacement.jpg",
+          "archive_member": "Metal032_2K-JPG_Displacement.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 2588353,
+          "sha256": "9df0c2f82662c7e863d17531cbc364f7ea52ad7921f9a547e7357ba29ec2d620",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG_Metalness.jpg",
+          "archive_member": "Metal032_2K-JPG_Metalness.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 16545,
+          "sha256": "b65d6b9091747bd81ee58adedcb6209d8ee21b2bde9298d7216989ada85ef622",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG_NormalDX.jpg",
+          "archive_member": "Metal032_2K-JPG_NormalDX.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 1580604,
+          "sha256": "00fa3111698d0b653a8d47ab180cb0375d6f116355c31ff3659783a75d57de22",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG_NormalGL.jpg",
+          "archive_member": "Metal032_2K-JPG_NormalGL.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 1572994,
+          "sha256": "b84a0bfe4639b7e3fac36d04adf1844e0e2654f987a36ece5c966ad77921cd27",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Metal032/Metal032_2K-JPG_Roughness.jpg",
+          "archive_member": "Metal032_2K-JPG_Roughness.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip",
+          "bytes": 2105192,
+          "sha256": "8a0570593c028cf0eca32a0107d7bc936817f0de7076f1b8b8f48ea7745aee27",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "metadata/Metal032_2K-JPG.zip",
+          "bytes": 13036124,
+          "sha256": "4b8884843c490963d5734be036c35639d064e7a817eb61145322f69c6c19895a",
+          "source_url": "https://ambientcg.com/get?file=Metal032_2K-JPG.zip"
+        },
+        {
+          "path": "metadata/Metal032-preview.webp",
+          "bytes": 599200,
+          "sha256": "a024fea05076216337f70b8c7e9341e76780349e53bf61ce61ab0ea0e502136b",
+          "source_url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Metal032.webp"
+        }
+      ],
+      "channels": {
+        "Color": {
+          "path": "Metal032/Metal032_2K-JPG_Color.jpg",
+          "colorspace": "sRGB"
+        },
+        "Displacement": {
+          "path": "Metal032/Metal032_2K-JPG_Displacement.jpg",
+          "colorspace": "Non-Color"
+        },
+        "Metalness": {
+          "path": "Metal032/Metal032_2K-JPG_Metalness.jpg",
+          "colorspace": "Non-Color"
+        },
+        "NormalDX": {
+          "path": "Metal032/Metal032_2K-JPG_NormalDX.jpg",
+          "colorspace": "Non-Color"
+        },
+        "NormalGL": {
+          "path": "Metal032/Metal032_2K-JPG_NormalGL.jpg",
+          "colorspace": "Non-Color"
+        },
+        "Roughness": {
+          "path": "Metal032/Metal032_2K-JPG_Roughness.jpg",
+          "colorspace": "Non-Color"
+        }
+      }
+    },
+    {
+      "id": "Metal050A",
+      "provider": "ambientCG",
+      "source_page": "https://ambientcg.com/a/Metal050A",
+      "license": "CC0-1.0",
+      "license_url": "https://docs.ambientcg.com/license/",
+      "archive_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+      "resolution": "4K",
+      "intended_use": "Polished silver aluminum with fine multidirectional scratches: machined hardware and narrow trim.",
+      "files": [
+        {
+          "path": "Metal050A/Metal050A.png",
+          "archive_member": "Metal050A.png",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 203479,
+          "sha256": "9ef513051e96d6222304ef845025c55f216a9aed14ec88f50a5696c478e2c584"
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG.blend",
+          "archive_member": "Metal050A_4K-JPG.blend",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 1109588,
+          "sha256": "660d5780a5c6e8b1d1c92ed9c9710a67adcb68f817c4e0b14172280173dc26f4"
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG.mtlx",
+          "archive_member": "Metal050A_4K-JPG.mtlx",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 2613,
+          "sha256": "225f17d11ed17efb05f18b080b557e3438bae0a7a37cd4554e477b266ab8b6b9"
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG.tres",
+          "archive_member": "Metal050A_4K-JPG.tres",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 1008,
+          "sha256": "60ef0ec0f10f71d6aa045a00521aa4ca14bb8c11955ddb6f4ac5ff05b0f94ab5"
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG.usdc",
+          "archive_member": "Metal050A_4K-JPG.usdc",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 2980,
+          "sha256": "f83f074ecd449be1fbbab8618c56697e1faa959270fa083901a1e27ef44584cb"
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG_Color.jpg",
+          "archive_member": "Metal050A_4K-JPG_Color.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 6369723,
+          "sha256": "890f5d68324127f005e84363e4af1f72cafbcd61857f2b568a20b47cf291919f",
+          "dimensions": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+          "archive_member": "Metal050A_4K-JPG_Displacement.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 66830,
+          "sha256": "f60c50de5934b17793b71dcef7b03a34f916605ef32bc501b75f635009c63a4a",
+          "dimensions": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG_Metalness.jpg",
+          "archive_member": "Metal050A_4K-JPG_Metalness.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 88076,
+          "sha256": "902bbea9c3b1444bd9cc5fb4ebf9f58cbd8eb19e336ffe4f53c2d85f5ca52de3",
+          "dimensions": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG_NormalDX.jpg",
+          "archive_member": "Metal050A_4K-JPG_NormalDX.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 4838095,
+          "sha256": "122d07ebca1b74da09e7f13a500ff05d827b697fe309d5e7083761f3394c3aca",
+          "dimensions": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG_NormalGL.jpg",
+          "archive_member": "Metal050A_4K-JPG_NormalGL.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 4950874,
+          "sha256": "a7652069c88642b2fdfffa25e4577bae5531b5bfe8f480b23d8214c042d1a139",
+          "dimensions": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "path": "Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+          "archive_member": "Metal050A_4K-JPG_Roughness.jpg",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip",
+          "bytes": 5213197,
+          "sha256": "fb7d4d762273ba459cfe4c351d55a042c226aee35c695f9ed64e2dc1fb95ca2f",
+          "dimensions": [
+            4096,
+            4096
+          ]
+        },
+        {
+          "path": "metadata/Metal050A_4K-JPG.zip",
+          "bytes": 22848757,
+          "sha256": "5fa3b7dfbfcec54ba58079962e7633c1e39dc47d15be5ca36a4d9f6fd1ea369b",
+          "source_url": "https://ambientcg.com/get?file=Metal050A_4K-JPG.zip"
+        },
+        {
+          "path": "metadata/Metal050A-preview.webp",
+          "bytes": 183648,
+          "sha256": "8b6b84ae71f357d61f71c633a2963cf80ee65163d8227207ea6af2e911792454",
+          "source_url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Metal050A.webp"
+        }
+      ],
+      "channels": {
+        "Color": {
+          "path": "Metal050A/Metal050A_4K-JPG_Color.jpg",
+          "colorspace": "sRGB"
+        },
+        "Displacement": {
+          "path": "Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+          "colorspace": "Non-Color"
+        },
+        "Metalness": {
+          "path": "Metal050A/Metal050A_4K-JPG_Metalness.jpg",
+          "colorspace": "Non-Color"
+        },
+        "NormalDX": {
+          "path": "Metal050A/Metal050A_4K-JPG_NormalDX.jpg",
+          "colorspace": "Non-Color"
+        },
+        "NormalGL": {
+          "path": "Metal050A/Metal050A_4K-JPG_NormalGL.jpg",
+          "colorspace": "Non-Color"
+        },
+        "Roughness": {
+          "path": "Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+          "colorspace": "Non-Color"
+        }
+      }
+    },
+    {
+      "id": "Plastic010",
+      "provider": "ambientCG",
+      "source_page": "https://ambientcg.com/a/Plastic010",
+      "license": "CC0-1.0",
+      "license_url": "https://docs.ambientcg.com/license/",
+      "archive_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+      "resolution": "2K",
+      "intended_use": "Pale smooth polymer with fine handling scratches: manufactured panel shells and housings.",
+      "files": [
+        {
+          "path": "Plastic010/Plastic010.png",
+          "archive_member": "Plastic010.png",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 146651,
+          "sha256": "202e212011063e44478dab1cff5531afb831c400c8155786b60cb1a9b9044bb0"
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG.blend",
+          "archive_member": "Plastic010_2K-JPG.blend",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 1098788,
+          "sha256": "238cd3ae93bfb74e5583f11fd14d5153ca53cba87cbb1656b3a6555aa590711f"
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG.mtlx",
+          "archive_member": "Plastic010_2K-JPG.mtlx",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 2287,
+          "sha256": "1c7a1fcb13ce45574ee45b44e1261ce1880592dd60185023a491e0a429315fd3"
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG.tres",
+          "archive_member": "Plastic010_2K-JPG.tres",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 812,
+          "sha256": "8b4bc5facf0133d6ddfbb094d2e48eb23432006a073e8ed2a70e5cae00266bd4"
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG.usdc",
+          "archive_member": "Plastic010_2K-JPG.usdc",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 2876,
+          "sha256": "9c4e6b2d26ecf3bd5500d81b37e1c7118f69fda719e35f7bb46528c97c466b5e"
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG_Color.jpg",
+          "archive_member": "Plastic010_2K-JPG_Color.jpg",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 638778,
+          "sha256": "9e966978debc85c05e1e4834e1ac8406d863f9267c396d1580ec2d94fdce9738",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+          "archive_member": "Plastic010_2K-JPG_Displacement.jpg",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 2302259,
+          "sha256": "9a2b7e0397fd811ac20444aeb33ae3b4057e645c46a292baa33ee18b8dea22df",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG_NormalDX.jpg",
+          "archive_member": "Plastic010_2K-JPG_NormalDX.jpg",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 3223204,
+          "sha256": "7427e4d1ae30d540b6bddd8c580d038ad0e0a2c1c456258d409753fa98560226",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG_NormalGL.jpg",
+          "archive_member": "Plastic010_2K-JPG_NormalGL.jpg",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 3220864,
+          "sha256": "70e36c645d2d6bc9ddc79b86d1275147c52947613fed8ed75dc6aec5d9282187",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+          "archive_member": "Plastic010_2K-JPG_Roughness.jpg",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip",
+          "bytes": 2011305,
+          "sha256": "44a1a3eb43252db6c242cd3e777a2e41819e872058e032e3cf8285cc578f35bb",
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "path": "metadata/Plastic010_2K-JPG.zip",
+          "bytes": 12649692,
+          "sha256": "81aebd803039a36f0c7b9c25d15f1a39a50758214d540df281eac0e13e3cd1a7",
+          "source_url": "https://ambientcg.com/get?file=Plastic010_2K-JPG.zip"
+        },
+        {
+          "path": "metadata/Plastic010-preview.webp",
+          "bytes": 187336,
+          "sha256": "6f57236d8133baaaea86a7fe7c0b0da26094ceba28e3576a8461cc11eb4e05cb",
+          "source_url": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Plastic010.webp"
+        }
+      ],
+      "channels": {
+        "Color": {
+          "path": "Plastic010/Plastic010_2K-JPG_Color.jpg",
+          "colorspace": "sRGB"
+        },
+        "Displacement": {
+          "path": "Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+          "colorspace": "Non-Color"
+        },
+        "NormalDX": {
+          "path": "Plastic010/Plastic010_2K-JPG_NormalDX.jpg",
+          "colorspace": "Non-Color"
+        },
+        "NormalGL": {
+          "path": "Plastic010/Plastic010_2K-JPG_NormalGL.jpg",
+          "colorspace": "Non-Color"
+        },
+        "Roughness": {
+          "path": "Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+          "colorspace": "Non-Color"
+        }
+      }
+    },
+    {
+      "id": "rubber_tiles",
+      "provider": "Poly Haven",
+      "author": "Amal Kumar",
+      "source_page": "https://polyhaven.com/a/rubber_tiles",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "resolution": "2K",
+      "physical_width_m": 2.0,
+      "intended_use": "Dark matte rubber technical walkway inserts. Shallow rectangular tile seams, subtle wear; not pristine metallic flooring.",
+      "files": [
+        {
+          "path": "rubber_tiles/rubber_tiles_diff_2k.jpg",
+          "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rubber_tiles/rubber_tiles_diff_2k.jpg",
+          "bytes": 1685204,
+          "sha256": "a14ed9c9b8235a71ce2d7d0d5d0d949a07b8e895d2b78cb3589a6c755bd95215",
+          "provider_md5_verified": true
+        },
+        {
+          "path": "rubber_tiles/rubber_tiles_rough_2k.jpg",
+          "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rubber_tiles/rubber_tiles_rough_2k.jpg",
+          "bytes": 2752062,
+          "sha256": "5679ff2440d15093bd60df56460199f3b31cdee14bb7bf1983be3af8b8fa60c2",
+          "provider_md5_verified": true
+        },
+        {
+          "path": "rubber_tiles/rubber_tiles_nor_gl_2k.exr",
+          "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/rubber_tiles/rubber_tiles_nor_gl_2k.exr",
+          "bytes": 5800464,
+          "sha256": "d0b8b703ef04b27daec2dbaedc7e6ea84f837b0a1a4fae9eb720039a5ba65bc4",
+          "provider_md5_verified": true
+        },
+        {
+          "path": "rubber_tiles/rubber_tiles_disp_2k.png",
+          "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rubber_tiles/rubber_tiles_disp_2k.png",
+          "bytes": 5391234,
+          "sha256": "504a50043818c4782729275ba3cf7a5261af07abf9de62d13a51c840736bf1bb",
+          "provider_md5_verified": true
+        }
+      ],
+      "channels": {
+        "Diffuse": {
+          "path": "rubber_tiles/rubber_tiles_diff_2k.jpg",
+          "colorspace": "sRGB"
+        },
+        "Rough": {
+          "path": "rubber_tiles/rubber_tiles_rough_2k.jpg",
+          "colorspace": "Non-Color"
+        },
+        "nor_gl": {
+          "path": "rubber_tiles/rubber_tiles_nor_gl_2k.exr",
+          "colorspace": "Non-Color"
+        },
+        "Displacement": {
+          "path": "rubber_tiles/rubber_tiles_disp_2k.png",
+          "colorspace": "Non-Color"
+        }
+      }
+    }
+  ],
+  "local_derivatives": [
+    {
+      "path": "metadata/diffuse-contact-sheet.jpg",
+      "description": "Local 2x2 contact sheet of the four CC0 base-color maps; order Metal032, Metal050A, Plastic010, rubber_tiles."
+    }
+  ]
+}

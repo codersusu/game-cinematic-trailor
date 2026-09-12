@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "baseline_fingerprint": "32218f1ab8738caa0d5f3582e5adcf58a7467663d053ae3c4d71f5d7bf12af48",
+  "curated_fingerprint": "32218f1ab8738caa0d5f3582e5adcf58a7467663d053ae3c4d71f5d7bf12af48",
+  "object_count": 24,
+  "changed_objects": [],
+  "packed_image_bytes_identical": true
+}

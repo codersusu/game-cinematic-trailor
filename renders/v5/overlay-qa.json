@@ -1,0 +1,30 @@
+{
+  "title-overlay.png": {
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "bounds": [
+      512,
+      492,
+      1409,
+      597
+    ],
+    "within_five_percent_safe_area": true
+  },
+  "credits-overlay.png": {
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "bounds": [
+      591,
+      953,
+      1328,
+      1024
+    ],
+    "within_five_percent_safe_area": true
+  },
+  "audio_master_format_and_manifest_hash_verified": true,
+  "encoder_syntax_valid": true
+}

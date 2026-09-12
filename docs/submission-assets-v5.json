@@ -1,0 +1,533 @@
+{
+  "scene": "observatory-v5.blend",
+  "sha256": "50c416d855eb24389c44683ac7f8f1a1ed2929b5044044344af8ac4c69045f5c",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": [
+    1,
+    576
+  ],
+  "engine": "CYCLES",
+  "samples": 64,
+  "object_count": 524,
+  "rig_bones": 80,
+  "facial_shapes": 175,
+  "source_vertices": 5170,
+  "facial_evaluation": {
+    "1": {
+      "AK_03_BrowInnerUp": 0.0,
+      "AK_21_EyeWideLeft": 0.0,
+      "AK_25_JawOpen": 0.0,
+      "AK_32_MouthFunnel": 0.0,
+      "AK_44_MouthSmileLeft": 0.0
+    },
+    "15": {
+      "AK_03_BrowInnerUp": 0.55,
+      "AK_21_EyeWideLeft": 0.32,
+      "AK_25_JawOpen": 0.28,
+      "AK_32_MouthFunnel": 0.0,
+      "AK_44_MouthSmileLeft": 0.0
+    },
+    "317": {
+      "AK_03_BrowInnerUp": 0.36,
+      "AK_21_EyeWideLeft": 0.25,
+      "AK_25_JawOpen": 0.42,
+      "AK_32_MouthFunnel": 0.55,
+      "AK_44_MouthSmileLeft": 0.055
+    },
+    "331": {
+      "AK_03_BrowInnerUp": 0.19,
+      "AK_21_EyeWideLeft": 0.095,
+      "AK_25_JawOpen": 0.09,
+      "AK_32_MouthFunnel": 0.04,
+      "AK_44_MouthSmileLeft": 0.52
+    }
+  },
+  "camera_cuts": [
+    {
+      "frame": 1,
+      "name": "00 \u2022 A breath at the threshold",
+      "camera": "00 \u2022 A breath at the threshold",
+      "lens_mm": 58.0
+    },
+    {
+      "frame": 37,
+      "name": "01 \u2022 Across the threshold",
+      "camera": "01 \u2022 Across the threshold",
+      "lens_mm": 30.0
+    },
+    {
+      "frame": 193,
+      "name": "02 \u2022 The turning heavens",
+      "camera": "02 \u2022 The turning heavens",
+      "lens_mm": 44.0
+    },
+    {
+      "frame": 289,
+      "name": "03A \u2022 Wonder",
+      "camera": "03A \u2022 Wonder",
+      "lens_mm": 75.0
+    },
+    {
+      "frame": 345,
+      "name": "03 \u2022 Under a billion stars",
+      "camera": "03 \u2022 Under a billion stars",
+      "lens_mm": 18.0
+    },
+    {
+      "frame": 481,
+      "name": "04 \u2022 The stars remember",
+      "camera": "04 \u2022 The stars remember",
+      "lens_mm": 17.0
+    }
+  ],
+  "images": [
+    {
+      "name": "Map #13",
+      "path": "assets/character/heroine_v4/f004_body_color.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #15",
+      "path": "assets/character/heroine_v4/f004_body_normal.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #17",
+      "path": "assets/character/heroine_v4/f004_head_color.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #19",
+      "path": "assets/character/heroine_v4/f004_head_normal.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Map #6",
+      "path": "assets/character/heroine_v4/f004_opacity_color.tga",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Metal032_2K-JPG_Color.jpg",
+      "path": "assets/v5/materials/Metal032/Metal032_2K-JPG_Color.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Metal032_2K-JPG_Displacement.jpg",
+      "path": "assets/v5/materials/Metal032/Metal032_2K-JPG_Displacement.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Metal032_2K-JPG_Roughness.jpg",
+      "path": "assets/v5/materials/Metal032/Metal032_2K-JPG_Roughness.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Metal050A_4K-JPG_Color.jpg",
+      "path": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Color.jpg",
+      "packed": false,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Metal050A_4K-JPG_Displacement.jpg",
+      "path": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+      "packed": false,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Metal050A_4K-JPG_Roughness.jpg",
+      "path": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+      "packed": false,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Plastic010_2K-JPG_Color.jpg",
+      "path": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Color.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Plastic010_2K-JPG_Displacement.jpg",
+      "path": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "Plastic010_2K-JPG_Roughness.jpg",
+      "path": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rubber_tiles_diff_2k.jpg",
+      "path": "assets/v5/materials/rubber_tiles/rubber_tiles_diff_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "rubber_tiles_rough_2k.jpg",
+      "path": "assets/v5/materials/rubber_tiles/rubber_tiles_rough_2k.jpg",
+      "packed": false,
+      "dimensions": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "name": "starmap_2020_8k_gal.exr",
+      "path": "assets/hdri/stars/starmap_2020_8k_gal.exr",
+      "packed": false,
+      "dimensions": [
+        8192,
+        4096
+      ]
+    },
+    {
+      "name": "vent.JPG",
+      "path": "assets/v5/models/textures/vent.JPG",
+      "packed": true,
+      "dimensions": [
+        272,
+        262
+      ]
+    },
+    {
+      "name": "vent_norm.JPG",
+      "path": "assets/v5/models/textures/vent_norm.JPG",
+      "packed": true,
+      "dimensions": [
+        272,
+        262
+      ]
+    },
+    {
+      "name": "WhiteColor_Albedo.tga",
+      "path": "assets/v5/models/textures/WhiteColor_Albedo.tga",
+      "packed": true,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "WhiteColor_Emission.png",
+      "path": "assets/v5/models/textures/WhiteColor_Emission.png",
+      "packed": true,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "WhiteColor_NormalMap.png",
+      "path": "assets/v5/models/textures/WhiteColor_NormalMap.png",
+      "packed": true,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "WhiteColor_Specular.tga",
+      "path": "assets/v5/models/textures/WhiteColor_Specular.tga",
+      "packed": true,
+      "dimensions": [
+        4096,
+        4096
+      ]
+    }
+  ],
+  "missing_images": [],
+  "outside_project_images": [],
+  "reused_source_objects": [
+    {
+      "name": "V5 | Bay 01 | locker",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Locker1"
+    },
+    {
+      "name": "V5 | Bay 01 | pipe",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "pipe_05"
+    },
+    {
+      "name": "V5 | Bay 01 | vent",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "vent_mat"
+    },
+    {
+      "name": "V5 | Bay 01 | wall",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Wall1"
+    },
+    {
+      "name": "V5 | Bay 02 | locker",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Locker1"
+    },
+    {
+      "name": "V5 | Bay 02 | pipe",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "pipe_05"
+    },
+    {
+      "name": "V5 | Bay 02 | vent",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "vent_mat"
+    },
+    {
+      "name": "V5 | Bay 02 | wall",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Wall1"
+    },
+    {
+      "name": "V5 | Bay 03 | locker",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Locker1"
+    },
+    {
+      "name": "V5 | Bay 03 | pipe",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "pipe_05"
+    },
+    {
+      "name": "V5 | Bay 03 | vent",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "vent_mat"
+    },
+    {
+      "name": "V5 | Bay 03 | wall",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Wall1"
+    },
+    {
+      "name": "V5 | Bay 04 | locker",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Locker1"
+    },
+    {
+      "name": "V5 | Bay 04 | pipe",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "pipe_05"
+    },
+    {
+      "name": "V5 | Bay 04 | vent",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "vent_mat"
+    },
+    {
+      "name": "V5 | Bay 04 | wall",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Wall1"
+    },
+    {
+      "name": "V5 | Bay 05 | locker",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Locker1"
+    },
+    {
+      "name": "V5 | Bay 05 | pipe",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "pipe_05"
+    },
+    {
+      "name": "V5 | Bay 05 | vent",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "vent_mat"
+    },
+    {
+      "name": "V5 | Bay 05 | wall",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Wall1"
+    },
+    {
+      "name": "V5 | Bay 06 | locker",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Locker1"
+    },
+    {
+      "name": "V5 | Bay 06 | pipe",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "pipe_05"
+    },
+    {
+      "name": "V5 | Bay 06 | vent",
+      "source_asset": "rubberduck + a52 / CC0",
+      "source_object": "vent_mat"
+    },
+    {
+      "name": "V5 | Bay 06 | wall",
+      "source_asset": "Irondust / CC0",
+      "source_object": "Wall1"
+    }
+  ],
+  "animated_precision_rings": {
+    "V5 | rotating precision ring 0": {
+      "action": "V5 | rotating precision ring 0Action",
+      "curves_sha256": "3565374ea25eb55a2fc4f8d7cc17e9647e3a4269a1d48c17a1564fdb0bc62b2b",
+      "fcurves": 3,
+      "keyframes": 219,
+      "drivers": [],
+      "nla_tracks": 0
+    },
+    "V5 | rotating precision ring 1": {
+      "action": "V5 | rotating precision ring 1Action",
+      "curves_sha256": "e94ad374d380d440d37f164a7939ca7110ade8e9b88c31f219c59a5713d59bf6",
+      "fcurves": 3,
+      "keyframes": 219,
+      "drivers": [],
+      "nla_tracks": 0
+    }
+  },
+  "preservation_audit": "renders/v5/preservation-audit.json",
+  "door_clearance": {
+    "37": {
+      "actor_bounds": {
+        "min": [
+          -4.016119003295898,
+          -7.786983966827393,
+          0.14091050624847412
+        ],
+        "max": [
+          -3.5713579654693604,
+          -7.450716495513916,
+          1.7896450757980347
+        ]
+      },
+      "left_leaf_bounds": {
+        "min": [
+          -7.189999580383301,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -5.609999656677246,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "right_leaf_bounds": {
+        "min": [
+          -1.9900000095367432,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -0.4100000262260437,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "open_width_m": 3.619999647140503,
+      "actor_horizontal_clearance_m": [
+        1.5938806533813477,
+        1.5813579559326172
+      ],
+      "passed": true
+    },
+    "82": {
+      "actor_bounds": {
+        "min": [
+          -4.044063091278076,
+          -6.2488694190979,
+          0.14195872843265533
+        ],
+        "max": [
+          -3.5976717472076416,
+          -5.377556324005127,
+          1.7356071472167969
+        ]
+      },
+      "left_leaf_bounds": {
+        "min": [
+          -7.189999580383301,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -5.609999656677246,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "right_leaf_bounds": {
+        "min": [
+          -1.9900000095367432,
+          -5.900000095367432,
+          0.1799999475479126
+        ],
+        "max": [
+          -0.4100000262260437,
+          -5.625000476837158,
+          3.4000000953674316
+        ]
+      },
+      "open_width_m": 3.619999647140503,
+      "actor_horizontal_clearance_m": [
+        1.56593656539917,
+        1.6076717376708984
+      ],
+      "passed": true
+    }
+  },
+  "retained_legacy_environment_meshes": [],
+  "embedded_texts": [],
+  "status": "passed",
+  "errors": []
+}

@@ -1,0 +1,877 @@
+{
+  "retrieved_date": "2026-09-11",
+  "scope": "Author-hosted anonymous free downloads, unmodified archives. Kenney sibling directory is separately acquired by main agent and outside this manifest.",
+  "assets": [
+    {
+      "id": "industrial",
+      "authors": [
+        "rubberduck",
+        "a52",
+        "yughues (some original textures)"
+      ],
+      "source_page": "https://opengameart.org/content/pbr-industrial-asset-pack",
+      "download_url": "https://opengameart.org/sites/default/files/oga_industrial_a52_version_0.zip",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "archive": {
+        "path": "oga-industrial-pbr.zip",
+        "bytes": 57954847,
+        "sha256": "4499f14fa664e83fd2b746c0e88a12249e8143ec9cd2b7ca9dd3d75aad50da47"
+      },
+      "files": [
+        {
+          "path": "industrial/OGA_industrial_a52_version/brickwall/brickwall.JPG",
+          "bytes": 418833,
+          "sha256": "058e7baf2be59c0d930fb2da2cda243ac69a84f66db07622172ab907beb62cad"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/brickwall/brickwall_norm.JPG",
+          "bytes": 468089,
+          "sha256": "7bb668f729fca08c23f5c0ee7fd8ccc93863df66f8ddb2f12c8583afd2428f78"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/brickwall/brickwall_roughness.png",
+          "bytes": 577882,
+          "sha256": "a169533fe2ea3089354cb6e50dcfb86e1b9939cf0869948c0134ce8aedf7d3f9"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/brushed_metal/brushed_metal.jpg",
+          "bytes": 81400,
+          "sha256": "0c0e4572d17ddf133ecc80388c62586f7d261883a902a08f791e8dd659fa7a6a"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/brushed_metal/brushed_metal_2.jpg",
+          "bytes": 89488,
+          "sha256": "1f46fa51177e045b8b2186e7ab208096c1a3fe7722a24efa1231c521b032e7ed"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/brushed_metal/brushed_metal_metallic.bmp",
+          "bytes": 4194358,
+          "sha256": "253c3007489f07d42a730ddec67178ff27622c9d3348b632f850452c5301f703"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/brushed_metal/brushed_metal_norm.jpg",
+          "bytes": 12817,
+          "sha256": "2220b14d7d33980c96fd8c5e05d74eeb6bdab5e7142ea39eed4eaa59d2298938"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/brushed_metal/brushed_metal_roughness.png",
+          "bytes": 282551,
+          "sha256": "3d8d7a0aaac9132a495d06b918c43ece870913afbd58de49113c84c3d341830f"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete/concrete.jpg",
+          "bytes": 610204,
+          "sha256": "91889403a5cedf3a2f51cf4978195fe631c1132a4388210bb657f25eed63b9a4"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete/concrete.png",
+          "bytes": 2568863,
+          "sha256": "416b887325a0bc6422101812ada243459aeb6f1435220b185dc63ab9097eddad"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete/concrete_norm.jpg",
+          "bytes": 804688,
+          "sha256": "b5cf21f3a3ffdd1dcbf06a86c35c92fa782a67a966196f49eeebbe81f53b95be"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete/concrete_roughness.png",
+          "bytes": 821,
+          "sha256": "80ed74c51008315897a970c169d6ceeced0b26ffd4a26d845738d288af50a188"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete_wall/concrete_wall.jpg",
+          "bytes": 537208,
+          "sha256": "23fc1882f1436e0d42c8afa9a789182e5ffe36de1a5651b381c1c68e1e9d567e"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete_wall/concrete_wall_metallic.png",
+          "bytes": 12271,
+          "sha256": "a0fcc59fb71cc0ae04d5b72f93c164eb1d6c9973d0430a04a63f66dbe051782d"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete_wall/concrete_wall_norm.jpg",
+          "bytes": 648729,
+          "sha256": "7dba35fb4bb416623307fc583e34902b6a2b8fe7f023ff2178daeebbff0f1670"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/concrete_wall/concrete_wall_roughness.png",
+          "bytes": 511092,
+          "sha256": "d3373c05e9734b0fd18e252162305f6f285edfa1fd63ba8f58b0dc4382e5faad"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_1/container_1.JPG",
+          "bytes": 859805,
+          "sha256": "f0ca7543129b446fd787993282d10f29a2496427b1ea4ef0e99e62ca75718565"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_1/container_1_norm.JPG",
+          "bytes": 1108322,
+          "sha256": "692bee064415ae8e949144ac0a2a4b6af1d296f84c4d57ba0c8cdfd9ac371917"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_1/container_1_roughness.png",
+          "bytes": 345673,
+          "sha256": "fff0e935854485ef4dccb9f7ec466e6c73b3087d320060bc0058cf82325dc4cc"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_2/container_2.JPG",
+          "bytes": 1066719,
+          "sha256": "63180dc70dbacc19f779999831fed7a7e0bd1d4f4bcb7d88c5a6b82728ff429b"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_2/container_2_norm.JPG",
+          "bytes": 1084053,
+          "sha256": "b88f1adbe0cc82238209c5cd985d3e91d8cea4c2d5c87109fee8624281af3b8f"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_2/container_2_roughness.png",
+          "bytes": 727766,
+          "sha256": "0bb80f683c736e57313a288cf02e083c2486e5629f71d5d964b95834b82c5de1"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_3/container_3.JPG",
+          "bytes": 467512,
+          "sha256": "1b36c1b9bbb3162e7ed57cabefc4436430ca44ce408e18c7502e8e2ed4a13829"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_3/container_3_norm.JPG",
+          "bytes": 518321,
+          "sha256": "ebf88b76da6f85754a79591fefc109a24275f4ed4efb7f75473f12a645f8f991"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/container_3/container_3_roughness.png",
+          "bytes": 129848,
+          "sha256": "4c15029af4d30aa30abdb3991e57e99f20502a4d97a6d4d5dda82bd639ede9be"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/dirty_metal/dirty_metal.jpg",
+          "bytes": 216014,
+          "sha256": "c008cd25e8988fab2125e782e75ee1c1db9a741d1e8386ddd3873d11a3a44df1"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/dirty_metal/dirty_metal_metallic.png",
+          "bytes": 712596,
+          "sha256": "fa6847062914629eb8d13db68ec0d9644451459722e8add017e5657ff7f78500"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/dirty_metal/dirty_metal_norm.jpg",
+          "bytes": 277222,
+          "sha256": "a66846221d695c9f08531e2ff1225a267e806b1e17d6a7977c043f47a564d88a"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/dirty_metal/dirty_metal_roughness.png",
+          "bytes": 346072,
+          "sha256": "25b7637e15750b3535dcc110752b2755a534522c8b7b3bcb6d214f5dd491cd15"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/gauge/gauge.JPG",
+          "bytes": 53214,
+          "sha256": "9f6f986116a79faeb484320e8089dbd86fcfff2e7f080160cc9d475899b4ec6d"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/industrial_final_cycles.blend",
+          "bytes": 4435708,
+          "sha256": "95fd225e691d1a8b7376ba7d43ab4594d022bd341e98cd456323dc7a17045249"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/industrial_final_cycles.blend1",
+          "bytes": 7146460,
+          "sha256": "8e7e36dbf251508c11286b2e7c75495c8a4c9a1af867ce95c41b99433586c428"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal1/dots.png",
+          "bytes": 460216,
+          "sha256": "eae2694e7a8e1b204610de0d34d7acb3b0bd9c85cf1ec2aeb16b50887046328a"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal1/metal1.jpg",
+          "bytes": 110163,
+          "sha256": "5246ef98c3a7791aa0ab4516802118f7c20c3f529507dd24adc0584e75ecd7e4"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal1/metal1_metallic.png",
+          "bytes": 418158,
+          "sha256": "68b761f366e3e15ad6a379f9408def21c248c6a41abfd6f24128b9e642875505"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal1/metal1_norm.jpg",
+          "bytes": 104599,
+          "sha256": "c290ec3077de80e7a931b09d156b1f1f80c847327a3ec5f665ad8df0b3dcfd10"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal1/metal1_roughness.png",
+          "bytes": 343849,
+          "sha256": "8440e9a8c6890eb63621f39dd52d37ad32c7f4e5852044a1595a810ac5b02dce"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal1/metal1_spec.png",
+          "bytes": 1461008,
+          "sha256": "6809f7e1a1616072b7c3dbcb3bd375ef421fa2ee89fcfea6ba366ea1ee8b4cd1"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal2 and metal_orange/metal2.jpg",
+          "bytes": 402810,
+          "sha256": "ca64c2c37dd5754347ddb9a404d375a9c58df36d809495015fa640b56259c4db"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal2 and metal_orange/metal2_metallic.png",
+          "bytes": 538868,
+          "sha256": "e2c887d6bec615ecdce9149c5a3e122995aa660a38012ed6e8e535c6654a5faf"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal2 and metal_orange/metal2_roughness.png",
+          "bytes": 412281,
+          "sha256": "c5b49ae860c31e312057a0f96d05e380dc0934ca36c9ceff5d89684f83548b55"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal2 and metal_orange/metal_orange.jpg",
+          "bytes": 377058,
+          "sha256": "a08a121db61754e1a9d1495d93cb7de125ea5094e811ff85d2b4b886687d493d"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal2 and metal_orange/metal_orange_roughness.png",
+          "bytes": 423888,
+          "sha256": "fc495d7197e9e78f100f37806470d95517e061d6a056739900f67c1792d583c2"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal2 and metal_orange/metals_norm.jpg",
+          "bytes": 146342,
+          "sha256": "2f0075d83d4593d36f543e30ec8a99d0755dc90f6abeca91aeff79ee395ba4ab"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_duct/metal_duct.jpg",
+          "bytes": 824855,
+          "sha256": "ce1ea8e51fd941fdc5c8f506676a81105db5d2d230b379b6c201a6f1e23fa0e5"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_duct/metal_duct_lighter.jpg",
+          "bytes": 670903,
+          "sha256": "811eb6d0c5bdf801b0303594680d1967388f188cfcea802c7c788fcbc6dec1b3"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_duct/metal_duct_metallic.png",
+          "bytes": 2236497,
+          "sha256": "d1557d07238b153815c73a5794b570b03d7dc00d2eef4354e275bbe37c4d4b57"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_duct/metal_duct_norm.jpg",
+          "bytes": 87775,
+          "sha256": "0acdcfcb9f79d7e46e69ea1790508f6e34a3457342a6d2177dfe0d4745ce036b"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_duct/metal_duct_roughness.png",
+          "bytes": 1350786,
+          "sha256": "4fd317a015fdd4ca584f1a3612f75ea111b3edb906f51245b7c38136db2bdb20"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_ground/metal_ground.jpg",
+          "bytes": 355313,
+          "sha256": "e47619c474009f2d4b33ccdcec40b55526e41fe84e526e30504b6c362ad4ea23"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_ground/metal_ground_metallic.png",
+          "bytes": 1254042,
+          "sha256": "b4d74093abc3e41f91ef2269e131ecf12ba7590d20983af7b87e4ade5f21f493"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_ground/metal_ground_norm.jpg",
+          "bytes": 236694,
+          "sha256": "cd16447df484b7fc485e55da2fc60728d3ec3fa66f514ce8a421d115d6ab4813"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_ground/metal_ground_roughness.png",
+          "bytes": 602135,
+          "sha256": "5fa313fc9c53645c6142eaa87fce66e38fafb8f5e63b7cf0779f25135928d42f"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_pipe/metal_pipe.jpg",
+          "bytes": 161812,
+          "sha256": "731ae24a240f8d8cd43305131a7df416da7bcd0d23f3f23018d05a818c91ca76"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_pipe/metal_pipe_2.jpg",
+          "bytes": 144521,
+          "sha256": "f59adc9c0e018888e462d727ab44039648ee42beb4712746e454c83273b98f69"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_pipe/metal_pipe_metallic.png",
+          "bytes": 1674277,
+          "sha256": "9c589c7d80db075f3871037083f172c28cb4fc7dff238e097fee248687ec4b0f"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_pipe/metal_pipe_norm.jpg",
+          "bytes": 142198,
+          "sha256": "e470d9fdb197e07902eea17b231db01483df4db5e476c48b331202ab019f9d8e"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_pipe/metal_pipe_roughness.png",
+          "bytes": 1293535,
+          "sha256": "ac16e70d0f8d21229df627cd4cefcac49b0468a6f139d59cadbe9f8d57d9c1c6"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_planks/metal_planks.png",
+          "bytes": 31011,
+          "sha256": "5e5ee66e11c6b2bcf8855bdeb0eb6acf919224c4a4a3281b6722eaff19a60cc1"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_planks/metal_planks_metallic.png",
+          "bytes": 24439,
+          "sha256": "50a847daecc7646f04422a9009b23edf4b6fca3bec4782480b8768ef4c31b001"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_planks/metal_planks_roughness.png",
+          "bytes": 12309,
+          "sha256": "0a5b1fceaf290fb303915dfa065d5d4db3f5eda1da142ac05051b99308656432"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_plates/metal_plates.jpg",
+          "bytes": 178278,
+          "sha256": "eed92fee10dceb87bcc1547adbe22fa02cad71f4ad872d882c29a6a780e46278"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_plates/metal_plates_metallic.png",
+          "bytes": 379637,
+          "sha256": "5632d531260db7cff3d5cedfbe43138cfa8b8c80cfb61eb9db5289f77a0c5323"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_plates/metal_plates_norm.jpg",
+          "bytes": 322778,
+          "sha256": "e012b351729952f278ad540bd02201741d67366125b084c52a3d1efe3daf473f"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_plates/metal_plates_roughness.png",
+          "bytes": 47836,
+          "sha256": "e7db48da59d7afc34c13060e812574b03859035823a5e52922a5f3d939d2677b"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_rust/metal_rust.jpg",
+          "bytes": 1495008,
+          "sha256": "2b5ac8091b5f7f2641d7bc81c980fda10f560b79b25fa0df8f2aaec02ff2cf49"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_rust/metal_rust_metallic.png",
+          "bytes": 1804530,
+          "sha256": "5541607e225223103b7d6252cf4fa91b28866529fbbc154d90d7f13b289a8fde"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/metal_rust/metal_rust_roughness.png",
+          "bytes": 1805933,
+          "sha256": "ea5cd338f2c12635400a96268d64cf1dd10253fd5c5c50542bd5c413cafe9e9b"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/preview.png",
+          "bytes": 602621,
+          "sha256": "3ff23aa278d6b2f5ffb790aa4a036b9d16e1118f2ccd6f7bc07c686fe7493cf4"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/radiator/radiator.JPG",
+          "bytes": 1301382,
+          "sha256": "40bfa734405a3783727158c0edead3e5d4cae3302fbfbba8935d82c5dc1132b1"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/radiator/radiator_norm.JPG",
+          "bytes": 1453770,
+          "sha256": "e2b95154b8b50c453d9b3590f29b22046f16b54e850108b996216d9e22f8f7b0"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/red_metal/red_metal.jpg",
+          "bytes": 326274,
+          "sha256": "031807275a646cdb6443c12ddef0741621591095571713d3926f932685cd1614"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/red_metal/red_metal_metallic.png",
+          "bytes": 434257,
+          "sha256": "5b7067b914721acb4ac88cafe0029f1af6b30dcca8872aca5937f038e90d694a"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/red_metal/red_metal_norm.jpg",
+          "bytes": 455472,
+          "sha256": "0bfb5b64077db81b06a929c6ea1f2236a9fdae565429fbfb03bb938f3ad9ce0f"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/red_metal/red_metal_roughness.png",
+          "bytes": 354589,
+          "sha256": "1717ef240d2b1a317c1adf31f85adbaf465c48b3a9c211f1eee3170d1852852d"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/render.png",
+          "bytes": 361825,
+          "sha256": "7931cece871d16d9ae9bc5fad7b08078b4e10c6a099fea8cbf9cc2d325227d2b"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/render2.png",
+          "bytes": 267152,
+          "sha256": "a5ddfd27002e7f33c22a8a284ce5ba30463f7feac3f9b2f2ff8a11a472d9bd34"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/render3.png",
+          "bytes": 587510,
+          "sha256": "14807c3b1205d281837ec9189a982451b3aae954f58d96268cfe233d56d96db0"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/scratchy_metal/scratchy_metal.jpg",
+          "bytes": 598171,
+          "sha256": "305b01e641925ea48f4fe17f4113dac85a0f7a000f189ea65cb388401fb6b5a0"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/scratchy_metal/scratchy_metal_dark.jpg",
+          "bytes": 365745,
+          "sha256": "49c265ff2015eb7a2e2c3a866c12af2b737e56b6f3ebb3711a8833dd29db95a3"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/scratchy_metal/scratchy_metal_metallic.png",
+          "bytes": 461474,
+          "sha256": "d1731220e5a9fe5a8ac4538dd55568044af8c8e81f0a0d2f9cf02ff193ae10bb"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/scratchy_metal/scratchy_metal_norm.jpg",
+          "bytes": 460667,
+          "sha256": "8a45715ef92ca08d3bba04a53200b9e3d66342788f82b43daf9e23c90c9bc87b"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/scratchy_metal/scratchy_metal_roughness.png",
+          "bytes": 318313,
+          "sha256": "a46d5c8cca8ab1ff9da9e4e410bf7a2026925cffdad3c67a78e683180d6cfd6a"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/stripes/stripes.JPG",
+          "bytes": 1773748,
+          "sha256": "0063f6557cc8f17810f4ad22eb52beefa79c62558b6ef9441346f922be4a4f86"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/structwall/structwall.JPG",
+          "bytes": 195336,
+          "sha256": "5a638fdb2d755033133101600f6213a7ef20887e9251186d8537941217618586"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/structwall/structwall_norm.JPG",
+          "bytes": 364994,
+          "sha256": "b35c0cf431a6cddc7c161773843f5d44fe3bc7d625f719feabcae3a58959d432"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/structwall/structwall_roughness.png",
+          "bytes": 389218,
+          "sha256": "4e577a6c37b8447fd89a8453dc6a8e15150f4f51d2abef0694d9db842e4bd19d"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/vent/vent.JPG",
+          "bytes": 31065,
+          "sha256": "e5dc60cdfa22477d16d8cb88f9386253b1746581e6969445db2760e699cc264b"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/vent/vent_metallic.png",
+          "bytes": 143263,
+          "sha256": "836aab6f0176bb5ae4c54d6f7ed1e79df8dbf6a42b743fb589fcd9a0d1e59425"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/vent/vent_norm.JPG",
+          "bytes": 36072,
+          "sha256": "8cfdd8ef84bcbe1647820609ca6f79ec7ecec3b6e9b2dda59356cd85e120392e"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/vent/vent_roughness.png",
+          "bytes": 69975,
+          "sha256": "2f44d4187e187fa936ab7e1a559c5e251e16a8a0060abebcf2ed7923c014df6c"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_1/wall_thing_1.JPG",
+          "bytes": 921946,
+          "sha256": "b3afc82041970cb0bb2f11f2717ffeb1fdc8d5523657f6b6c645ec3a2a9216bc"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_1/wall_thing_1_norm.JPG",
+          "bytes": 923575,
+          "sha256": "f03160769bed0045251873f7e11675e8d0cadad910593d1da8032cd4dd287fc1"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_2/wall_thing_2.JPG",
+          "bytes": 330334,
+          "sha256": "e512fb0f4b9b8cd69065c22b490a5e23e6f607cc141e30eb33dd471fec5918e5"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_2/wall_thing_2_metallic.png",
+          "bytes": 213416,
+          "sha256": "80418115ba0cae3a1da4c1eddeac533ce982a7119ff96a45d9f82147bb6fa82e"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_2/wall_thing_2_norm.JPG",
+          "bytes": 293283,
+          "sha256": "bb335aa53f08eed477bf1b6b4b088174e51af0ee91941bbfc72b05cdd85b7851"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_3/wall_thing_3.JPG",
+          "bytes": 595242,
+          "sha256": "f5f47fc290a6b47026c7d8f455d1436873ac3d32b695184a5ab3841e1b87bfec"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_3/wall_thing_3_metallic.png",
+          "bytes": 1315885,
+          "sha256": "8c9950d970a108d70bc1330816930f47a8d6063399f0868b8c3d4c9b809f247e"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_3/wall_thing_3_norm.JPG",
+          "bytes": 510992,
+          "sha256": "06d05f29bf549f14ccb0d4b61772336158318466252587e0eb17e6d7e170fb51"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_4/wall_thing_4.JPG",
+          "bytes": 668516,
+          "sha256": "3bcb35a198b4f568586f58013c273a97138a29afaaa0a50dd367018cde573fee"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_4/wall_thing_4_metallic.png",
+          "bytes": 144532,
+          "sha256": "21664f1b4aff317189065e2505e74b07b8c88a89ef67ca7d7fa47e0bee8dd443"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_4/wall_thing_4_norm.JPG",
+          "bytes": 382854,
+          "sha256": "fb8cea78fa72aee26ea1034b382d09f7dae1e312829a08373edde2b0ee8e1eb2"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_5/wall_thing_5.JPG",
+          "bytes": 639658,
+          "sha256": "834c2c08cd551527f1449e198cfabf851891efda216cd67c6c108df2d513aabd"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wall_thing_5/wall_thing_5_norm.JPG",
+          "bytes": 543060,
+          "sha256": "7e7718188f24b854e62d4dc0f5606bcae593d2d3e1e5da501da5220507e521e0"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wire/wire.png",
+          "bytes": 527568,
+          "sha256": "2faca6d28526b2d8b9679c38641c979ee6b67207217ba1cb4f15924205b09c3a"
+        },
+        {
+          "path": "industrial/OGA_industrial_a52_version/wire/wire_norm.jpg",
+          "bytes": 212052,
+          "sha256": "6fa1421a798839a03c1cf072f422a0d8286ad2fd2a364d712f57a030f6b68524"
+        }
+      ]
+    },
+    {
+      "id": "irondust",
+      "authors": [
+        "Irondust"
+      ],
+      "source_page": "https://opengameart.org/content/sci-fi-environment-pack",
+      "download_url": "https://opengameart.org/sites/default/files/Sci-fi%20env2.zip",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "archive": {
+        "path": "irondust-scifi-env.zip",
+        "bytes": 185047932,
+        "sha256": "d756531f835afca5ee0d4767b92b1017ebcefb1dc2539a957744ad045d9d329f"
+      },
+      "files": [
+        {
+          "path": "irondust/Sci-fi env2/BlueColor.mat",
+          "bytes": 5076,
+          "sha256": "4814f4ebcc2457f40524bb663a17a2c3c935f36fcb0a9893be8e8c751c66ed70"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor.mat.meta",
+          "bytes": 230,
+          "sha256": "e736ac2566cbebdbe0a9f10530cde6bffd603a3d85feb4df939edf09bb94e28a"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Albedo.tga",
+          "bytes": 67108908,
+          "sha256": "96780dbc6872f4ea280aae62f7d626ac5c8297a6803665a808306e28973abb83"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Albedo.tga.meta",
+          "bytes": 2243,
+          "sha256": "4bd341db97cac6d732d0222acad17d0aba669d261383d923dfae08d97907e490"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Emission.png",
+          "bytes": 118527,
+          "sha256": "37a676eda7e5562eb17325affcd5396865e3069d616defe154419deaab926cb5"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Emission.png.meta",
+          "bytes": 2243,
+          "sha256": "4994c892dbce5a075ba5dc94d87a925456455eb4286778d440e156c17e0ef456"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_HeightMap.png",
+          "bytes": 1061306,
+          "sha256": "dea45a6a3ee4b76e497367aa195e43951c675dae9a8f6cf4145b737a19e78997"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_HeightMap.png.meta",
+          "bytes": 2243,
+          "sha256": "2ce02d7cf7541ef91a32202fd69170d612efb8bcd1f7f7dce12597d4f652e536"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_NormalMap.png",
+          "bytes": 15804166,
+          "sha256": "1941566b8090829bf4be4669f693c121be4993c697cbbe23b922974d77cdca64"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_NormalMap.png.meta",
+          "bytes": 2243,
+          "sha256": "a9b3b4012a8da126505078d9d2e8b206c090d1ae72c5eabcc7c73f64f2db2751"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Occlusion.png",
+          "bytes": 8100258,
+          "sha256": "cbb1b6cf6e0db1b2c3890478528313104ca61281933355029724ae9acd84643e"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Occlusion.png.meta",
+          "bytes": 2243,
+          "sha256": "05aeb8adcb4eb470849670d02b4f1f54bb5053aded9f7043f3b42b70aea8e6cf"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Specular.tga",
+          "bytes": 67108882,
+          "sha256": "93bf6ed628e4d14afb3e41e2a4e6062a7051afd0bd5829fdf1e34667d79fcba5"
+        },
+        {
+          "path": "irondust/Sci-fi env2/BlueColor_Specular.tga.meta",
+          "bytes": 2243,
+          "sha256": "89d53d1091feed42080a473af2c98a76ae9557ad02ccd6c5a6e37c1f2c3e9f5f"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Meshes.blend",
+          "bytes": 636456,
+          "sha256": "846425c08c4e26cd2cdf5a24df9a21233c9e2cc5945cf2e193395f924c8e3d99"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Meshes.blend.meta",
+          "bytes": 4485,
+          "sha256": "ec733e9f4e4865320cde20e4dcb2f714ad26815f10e07d8824a1a352989a6d40"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Meshes.blend1",
+          "bytes": 636456,
+          "sha256": "97d0bc5b3d3ea40c4c8b3e0a0d5e2fb4d908dc67c9609a7918c12bef04661e3e"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Meshes.blend1.meta",
+          "bytes": 197,
+          "sha256": "c4024bb46036c3be261a12bfd0c540c8f96994dfb3120e578d34e20ee69bbbbf"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Meshes.blend2",
+          "bytes": 635840,
+          "sha256": "cbfbbf12051b4f936d05cf40b6deb60241db1f1ce9f8cbae0d3106e5ff0b6367"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Meshes.blend2.meta",
+          "bytes": 197,
+          "sha256": "f5fa5985e765533f74656146772f59c9697ed331fed7509d29ede5c6347ae94c"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Meshes.fbx",
+          "bytes": 268757,
+          "sha256": "9c22e9b9c050dce6cec49d414545b4e8b9e5916cecc1dc4a64cb66455ad520cd"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor.mat",
+          "bytes": 5068,
+          "sha256": "fa1eebd7364fa9fd7c0bc83f02f67c96a967ebbad772abd5158c842dca29f6c9"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor.mat.meta",
+          "bytes": 230,
+          "sha256": "36d88a8005db354b554bbbe8570871a8692e73dec9cbcc73473c02d85ceb220f"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Albedo.tga",
+          "bytes": 67108882,
+          "sha256": "0435252169c83d8a33e2a64952751206871ce881a9f13819efd82d002d911e9a"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Albedo.tga.meta",
+          "bytes": 1690,
+          "sha256": "aec649b29db7347eede671d161568abe07a17d74206b05be6e750f40b6c13388"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Emission.png",
+          "bytes": 354697,
+          "sha256": "6bf7e5f951b61732c5e7142366939f4074a0ec2e69d2f4a4d2b2a08e2464fe3b"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Emission.png.meta",
+          "bytes": 1690,
+          "sha256": "9d591034b289280faa50a018f8b569c7a0c0c4d7ba3ad492859574c1171cf541"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_HeightMap.png",
+          "bytes": 1061155,
+          "sha256": "080fc5c7f7f88db4094876e758db0617160400ffda88a86f6db285da1632de65"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_HeightMap.png.meta",
+          "bytes": 1690,
+          "sha256": "0e6d48688c088410fdffd862257249a8af69367357dd0a8bf7ae3d09c995cc44"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_NormalMap.png",
+          "bytes": 14665070,
+          "sha256": "b2679c88cda8d3537d28cf6c23418011c31b23cfaf85a85b7ca6c942a2d531a2"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_NormalMap.png.meta",
+          "bytes": 1690,
+          "sha256": "d3083db7d521446d03ca496ec2848a4ac2d564fe126bca4023a013f29ce375aa"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Occlusion.png",
+          "bytes": 8100245,
+          "sha256": "ab79f14efcccf30a9688081f5daf3d3d8f721b20b48ededb20a3684638fd2cef"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Occlusion.png.meta",
+          "bytes": 1690,
+          "sha256": "377b30e59ddff1efda1cf095acdea244c09c2fb267cb3813aae51adbb8713883"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Specular.tga",
+          "bytes": 67108882,
+          "sha256": "7e5e23d66ecde96ebd4c9919e6efd937a46969f580eab48ff62a68cda5f6a416"
+        },
+        {
+          "path": "irondust/Sci-fi env2/OrangeColor_Specular.tga.meta",
+          "bytes": 1690,
+          "sha256": "53b10fa3dd5a73b2da6f2d2f72ff9ee956ab2fe2d40dff610b8776a809d4ceeb"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps.fbx",
+          "bytes": 110252,
+          "sha256": "6417ef7cfde4db1e690ce7cc84a355338d79e870b2e01b66e31ad2ff7d2721ef"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps.fbx.meta",
+          "bytes": 2546,
+          "sha256": "e14a3090bba8b00cc538beec79d4216d6a5a919cd24a9dc029cb520e75212064"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps.mat",
+          "bytes": 5060,
+          "sha256": "06b015dfa776006524519db622e8095a3ecc29511372ef7d115adc0554d78907"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps.mat.meta",
+          "bytes": 208,
+          "sha256": "db95716f42c416993cdcf0c598657c1018862d759f31c619838ea775276924ff"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_Albedo.tga",
+          "bytes": 16777234,
+          "sha256": "b3e75c62d2066221716be8b61ebfa7da89a3bffcac4e095f46cfcca7c11d34af"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_Albedo.tga.meta",
+          "bytes": 1475,
+          "sha256": "f2dbd52313da475cf2bad5dc32ab160349e97583662818c258483161a6d89d4c"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_Emission.png",
+          "bytes": 100238,
+          "sha256": "951335f769db8410be223b2a049c815fe4e5fa72d0306d009890deb399e19a7e"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_Emission.png.meta",
+          "bytes": 1475,
+          "sha256": "2524a9503baae7951e86a2b2e4d805e4e66976ac06bf8776d28b5d6177a4e49a"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_NormalMap.png",
+          "bytes": 4421375,
+          "sha256": "52062a99bd5fd3efeace985821aee9f8988c80556398a65ee3a7248a4cb86060"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_NormalMap.png.meta",
+          "bytes": 1475,
+          "sha256": "8204f9fd0bec7b1c6372d9ac56caacf504b6055c4edfe81f4e2dca6537256584"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_Specular.tga",
+          "bytes": 16777234,
+          "sha256": "196bea8affb16bb7ba0b19eff3792c24d9e699d9c790859d139dfa5652ed5ac7"
+        },
+        {
+          "path": "irondust/Sci-fi env2/Ramps_Specular.tga.meta",
+          "bytes": 1475,
+          "sha256": "db0073691ce86733e02e046f4ed4df85b821bb69c8043fbbb4e0fbab872e7570"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor.mat",
+          "bytes": 5076,
+          "sha256": "0090eded9d8b94f72c6a66b634fce06caf9a76998b6df01633eed5c284fc123c"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor.mat.meta",
+          "bytes": 230,
+          "sha256": "6338685d701f84768ca9f93e6a939232b66fa6245b0c0bd801ed78e71267abf6"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Albedo.tga",
+          "bytes": 67108882,
+          "sha256": "5d4f75372ae1647c2955ebb34b4bab7a148ffbda84cd073da7416204aa7bf2ee"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Albedo.tga.meta",
+          "bytes": 1690,
+          "sha256": "5e993e1e118f722abf7a08283bf3da7cb754ec567012bbd5ad1bf3ef589f6b8e"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Emission.png",
+          "bytes": 345067,
+          "sha256": "1e3ee2e3562e4c33822f00bdcdf1ab3fda496581cc2f1d893dab2c38d15565c5"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Emission.png.meta",
+          "bytes": 1690,
+          "sha256": "f3a3745339568f569bd9fef33701c53b23d5eda2426fa27931fab715aacfba7e"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_HeightMap.png",
+          "bytes": 1061155,
+          "sha256": "080fc5c7f7f88db4094876e758db0617160400ffda88a86f6db285da1632de65"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_HeightMap.png.meta",
+          "bytes": 1690,
+          "sha256": "8a48b034104b366a00e5b5bad2dd79f49d14b498c5f1cd6bd3c6b50d3ceefbc0"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_NormalMap.png",
+          "bytes": 16194980,
+          "sha256": "a37d1b3f16ab18e64c520152054d2c8945eb9bc76ae48dbd733762727c3dd0c7"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_NormalMap.png.meta",
+          "bytes": 1690,
+          "sha256": "0c0889329b6696a5075195ba57438021ce696afc42c1a838644fe98723c11993"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Occlusion.png",
+          "bytes": 8100245,
+          "sha256": "ab79f14efcccf30a9688081f5daf3d3d8f721b20b48ededb20a3684638fd2cef"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Occlusion.png.meta",
+          "bytes": 1690,
+          "sha256": "7b04a775b839ac1618a1f1054a524d985c6ad107c7c446e05422fc5331140f8a"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Specular.tga",
+          "bytes": 67108882,
+          "sha256": "7f2a2b642aba0789eca0489c611e18cc00058d5acf4045a5a5406f4b8ea5bc8e"
+        },
+        {
+          "path": "irondust/Sci-fi env2/WhiteColor_Specular.tga.meta",
+          "bytes": 1690,
+          "sha256": "a6e52600365d03f4f7112f1762776ba0010c2dafe4a5840960030ef9a26d7342"
+        }
+      ]
+    }
+  ]
+}
