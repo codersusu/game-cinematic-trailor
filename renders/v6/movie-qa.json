@@ -1,0 +1,56 @@
+{
+  "movie": "The Last Observatory - Astra Reach.mp4",
+  "decoded_frames": 576,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 24.0
+  },
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "Representative encoded contact-sheet images and native render frames inspected; framing and reach continuity accepted",
+    "encoded_contact_sheet_frames": [
+      15,
+      82,
+      317,
+      385,
+      408,
+      448,
+      472,
+      540
+    ],
+    "native_frames_reviewed": [
+      385,
+      408,
+      448,
+      472,
+      481,
+      540
+    ],
+    "sequential_motion_proof_frames_reviewed": [
+      385,
+      397,
+      409,
+      421,
+      433,
+      445,
+      457,
+      469,
+      480
+    ],
+    "full_realtime_playback_performed": false
+  },
+  "movie_sha256": "dcf97d4c58f08ac456411af848f5cf4f54ac5d1d3250e13fdc71c4b2eca6ff7e"
+}

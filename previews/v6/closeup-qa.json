@@ -1,0 +1,38 @@
+{
+  "file": "previews/v6/Astra-Reach-closeup-1080p.mp4",
+  "decoded_frames": 96,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 4.0
+  },
+  "source_frames": [
+    385,
+    480
+  ],
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "representative native frames and encoded sample inspected",
+    "native_source_frames": [
+      385,
+      408,
+      448,
+      472
+    ],
+    "encoded_sample_frame": 64,
+    "full_realtime_playback_performed": false
+  },
+  "movie_sha256": "f79a1b9b204aec6ed4b94b03c3197e36eb0fc13d76e1b88b8763c6ecebbef2ce"
+}

@@ -23,9 +23,12 @@ def item(name):
 audit = load('renders/v6/scene-audit.json')
 picture = load('renders/v6/movie-qa.json')
 sound = load('renders/v6/audio-qa.json')
+closeup = load('previews/v6/closeup-qa.json')
 assert audit['status'] == 'passed' and audit['early_reuse']['safe']
 assert picture['technical_checks'] == 'passed' and picture['decoded_frames'] == 576
 assert sound['technical_checks'] == 'passed'
+assert closeup['technical_checks'] == 'passed' and closeup['decoded_frames'] == 96
+assert closeup['metadata']['size'] == [1920, 1080]
 scene_sha = item('observatory-v6.blend')['sha256']
 assert scene_sha == audit['candidate_sha256'] == load('renders/v6/frame-source.json')['scene_sha256']
 assert item('observatory-v5.blend')['sha256'] == audit['source_sha256']
@@ -33,10 +36,11 @@ for name, record in load('renders/v6/previous-versions.json').items():
     assert item(name)['sha256'] == record['sha256'], 'Previous version changed: ' + name
 artifacts = [item(p) for p in [
     'The Last Observatory - Astra Reach.mp4', 'observatory-v6.blend',
-    'previews/v6/Astra-Reach-motion-proof.mp4',
+    'previews/v6/Astra-Reach-motion-proof.mp4', 'previews/v6/Astra-Reach-closeup-1080p.mp4',
     'previews/v6/final-contact-sheet.jpg', 'docs/preview-v6.png',
 ]]
 assert artifacts[0]['sha256'] == sound['movie_sha256']
+assert closeup['movie_sha256'] == next(a['sha256'] for a in artifacts if a['file'] == 'previews/v6/Astra-Reach-closeup-1080p.mp4')
 frames = [OUT / 'frames' / f'{f:04d}.png' for f in range(1, 577)]
 assert all(p.is_file() for p in frames)
 frame_hashes = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in frames}
@@ -70,7 +74,7 @@ report = {
                       'median_new_frame_seconds': round(statistics.median(durations), 2) if durations else None},
     'qa': {'scene': 'renders/v6/scene-audit.json', 'picture': 'renders/v6/movie-qa.json',
            'audio': 'renders/v6/audio-qa.json', 'motion_proof': 'previews/v6/acting-proof-qa.json',
-           'portable_rebuild': 'renders/v6/rebuild-qa.json'},
+           'portable_rebuild': 'renders/v6/rebuild-qa.json', 'native_closeup': 'previews/v6/closeup-qa.json'},
     'encoded_audio': sound, 'previous_versions_unchanged': True, 'new_paid_api_requests': 0,
     'review_limit': 'Representative final images and sequential motion-proof frames inspected; no full real-time playback or perceptual listening.',
 }
