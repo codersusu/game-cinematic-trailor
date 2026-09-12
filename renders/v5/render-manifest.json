@@ -1,0 +1,318 @@
+{
+  "version": 5,
+  "title": "The Last Observatory \u2014 Astra Chamber",
+  "recorded_utc": "2026-09-12T11:42:09.418115+00:00",
+  "movie": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "frames": 576,
+    "seconds": 24,
+    "active_aspect_ratio": 2.39,
+    "render_engine": "Blender 4.5.13 LTS / Cycles",
+    "samples_max": 64,
+    "adaptive_threshold": 0.025,
+    "denoised": true,
+    "motion_blur_shutter": 0.4,
+    "metalrt": "OFF",
+    "kernel_optimization": "OFF"
+  },
+  "hero_still": {
+    "resolution": [
+      3840,
+      2160
+    ],
+    "frame": 420,
+    "samples_max": 128,
+    "adaptive_threshold": 0.015
+  },
+  "artifacts": [
+    {
+      "file": "The Last Observatory - Astra Chamber.mp4",
+      "bytes": 14660995,
+      "sha256": "013f009eba09363c2b389cd1c5e2c97286742d5d3dee8580cbfed49f995da3a3"
+    },
+    {
+      "file": "observatory-v5.blend",
+      "bytes": 57062893,
+      "sha256": "50c416d855eb24389c44683ac7f8f1a1ed2929b5044044344af8ac4c69045f5c"
+    },
+    {
+      "file": "renders/v5/hero-4k.png",
+      "bytes": 8902856,
+      "sha256": "9039a37f1bb74cb727e3a3029db06593c78ee5932245d7120f8e5ee66fc26047"
+    },
+    {
+      "file": "previews/v5/Astra-Chamber-motion-proof.mp4",
+      "bytes": 2037054,
+      "sha256": "8f954bcbe4ed8cb8ff5744b14e47a31d4d5d9745eee93d5ccd125551c2656341"
+    },
+    {
+      "file": "audio/v5/last_observatory_v5_mix.wav",
+      "bytes": 4608044,
+      "sha256": "ddc5853467622f5f9a1b76b59669de8f5bcaaca16121d18be31361f42901e0da"
+    },
+    {
+      "file": "previews/v5/final-contact-sheet.jpg",
+      "bytes": 317389,
+      "sha256": "f95b1d91e6dd36dd36091adb7088f9916fcb44d3c098eb2e193ebcf225da4f05"
+    }
+  ],
+  "build_inputs": [
+    {
+      "file": "observatory-v4.blend",
+      "bytes": 29853704,
+      "sha256": "6f745b8ca4607860564a3b790287c3601ef1abcb47d2856754c4fc0ccb8990f7"
+    },
+    {
+      "file": "assets/v5/models/service-modules.blend",
+      "bytes": 49666271,
+      "sha256": "0771310e40f354fe224bdd0a0d880e7da50c6ae18b84232e84c38fd070a4062d"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_body_color.tga",
+      "bytes": 12582956,
+      "sha256": "02c1362ed7daed6cb3aac33dc85f8e635c9be29265c7d96515c8ca7230c50781"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_body_normal.tga",
+      "bytes": 12582956,
+      "sha256": "01e3802e124c854ebfef58fd36f4dc188433e1d7a989a92cfd0699adaed0a947"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_head_color.tga",
+      "bytes": 12582956,
+      "sha256": "61b418a825e85514541f28c5968e9e0a0d1897506f7c7bccd27eef336e1473ef"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_head_normal.tga",
+      "bytes": 12582956,
+      "sha256": "f9e94fcc0952d60fc86eef3d737f46d53473ffc9e306984bf64570306d900823"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_opacity_color.tga",
+      "bytes": 16777260,
+      "sha256": "cf9b868f3f2b9f48ee3d764d1b8f611df94167e393f6275c04779963b3ddd506"
+    },
+    {
+      "file": "assets/hdri/stars/starmap_2020_8k_gal.exr",
+      "bytes": 160735772,
+      "sha256": "d70924422d3e0159764b16a19658784befcf73b97e06e5c16614860c1514bb58"
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Color.jpg",
+      "bytes": 3843751,
+      "sha256": "f444c07a08de291049d0dda880d6fca9faae4b172f293f604c87e5e96ad30370"
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Displacement.jpg",
+      "bytes": 2588353,
+      "sha256": "9df0c2f82662c7e863d17531cbc364f7ea52ad7921f9a547e7357ba29ec2d620"
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Roughness.jpg",
+      "bytes": 2105192,
+      "sha256": "8a0570593c028cf0eca32a0107d7bc936817f0de7076f1b8b8f48ea7745aee27"
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Color.jpg",
+      "bytes": 6369723,
+      "sha256": "890f5d68324127f005e84363e4af1f72cafbcd61857f2b568a20b47cf291919f"
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+      "bytes": 66830,
+      "sha256": "f60c50de5934b17793b71dcef7b03a34f916605ef32bc501b75f635009c63a4a"
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+      "bytes": 5213197,
+      "sha256": "fb7d4d762273ba459cfe4c351d55a042c226aee35c695f9ed64e2dc1fb95ca2f"
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Color.jpg",
+      "bytes": 638778,
+      "sha256": "9e966978debc85c05e1e4834e1ac8406d863f9267c396d1580ec2d94fdce9738"
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+      "bytes": 2302259,
+      "sha256": "9a2b7e0397fd811ac20444aeb33ae3b4057e645c46a292baa33ee18b8dea22df"
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+      "bytes": 2011305,
+      "sha256": "44a1a3eb43252db6c242cd3e777a2e41819e872058e032e3cf8285cc578f35bb"
+    },
+    {
+      "file": "assets/v5/materials/rubber_tiles/rubber_tiles_diff_2k.jpg",
+      "bytes": 1685204,
+      "sha256": "a14ed9c9b8235a71ce2d7d0d5d0d949a07b8e895d2b78cb3589a6c755bd95215"
+    },
+    {
+      "file": "assets/v5/materials/rubber_tiles/rubber_tiles_rough_2k.jpg",
+      "bytes": 2752062,
+      "sha256": "5679ff2440d15093bd60df56460199f3b31cdee14bb7bf1983be3af8b8fa60c2"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_Albedo.tga",
+      "bytes": 67108882,
+      "sha256": "5d4f75372ae1647c2955ebb34b4bab7a148ffbda84cd073da7416204aa7bf2ee"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_Emission.png",
+      "bytes": 345067,
+      "sha256": "1e3ee2e3562e4c33822f00bdcdf1ab3fda496581cc2f1d893dab2c38d15565c5"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_NormalMap.png",
+      "bytes": 16194980,
+      "sha256": "a37d1b3f16ab18e64c520152054d2c8945eb9bc76ae48dbd733762727c3dd0c7"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_Specular.tga",
+      "bytes": 67108882,
+      "sha256": "7f2a2b642aba0789eca0489c611e18cc00058d5acf4045a5a5406f4b8ea5bc8e"
+    },
+    {
+      "file": "assets/v5/models/textures/vent.JPG",
+      "bytes": 31065,
+      "sha256": "e5dc60cdfa22477d16d8cb88f9386253b1746581e6969445db2760e699cc264b"
+    },
+    {
+      "file": "assets/v5/models/textures/vent_norm.JPG",
+      "bytes": 36072,
+      "sha256": "8cfdd8ef84bcbe1647820609ca6f79ec7ecec3b6e9b2dda59356cd85e120392e"
+    }
+  ],
+  "scripts": [
+    {
+      "file": "scripts/audio_mix_v5.py",
+      "bytes": 11788,
+      "sha256": "b7f3b58fc960881700a17fe36abebf014f661da23e2f5eab236b041240cfe2e5"
+    },
+    {
+      "file": "scripts/audit_scene_v5.py",
+      "bytes": 13849,
+      "sha256": "83c70c65712aa12d1a32f66232d15fcc3a0eccd4bf8f8aa6399b4e803f0f0c42"
+    },
+    {
+      "file": "scripts/build_scene_v5.py",
+      "bytes": 19997,
+      "sha256": "d11330cef4da6be02ffcfa0a397b376565077d317a9325a219efb2810c4f01b6"
+    },
+    {
+      "file": "scripts/compare_rebuild_v5.py",
+      "bytes": 10834,
+      "sha256": "fb6557b24442f74cdfe76d144c8abcc005ad7cb452edebde8ba5750549687e42"
+    },
+    {
+      "file": "scripts/encode_acting_v5.py",
+      "bytes": 1847,
+      "sha256": "c4ce7a00fe44a08c4adad5190e2145d9b09ac4b0189fe2657b6f28eae0f932c0"
+    },
+    {
+      "file": "scripts/encode_v5.py",
+      "bytes": 8057,
+      "sha256": "2d48b5ec25e707401d032eb83b9a4e0452330ea2f0c99531266b08af46cfec3b"
+    },
+    {
+      "file": "scripts/finish_film_v5.sh",
+      "bytes": 934,
+      "sha256": "77420a045b33f074d28e9fcf0d066d8a295acc36adeb096e40e7c667a4e6f218"
+    },
+    {
+      "file": "scripts/manifest_v5.py",
+      "bytes": 3546,
+      "sha256": "a0a41fb955f97c130fad1d5e1ba972be31ac489ccf2b540f59ae92e0592a58c9"
+    },
+    {
+      "file": "scripts/render_status_v5.py",
+      "bytes": 1119,
+      "sha256": "28c4cb2c605927b5a2b91225b91903807b57a0d8f3e6c41aec207b016d0cf3e1"
+    },
+    {
+      "file": "scripts/render_v5.py",
+      "bytes": 4872,
+      "sha256": "412ec79a8312f9ab129da68c06cc5aadf2e7ae2f1f6c2b8ebd7a21abf2f3f489"
+    },
+    {
+      "file": "scripts/scifi_dressing_v5.py",
+      "bytes": 4109,
+      "sha256": "7a6a8f28196e776f87f4648e5fb88d3673d68d6edd466e967eac36b9760f215a"
+    },
+    {
+      "file": "scripts/validate_movie_v5.py",
+      "bytes": 1509,
+      "sha256": "15ab4bba80907b2551b4fb9e6df49c4c1021911d8fd8d7b7676ceffc076d5543"
+    },
+    {
+      "file": "scripts/verify_audio_v5.py",
+      "bytes": 6667,
+      "sha256": "d0341f90ac8693277dcc006d3e99eab755096e1a0ceb020b1b629449231d5a09"
+    }
+  ],
+  "frame_set": {
+    "count": 576,
+    "aggregate_sha256": "671720c3c1bd73360f59df6b6f5dac4ac4d80c892452b14ff6337e35294cd89d"
+  },
+  "render_timing": {
+    "recorded_frames": 576,
+    "total_frame_render_seconds": 13931.29,
+    "median_seconds_per_frame": 24.77
+  },
+  "qa": {
+    "movie": "renders/v5/movie-qa.json",
+    "preservation": "renders/v5/preservation-audit.json",
+    "portable_rebuild": "renders/v5/rebuild-qa.json",
+    "motion_proof": "previews/v5/acting-proof-qa.json",
+    "audio": "audio/v5/final-aac-qa.json"
+  },
+  "previous_versions_unchanged": true,
+  "new_paid_api_requests": 0,
+  "limitations": [
+    "Pre-rendered cinematic; no interactive gameplay",
+    "Accepted Rocketbox character is an older game asset",
+    "Secondary service panel relief uses mapped detail; vent grille source is low resolution",
+    "4K output is a separate still; film is native 1080p"
+  ],
+  "encoded_audio": {
+    "version": 5,
+    "movie": "The Last Observatory - Astra Chamber.mp4",
+    "movie_bytes": 14660995,
+    "movie_sha256": "013f009eba09363c2b389cd1c5e2c97286742d5d3dee8580cbfed49f995da3a3",
+    "measurement_method": "FFmpeg ebur128=peak=true on decoded AAC; unmodified-rate/channel float32 PCM sample inspection",
+    "ffmpeg_version": "ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers",
+    "audio_codec": "aac",
+    "sample_rate_hz": 48000,
+    "channels": 2,
+    "decoded_sample_frames": 1152000,
+    "decoded_duration_seconds": 24.0,
+    "expected_duration_seconds": 24,
+    "duration_difference_seconds": 0.0,
+    "aac_padding_tolerance_seconds": 0.05,
+    "finite_samples": true,
+    "full_scale_or_over_range_sample_count": 0,
+    "absolute_sample_peak": 0.6694834232330322,
+    "sample_peak_dbfs": -3.4852034376413608,
+    "integrated_loudness_lufs": -17.7,
+    "loudness_range_lu": 7.3,
+    "true_peak_dbtp": -3.5,
+    "checks": {
+      "aac_codec": true,
+      "sample_rate_48000_hz": true,
+      "stereo": true,
+      "duration_within_50_ms_of_24_seconds": true,
+      "finite_samples": true,
+      "no_full_scale_or_over_range_samples": true,
+      "non_silent_audio": true,
+      "integrated_loudness_within_2_lu_of_minus_18": true,
+      "true_peak_at_or_below_minus_2_dbtp": true
+    },
+    "technical_checks": "passed",
+    "failed_checks": [],
+    "perceptual_listening_performed": false
+  }
+}

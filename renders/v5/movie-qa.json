@@ -1,0 +1,58 @@
+{
+  "movie": "The Last Observatory - Astra Chamber.mp4",
+  "decoded_frames": 576,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 24.0
+  },
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "representative frames reviewed",
+    "final_contact_sheet_frames": [
+      15,
+      82,
+      145,
+      224,
+      317,
+      331,
+      420,
+      540
+    ],
+    "native_full_resolution_frames_reviewed": [
+      15,
+      50,
+      82,
+      145,
+      193,
+      317,
+      345,
+      420,
+      481,
+      539
+    ],
+    "encoded_title_frame_reviewed": 540,
+    "motion_proof": "144 contiguous-source preview frames decoded; sequential walk, ring and room samples reviewed",
+    "observations": [
+      "Entrance and floor contact preserved",
+      "Surprise, wonder and small smile visible",
+      "Galaxy remains visible within the instrument",
+      "Wide and closing cameras clear the airlock structure",
+      "Title and credits fit the frame and are readable at native resolution"
+    ],
+    "full_realtime_playback_performed": false
+  },
+  "movie_sha256": "013f009eba09363c2b389cd1c5e2c97286742d5d3dee8580cbfed49f995da3a3"
+}

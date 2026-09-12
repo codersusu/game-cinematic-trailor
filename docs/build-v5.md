@@ -1,6 +1,6 @@
 # Build and render Astra Chamber (V5)
 
-Status on 2026-09-12: `observatory-v5.blend` is built, the still previews have been reviewed, and the scene/preservation audit passes. The six-second motion proof is rendered, decoded and representative sequential frames reviewed. The full 576-frame movie is rendering; its final visual review and the 4K hero image remain pending. Commands below reproduce the pipeline; their presence does not indicate that final outputs already exist.
+Completed on 2026-09-12: the editable scene, six-second motion proof, full 576-frame film and native 4K hero image are delivered. Scene preservation, portable rebuild, full movie decode and encoded audio checks pass. Representative final shots, sequential motion-proof samples, title/credits and the hero still were visually reviewed. Full real-time playback and perceptual listening were not performed. See the [delivery manifest](../renders/v5/render-manifest.json), [movie QA](../renders/v5/movie-qa.json) and [AAC QA](../audio/v5/final-aac-qa.json).
 
 ## Software
 
@@ -65,7 +65,7 @@ The script discovers the platform FFmpeg executable through `imageio_ffmpeg.get_
 
 ## Final render and encode
 
-After motion review, the convenience command runs the final sequence, encode, decoded-frame validation, 4K hero render and scene audit in order:
+After motion review, the convenience command runs the final sequence, encode, decoded-frame validation, 4K hero render, scene audit, encoded audio verification and delivery manifest in order:
 
 ```sh
 sh scripts/finish_film_v5.sh
@@ -98,4 +98,4 @@ The latest [scene audit](submission-assets-v5.json) and [comparison report](../r
 - Six camera cuts at frames 1, 37, 193, 289, 345 and 481; two animated precision-ring roots.
 - Open airlock width about 3.62 m; sampled actor lateral clearances exceed 1.56 m at frames 37 and 82. This is a sampled bounds check, not an exhaustive collision simulation.
 
-The original, Arrival, Celestial and Wonder movies remain separate, as do earlier scene versions. The current audit verifies V4-to-V5 content preservation; final V5 movie QA remains pending.
+The original, Arrival, Celestial and Wonder movies remain separate, as do earlier scene versions. The audit verifies V4-to-V5 content preservation. Final V5 movie QA passes for 576 decoded frames at 1920 × 1080, 24 fps and exactly 24 seconds; encoded audio measures −17.7 LUFS and −3.5 dBTP with zero full-scale samples. The delivery manifest also verifies the previous movies and V4 scene against their original hashes.

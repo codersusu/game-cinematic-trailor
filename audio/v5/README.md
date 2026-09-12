@@ -16,7 +16,7 @@ A 24-second soundtrack for the modern observatory interior. The original synthes
 
 `stems/` contains nine full-length layers: ventilation, original underscore, instrument hum, sliding airlock, footsteps, doorway arrival, sky harmonics, alignment and anticipation. All start at zero. Their common gain matches the premaster; they do not sum directly to the loudness-processed master. `footstep_variants/` contains the processed individual floor contacts.
 
-`walk_sync.json` preserves the animation schedule. `mix_qa.json` records loudness, contacts and source hashes. `format_and_cue_qa.json` verifies WAV format and the actual airlock/footstep activity windows. `generation_manifest.json` records source and output hashes. Technical verification is complete; judge the finished film for perceptual balance and synchronization.
+`walk_sync.json` preserves the animation schedule. `mix_qa.json` records loudness, contacts and source hashes. `format_and_cue_qa.json` verifies WAV format and the actual airlock/footstep activity windows. `generation_manifest.json` records source and output hashes. Technical verification is complete. The final movie AAC is also verified in `final-aac-qa.json`: exactly 24 seconds, 48 kHz stereo, −17.7 LUFS, −3.5 dBTP and zero full-scale or over-range samples. This is decoded-audio measurement; perceptual listening was not performed.
 
 ## Sources and rebuild
 

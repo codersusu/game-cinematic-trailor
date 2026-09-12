@@ -32,6 +32,8 @@ report={'version':5,'title':'The Last Observatory — Astra Chamber','recorded_u
  'qa':{'movie':'renders/v5/movie-qa.json','preservation':'renders/v5/preservation-audit.json','portable_rebuild':'renders/v5/rebuild-qa.json','motion_proof':'previews/v5/acting-proof-qa.json','audio':'audio/v5/final-aac-qa.json'},
  'previous_versions_unchanged':True,'new_paid_api_requests':0,
  'limitations':['Pre-rendered cinematic; no interactive gameplay','Accepted Rocketbox character is an older game asset','Secondary service panel relief uses mapped detail; vent grille source is low resolution','4K output is a separate still; film is native 1080p']}
-audio=load('audio/v5/final-aac-qa.json');report['encoded_audio']=audio
+audio=load('audio/v5/final-aac-qa.json')
+assert audio['technical_checks']=='passed' and audio['movie_sha256']==report['artifacts'][0]['sha256']
+report['encoded_audio']=audio
 (OUT/'render-manifest.json').write_text(json.dumps(report,indent=2)+'\n')
 print('V5_MANIFEST_READY',report['artifacts'][0]['sha256'])

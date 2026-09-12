@@ -1,6 +1,6 @@
 # V5 design — Astra Chamber
 
-Status as of 2026-09-12: the editable V5 scene is built as `observatory-v5.blend`, Cycles still previews have been reviewed, and the short motion proof has been rendered, decoded and reviewed in sequential samples. The final 24-second film, its final visual review and the 4K hero render are pending. [Build and render instructions](build-v5.md) describe the current pipeline.
+Completed on 2026-09-12: the editable V5 scene, 24-second 1080p film, six-second motion proof and native 4K hero still are delivered. Representative final frames, sequential motion-proof samples, titles and the hero image have been visually reviewed. Movie decode, audio and scene-preservation checks pass. [Build and render instructions](build-v5.md) describe the current pipeline.
 
 ![Actual V5 Cycles room preview](preview-v5.png)
 
@@ -38,7 +38,7 @@ The six-cut schedule remains at 24 fps. The threshold, instrument, wide and clos
 
 ## Sound and review status
 
-The completed V5 stereo mix retains the original score and eleven measured gait contacts. Filtered footfalls gain short damped metal/rubber resonances; locally synthesized layers provide the airlock, ventilation and instrument hum. No rain or antique grinding is used. Technical audio QA is complete; final perceptual balance and synchronization still require the finished film. See [soundtrack records](../audio/v5/README.md).
+The completed V5 stereo mix retains the original score and eleven measured gait contacts. Filtered footfalls gain short damped metal/rubber resonances; locally synthesized layers provide the airlock, ventilation and instrument hum. No rain or antique grinding is used. Master and final AAC technical audio QA pass. Perceptual listening was not performed. See [soundtrack records](../audio/v5/README.md).
 
 Still previews cover the entrance, instrument, reaction and room. The six-second motion proof samples the walk, rings and room reveal. A passed structural/dependency audit is evidence of preservation and portability, not a substitute for reviewing the complete movie.
 
@@ -46,9 +46,11 @@ Still previews cover the entrance, instrument, reaction and room. The six-second
 
 V5 is saved separately. The original, Arrival, Celestial and Wonder movies and earlier Blender scenes remain on disk. No prior movie or scene was deleted for the redesign.
 
-- Built: `observatory-v5.blend`, `previews/v5/frame_*.png`, V5 soundtrack and scene audit.
-- Complete motion proof: `previews/v5/Astra-Chamber-motion-proof.mp4`.
-- Pending: `The Last Observatory - Astra Chamber.mp4`, `renders/v5/frames/`, final movie QA and `renders/v5/hero-4k.png`.
+- Editable source: `observatory-v5.blend`, V5 soundtrack and selected reusable assets.
+- Finished movie: `The Last Observatory - Astra Chamber.mp4`; 1080p, 24 fps, 24 seconds.
+- 4K still: `renders/v5/hero-4k.png`.
+- Motion proof: `previews/v5/Astra-Chamber-motion-proof.mp4`.
+- Delivery evidence: `renders/v5/render-manifest.json`, final movie/audio QA and preservation audit. Raw numbered frames remain local; they can be regenerated from the saved scene.
 
 ## Concept provenance
 

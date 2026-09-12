@@ -2,9 +2,11 @@
 
 A 24-second cinematic set inside a modern orbital observatory. The same young woman enters through a sliding airlock, reacts with surprise and wonder, and watches the Astra galaxy turn inside a new precision instrument.
 
-[Watch the motion preview](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v5/Astra-Chamber-motion-proof.mp4) · [Editable Blender scene](observatory-v5.blend)
+[Watch the six-second motion preview](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v5/Astra-Chamber-motion-proof.mp4) · [Editable Blender scene](observatory-v5.blend)
 
-**V5 rendering is in progress.** The room, still previews, soundtrack and preservation audit are complete; final movie verification is pending.
+**V5 is complete.** [Watch the finished film](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/The%20Last%20Observatory%20-%20Astra%20Chamber.mp4) · [View the 4K still](renders/v5/hero-4k.png)
+
+Native 1920 × 1080, 24 fps, 24 seconds. All 576 frames decode correctly. Representative final shots, the title and the 4K still were visually reviewed; the encoded stereo soundtrack passes technical checks. [Final contact sheet](previews/v5/final-contact-sheet.jpg) · [Movie QA](renders/v5/movie-qa.json) · [Delivery manifest](renders/v5/render-manifest.json).
 
 ![Astra Chamber — rendered in Blender](docs/preview-v5.png)
 
@@ -20,11 +22,11 @@ Free resources are used in the actual scene: ambientCG and Poly Haven surfaces, 
 
 | File | Purpose |
 |---|---|
-| `The Last Observatory - Astra Chamber.mp4` | Final 1920 × 1080, 24 fps, 24-second film; pending render completion |
+| `The Last Observatory - Astra Chamber.mp4` | Final 1920 × 1080, 24 fps, 24-second film |
 | `observatory-v5.blend` | Editable Blender scene |
 | `Open Astra Chamber.command` | Mac launcher using an installed Blender |
 | `previews/v5/Astra-Chamber-motion-proof.mp4` | Six-second entrance, instrument and room motion proof |
-| `renders/v5/hero-4k.png` | Separate native 4K room still; pending render completion |
+| `renders/v5/hero-4k.png` | Separate native 3840 × 2160 room still |
 | `audio/v5/` | Stereo soundtrack, editable stems and sound provenance |
 | `assets/v5/` | Selected material maps and portable service-model library |
 
@@ -49,7 +51,7 @@ export PYTHON_BIN=python3
 sh scripts/finish_film_v5.sh
 ```
 
-The pipeline renders 576 frames, adds sound and titles, decodes the movie for verification, produces the 4K still, and audits scene dependencies. Rendering resumes numbered PNGs and refuses to combine frames from different saved-scene hashes. Mac Metal uses MetalRT and kernel optimization off; `OBS_CPU=1` enables CPU rendering. [Detailed build instructions and audit evidence](docs/build-v5.md).
+The pipeline renders 576 frames, adds sound and titles, decodes the movie for verification, produces the 4K still, audits scene dependencies, verifies the encoded audio, and records output checksums. Rendering resumes numbered PNGs and refuses to combine frames from different saved-scene hashes. Mac Metal uses MetalRT and kernel optimization off; `OBS_CPU=1` enables CPU rendering. [Detailed build instructions and audit evidence](docs/build-v5.md).
 
 ## Asset scope and credits
 

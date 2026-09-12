@@ -1,40 +1,38 @@
-# The Last Observatory — Wonder
+# The Last Observatory — Astra Chamber
 
-[V5 Astra Chamber: editable scene and motion preview](README-v5.md) is now available. Its full 1080p film is rendering.
+A 24-second cinematic set inside a modern orbital observatory. The same young woman enters through a sliding airlock, reacts with surprise and wonder, and watches the Astra galaxy turn inside a new precision instrument.
 
-A 24-second cinematic revision focused on character performance: a young adult woman reacts at the threshold, walks naturally into the observatory, and watches the rotating stellar machine with growing wonder.
+[Watch the six-second motion preview](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v5/Astra-Chamber-motion-proof.mp4) · [Editable Blender scene](observatory-v5.blend)
 
-**[Watch / download the finished trailer](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/The%20Last%20Observatory%20-%20Wonder.mp4)** · [Acting preview](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v4/Native-walk-and-expressions.mp4) · [Editable Blender scene](observatory-v4.blend)
+**V5 is complete.** [Watch the finished film](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/The%20Last%20Observatory%20-%20Astra%20Chamber.mp4) · [View the 4K still](renders/v5/hero-4k.png)
 
-![Her reaction to the stellar machine](docs/preview-v4.png)
+Native 1920 × 1080, 24 fps, 24 seconds. All 576 frames decode correctly. Representative final shots, the title and the 4K still were visually reviewed; the encoded stereo soundtrack passes technical checks. [Final contact sheet](previews/v5/final-contact-sheet.jpg) · [Movie QA](renders/v5/movie-qa.json) · [Delivery manifest](renders/v5/render-manifest.json).
 
-**Movie complete:** 576 frames rendered and decoded at native **1920 × 1080, 24 fps, 24 seconds**. Representative movie frames and facial/motion proofs were visually reviewed. Encoded stereo audio measures **−17.8 LUFS and −2.8 dBTP**, without clipping. [Final contact sheet](previews/v4/final-contact-sheet.jpg) · [Movie verification](renders/v4/movie-qa.json).
+![Astra Chamber — rendered in Blender](docs/preview-v5.png)
 
-## Character and animation
+## What changed
 
-The selected character is **Female Adult 04 from Microsoft Rocketbox**, with the same library's native start, walking, stopping and breathing animations. The source has 80 bones, 175 facial shapes, and 2K surface textures. Its authored whole-body motion replaces the previous procedural leg solve. Blender materials and surface smoothing are adapted for Cycles.
+The ruined room becomes a panoramic chamber with titanium ribs, pale wall panels, warm guide lights and a charcoal deck. Two rotating instrument rings surround the original stellar spiral. The airlock opens and the arrival lights illuminate in sequence. Camera paths have been reframed for the new room, and the soundtrack adds an electric door, ventilation and muted deck footsteps.
 
-The initial surprise uses brows, eyelids and jaw; the later reaction combines gaze, a softly rounded mouth and a restrained smile. Both beats receive moving close shots. Eleven footsteps and the doorway acoustic transition follow the new native motion.
+The **V4 character mesh, native walking animation, facial expressions and Astra galaxy are preserved exactly** according to the [scene comparison](renders/v5/preservation-audit.json). V5 carries over the reviewed performance without retargeting or replacing the woman.
 
-This is an older game character with a much more complete animation rig. Its skin and hair detail remain below modern cinematic digital humans. The more detailed [Jungle Jim candidate](https://sketchfab.com/3d-models/realistic-woman-walking-animated-d1ce2b8009b8401481408aeecea903d0) requires an authenticated Sketchfab download; its source was not acquired. [Research and selection record](docs/character-research-v4.md).
+Free resources are used in the actual scene: ambientCG and Poly Haven surfaces, plus four selected Irondust/rubberduck/a52 service meshes placed in six perimeter bays. The room structure, airlock, consoles and instrument are custom geometry. [Sources and adaptations](docs/resources-v5.md) · [Curated reusable library](assets/v5/models/README.md).
 
-## Files
+## Deliverables
 
-| Deliverable | File |
+| File | Purpose |
 |---|---|
-| Final 1080p, 24 fps, 24-second movie | `The Last Observatory - Wonder.mp4` |
-| Editable Blender scene | `observatory-v4.blend` |
-| Mac launcher | `Open Wonder.command` |
-| Short acting preview | `previews/v4/Native-walk-and-expressions.mp4` |
-| Native 4K reaction portrait | `renders/v4/hero-4k.png` |
-| Master soundtrack and editable stems | `audio/v4/` |
-| Character, native motion and source license | `assets/character/heroine_v4/` |
+| `The Last Observatory - Astra Chamber.mp4` | Final 1920 × 1080, 24 fps, 24-second film |
+| `observatory-v5.blend` | Editable Blender scene |
+| `Open Astra Chamber.command` | Mac launcher using an installed Blender |
+| `previews/v5/Astra-Chamber-motion-proof.mp4` | Six-second entrance, instrument and room motion proof |
+| `renders/v5/hero-4k.png` | Separate native 3840 × 2160 room still |
+| `audio/v5/` | Stereo soundtrack, editable stems and sound provenance |
+| `assets/v5/` | Selected material maps and portable service-model library |
 
-The movie keeps a 2.39:1 active image inside a native 1920 × 1080 frame. The separate 4K portrait is not a 4K movie. The galaxy, astronomical rings, star-catalog sky and moving observatory shots continue from V3. Previous movies and scenes are preserved, including [Celestial V3](README-celestial.md) and [Arrival V2](README-arrival.md).
+The film uses a 2.39:1 active image inside a 1080p frame. The 4K still is a separate output. Earlier films and scenes remain available: [Wonder V4](README-v4.md), [Celestial V3](README-celestial.md), and [Arrival V2](README-arrival.md).
 
-## Open and render
-
-Large assets use Git LFS:
+## Open or rebuild
 
 ```sh
 git lfs install
@@ -43,20 +41,20 @@ cd game-cinematic-trailor
 git lfs pull
 ```
 
-Open `observatory-v4.blend` with Blender 4.5 LTS and keep `assets/` alongside it. No service keys are needed for the supplied scene or models. The Mac launcher finds an installed Blender using `BLENDER_BIN`, the project-local application, the command path, or `/Applications/Blender.app`.
-
-To rebuild, use Blender 4.5 and a separate Python with Pillow, NumPy, SoundFile and imageio-ffmpeg. Blender supplies its own NumPy for scene construction.
+Open `observatory-v5.blend` in Blender 4.5 LTS with `assets/` alongside it. No service credentials are required. To rebuild the room, keep the included `observatory-v4.blend` as its source for the baked character, galaxy and sky.
 
 ```sh
+python3 -m pip install -r requirements.txt
 export BLENDER_BIN=blender
 export PYTHON_BIN=python3
-"$BLENDER_BIN" --background --disable-autoexec --python scripts/build_scene_v4.py
-"$BLENDER_BIN" --background --disable-autoexec observatory-v4.blend --python scripts/render_v4.py -- preview 15 82 317 331 390
-sh scripts/finish_film_v4.sh
+"$BLENDER_BIN" --background --disable-autoexec --python-exit-code 1 --python scripts/build_scene_v5.py
+sh scripts/finish_film_v5.sh
 ```
 
-The final pipeline renders 576 frames, encodes sound and titles, decodes the film for verification, renders the 4K portrait, and audits scene dependencies and facial keys. Mac Metal uses MetalRT off and kernel optimization off. Use `OBS_CPU=1` for CPU rendering. Final rendering resumes existing numbered PNGs; move old V4 frames aside after changing the scene.
+The pipeline renders 576 frames, adds sound and titles, decodes the movie for verification, produces the 4K still, audits scene dependencies, verifies the encoded audio, and records output checksums. Rendering resumes numbered PNGs and refuses to combine frames from different saved-scene hashes. Mac Metal uses MetalRT and kernel optimization off; `OBS_CPU=1` enables CPU rendering. [Detailed build instructions and audit evidence](docs/build-v5.md).
 
-[Performance notes](docs/performance-v4.md) · [Character attribution](assets/character/heroine_v4/ATTRIBUTION.md) · [Audio sources](audio/v4/README.md)
+## Asset scope and credits
 
-The character and native motions are distributed under Microsoft's retained MIT license. Environment scans are [Poly Haven CC0](docs/assets-manifest.md); the [NASA/Goddard star map](docs/sky-v2.md) and [ElevenLabs source effects](audio/v2/README.md) retain their documented terms. No new Meshy or ElevenLabs requests were made for V4.
+Microsoft Rocketbox Female Adult 04 and its native motion retain their MIT license. The new surface maps and service meshes are CC0; the NASA/Goddard SVS star map retains its documented NASA/ESA/Gaia credits. The soundtrack combines original synthesis with previously generated ElevenLabs footfalls under their original terms. No new paid API requests were needed for V5. [Character attribution](assets/character/heroine_v4/ATTRIBUTION.md) · [Sky attribution](docs/sky-v2.md) · [Audio sources](audio/v5/README.md).
+
+This is a pre-rendered Blender cinematic. The accepted character is an older game asset; its skin and hair remain below current cinematic digital humans. Perimeter panel relief is largely texture-based, while the close-view instrument uses modeled edges and fittings. There is no interactive gameplay in this deliverable.

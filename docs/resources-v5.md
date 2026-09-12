@@ -1,6 +1,6 @@
 # V5 selected resources and completed integration
 
-Updated 2026-09-12. The V5 room has been built and still previews reviewed. Its motion proof is rendered and representative sequential frames reviewed; the final film is rendering. The central Astra galaxy and baked V4 character performance are preserved.
+Updated 2026-09-12. The V5 room has been built and still previews reviewed. Its motion proof and final 24-second film are complete, representative frames have been reviewed, and the native 4K still is delivered. The central Astra galaxy and baked V4 character performance are preserved.
 
 ## Materials used in the scene
 
