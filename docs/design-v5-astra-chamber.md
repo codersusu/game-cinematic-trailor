@@ -1,8 +1,8 @@
 # V5 design — Astra Chamber
 
-Status as of 2026-09-12: the editable V5 scene is built as `observatory-v5.blend`, Cycles still previews have been reviewed, and the short motion proof is rendering. The final 24-second film, its final visual review and the 4K hero render are pending. [Build and render instructions](build-v5.md) describe the current pipeline.
+Status as of 2026-09-12: the editable V5 scene is built as `observatory-v5.blend`, Cycles still previews have been reviewed, and the short motion proof has been rendered, decoded and reviewed in sequential samples. The final 24-second film, its final visual review and the 4K hero render are pending. [Build and render instructions](build-v5.md) describe the current pipeline.
 
-![Actual V5 Cycles room preview](../previews/v5/frame_0420.png)
+![Actual V5 Cycles room preview](preview-v5.png)
 
 ## Art direction and completed room
 
@@ -47,7 +47,7 @@ Still previews cover the entrance, instrument, reaction and room. The six-second
 V5 is saved separately. The original, Arrival, Celestial and Wonder movies and earlier Blender scenes remain on disk. No prior movie or scene was deleted for the redesign.
 
 - Built: `observatory-v5.blend`, `previews/v5/frame_*.png`, V5 soundtrack and scene audit.
-- In progress: `previews/v5/Astra-Chamber-motion-proof.mp4`.
+- Complete motion proof: `previews/v5/Astra-Chamber-motion-proof.mp4`.
 - Pending: `The Last Observatory - Astra Chamber.mp4`, `renders/v5/frames/`, final movie QA and `renders/v5/hero-4k.png`.
 
 ## Concept provenance

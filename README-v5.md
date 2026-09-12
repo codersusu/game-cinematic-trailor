@@ -2,6 +2,8 @@
 
 A 24-second cinematic set inside a modern orbital observatory. The same young woman enters through a sliding airlock, reacts with surprise and wonder, and watches the Astra galaxy turn inside a new precision instrument.
 
+[Watch the motion preview](https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v5/Astra-Chamber-motion-proof.mp4) · [Editable Blender scene](observatory-v5.blend)
+
 **V5 rendering is in progress.** The room, still previews, soundtrack and preservation audit are complete; final movie verification is pending.
 
 ![Astra Chamber — rendered in Blender](docs/preview-v5.png)
