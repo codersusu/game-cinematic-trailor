@@ -1,0 +1,100 @@
+{
+  "version": 7,
+  "master": "audio/v7/last_observatory_v7_mix.wav",
+  "master_sha256": "f8bcb33daf387a254ede091a4e911e51d42120d765d267aaba3bdf71239d3868",
+  "duration_seconds": 24.0,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "encoding": "16-bit PCM WAV",
+  "integrated_loudness_lufs": -18.0,
+  "true_peak_dbtp": -3.56,
+  "loudness_range_lu": 9.4,
+  "absolute_sample_peak": 0.664031982421875,
+  "full_scale_or_over_range_sample_count": 0,
+  "overall_linear_trim_db": -0.030000000000001137,
+  "added_footstep_count": 4,
+  "added_footstep_events": [
+    {
+      "frame": 359,
+      "foot": "right",
+      "time_seconds": 14.916666666666666,
+      "variant_source": "audio/v5/footstep_variants/deck_step_01.wav"
+    },
+    {
+      "frame": 377,
+      "foot": "left",
+      "time_seconds": 15.666666666666666,
+      "variant_source": "audio/v5/footstep_variants/deck_step_02.wav"
+    },
+    {
+      "frame": 387,
+      "foot": "right",
+      "time_seconds": 16.083333333333332,
+      "variant_source": "audio/v5/footstep_variants/deck_step_03.wav"
+    },
+    {
+      "frame": 398,
+      "foot": "left",
+      "time_seconds": 16.541666666666668,
+      "variant_source": "audio/v5/footstep_variants/deck_step_04.wav"
+    }
+  ],
+  "original_entrance_contacts_unchanged": true,
+  "doorway_crossing_seconds": 3.4054740275,
+  "source_files": [
+    {
+      "file": "audio/v5/last_observatory_v5_mix.wav",
+      "sha256": "ddc5853467622f5f9a1b76b59669de8f5bcaaca16121d18be31361f42901e0da"
+    },
+    {
+      "file": "renders/v7/approach-performance.json",
+      "sha256": "02bfda08351f935d6cc1e3dda947709f5f812d1c79773a23992d0107a5b928af"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_01.wav",
+      "sha256": "d6b329679d073beba331be34a3f24733fe1335038e45bb6b25f78b18d7dea2ce"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_02.wav",
+      "sha256": "28268aacd0b5a47697aa78152f771dfd0841f32718ed03d371869779dedd2c04"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_03.wav",
+      "sha256": "953b9ded996afff0cc7fa2de12333e996b223eb09913dad22010d0bd188c7753"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_04.wav",
+      "sha256": "3a22d52263516c18a5101a32611f617234bbdd99468b315a5ba7491c017f55cd"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_05.wav",
+      "sha256": "f6f47864287037689e54f882051cf8e169f14e2f63ad5937b9fc71fa9722a4ff"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_06.wav",
+      "sha256": "089bf7da63a674131274302fd85cdb1f41f20d2a839a50273af1eb3d4fbc89fd"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_07.wav",
+      "sha256": "82019fc6312de6fd6e3a50b1a2726f1c2786f92198286ad6646e4e4cf7bf734d"
+    },
+    {
+      "file": "audio/v5/footstep_variants/deck_step_08.wav",
+      "sha256": "4a7e60876e537bd2332ccc35344ea72aacebb59ee554079a279eee783e909ec1"
+    }
+  ],
+  "script": "scripts/audio_mix_v7.py",
+  "script_sha256": "78bfb0e1a5f6a0917378cb36b3f3e34d3b02c52421a46a27ebd1470def052306",
+  "new_paid_api_requests": 0,
+  "dialogue": false,
+  "checks": {
+    "exactly_24_seconds": true,
+    "finite_samples": true,
+    "no_clipping": true,
+    "loudness_within_half_lu_of_minus_18": true,
+    "true_peak_at_or_below_minus_2_5_dbtp": true
+  },
+  "technical_checks": "passed",
+  "perceptual_listening_performed": false,
+  "rights": "Reuses V5 score and effects, including processed V2 ElevenLabs footfall source; original source terms apply. Additional mix creates no new service requests."
+}

@@ -1,0 +1,31 @@
+{
+  "fps": 24,
+  "source": "renders/v7/approach-performance.json",
+  "source_sha256": "02bfda08351f935d6cc1e3dda947709f5f812d1c79773a23992d0107a5b928af",
+  "foot_contacts": [
+    {
+      "frame": 359,
+      "foot": "right",
+      "time_seconds": 14.916666666666666,
+      "variant_source": "audio/v5/footstep_variants/deck_step_01.wav"
+    },
+    {
+      "frame": 377,
+      "foot": "left",
+      "time_seconds": 15.666666666666666,
+      "variant_source": "audio/v5/footstep_variants/deck_step_02.wav"
+    },
+    {
+      "frame": 387,
+      "foot": "right",
+      "time_seconds": 16.083333333333332,
+      "variant_source": "audio/v5/footstep_variants/deck_step_03.wav"
+    },
+    {
+      "frame": 398,
+      "foot": "left",
+      "time_seconds": 16.541666666666668,
+      "variant_source": "audio/v5/footstep_variants/deck_step_04.wav"
+    }
+  ]
+}

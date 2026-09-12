@@ -1,3 +1,5 @@
+> **V7 preview:** she now walks close to Astra before reaching with one hand. [Watch the new approach](previews/v7/Astra-Approach-motion-proof.mp4) · [V7 scene and build notes](README-v7.md). Full V7 film rendering.
+
 # The Last Observatory — Astra Reach
 
 V6 adds a one-handed reach after the woman stops and reacts to the Astra galaxy. She turns her shoulders slightly, raises her right arm along a gentle arc, opens her fingers and holds the gesture. A new four-second close camera makes the movement visible before the closing room shot.

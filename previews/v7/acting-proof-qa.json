@@ -1,0 +1,51 @@
+{
+  "file": "previews/v7/Astra-Approach-motion-proof.mp4",
+  "decoded_frames": 136,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      960,
+      540
+    ],
+    "size": [
+      960,
+      540
+    ],
+    "rotate": 0,
+    "duration": 5.67
+  },
+  "source_frames": [
+    345,
+    480
+  ],
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "Sequential approach and reaching frames inspected; framing and motion continuity accepted",
+    "source_frames": [
+      345,
+      350,
+      355,
+      359,
+      365,
+      370,
+      377,
+      381,
+      387,
+      391,
+      398,
+      410,
+      424,
+      425,
+      440,
+      455,
+      470,
+      480
+    ],
+    "full_realtime_playback_performed": false
+  },
+  "movie_sha256": "793399a0babd8e879db17ccc01d182a2da6d03acb654d776ad9cea244200e6a5"
+}
