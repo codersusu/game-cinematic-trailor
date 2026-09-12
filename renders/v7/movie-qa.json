@@ -1,0 +1,72 @@
+{
+  "movie": "The Last Observatory - Astra Approach.mp4",
+  "decoded_frames": 576,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 24.0
+  },
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "representative encoded images and sequential motion proof inspected",
+    "encoded_contact_sheet_frames": [
+      15,
+      82,
+      317,
+      345,
+      385,
+      424,
+      472,
+      510
+    ],
+    "encoded_title_frame": 540,
+    "native_final_frames_reviewed": [
+      345,
+      359,
+      385,
+      425,
+      455,
+      478,
+      481,
+      510
+    ],
+    "sequential_motion_proof_frames_reviewed": [
+      345,
+      350,
+      355,
+      359,
+      365,
+      370,
+      377,
+      381,
+      387,
+      391,
+      398,
+      410,
+      424,
+      425,
+      440,
+      455,
+      470,
+      480
+    ],
+    "findings": [
+      "Approach, stop, raised hand and galaxy clearly framed in inspected images.",
+      "Closing title and source credits legible within frame."
+    ],
+    "full_realtime_playback_performed": false
+  },
+  "movie_sha256": "7391f2a593be47f93ce6ba166dcb4d94fabbacc0637827910de73b7e872e9dec"
+}

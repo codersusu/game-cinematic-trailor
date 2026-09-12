@@ -1,0 +1,40 @@
+{
+  "file": "previews/v7/Astra-Approach-closeup-1080p.mp4",
+  "decoded_frames": 136,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 5.67
+  },
+  "source_frames": [
+    345,
+    480
+  ],
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "Native approach and reaching frames plus encoded sample inspected; framing accepted",
+    "native_source_frames": [
+      345,
+      359,
+      385,
+      425,
+      455,
+      478
+    ],
+    "encoded_sample_frame": 134,
+    "full_realtime_playback_performed": false
+  },
+  "movie_sha256": "7f783c993c1e6d12bcd6cf7f644efe177cf4780120da1158672be1ef1ad8127e"
+}

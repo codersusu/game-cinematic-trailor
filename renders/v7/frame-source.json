@@ -1,0 +1,11 @@
+{
+  "scene": "observatory-v7.blend",
+  "scene_sha256": "f40b3f5d7a6f2d12dc6a08b76598cf0bfe7344cda6052b0259c0e3e817cdd1d4",
+  "samples": 64,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "adaptive_threshold": 0.025
+}

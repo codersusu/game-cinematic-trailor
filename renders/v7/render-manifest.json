@@ -1,0 +1,394 @@
+{
+  "version": 7,
+  "title": "The Last Observatory \u2014 Astra Approach",
+  "recorded_utc": "2026-09-12T17:07:02.534938+00:00",
+  "movie": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "frames": 576,
+    "seconds": 24,
+    "active_aspect_ratio": 2.39,
+    "engine": "Blender 4.5.13 LTS / Cycles",
+    "samples_max": 64,
+    "adaptive_threshold": 0.025,
+    "denoised": true,
+    "motion_blur_shutter": 0.4
+  },
+  "new_animation": {
+    "gesture": "native second walk to the platform, followed by a right-hand reach toward Astra",
+    "first_modified_keyframe": 345,
+    "walk_frames": [
+      345,
+      424
+    ],
+    "close_camera_frames": [
+      425,
+      480
+    ],
+    "original_entrance_and_facial_animation_preserved": true,
+    "second_walk_contacts": [
+      359,
+      377,
+      387,
+      398
+    ],
+    "native_second_walk_distance_m": 2.003219814109767,
+    "early_frames_preserved": [
+      1,
+      343
+    ]
+  },
+  "artifacts": [
+    {
+      "file": "The Last Observatory - Astra Approach.mp4",
+      "bytes": 14826437,
+      "sha256": "7391f2a593be47f93ce6ba166dcb4d94fabbacc0637827910de73b7e872e9dec"
+    },
+    {
+      "file": "observatory-v7.blend",
+      "bytes": 57577813,
+      "sha256": "f40b3f5d7a6f2d12dc6a08b76598cf0bfe7344cda6052b0259c0e3e817cdd1d4"
+    },
+    {
+      "file": "previews/v7/Astra-Approach-motion-proof.mp4",
+      "bytes": 1798431,
+      "sha256": "793399a0babd8e879db17ccc01d182a2da6d03acb654d776ad9cea244200e6a5"
+    },
+    {
+      "file": "previews/v7/Astra-Approach-closeup-1080p.mp4",
+      "bytes": 4246158,
+      "sha256": "7f783c993c1e6d12bcd6cf7f644efe177cf4780120da1158672be1ef1ad8127e"
+    },
+    {
+      "file": "previews/v7/final-contact-sheet.jpg",
+      "bytes": 379459,
+      "sha256": "c1b5db211521fab654b768a1a41dfcc657fc92e9c2fa75349008af88ced34396"
+    },
+    {
+      "file": "docs/preview-v7.png",
+      "bytes": 2424803,
+      "sha256": "deca575c5069027df3b167df966de20dfd84792db83528496c5152c3fbdd528c"
+    }
+  ],
+  "build_inputs": [
+    {
+      "file": "observatory-v6.blend",
+      "bytes": 57166223,
+      "sha256": "f013bf8ea7209cce8daefb68732051449807f8bc7679c8cb2dd92be9e62af71d"
+    },
+    {
+      "file": "observatory-v5.blend",
+      "bytes": 57062893,
+      "sha256": "50c416d855eb24389c44683ac7f8f1a1ed2929b5044044344af8ac4c69045f5c"
+    },
+    {
+      "file": "audio/v7/last_observatory_v7_mix.wav",
+      "bytes": 4608044,
+      "sha256": "f8bcb33daf387a254ede091a4e911e51d42120d765d267aaba3bdf71239d3868"
+    },
+    {
+      "file": "assets/character/heroine_v4/Female_Adult_04_facial.fbx",
+      "bytes": 2349152,
+      "sha256": "ce83b428828314ef675d1a64ca17d8c3d2178cc4f8b3e80273483f83f08748fb"
+    },
+    {
+      "file": "assets/character/heroine_v4/f_walk_start.max.fbx",
+      "bytes": 922800,
+      "sha256": "509cb6486c0938bdc8ed000041c6c6be82bc7324b8b2ab68515a6bc143b3e24b"
+    },
+    {
+      "file": "assets/character/heroine_v4/f_walk_neutral_01.max.fbx",
+      "bytes": 993792,
+      "sha256": "20238709c689d46f5864aebaa58918cc1233cb9045b24aa4d58cf2752786a73b"
+    },
+    {
+      "file": "assets/character/heroine_v4/f_walk_stop.max.fbx",
+      "bytes": 1147184,
+      "sha256": "e2f7d8dd7b08f53e33befb5515095af54f87effc6491b0774e401c99f497256b"
+    },
+    {
+      "file": "assets/character/heroine_v4/f_idle_breathe_01.max.fbx",
+      "bytes": 1379504,
+      "sha256": "e470ba984484149c8269772b7640b754bd996ba83b23ae75535128412997aa45"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_body_color.tga",
+      "bytes": 12582956,
+      "sha256": "02c1362ed7daed6cb3aac33dc85f8e635c9be29265c7d96515c8ca7230c50781"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_body_normal.tga",
+      "bytes": 12582956,
+      "sha256": "01e3802e124c854ebfef58fd36f4dc188433e1d7a989a92cfd0699adaed0a947"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_head_color.tga",
+      "bytes": 12582956,
+      "sha256": "61b418a825e85514541f28c5968e9e0a0d1897506f7c7bccd27eef336e1473ef"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_head_normal.tga",
+      "bytes": 12582956,
+      "sha256": "f9e94fcc0952d60fc86eef3d737f46d53473ffc9e306984bf64570306d900823"
+    },
+    {
+      "file": "assets/character/heroine_v4/f004_opacity_color.tga",
+      "bytes": 16777260,
+      "sha256": "cf9b868f3f2b9f48ee3d764d1b8f611df94167e393f6275c04779963b3ddd506"
+    },
+    {
+      "file": "assets/hdri/stars/starmap_2020_8k_gal.exr",
+      "bytes": 160735772,
+      "sha256": "d70924422d3e0159764b16a19658784befcf73b97e06e5c16614860c1514bb58"
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Color.jpg",
+      "bytes": 3843751,
+      "sha256": "f444c07a08de291049d0dda880d6fca9faae4b172f293f604c87e5e96ad30370"
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Displacement.jpg",
+      "bytes": 2588353,
+      "sha256": "9df0c2f82662c7e863d17531cbc364f7ea52ad7921f9a547e7357ba29ec2d620"
+    },
+    {
+      "file": "assets/v5/materials/Metal032/Metal032_2K-JPG_Roughness.jpg",
+      "bytes": 2105192,
+      "sha256": "8a0570593c028cf0eca32a0107d7bc936817f0de7076f1b8b8f48ea7745aee27"
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Color.jpg",
+      "bytes": 6369723,
+      "sha256": "890f5d68324127f005e84363e4af1f72cafbcd61857f2b568a20b47cf291919f"
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+      "bytes": 66830,
+      "sha256": "f60c50de5934b17793b71dcef7b03a34f916605ef32bc501b75f635009c63a4a"
+    },
+    {
+      "file": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+      "bytes": 5213197,
+      "sha256": "fb7d4d762273ba459cfe4c351d55a042c226aee35c695f9ed64e2dc1fb95ca2f"
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Color.jpg",
+      "bytes": 638778,
+      "sha256": "9e966978debc85c05e1e4834e1ac8406d863f9267c396d1580ec2d94fdce9738"
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+      "bytes": 2302259,
+      "sha256": "9a2b7e0397fd811ac20444aeb33ae3b4057e645c46a292baa33ee18b8dea22df"
+    },
+    {
+      "file": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+      "bytes": 2011305,
+      "sha256": "44a1a3eb43252db6c242cd3e777a2e41819e872058e032e3cf8285cc578f35bb"
+    },
+    {
+      "file": "assets/v5/materials/rubber_tiles/rubber_tiles_diff_2k.jpg",
+      "bytes": 1685204,
+      "sha256": "a14ed9c9b8235a71ce2d7d0d5d0d949a07b8e895d2b78cb3589a6c755bd95215"
+    },
+    {
+      "file": "assets/v5/materials/rubber_tiles/rubber_tiles_rough_2k.jpg",
+      "bytes": 2752062,
+      "sha256": "5679ff2440d15093bd60df56460199f3b31cdee14bb7bf1983be3af8b8fa60c2"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_Albedo.tga",
+      "bytes": 67108882,
+      "sha256": "5d4f75372ae1647c2955ebb34b4bab7a148ffbda84cd073da7416204aa7bf2ee"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_Emission.png",
+      "bytes": 345067,
+      "sha256": "1e3ee2e3562e4c33822f00bdcdf1ab3fda496581cc2f1d893dab2c38d15565c5"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_NormalMap.png",
+      "bytes": 16194980,
+      "sha256": "a37d1b3f16ab18e64c520152054d2c8945eb9bc76ae48dbd733762727c3dd0c7"
+    },
+    {
+      "file": "assets/v5/models/textures/WhiteColor_Specular.tga",
+      "bytes": 67108882,
+      "sha256": "7f2a2b642aba0789eca0489c611e18cc00058d5acf4045a5a5406f4b8ea5bc8e"
+    },
+    {
+      "file": "assets/v5/models/textures/vent.JPG",
+      "bytes": 31065,
+      "sha256": "e5dc60cdfa22477d16d8cb88f9386253b1746581e6969445db2760e699cc264b"
+    },
+    {
+      "file": "assets/v5/models/textures/vent_norm.JPG",
+      "bytes": 36072,
+      "sha256": "8cfdd8ef84bcbe1647820609ca6f79ec7ecec3b6e9b2dda59356cd85e120392e"
+    }
+  ],
+  "scripts": [
+    {
+      "file": "scripts/audio_mix_v7.py",
+      "bytes": 8162,
+      "sha256": "78bfb0e1a5f6a0917378cb36b3f3e34d3b02c52421a46a27ebd1470def052306"
+    },
+    {
+      "file": "scripts/audit_scene_v7.py",
+      "bytes": 14135,
+      "sha256": "5367fabbcbbe1ec48e835995daa4aeba16a9f9b58ead580af036b27d57de43f4"
+    },
+    {
+      "file": "scripts/build_scene_v7.py",
+      "bytes": 2730,
+      "sha256": "49abb84b882ec60a8d75e1a846ec571a88c8ee2744a52aa72b742d61d1dbc9b1"
+    },
+    {
+      "file": "scripts/encode_acting_v7.py",
+      "bytes": 2408,
+      "sha256": "d06c0bdbfa2b53a952594503c058ce5b0a53fccb47600e29e28624ec6b715445"
+    },
+    {
+      "file": "scripts/encode_v7.py",
+      "bytes": 8084,
+      "sha256": "1f1d0a804af09a8f3b8ef7e08b47c3968b64a2d61b40d9503c703b26e846d45a"
+    },
+    {
+      "file": "scripts/finish_film_v7.sh",
+      "bytes": 803,
+      "sha256": "56545215474a5bafd97c9f89980087b7be9744ff40e46732d95017014f4b40a0"
+    },
+    {
+      "file": "scripts/heroine_approach_v7.py",
+      "bytes": 13795,
+      "sha256": "a0e803cd3b351ba7cba6e7bfa5ba124f89208afe156e58af78c09759f874091f"
+    },
+    {
+      "file": "scripts/manifest_v7.py",
+      "bytes": 5341,
+      "sha256": "7b4a9f652fcdea6be8990d63167a055fc285e87887bfed8f9040d5b6f518df33"
+    },
+    {
+      "file": "scripts/render_status_v7.py",
+      "bytes": 1281,
+      "sha256": "ba9f680bca435b72539bf3da81dbcd2f647741b1b44b85e8af299141fb974358"
+    },
+    {
+      "file": "scripts/render_v7.py",
+      "bytes": 4831,
+      "sha256": "de21b23f75c705bd1472db80f9afcbedfaeb5fea083bb29d7eee15c9f0005dea"
+    },
+    {
+      "file": "scripts/review_proof_v7.py",
+      "bytes": 859,
+      "sha256": "caa40cb2e227f177e0fed845187430eafbedd108ac50befe54cad301a1e0ba24"
+    },
+    {
+      "file": "scripts/seed_frames_v7.py",
+      "bytes": 2612,
+      "sha256": "8db442e7317bbce3ccaa32e7e51fcc78d14a0169c20f58273b75d9ddb2c3e635"
+    },
+    {
+      "file": "scripts/validate_movie_v7.py",
+      "bytes": 1510,
+      "sha256": "7365f8b17579d2db9d2bd4deebc091b07927c402c6085efb2ee62fa840a1b686"
+    },
+    {
+      "file": "scripts/verify_audio_v7.py",
+      "bytes": 655,
+      "sha256": "e9d1b80f6edce7b4df34f0b1bff8b23e208d2f178ab1f8e5b60e7321b4dc7ab7"
+    },
+    {
+      "file": "scripts/audit_scene_v5.py",
+      "bytes": 13849,
+      "sha256": "83c70c65712aa12d1a32f66232d15fcc3a0eccd4bf8f8aa6399b4e803f0f0c42"
+    },
+    {
+      "file": "scripts/audit_scene_v6.py",
+      "bytes": 18439,
+      "sha256": "c48e08cdd960b1d9e4819c3e71bbce6bac5a8872d52e42bbed436942e662bf2c"
+    },
+    {
+      "file": "scripts/verify_audio_v5.py",
+      "bytes": 6667,
+      "sha256": "d0341f90ac8693277dcc006d3e99eab755096e1a0ceb020b1b629449231d5a09"
+    },
+    {
+      "file": "scripts/heroine_motion_v4.py",
+      "bytes": 9483,
+      "sha256": "d39ad7f315d6183d7acb70c6dcfbd891d335dae77f4cb109a932b4315c5d68ec"
+    },
+    {
+      "file": "scripts/open_astra_approach.py",
+      "bytes": 688,
+      "sha256": "1b71ee55d4eccdf121698a5d53c19a8d2b8135209140c2b524b323f02db392a5"
+    },
+    {
+      "file": "scripts/configure_gpu.py",
+      "bytes": 574,
+      "sha256": "dd951e1dc4fa3aeb836b8fd33082050673d3493f9a0ec9facc668792c2ac96c0"
+    }
+  ],
+  "frame_set": {
+    "count": 576,
+    "reused_from_v6": 343,
+    "aggregate_sha256": "980810bd2c3ab33a6882a14c600de101cf1028287ea5603ceb9a9349c6d28751"
+  },
+  "render_timing": {
+    "new_frames_recorded": 9,
+    "total_new_frame_render_seconds": 290.62,
+    "median_new_frame_seconds": 30.16
+  },
+  "qa": {
+    "scene": "renders/v7/scene-audit.json",
+    "picture": "renders/v7/movie-qa.json",
+    "audio": "renders/v7/audio-qa.json",
+    "motion_proof": "previews/v7/acting-proof-qa.json",
+    "portable_rebuild": "renders/v7/rebuild-qa.json",
+    "native_closeup": "previews/v7/closeup-qa.json"
+  },
+  "encoded_audio": {
+    "version": 7,
+    "movie": "The Last Observatory - Astra Approach.mp4",
+    "movie_bytes": 14826437,
+    "movie_sha256": "7391f2a593be47f93ce6ba166dcb4d94fabbacc0637827910de73b7e872e9dec",
+    "measurement_method": "FFmpeg ebur128=peak=true on decoded AAC; unmodified-rate/channel float32 PCM sample inspection",
+    "ffmpeg_version": "ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers",
+    "audio_codec": "aac",
+    "sample_rate_hz": 48000,
+    "channels": 2,
+    "decoded_sample_frames": 1152000,
+    "decoded_duration_seconds": 24.0,
+    "expected_duration_seconds": 24,
+    "duration_difference_seconds": 0.0,
+    "aac_padding_tolerance_seconds": 0.05,
+    "finite_samples": true,
+    "full_scale_or_over_range_sample_count": 0,
+    "absolute_sample_peak": 0.6663981080055237,
+    "sample_peak_dbfs": -3.5253248924073475,
+    "integrated_loudness_lufs": -17.7,
+    "loudness_range_lu": 7.3,
+    "true_peak_dbtp": -3.5,
+    "checks": {
+      "aac_codec": true,
+      "sample_rate_48000_hz": true,
+      "stereo": true,
+      "duration_within_50_ms_of_24_seconds": true,
+      "finite_samples": true,
+      "no_full_scale_or_over_range_samples": true,
+      "non_silent_audio": true,
+      "integrated_loudness_within_2_lu_of_minus_18": true,
+      "true_peak_at_or_below_minus_2_dbtp": true
+    },
+    "technical_checks": "passed",
+    "failed_checks": [],
+    "perceptual_listening_performed": false,
+    "source_master": "audio/v7/last_observatory_v7_mix.wav"
+  },
+  "previous_versions_unchanged": true,
+  "new_paid_api_requests": 0,
+  "review_limit": "Representative final images and sequential approach-proof frames inspected; no full real-time playback or perceptual listening."
+}
