@@ -1,3 +1,5 @@
+> **V6 reach preview:** [See the new one-handed animation and editable scene](README-v6.md). The revised full film is rendering.
+
 # The Last Observatory — Astra Chamber
 
 A 24-second cinematic set inside a modern orbital observatory. The same young woman enters through a sliding airlock, reacts with surprise and wonder, and watches the Astra galaxy turn inside a new precision instrument.

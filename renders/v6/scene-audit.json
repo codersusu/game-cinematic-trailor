@@ -1,0 +1,543 @@
+{
+  "source_scene": "observatory-v5.blend",
+  "candidate_scene": "observatory-v6.blend",
+  "status": "passed",
+  "errors": [],
+  "source_sha256": "50c416d855eb24389c44683ac7f8f1a1ed2929b5044044344af8ac4c69045f5c",
+  "candidate_sha256": "f013bf8ea7209cce8daefb68732051449807f8bc7679c8cb2dd92be9e62af71d",
+  "new_objects": {
+    "expected": {
+      "V6 | The first reach": "CAMERA",
+      "V6 | The first reach focus": "EMPTY"
+    },
+    "actual": {
+      "V6 | The first reach": "CAMERA",
+      "V6 | The first reach focus": "EMPTY"
+    },
+    "passed": true
+  },
+  "reach_motion_diagnostics": {
+    "maximum_adjacent_quaternion_degrees": 3.3533285440117155,
+    "maximum_adjacent_quaternion_bone": "Bip01 R Finger32",
+    "maximum_adjacent_quaternion_frame": 405,
+    "maximum_adjacent_wrist_displacement_m": 0.017137938066254084,
+    "maximum_wrist_change_vs_baseline_m": 0.7059856198984183,
+    "notes": "Continuity guardrails only; these numbers do not establish natural acting. Quaternion deltas are measured in world space.",
+    "passed": true
+  },
+  "checks": {
+    "objects_except_allowed_reach_curves": {
+      "passed": true,
+      "baseline_count": 524,
+      "candidate_count": 524,
+      "changed": [],
+      "missing": [],
+      "added": [],
+      "changed_fields": {},
+      "baseline_sha256": "4ebf79e7ee9d3449ddf0ce4994cf1056c4b42c25a6d1385e3f315a0d448caed9",
+      "candidate_sha256": "4ebf79e7ee9d3449ddf0ce4994cf1056c4b42c25a6d1385e3f315a0d448caed9"
+    },
+    "meshes": {
+      "passed": true,
+      "baseline_count": 371,
+      "candidate_count": 371,
+      "changed": [],
+      "missing": [],
+      "added": [],
+      "changed_fields": {},
+      "baseline_sha256": "590f4c1d261f4d5efaa686215d109a85af8fa8dd074dd186585e2aea5a14079b",
+      "candidate_sha256": "590f4c1d261f4d5efaa686215d109a85af8fa8dd074dd186585e2aea5a14079b"
+    },
+    "materials": {
+      "passed": true,
+      "baseline_count": 52,
+      "candidate_count": 52,
+      "changed": [],
+      "missing": [],
+      "added": [],
+      "changed_fields": {},
+      "baseline_sha256": "a2f3665be381e47461cbd89569ea17216e0c0e39e53e58d38e85764fc369e3f5",
+      "candidate_sha256": "a2f3665be381e47461cbd89569ea17216e0c0e39e53e58d38e85764fc369e3f5"
+    },
+    "node_groups": {
+      "passed": true,
+      "baseline_count": 0,
+      "candidate_count": 0,
+      "changed": [],
+      "missing": [],
+      "added": [],
+      "changed_fields": {},
+      "baseline_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "candidate_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    "images": {
+      "passed": true,
+      "baseline_count": 23,
+      "candidate_count": 23,
+      "changed": [],
+      "missing": [],
+      "added": [],
+      "changed_fields": {},
+      "baseline_sha256": "0da784d771a9fe9c69a2c04e34fe49a10da4794d4dd48b9adaf7668779f1dc64",
+      "candidate_sha256": "0da784d771a9fe9c69a2c04e34fe49a10da4794d4dd48b9adaf7668779f1dc64"
+    },
+    "render_world_compositor_settings": {
+      "passed": true,
+      "baseline_sha256": "9ab04511563ba6175b6268f7b97aeee4041d1ca7fa9cf96ce77f10fd6e165b17",
+      "candidate_sha256": "9ab04511563ba6175b6268f7b97aeee4041d1ca7fa9cf96ce77f10fd6e165b17",
+      "changed_sections": []
+    },
+    "all_bones_early": {
+      "passed": true,
+      "maximum_absolute_difference": 0.0,
+      "maximum_difference_path": null,
+      "tolerance": 2e-06,
+      "numeric_values_compared": 460800,
+      "structural_differences": [],
+      "baseline_sha256": "6c1587fd7319424323e14f0f993da03ddfb5184cd19de47d06e6fcef7483ae66",
+      "candidate_sha256": "6c1587fd7319424323e14f0f993da03ddfb5184cd19de47d06e6fcef7483ae66"
+    },
+    "legs_all_frames": {
+      "passed": true,
+      "maximum_absolute_difference": 0.0,
+      "maximum_difference_path": null,
+      "tolerance": 2e-06,
+      "numeric_values_compared": 83088,
+      "structural_differences": [],
+      "baseline_sha256": "afddbad8ab24013848d8967e978fd42acc560f394675b219bab5754944d212d1",
+      "candidate_sha256": "afddbad8ab24013848d8967e978fd42acc560f394675b219bab5754944d212d1"
+    },
+    "root_all_frames": {
+      "passed": true,
+      "maximum_absolute_difference": 0.0,
+      "maximum_difference_path": null,
+      "tolerance": 2e-06,
+      "numeric_values_compared": 9232,
+      "structural_differences": [],
+      "baseline_sha256": "8c692adfb949ba54fb483e8cc0fbc7c963ed62c679092db122ba07ec54a15912",
+      "candidate_sha256": "8c692adfb949ba54fb483e8cc0fbc7c963ed62c679092db122ba07ec54a15912"
+    },
+    "cameras_early": {
+      "passed": true,
+      "maximum_absolute_difference": 0.0,
+      "maximum_difference_path": null,
+      "tolerance": 2e-06,
+      "numeric_values_compared": 31320,
+      "structural_differences": [],
+      "baseline_sha256": "e67d36b156b52b7915981e8cbef6f50c196729826cd76b8cb2047f88e182c183",
+      "candidate_sha256": "e67d36b156b52b7915981e8cbef6f50c196729826cd76b8cb2047f88e182c183"
+    },
+    "rig_curves_early": {
+      "passed": true,
+      "maximum_absolute_difference": 0.0,
+      "maximum_difference_path": null,
+      "tolerance": 1e-07,
+      "numeric_values_compared": 291600,
+      "structural_differences": [],
+      "baseline_sha256": "cd1c00d1791399133c4dfa370acde18623079266285c161dd1eb3a7e19473d8f",
+      "candidate_sha256": "cd1c00d1791399133c4dfa370acde18623079266285c161dd1eb3a7e19473d8f"
+    },
+    "camera_cut_schedule": {
+      "passed": true,
+      "baseline": [
+        {
+          "frame": 1,
+          "name": "00 \u2022 A breath at the threshold",
+          "camera": "00 \u2022 A breath at the threshold"
+        },
+        {
+          "frame": 37,
+          "name": "01 \u2022 Across the threshold",
+          "camera": "01 \u2022 Across the threshold"
+        },
+        {
+          "frame": 193,
+          "name": "02 \u2022 The turning heavens",
+          "camera": "02 \u2022 The turning heavens"
+        },
+        {
+          "frame": 289,
+          "name": "03A \u2022 Wonder",
+          "camera": "03A \u2022 Wonder"
+        },
+        {
+          "frame": 345,
+          "name": "03 \u2022 Under a billion stars",
+          "camera": "03 \u2022 Under a billion stars"
+        },
+        {
+          "frame": 481,
+          "name": "04 \u2022 The stars remember",
+          "camera": "04 \u2022 The stars remember"
+        }
+      ],
+      "candidate": [
+        {
+          "frame": 1,
+          "name": "00 \u2022 A breath at the threshold",
+          "camera": "00 \u2022 A breath at the threshold"
+        },
+        {
+          "frame": 37,
+          "name": "01 \u2022 Across the threshold",
+          "camera": "01 \u2022 Across the threshold"
+        },
+        {
+          "frame": 193,
+          "name": "02 \u2022 The turning heavens",
+          "camera": "02 \u2022 The turning heavens"
+        },
+        {
+          "frame": 289,
+          "name": "03A \u2022 Wonder",
+          "camera": "03A \u2022 Wonder"
+        },
+        {
+          "frame": 345,
+          "name": "03 \u2022 Under a billion stars",
+          "camera": "03 \u2022 Under a billion stars"
+        },
+        {
+          "frame": 385,
+          "name": "V6 | The first reach",
+          "camera": "V6 | The first reach"
+        },
+        {
+          "frame": 481,
+          "name": "04 \u2022 The stars remember",
+          "camera": "04 \u2022 The stars remember"
+        }
+      ]
+    }
+  },
+  "allowed_bones": [
+    "Bip01 R Clavicle",
+    "Bip01 R Finger0",
+    "Bip01 R Finger01",
+    "Bip01 R Finger02",
+    "Bip01 R Finger1",
+    "Bip01 R Finger11",
+    "Bip01 R Finger12",
+    "Bip01 R Finger2",
+    "Bip01 R Finger21",
+    "Bip01 R Finger22",
+    "Bip01 R Finger3",
+    "Bip01 R Finger31",
+    "Bip01 R Finger32",
+    "Bip01 R Finger4",
+    "Bip01 R Finger41",
+    "Bip01 R Finger42",
+    "Bip01 R Forearm",
+    "Bip01 R Hand",
+    "Bip01 R UpperArm",
+    "Bip01 Spine1",
+    "Bip01 Spine2"
+  ],
+  "allowed_channels": [
+    "rotation_quaternion"
+  ],
+  "early_reuse": {
+    "frames": [
+      1,
+      359
+    ],
+    "additional_motion_blur_sample": 359.5,
+    "all_rig_bones": 80,
+    "early_samples": 360,
+    "full_root_and_leg_samples": 577,
+    "safe": true
+  },
+  "images": {
+    "Map #13": {
+      "path": "assets/character/heroine_v4/f004_body_color.tga",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "02c1362ed7daed6cb3aac33dc85f8e635c9be29265c7d96515c8ca7230c50781",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Map #15": {
+      "path": "assets/character/heroine_v4/f004_body_normal.tga",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "01e3802e124c854ebfef58fd36f4dc188433e1d7a989a92cfd0699adaed0a947",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Map #17": {
+      "path": "assets/character/heroine_v4/f004_head_color.tga",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "61b418a825e85514541f28c5968e9e0a0d1897506f7c7bccd27eef336e1473ef",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Map #19": {
+      "path": "assets/character/heroine_v4/f004_head_normal.tga",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "f9e94fcc0952d60fc86eef3d737f46d53473ffc9e306984bf64570306d900823",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Map #6": {
+      "path": "assets/character/heroine_v4/f004_opacity_color.tga",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "cf9b868f3f2b9f48ee3d764d1b8f611df94167e393f6275c04779963b3ddd506",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Metal032_2K-JPG_Color.jpg": {
+      "path": "assets/v5/materials/Metal032/Metal032_2K-JPG_Color.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "f444c07a08de291049d0dda880d6fca9faae4b172f293f604c87e5e96ad30370",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Metal032_2K-JPG_Displacement.jpg": {
+      "path": "assets/v5/materials/Metal032/Metal032_2K-JPG_Displacement.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "9df0c2f82662c7e863d17531cbc364f7ea52ad7921f9a547e7357ba29ec2d620",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Metal032_2K-JPG_Roughness.jpg": {
+      "path": "assets/v5/materials/Metal032/Metal032_2K-JPG_Roughness.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "8a0570593c028cf0eca32a0107d7bc936817f0de7076f1b8b8f48ea7745aee27",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Metal050A_4K-JPG_Color.jpg": {
+      "path": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Color.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "890f5d68324127f005e84363e4af1f72cafbcd61857f2b568a20b47cf291919f",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Metal050A_4K-JPG_Displacement.jpg": {
+      "path": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "f60c50de5934b17793b71dcef7b03a34f916605ef32bc501b75f635009c63a4a",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Metal050A_4K-JPG_Roughness.jpg": {
+      "path": "assets/v5/materials/Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "fb7d4d762273ba459cfe4c351d55a042c226aee35c695f9ed64e2dc1fb95ca2f",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Plastic010_2K-JPG_Color.jpg": {
+      "path": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Color.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "9e966978debc85c05e1e4834e1ac8406d863f9267c396d1580ec2d94fdce9738",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Plastic010_2K-JPG_Displacement.jpg": {
+      "path": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "9a2b7e0397fd811ac20444aeb33ae3b4057e645c46a292baa33ee18b8dea22df",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "Plastic010_2K-JPG_Roughness.jpg": {
+      "path": "assets/v5/materials/Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "44a1a3eb43252db6c242cd3e777a2e41819e872058e032e3cf8285cc578f35bb",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "rubber_tiles_diff_2k.jpg": {
+      "path": "assets/v5/materials/rubber_tiles/rubber_tiles_diff_2k.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "a14ed9c9b8235a71ce2d7d0d5d0d949a07b8e895d2b78cb3589a6c755bd95215",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "rubber_tiles_rough_2k.jpg": {
+      "path": "assets/v5/materials/rubber_tiles/rubber_tiles_rough_2k.jpg",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "5679ff2440d15093bd60df56460199f3b31cdee14bb7bf1983be3af8b8fa60c2",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "starmap_2020_8k_gal.exr": {
+      "path": "assets/hdri/stars/starmap_2020_8k_gal.exr",
+      "packed": false,
+      "packed_sha256": [],
+      "file_sha256": "d70924422d3e0159764b16a19658784befcf73b97e06e5c16614860c1514bb58",
+      "dimensions": [
+        8192,
+        4096
+      ],
+      "colorspace": "Linear Rec.709",
+      "alpha_mode": "PREMUL"
+    },
+    "vent.JPG": {
+      "path": "assets/v5/models/textures/vent.JPG",
+      "packed": true,
+      "packed_sha256": [
+        "e5dc60cdfa22477d16d8cb88f9386253b1746581e6969445db2760e699cc264b"
+      ],
+      "file_sha256": "e5dc60cdfa22477d16d8cb88f9386253b1746581e6969445db2760e699cc264b",
+      "dimensions": [
+        272,
+        262
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "vent_norm.JPG": {
+      "path": "assets/v5/models/textures/vent_norm.JPG",
+      "packed": true,
+      "packed_sha256": [
+        "8cfdd8ef84bcbe1647820609ca6f79ec7ecec3b6e9b2dda59356cd85e120392e"
+      ],
+      "file_sha256": "8cfdd8ef84bcbe1647820609ca6f79ec7ecec3b6e9b2dda59356cd85e120392e",
+      "dimensions": [
+        272,
+        262
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "WhiteColor_Albedo.tga": {
+      "path": "assets/v5/models/textures/WhiteColor_Albedo.tga",
+      "packed": true,
+      "packed_sha256": [
+        "5d4f75372ae1647c2955ebb34b4bab7a148ffbda84cd073da7416204aa7bf2ee"
+      ],
+      "file_sha256": "5d4f75372ae1647c2955ebb34b4bab7a148ffbda84cd073da7416204aa7bf2ee",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "WhiteColor_Emission.png": {
+      "path": "assets/v5/models/textures/WhiteColor_Emission.png",
+      "packed": true,
+      "packed_sha256": [
+        "1e3ee2e3562e4c33822f00bdcdf1ab3fda496581cc2f1d893dab2c38d15565c5"
+      ],
+      "file_sha256": "1e3ee2e3562e4c33822f00bdcdf1ab3fda496581cc2f1d893dab2c38d15565c5",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "sRGB",
+      "alpha_mode": "STRAIGHT"
+    },
+    "WhiteColor_NormalMap.png": {
+      "path": "assets/v5/models/textures/WhiteColor_NormalMap.png",
+      "packed": true,
+      "packed_sha256": [
+        "a37d1b3f16ab18e64c520152054d2c8945eb9bc76ae48dbd733762727c3dd0c7"
+      ],
+      "file_sha256": "a37d1b3f16ab18e64c520152054d2c8945eb9bc76ae48dbd733762727c3dd0c7",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    },
+    "WhiteColor_Specular.tga": {
+      "path": "assets/v5/models/textures/WhiteColor_Specular.tga",
+      "packed": true,
+      "packed_sha256": [
+        "7f2a2b642aba0789eca0489c611e18cc00058d5acf4045a5a5406f4b8ea5bc8e"
+      ],
+      "file_sha256": "7f2a2b642aba0789eca0489c611e18cc00058d5acf4045a5a5406f4b8ea5bc8e",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "alpha_mode": "STRAIGHT"
+    }
+  },
+  "dependency_errors": [],
+  "embedded_texts": [],
+  "non_rendering_reach_metadata": "Standing, baked only after frame 360"
+}

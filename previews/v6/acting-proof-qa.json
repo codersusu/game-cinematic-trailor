@@ -1,0 +1,47 @@
+{
+  "file": "previews/v6/Astra-Reach-motion-proof.mp4",
+  "decoded_frames": 96,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      960,
+      540
+    ],
+    "size": [
+      960,
+      540
+    ],
+    "rotate": 0,
+    "duration": 4.0
+  },
+  "source_frames": [
+    385,
+    480
+  ],
+  "technical_checks": "passed",
+  "visual_review": {
+    "status": "sequential samples reviewed",
+    "source_frames": [
+      385,
+      397,
+      409,
+      421,
+      433,
+      445,
+      457,
+      469,
+      480
+    ],
+    "notes": [
+      "Arm rises along a continuous arc",
+      "Bent elbow and relaxed open fingers read clearly",
+      "Shoulder turn remains subtle",
+      "Camera holds the character and reaching hand in frame"
+    ],
+    "full_realtime_playback_performed": false
+  }
+}
