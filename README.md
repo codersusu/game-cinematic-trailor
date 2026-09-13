@@ -51,3 +51,5 @@ All 393 output frames decoded at 1920 × 1080/12 fps, and the audio stream decod
 ## Historical films — elevenlabs.io
 
 Previous films and lightweight combat/camera reviews remain archived in this repository. See [V7](README-v7.md), [V6](README-v6.md), [V5](README-v5.md), and the versioned `previews/` folders. Earlier sound effects were generated with **elevenlabs.io**; their source manifests and service conditions remain attached. The old generation subscription tier is unverified, so those historical service outputs are not represented as CC0 or as commercially licensed. V13 uses its separate original composition and verified CC0 instrument recordings.
+
+[Publication verification and local video recovery](docs/v13/publication-and-cleanup.md). Local production exports were cleaned only after all44 archived videos were freshly downloaded and hash-verified. Editable source files remain intact.

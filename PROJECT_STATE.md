@@ -1,4 +1,4 @@
-# Current completed film — V13 native 1080p
+# Current published film — V13 native 1080p
 
 V13 raises the picture to native 1920×1080, adds the original instrumental score **Beyond the Threshold**, and fixes the arrow passing through the bow hand. The arrow rests above the grip, follows a consistent release trajectory, and the bow arm is nearly extended with an outward bow tilt.
 
@@ -9,7 +9,7 @@ The final edit uses forest source frames 10–132 followed by room source frames
 - Forest: `bear-bow-forest-v13.blend`, approved SHA256 `9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a`.
 - Room: `observatory-v12-run-entry.blend`, unchanged for this version.
 - Final music: `audio/v13/forest_to_astra_music_final.wav`; original composition and untrimmed masters are preserved.
-- Completed movie: `previews/v13/Forest-to-Astra-V13-1080p.mp4` — all 393 frames and the audio stream decode successfully; representative native images and the assembled contact sheet have been visually reviewed.
+- Published movie: `previews/v13/Forest-to-Astra-V13-1080p.mp4` on GitHub (local video exports cleaned; restore with Git LFS) — all 393 frames and the audio stream decode successfully; representative native images and the assembled contact sheet have been visually reviewed.
 - Completed short shot check: `previews/v13/Bow-fix-1080p.mp4`.
 - `scripts/finish_render_v13.py` resumes the missing frames sequentially and encodes the scored film. Run only one GPU job at a time. `previews/v13/pause-render` requests a graceful stop between frames.
 - `previews/v13/review-state.json` records current state. Archery evidence is indexed by `archery-final-qa-manifest.md`; music checks are in `audio/v13/final-edit-qa.json`. Final encoding creates `combined-movie-qa.json` and a contact sheet for visual review.
@@ -35,4 +35,4 @@ The combined review uses 11 seconds of forest followed by 22.5 seconds of room f
 
 Build with `scripts/build_forest_character_v12.py` and `scripts/build_room_entry_v12.py`. Render only one GPU job at a time using `scripts/render_review_v12.py`. Room footage from frame 227 onward can reuse V11 through the guarded `scripts/reuse_room_v12.py`; frame 225 is rerendered for motion-blur continuity. Encode the combined preview with `scripts/encode_review_v12.py`.
 
-Licensed archer source assets and Blender scenes containing them remain local. The last public repository release is V7; newer local previews have not been submitted there.
+V13 is published to the GitHub repository, including all code and redistributable assets. Restricted archer source assets and the full derived forest scenes remain local; an editable public forest/bear scene is uploaded. All44 local video exports and their cached copies were removed after independent remote download/hash verification. See `docs/v13/publication-and-cleanup.md` for recovery commands.

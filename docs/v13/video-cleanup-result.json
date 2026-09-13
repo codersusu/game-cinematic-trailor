@@ -1,0 +1,497 @@
+{
+  "status": "complete",
+  "remote_commit": "0a081fb41cbe88ce4f1f81e91b16b429c556cc62",
+  "deleted_production_videos": [
+    {
+      "path": "The Last Observatory - Arrival.mp4",
+      "sha256": "36bab720dd262376b6e037ee34fa6693d78180d1052b7eb03cd048badd53e158",
+      "bytes": 18883644,
+      "local_production_copy": true
+    },
+    {
+      "path": "The Last Observatory - Astra Approach.mp4",
+      "sha256": "7391f2a593be47f93ce6ba166dcb4d94fabbacc0637827910de73b7e872e9dec",
+      "bytes": 14826437,
+      "local_production_copy": true
+    },
+    {
+      "path": "The Last Observatory - Astra Chamber.mp4",
+      "sha256": "013f009eba09363c2b389cd1c5e2c97286742d5d3dee8580cbfed49f995da3a3",
+      "bytes": 14660995,
+      "local_production_copy": true
+    },
+    {
+      "path": "The Last Observatory - Astra Reach.mp4",
+      "sha256": "dcf97d4c58f08ac456411af848f5cf4f54ac5d1d3250e13fdc71c4b2eca6ff7e",
+      "bytes": 13157114,
+      "local_production_copy": true
+    },
+    {
+      "path": "The Last Observatory - Celestial.mp4",
+      "sha256": "fcb0d222d949fc89caf54e66bd499f3448143c0a6ba34d0aed3d85edff08375e",
+      "bytes": 21230652,
+      "local_production_copy": true
+    },
+    {
+      "path": "The Last Observatory - Wonder.mp4",
+      "sha256": "a332b386b66313a92f88a8a08bdc4966c311f88623224c4d16c7d3dba27d4246",
+      "bytes": 19479164,
+      "local_production_copy": true
+    },
+    {
+      "path": "The Last Observatory.mp4",
+      "sha256": "f7a83b4e20974ace8e443cfe4d439a8b3ef1b505630c411440f6b9dafeed8a23",
+      "bytes": 18605743,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/Opening-shot-preview.mp4",
+      "sha256": "0571833aa946c0b81dc8ed2566cbc072e35d46c01f3b5ff072854b773177bf85",
+      "bytes": 841417,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/TEST-static-editorial-sequence.mp4",
+      "sha256": "0d3c42afcd1e9d58e1ee08f65601dc1e381689c9213a8f46bdb4a61d72e98ec5",
+      "bytes": 3625456,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/eye-material-before/motion-test.mp4",
+      "sha256": "7f501c21c70afcb07ab913834c2efa701565b309650ab4043e48f64bc798e1a0",
+      "bytes": 305224,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/motion-test.mp4",
+      "sha256": "376a45af8095548b17684c1b09d502963b79c9cb69da30b03e3107263a79dc66",
+      "bytes": 1184519,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v10/first/Forest-Escape-first-person.mp4",
+      "sha256": "11264619b67c6e7a41303255de03c92bfa2b7745f57729162b2b9af49c1e0ef1",
+      "bytes": 7029484,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v10/third/Forest-Escape-third-person.mp4",
+      "sha256": "5fde0dc2e43923638e0c8445f188f142f3cf8afcf7952e92776ef5f948f31266",
+      "bytes": 5966736,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v11/Forest-to-Astra-V11.mp4",
+      "sha256": "0e255799883d7022af3369a1dadc24545be470cc851104fb1905a0e8969e744b",
+      "bytes": 10772634,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v12/Forest-to-Astra-V12.mp4",
+      "sha256": "2a5c629759663794163b66911a35800d0eef67c3cb2f8d21b23b2f42d365fea0",
+      "bytes": 11114292,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v12/Room-entry-run-look-back-walk.mp4",
+      "sha256": "dd4c951a42f9122c79bfc86e8949f6f4e3ef955ae58339a395bc3085c1b12d8a",
+      "bytes": 952164,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v13/.Forest-to-Astra-V13.video-only.mp4",
+      "sha256": "a4a7c2240b66e4a63ef353cf9d979aca9685f4d7859180936129ae6c7e223e7b",
+      "bytes": 45819491,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v13/.bow-excerpt-video.mp4",
+      "sha256": "1a3ffa43f5aa5984872127398cbe7f415366c8b7eb0ced58dbd732703eaf1cff",
+      "bytes": 6286656,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v13/Bow-fix-1080p.mp4",
+      "sha256": "b6577e41a671f2cde9bde9f67d2646671ca54e0f61f5292683acedf8fd3e145c",
+      "bytes": 6400966,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v13/Forest-to-Astra-V13-1080p.mp4",
+      "sha256": "53389d92f5c4258d50bf51bcf7fd6ce14e38de7653a2b21a91818c66b335ddca",
+      "bytes": 47055387,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v2/Arrival-motion-1080p.mp4",
+      "sha256": "5fd8d2292417fa660099345a16bab4f2a154e57c4ce9669cc63e73ffc05b11d4",
+      "bytes": 1634773,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v2/motion-test.mp4",
+      "sha256": "926ce4a36872701a030f535f2c33003a2315f9a9681022ee091c934ce5f7a2ce",
+      "bytes": 419083,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v3/Celestial-motion-1080p.mp4",
+      "sha256": "949830623bebb8de15eda136e4850c2d29f6d458a3c86684de4968364ba50aa7",
+      "bytes": 1615594,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v3/Galaxy-motion.mp4",
+      "sha256": "418ab4f82b1f45dfa4579a21327b7a0e5502e5e06e7a03c8cf77b50c11e95cee",
+      "bytes": 765626,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v4/Native-walk-and-expressions.mp4",
+      "sha256": "7abad6dd29da01dd37bd3ca587673fdc3a719c443065a45c74454165fa24007f",
+      "bytes": 1191769,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v4/native-walk-probe/native-walk-probe.mp4",
+      "sha256": "9b771564ff2c63f8520a8760f5def587549040ec8f3644b0d5ef4613a6c43aae",
+      "bytes": 236212,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v4/rocketbox-native-motion/Rocketbox-walk-stop-idle.mp4",
+      "sha256": "9e6a6021446523909277ff7dcd261291ea5c2780d3d02a96b22cabe40dbd26b4",
+      "bytes": 441235,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v5/Astra-Chamber-motion-proof.mp4",
+      "sha256": "8f954bcbe4ed8cb8ff5744b14e47a31d4d5d9745eee93d5ccd125551c2656341",
+      "bytes": 2037054,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v6/Astra-Reach-closeup-1080p.mp4",
+      "sha256": "f79a1b9b204aec6ed4b94b03c3197e36eb0fc13d76e1b88b8763c6ecebbef2ce",
+      "bytes": 1415280,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v6/Astra-Reach-motion-proof.mp4",
+      "sha256": "c1805b2d8d0491d8e8f6988af790d73a7d7b7ddab869f4397830ade411291f79",
+      "bytes": 696545,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v7/Astra-Approach-closeup-1080p.mp4",
+      "sha256": "7f783c993c1e6d12bcd6cf7f644efe177cf4780120da1158672be1ef1ad8127e",
+      "bytes": 4246158,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v7/Astra-Approach-motion-proof.mp4",
+      "sha256": "793399a0babd8e879db17ccc01d182a2da6d03acb654d776ad9cea244200e6a5",
+      "bytes": 1798431,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/combat/bow-shot-native.mp4",
+      "sha256": "7f6a5594844478c11a54dbb01e9d35be65d5038d0c2244215b87a2a469bb13ed",
+      "bytes": 160438,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/combat/combat-motion-options.mp4",
+      "sha256": "5894fdb50a2c632639953ed633fc89c2180e10b93c811ae407f26f8812f52ab9",
+      "bytes": 869008,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/combat/guardian-attack-native.mp4",
+      "sha256": "ceafbb809081a00c17247c921faf78da26079b955bb6336e73107a7b8f1a15ee",
+      "bytes": 173055,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/combat/sword-combo-native.mp4",
+      "sha256": "52be6de5f84d40446f3ed6a7f6ecca983f41058c909ebfae61c750cf2b4b7456",
+      "bytes": 98905,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/finger/Astra-index-finger-workbench.mp4",
+      "sha256": "b54959659e638c06c9c4fe09e09abb80b1a1250f322ab866a01c5718ac185a2e",
+      "bytes": 169352,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/options/a/Option-A-draft.mp4",
+      "sha256": "a83acba8f61c231838da76672e37a7b650765c2d853063a1d54e4494da73df77",
+      "bytes": 609972,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/options/a/Option-A-first-pass.mp4",
+      "sha256": "3239a6118c0fb8a91c0adb114dd64b350e95ce59d1acc3b9f3219513f5483250",
+      "bytes": 587637,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/options/b/Option-B-draft.mp4",
+      "sha256": "c1b0d42e14f4c87e02888901c40af7dc5920e1deaef1adbab02d7f0338935939",
+      "bytes": 1390423,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/options/c/Option-C-draft.mp4",
+      "sha256": "ec45fd84a47263a44a0085a9384db80920bde965b799ddccc4ec8a13cd4d7fcf",
+      "bytes": 678344,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v8/options/c/first-pass/Option-C-draft.mp4",
+      "sha256": "b2531c649c64341699d8a5a2bb0cff699daafaea6b21183899730855f0c5aaec",
+      "bytes": 677876,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v9/first/Bear-Escape-first-person.mp4",
+      "sha256": "ebdd479bf3c01ccb9e16815705a4aa433f163c27e36a58b73d398ef1e062575f",
+      "bytes": 2711446,
+      "local_production_copy": true
+    },
+    {
+      "path": "previews/v9/third/Bear-Escape-third-person.mp4",
+      "sha256": "d244d51a808b97aa9a71ff71d637fcedf70d3d403e7244749c901908e188f721",
+      "bytes": 2538518,
+      "local_production_copy": true
+    }
+  ],
+  "checkout_lfs_placeholders": [
+    "The Last Observatory - Arrival.mp4",
+    "The Last Observatory - Astra Approach.mp4",
+    "The Last Observatory - Astra Chamber.mp4",
+    "The Last Observatory - Astra Reach.mp4",
+    "The Last Observatory - Celestial.mp4",
+    "The Last Observatory - Wonder.mp4",
+    "The Last Observatory.mp4",
+    "previews/Opening-shot-preview.mp4",
+    "previews/TEST-static-editorial-sequence.mp4",
+    "previews/eye-material-before/motion-test.mp4",
+    "previews/motion-test.mp4",
+    "previews/v10/first/Forest-Escape-first-person.mp4",
+    "previews/v10/third/Forest-Escape-third-person.mp4",
+    "previews/v11/Forest-to-Astra-V11.mp4",
+    "previews/v12/Forest-to-Astra-V12.mp4",
+    "previews/v12/Room-entry-run-look-back-walk.mp4",
+    "previews/v13/.Forest-to-Astra-V13.video-only.mp4",
+    "previews/v13/.bow-excerpt-video.mp4",
+    "previews/v13/Bow-fix-1080p.mp4",
+    "previews/v13/Forest-to-Astra-V13-1080p.mp4",
+    "previews/v2/Arrival-motion-1080p.mp4",
+    "previews/v2/motion-test.mp4",
+    "previews/v3/Celestial-motion-1080p.mp4",
+    "previews/v3/Galaxy-motion.mp4",
+    "previews/v4/Native-walk-and-expressions.mp4",
+    "previews/v4/native-walk-probe/native-walk-probe.mp4",
+    "previews/v4/rocketbox-native-motion/Rocketbox-walk-stop-idle.mp4",
+    "previews/v5/Astra-Chamber-motion-proof.mp4",
+    "previews/v6/Astra-Reach-closeup-1080p.mp4",
+    "previews/v6/Astra-Reach-motion-proof.mp4",
+    "previews/v7/Astra-Approach-closeup-1080p.mp4",
+    "previews/v7/Astra-Approach-motion-proof.mp4",
+    "previews/v8/combat/bow-shot-native.mp4",
+    "previews/v8/combat/combat-motion-options.mp4",
+    "previews/v8/combat/guardian-attack-native.mp4",
+    "previews/v8/combat/sword-combo-native.mp4",
+    "previews/v8/finger/Astra-index-finger-workbench.mp4",
+    "previews/v8/options/a/Option-A-draft.mp4",
+    "previews/v8/options/a/Option-A-first-pass.mp4",
+    "previews/v8/options/b/Option-B-draft.mp4",
+    "previews/v8/options/c/Option-C-draft.mp4",
+    "previews/v8/options/c/first-pass/Option-C-draft.mp4",
+    "previews/v9/first/Bear-Escape-first-person.mp4",
+    "previews/v9/third/Bear-Escape-third-person.mp4"
+  ],
+  "evicted_video_cache_objects": [
+    {
+      "sha256": "36bab720dd262376b6e037ee34fa6693d78180d1052b7eb03cd048badd53e158",
+      "bytes": 18883644
+    },
+    {
+      "sha256": "7391f2a593be47f93ce6ba166dcb4d94fabbacc0637827910de73b7e872e9dec",
+      "bytes": 14826437
+    },
+    {
+      "sha256": "013f009eba09363c2b389cd1c5e2c97286742d5d3dee8580cbfed49f995da3a3",
+      "bytes": 14660995
+    },
+    {
+      "sha256": "dcf97d4c58f08ac456411af848f5cf4f54ac5d1d3250e13fdc71c4b2eca6ff7e",
+      "bytes": 13157114
+    },
+    {
+      "sha256": "fcb0d222d949fc89caf54e66bd499f3448143c0a6ba34d0aed3d85edff08375e",
+      "bytes": 21230652
+    },
+    {
+      "sha256": "a332b386b66313a92f88a8a08bdc4966c311f88623224c4d16c7d3dba27d4246",
+      "bytes": 19479164
+    },
+    {
+      "sha256": "f7a83b4e20974ace8e443cfe4d439a8b3ef1b505630c411440f6b9dafeed8a23",
+      "bytes": 18605743
+    },
+    {
+      "sha256": "0571833aa946c0b81dc8ed2566cbc072e35d46c01f3b5ff072854b773177bf85",
+      "bytes": 841417
+    },
+    {
+      "sha256": "0d3c42afcd1e9d58e1ee08f65601dc1e381689c9213a8f46bdb4a61d72e98ec5",
+      "bytes": 3625456
+    },
+    {
+      "sha256": "7f501c21c70afcb07ab913834c2efa701565b309650ab4043e48f64bc798e1a0",
+      "bytes": 305224
+    },
+    {
+      "sha256": "376a45af8095548b17684c1b09d502963b79c9cb69da30b03e3107263a79dc66",
+      "bytes": 1184519
+    },
+    {
+      "sha256": "11264619b67c6e7a41303255de03c92bfa2b7745f57729162b2b9af49c1e0ef1",
+      "bytes": 7029484
+    },
+    {
+      "sha256": "5fde0dc2e43923638e0c8445f188f142f3cf8afcf7952e92776ef5f948f31266",
+      "bytes": 5966736
+    },
+    {
+      "sha256": "0e255799883d7022af3369a1dadc24545be470cc851104fb1905a0e8969e744b",
+      "bytes": 10772634
+    },
+    {
+      "sha256": "2a5c629759663794163b66911a35800d0eef67c3cb2f8d21b23b2f42d365fea0",
+      "bytes": 11114292
+    },
+    {
+      "sha256": "dd4c951a42f9122c79bfc86e8949f6f4e3ef955ae58339a395bc3085c1b12d8a",
+      "bytes": 952164
+    },
+    {
+      "sha256": "a4a7c2240b66e4a63ef353cf9d979aca9685f4d7859180936129ae6c7e223e7b",
+      "bytes": 45819491
+    },
+    {
+      "sha256": "1a3ffa43f5aa5984872127398cbe7f415366c8b7eb0ced58dbd732703eaf1cff",
+      "bytes": 6286656
+    },
+    {
+      "sha256": "b6577e41a671f2cde9bde9f67d2646671ca54e0f61f5292683acedf8fd3e145c",
+      "bytes": 6400966
+    },
+    {
+      "sha256": "53389d92f5c4258d50bf51bcf7fd6ce14e38de7653a2b21a91818c66b335ddca",
+      "bytes": 47055387
+    },
+    {
+      "sha256": "5fd8d2292417fa660099345a16bab4f2a154e57c4ce9669cc63e73ffc05b11d4",
+      "bytes": 1634773
+    },
+    {
+      "sha256": "926ce4a36872701a030f535f2c33003a2315f9a9681022ee091c934ce5f7a2ce",
+      "bytes": 419083
+    },
+    {
+      "sha256": "949830623bebb8de15eda136e4850c2d29f6d458a3c86684de4968364ba50aa7",
+      "bytes": 1615594
+    },
+    {
+      "sha256": "418ab4f82b1f45dfa4579a21327b7a0e5502e5e06e7a03c8cf77b50c11e95cee",
+      "bytes": 765626
+    },
+    {
+      "sha256": "7abad6dd29da01dd37bd3ca587673fdc3a719c443065a45c74454165fa24007f",
+      "bytes": 1191769
+    },
+    {
+      "sha256": "9b771564ff2c63f8520a8760f5def587549040ec8f3644b0d5ef4613a6c43aae",
+      "bytes": 236212
+    },
+    {
+      "sha256": "9e6a6021446523909277ff7dcd261291ea5c2780d3d02a96b22cabe40dbd26b4",
+      "bytes": 441235
+    },
+    {
+      "sha256": "8f954bcbe4ed8cb8ff5744b14e47a31d4d5d9745eee93d5ccd125551c2656341",
+      "bytes": 2037054
+    },
+    {
+      "sha256": "f79a1b9b204aec6ed4b94b03c3197e36eb0fc13d76e1b88b8763c6ecebbef2ce",
+      "bytes": 1415280
+    },
+    {
+      "sha256": "c1805b2d8d0491d8e8f6988af790d73a7d7b7ddab869f4397830ade411291f79",
+      "bytes": 696545
+    },
+    {
+      "sha256": "7f783c993c1e6d12bcd6cf7f644efe177cf4780120da1158672be1ef1ad8127e",
+      "bytes": 4246158
+    },
+    {
+      "sha256": "793399a0babd8e879db17ccc01d182a2da6d03acb654d776ad9cea244200e6a5",
+      "bytes": 1798431
+    },
+    {
+      "sha256": "7f6a5594844478c11a54dbb01e9d35be65d5038d0c2244215b87a2a469bb13ed",
+      "bytes": 160438
+    },
+    {
+      "sha256": "5894fdb50a2c632639953ed633fc89c2180e10b93c811ae407f26f8812f52ab9",
+      "bytes": 869008
+    },
+    {
+      "sha256": "ceafbb809081a00c17247c921faf78da26079b955bb6336e73107a7b8f1a15ee",
+      "bytes": 173055
+    },
+    {
+      "sha256": "52be6de5f84d40446f3ed6a7f6ecca983f41058c909ebfae61c750cf2b4b7456",
+      "bytes": 98905
+    },
+    {
+      "sha256": "b54959659e638c06c9c4fe09e09abb80b1a1250f322ab866a01c5718ac185a2e",
+      "bytes": 169352
+    },
+    {
+      "sha256": "a83acba8f61c231838da76672e37a7b650765c2d853063a1d54e4494da73df77",
+      "bytes": 609972
+    },
+    {
+      "sha256": "3239a6118c0fb8a91c0adb114dd64b350e95ce59d1acc3b9f3219513f5483250",
+      "bytes": 587637
+    },
+    {
+      "sha256": "c1b0d42e14f4c87e02888901c40af7dc5920e1deaef1adbab02d7f0338935939",
+      "bytes": 1390423
+    },
+    {
+      "sha256": "ec45fd84a47263a44a0085a9384db80920bde965b799ddccc4ec8a13cd4d7fcf",
+      "bytes": 678344
+    },
+    {
+      "sha256": "b2531c649c64341699d8a5a2bb0cff699daafaea6b21183899730855f0c5aaec",
+      "bytes": 677876
+    },
+    {
+      "sha256": "ebdd479bf3c01ccb9e16815705a4aa433f163c27e36a58b73d398ef1e062575f",
+      "bytes": 2711446
+    },
+    {
+      "sha256": "d244d51a808b97aa9a71ff71d637fcedf70d3d403e7244749c901908e188f721",
+      "bytes": 2538518
+    }
+  ],
+  "preserved": "All editable scenes, source assets, music, code and individual render frames",
+  "production_video_bytes_removed": 295360909,
+  "restore_command": "git lfs pull --include=\"*.mp4\""
+}
