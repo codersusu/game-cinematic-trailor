@@ -1,0 +1,11 @@
+{
+  "scene": "bear-bow-forest-v13.blend",
+  "scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a",
+  "baseline_scene": "bear-bow-forest-v13-before-arm-staging.blend",
+  "baseline_sha256": "7ab3f13a441a8f644528cfdf07046f3ccae6583548af21da5458a293ebacaf84",
+  "arm_staging_report": "archery-arm-staging.json",
+  "dense_clearance_report": "archery-clearance.json",
+  "intersection_sample_count": 0,
+  "arrow_root_cameras_right_hand_bear_unchanged": true,
+  "changes": "Bow advanced5.62 cm along existing arrow axis; canted25 degrees outward; anatomical elbow pole lowered;97% reach151.85-degree elbow angle. Blend9..20 and35..40."
+}

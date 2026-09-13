@@ -1,0 +1,226 @@
+{
+  "library": "VSCO 2 Community Edition",
+  "authors": "Sam Gossner and Simon Dalzell; sample cutting by Elan Hickler/Soundemote",
+  "license": "CC0-1.0",
+  "official_library": "https://versilian-studios.com/vsco-community/",
+  "repository": "https://github.com/sgossner/VSCO-2-CE",
+  "commit": "440300901dfe9275fd84e0b7763af1f8443ae62e",
+  "files": [
+    {
+      "instrument": "cello_spic",
+      "upstream_path": "Strings/Cello Section/spic/spic_D2_v1_RR1.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/spic/spic_D2_v1_RR1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/spic/spic_D2_v1_RR1.wav",
+      "bytes": 394016,
+      "sha256": "6fe41bb3cf9212480ce2e856b5da3971267f75d64b629e90224cc9c6deeb1cb2",
+      "git_blob": "d5424a07cdfa0213020f9d9b042baf25adca8e93"
+    },
+    {
+      "instrument": "cello_spic",
+      "upstream_path": "Strings/Cello Section/spic/spic_D2_v1_RR2.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/spic/spic_D2_v1_RR2.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/spic/spic_D2_v1_RR2.wav",
+      "bytes": 371936,
+      "sha256": "2bbe3fe396003bb294b9051d2d5f206d850bca129a748e9328b16dc893d7bdc3",
+      "git_blob": "2257d013d9bef0761c28418069e69a95b7601486"
+    },
+    {
+      "instrument": "cello_spic",
+      "upstream_path": "Strings/Cello Section/spic/spic_F2_v1_RR1.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/spic/spic_F2_v1_RR1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/spic/spic_F2_v1_RR1.wav",
+      "bytes": 286550,
+      "sha256": "3ca1e1707f47e375f525f2862deba0fef9bd75e95299d029612560a9382a8aee",
+      "git_blob": "0e2f2654ecdedcf68f9c1b87985025fac5443a9d"
+    },
+    {
+      "instrument": "cello_spic",
+      "upstream_path": "Strings/Cello Section/spic/spic_F2_v1_RR2.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/spic/spic_F2_v1_RR2.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/spic/spic_F2_v1_RR2.wav",
+      "bytes": 297674,
+      "sha256": "5dec541489fa59fe92e3ed2eecf0a001a123f9303e835cb137e2025f84cfaabc",
+      "git_blob": "b3a928c5183452964d7924dce232e30d671354f5"
+    },
+    {
+      "instrument": "cello_spic",
+      "upstream_path": "Strings/Cello Section/spic/spic_A2_v1_RR1.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/spic/spic_A2_v1_RR1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/spic/spic_A2_v1_RR1.wav",
+      "bytes": 421418,
+      "sha256": "9d7cde1e9785f468091783946954c390556b72f1e80098f69b0cab38fd64ed08",
+      "git_blob": "01ed4d069a05a5077d0744c08db9af7c152702a6"
+    },
+    {
+      "instrument": "cello_spic",
+      "upstream_path": "Strings/Cello Section/spic/spic_A2_v1_RR2.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/spic/spic_A2_v1_RR2.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/spic/spic_A2_v1_RR2.wav",
+      "bytes": 356546,
+      "sha256": "d465597ad9b4ca4ae97b7a510e21fed0376de99654708251c065eea8e1a27fd6",
+      "git_blob": "5ab7f2a2748a9c2c5544339393e04e2a15a12405"
+    },
+    {
+      "instrument": "cello_sustain",
+      "upstream_path": "Strings/Cello Section/susvib/susvib_C1_v1_1.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/susvib/susvib_C1_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_C1_v1_1.wav",
+      "bytes": 2347376,
+      "sha256": "abdcea431f384e135c469b0f3e4ac2a437f282f521dc5bcbe22abc221536e8de",
+      "git_blob": "ff87d1ae488d87189f33a0d18550d3bcde012f3d"
+    },
+    {
+      "instrument": "cello_sustain",
+      "upstream_path": "Strings/Cello Section/susvib/susvib_D2_v1_1.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/susvib/susvib_D2_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_D2_v1_1.wav",
+      "bytes": 2550956,
+      "sha256": "e8640dec9febc6e39fcf06b19d2c95a85d5ff8c38f13c9879e69f551eaf38ab8",
+      "git_blob": "8076f809d4f6a8057f3835e12d22751a25e39252"
+    },
+    {
+      "instrument": "cello_sustain",
+      "upstream_path": "Strings/Cello Section/susvib/susvib_A2_v1_1.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/susvib/susvib_A2_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_A2_v1_1.wav",
+      "bytes": 2336738,
+      "sha256": "c97a003184fdcb153d6b6c0bae8d82a90592a1b04b06bd7caaeda8b9776d5284",
+      "git_blob": "76df6b474aff133b2ac9d96bf2466cb6fd865c72"
+    },
+    {
+      "instrument": "cello_sustain",
+      "upstream_path": "Strings/Cello Section/susvib/susvib_C3_v1_1.wav",
+      "file": "audio/v13/sources/samples/Strings/Cello Section/susvib/susvib_C3_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_C3_v1_1.wav",
+      "bytes": 2444174,
+      "sha256": "a614ee7ca821b44660236e47b89620cf914ec6ad27a99bc0d9764f47dbe512e1",
+      "git_blob": "73ccb5dc2cc2a07926a1c41aa3c5621b19f420bf"
+    },
+    {
+      "instrument": "violin_sustain",
+      "upstream_path": "Strings/Violin Section/susVib/VlnEns_susVib_D3_v1.wav",
+      "file": "audio/v13/sources/samples/Strings/Violin Section/susVib/VlnEns_susVib_D3_v1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Violin%20Section/susVib/VlnEns_susVib_D3_v1.wav",
+      "bytes": 2061808,
+      "sha256": "583e660bc5daa4e094aef5fc014fbb92751040be8741ed7a16847306a1fe0a99",
+      "git_blob": "e47f9a53d487475fb049039ca7846e11c1ff830a"
+    },
+    {
+      "instrument": "violin_sustain",
+      "upstream_path": "Strings/Violin Section/susVib/VlnEns_susVib_A3_v1.wav",
+      "file": "audio/v13/sources/samples/Strings/Violin Section/susVib/VlnEns_susVib_A3_v1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Violin%20Section/susVib/VlnEns_susVib_A3_v1.wav",
+      "bytes": 1890316,
+      "sha256": "72817a53dfd2eb61eca94658c14e1cab6017629ca2f27bab8e394c6675bfaad7",
+      "git_blob": "ec84b89a4b93ecdc7e23d0c023b897b6f151bca7"
+    },
+    {
+      "instrument": "violin_sustain",
+      "upstream_path": "Strings/Violin Section/susVib/VlnEns_susVib_E4_v1.wav",
+      "file": "audio/v13/sources/samples/Strings/Violin Section/susVib/VlnEns_susVib_E4_v1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Violin%20Section/susVib/VlnEns_susVib_E4_v1.wav",
+      "bytes": 2315540,
+      "sha256": "787fb4bcfb47d5c88ee1573c8db15f32d345386301be4a8eea6a825847413ae2",
+      "git_blob": "838b43d3c9e763898817869d411ab26463b7464f"
+    },
+    {
+      "instrument": "horn",
+      "upstream_path": "Brass/F Horn/sus/MOHorn_sus_F2_v1_1.wav",
+      "file": "audio/v13/sources/samples/Brass/F Horn/sus/MOHorn_sus_F2_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Brass/F%20Horn/sus/MOHorn_sus_F2_v1_1.wav",
+      "bytes": 2163124,
+      "sha256": "d3dcfb6c90cb76954887eb56a85041d5e758bad21234ec0ed11e476d6f05352b",
+      "git_blob": "90c68f7833a7aa2325dea7159aad8af4c9b13a76"
+    },
+    {
+      "instrument": "horn",
+      "upstream_path": "Brass/F Horn/sus/MOHorn_sus_A2_v1_1.wav",
+      "file": "audio/v13/sources/samples/Brass/F Horn/sus/MOHorn_sus_A2_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Brass/F%20Horn/sus/MOHorn_sus_A2_v1_1.wav",
+      "bytes": 2672192,
+      "sha256": "897ffa7cfdf4e0413e4c80e7fa935f28e0a0971691e112f1516c6102da61809f",
+      "git_blob": "d358aadfb3bb1e0f28ab742d96f5418dc750057b"
+    },
+    {
+      "instrument": "harp",
+      "upstream_path": "Strings/Harp/KSHarp_D4_mf.wav",
+      "file": "audio/v13/sources/samples/Strings/Harp/KSHarp_D4_mf.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Harp/KSHarp_D4_mf.wav",
+      "bytes": 1921690,
+      "sha256": "ebfde8aab4411019e37e3426f4dd88d6a52a38c2d0261d7f10ec63d8ff584dc7",
+      "git_blob": "342eec5072e2c0a7fb7cb03b6f5b46d84ed6ac69"
+    },
+    {
+      "instrument": "harp",
+      "upstream_path": "Strings/Harp/KSHarp_A4_mf.wav",
+      "file": "audio/v13/sources/samples/Strings/Harp/KSHarp_A4_mf.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Harp/KSHarp_A4_mf.wav",
+      "bytes": 2143618,
+      "sha256": "3665f3975cad4a33f46784aa4f896f4b4319ba2b7831e892d975bc38c9f09f23",
+      "git_blob": "acbece38a84e886cb5516e0f29d6ff5d38900fe1"
+    },
+    {
+      "instrument": "harp",
+      "upstream_path": "Strings/Harp/KSHarp_D6_mf.wav",
+      "file": "audio/v13/sources/samples/Strings/Harp/KSHarp_D6_mf.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Harp/KSHarp_D6_mf.wav",
+      "bytes": 687750,
+      "sha256": "b040b61fb279efa1a9b9c60dcbd8626a37f57ffb30f3b50747a2123ee4db5bd2",
+      "git_blob": "f66e88f651740695e4971c3197e6a1d61d6380c1"
+    },
+    {
+      "instrument": "glock",
+      "upstream_path": "Percussion/Glock/glock_medium_C5.wav",
+      "file": "audio/v13/sources/samples/Percussion/Glock/glock_medium_C5.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Glock/glock_medium_C5.wav",
+      "bytes": 1271310,
+      "sha256": "635f898e0bcb6975b96b18efd9c896f6f1b97ff12174a339ada4814e49675660",
+      "git_blob": "db079c70946137f543820b6a6ac023d0afaac47c"
+    },
+    {
+      "instrument": "flute",
+      "upstream_path": "Woodwinds/Flute/susvib/LDFlute_susvib_C4_v1_1.wav",
+      "file": "audio/v13/sources/samples/Woodwinds/Flute/susvib/LDFlute_susvib_C4_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_C4_v1_1.wav",
+      "bytes": 2009832,
+      "sha256": "e88a0ff35e6b8c29fd88bc778a4c817d955b2c3a2934def97a7d093b72e2ae97",
+      "git_blob": "7be22f8b86e5dc405a10f51dd71d44712d23c9aa"
+    },
+    {
+      "instrument": "flute",
+      "upstream_path": "Woodwinds/Flute/susvib/LDFlute_susvib_A4_v1_1.wav",
+      "file": "audio/v13/sources/samples/Woodwinds/Flute/susvib/LDFlute_susvib_A4_v1_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_A4_v1_1.wav",
+      "bytes": 1942296,
+      "sha256": "cf3c1c30943b8b8ef8b5b9ced89430c014987a037204098d002f86e424391ba9",
+      "git_blob": "1202232193c565a79618a1696913714e9fe1ad20"
+    },
+    {
+      "instrument": "bassdrum",
+      "upstream_path": "VSCO 1 Percussion/drums/bass/bdrum_mp_1.wav",
+      "file": "audio/v13/sources/samples/VSCO 1 Percussion/drums/bass/bdrum_mp_1.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/VSCO%201%20Percussion/drums/bass/bdrum_mp_1.wav",
+      "bytes": 1711570,
+      "sha256": "68d537aba29277925f028eab9d3494a9316b48c2ddf3031f3af5460c150a1cb0",
+      "git_blob": "1d690132e16409909bd14ea4ac7406a66da5eb4f"
+    },
+    {
+      "instrument": "timpani",
+      "upstream_path": "Percussion/Timpani/Timpani1_Hit_v3_rr1_Sum.wav",
+      "file": "audio/v13/sources/samples/Percussion/Timpani/Timpani1_Hit_v3_rr1_Sum.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Timpani/Timpani1_Hit_v3_rr1_Sum.wav",
+      "bytes": 1602676,
+      "sha256": "8b39a785901d08dee14dd89914bdf2201e16ee418965e4d903fdb8e280a14d24",
+      "git_blob": "86d8e078c8820d49fd15124fe037cbd667ae8fa2"
+    },
+    {
+      "instrument": "cymbal",
+      "upstream_path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_f.wav",
+      "file": "audio/v13/sources/samples/VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_f.wav",
+      "url": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/VSCO%201%20Percussion/varMetal/Cymbals/susp/susp_hit_softmall_f.wav",
+      "bytes": 1490614,
+      "sha256": "fcb49198999687cb567612408e8e384a22f3db14ac91b7d830b9fc113384f709",
+      "git_blob": "ffc95b2c8d10c05aa195871131c24c79aa7e3bbb"
+    }
+  ]
+}

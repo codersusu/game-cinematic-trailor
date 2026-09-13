@@ -1,0 +1,137 @@
+{
+  "scope": "Asset publication rules for public GitHub packaging; retain local originals. Paths relative to workspace.",
+  "required_exclusions": [
+    {
+      "patterns": [
+        "assets/v8/licensed/archer/**",
+        "bear-bow-*.blend*",
+        "option-a-bow-guardian.blend*",
+        "option-c-bow-bear.blend*"
+      ],
+      "reason": "Kevin Iglesias Standard Asset Store EULA: raw, baked or retargeted extractable archer assets are not licensed for public source redistribution. Rendered movie is permitted."
+    },
+    {
+      "patterns": [
+        "renders/v8/combat/archer-locomotion-inspection.json",
+        "previews/v12/forest-character-inspection.json"
+      ],
+      "reason": "Complete native archer skeleton rest matrices; omit raw dumps or strip licensed skeleton sections. Scalar QA and clip-name inventories are fine."
+    },
+    {
+      "patterns": [
+        "assets/character/einar-source.html",
+        "assets/character/young_keeper/rain-source.html",
+        "renders/v3/service-tasks/**"
+      ],
+      "reason": "Raw source pages/API responses can contain signed service URLs; parent verified separately."
+    }
+  ],
+  "research_image_exclusions": [
+    {
+      "patterns": [
+        "assets/character/candidates_v4/nilda-preview.jpg",
+        "assets/character/candidates_v4/jungle-jim-preview.jpg",
+        "assets/v5/kitbash_candidates/industrial/OGA_industrial_a52_version/preview.png"
+      ],
+      "reason": "Borrowed web/model preview image license not independently established; industrial preview contains separately licensed background. Model mesh/textures remain included."
+    }
+  ],
+  "explicit_inclusions": [
+    {
+      "patterns": [
+        "assets/character/einar/**",
+        "assets/character/einar.zip",
+        "assets/character/young_keeper/**"
+      ],
+      "license": "Blender Studio CC BY4.0",
+      "condition": "Keep Einar/Rain attribution, license/source and adaptations; exclude raw source HTML listed above."
+    },
+    {
+      "patterns": [
+        "assets/character/candidates_v4/nilda/**",
+        "assets/character/candidates_v4/nilda.rar",
+        "assets/character/candidates_v4/graphic-cat/**",
+        "assets/character/candidates_v4/graphic-cat-female.zip"
+      ],
+      "license": "Artist-declared CC BY4.0",
+      "condition": "Keep candidates_v4/README.md artist credits and source links. Web preview images separately excluded."
+    },
+    {
+      "patterns": [
+        "assets/character/heroine_v4/**",
+        "assets/character/heroine_v12/**",
+        "assets/character/candidates_v4/rocketbox/**"
+      ],
+      "license": "Microsoft Rocketbox MIT",
+      "condition": "Keep MIT copyright/license. No Kevin-derived retargeted motion snapshots included."
+    },
+    {
+      "patterns": [
+        "assets/character/heroine_v3/**"
+      ],
+      "license": "Meshy output terms, not blanket CC0",
+      "condition": "Yes to generated master and complete rigged/walking model GLBs and their proof scenes. Keep Meshy attribution and terms links. Service assets remain incorporated into generated output; do not extract a generic standalone motion/rig library. Raw service responses/signatures excluded."
+    },
+    {
+      "patterns": [
+        "assets/v8/combat/bear/**"
+      ],
+      "license": "Uploader-declared CC BY4.0",
+      "condition": "Credit WildMesh 3D, original Sketchfab model/source license, and modifications."
+    },
+    {
+      "patterns": [
+        "assets/v8/forest/**",
+        "assets/v10/downloads/**",
+        "assets/v5/materials/**",
+        "assets/v5/models/**",
+        "assets/v8/combat/forest-monster/**",
+        "assets/v8/combat/quaternius/**",
+        "assets/v8/combat/uplon/**"
+      ],
+      "license": "CC0 per local asset manifests",
+      "condition": "Retain provenance. For kitbash candidate collections use per-package license, excluding separate preview images."
+    },
+    {
+      "patterns": [
+        "forest-environment-v13.blend"
+      ],
+      "license": "Composite project environment with CC0 assets and CC BY4.0 bear",
+      "condition": "Public stripped copy; ship assets with scene and bear attribution."
+    },
+    {
+      "patterns": [
+        "audio/v13/**"
+      ],
+      "license": "Project original composition with VSCO2 CE CC0 samples",
+      "condition": "Retain sample LICENSE/acquisition provenance; no need to relicense sampled CC0 assets under restrictive terms."
+    }
+  ],
+  "review_separately": [
+    {
+      "patterns": [
+        "audio/raw/**",
+        "audio/v2/**",
+        "audio/v4/**",
+        "audio/v5/**"
+      ],
+      "reason": "Earlier ElevenLabs service output: generation plan unverified; not CC0. Free-plan publication attribution and noncommercial conditions differ from paid. Current V13 score has separate confirmed provenance."
+    }
+  ],
+  "safe_scene_examples": [
+    "forest-v8-layout.blend",
+    "option-b-sword-guardian.blend",
+    "observatory-v11-single-reaction.blend",
+    "observatory-v12-run-entry.blend",
+    "forest-environment-v13.blend"
+  ],
+  "sources": {
+    "kevin": "https://www.keviniglesias.com/#license",
+    "unity_eula": "https://unity.com/legal/as-terms",
+    "meshy_terms": "https://www.meshy.ai/terms-of-use",
+    "blender_studio": "https://studio.blender.org/characters/",
+    "rocketbox": "https://github.com/microsoft/Microsoft-Rocketbox",
+    "polyhaven": "https://polyhaven.com/license"
+  },
+  "machine_rule_note": "Explicit inclusions never override required exclusions. These rules cover audited assets, not credentials or build caches; parent performs those separate filters."
+}

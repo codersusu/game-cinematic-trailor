@@ -1,0 +1,18 @@
+{
+  "technical_checks": "passed",
+  "frames": 144,
+  "fps": 24,
+  "seconds": 6,
+  "size": [
+    1440,
+    576
+  ],
+  "source_speed_preserved": true,
+  "repeated_for_comparison": true,
+  "audio": false,
+  "vertical_rescale_for_codec": [
+    572,
+    576
+  ],
+  "sha256": "5894fdb50a2c632639953ed633fc89c2180e10b93c811ae407f26f8812f52ab9"
+}

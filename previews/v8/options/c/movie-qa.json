@@ -1,0 +1,46 @@
+{
+  "option": "c",
+  "title": "C \u2014 BOW vs BEAR",
+  "technical_checks": "passed",
+  "frames": 96,
+  "fps": 12,
+  "seconds": 8,
+  "size": [
+    768,
+    496
+  ],
+  "audio": false,
+  "source_scene": {
+    "scene": "option-c-bow-bear.blend",
+    "sha256": "ef2b9a48eca59f2a78bd1cec8e13c3e264a1371453a66d8095f4a8e10de3e844",
+    "resolution": [
+      768,
+      432
+    ],
+    "fps": 12,
+    "source_fps": 12.0,
+    "source_frame_start": 1,
+    "source_frame_end": 96,
+    "engine": "EEVEE",
+    "samples": 8
+  },
+  "movie_sha256": "ec45fd84a47263a44a0085a9384db80920bde965b799ddccc4ec8a13cd4d7fcf",
+  "contact_sheet_frames": [
+    1,
+    18,
+    36,
+    54,
+    72,
+    96
+  ],
+  "visual_review": "Passed draft review: final contact sheet frames1,18,36,54,72,96 and impact63 inspected; corrected jaw closeups52,53,54 inspected. Opening framing, source motion, contact and reaction readable.",
+  "full_realtime_playback": false,
+  "heavy_render": false,
+  "collision_audit": "All96 frames: zero character/bear or bow/bear mesh intersections; nearest clearances0.541m and0.567m.",
+  "remaining_work": [
+    "Final heroine retarget",
+    "Production character and forest detail",
+    "Camera and choreography polish after option choice",
+    "Sound and final rendering"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "frames": 43,
+  "fps": 12.0,
+  "size": [
+    600,
+    500
+  ],
+  "source_frames": [
+    418,
+    478
+  ],
+  "source_stride": 2,
+  "playback_fps": 12,
+  "final_pose_hold_seconds": 1,
+  "preview_only": true,
+  "renderer": "BLENDER_WORKBENCH",
+  "production_lighting": false,
+  "audio": false,
+  "movie_sha256": "b54959659e638c06c9c4fe09e09abb80b1a1250f322ab866a01c5718ac185a2e",
+  "pose_strip_source_frames": [
+    418,
+    434,
+    450,
+    466,
+    478
+  ],
+  "visual_review": "Pose strip inspected at source frames 418, 434, 450, 466, 478; neutral fingers curl into a clear single-index gesture.",
+  "full_realtime_playback": false,
+  "limitations": [
+    "Workbench lighting only; no production render or audio.",
+    "Diagnostic shows an isolated weighted hand surface; complete performer remains unchanged in the study.",
+    "Original Rocketbox hand topology is coarse in extreme close-up; avoid a macro fingertip shot without a higher-detail hand asset."
+  ]
+}

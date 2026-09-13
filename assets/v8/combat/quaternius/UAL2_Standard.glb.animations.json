@@ -1,0 +1,174 @@
+[
+  {
+    "name": "A_TPose",
+    "channels": 195
+  },
+  {
+    "name": "Chest_Open",
+    "channels": 195
+  },
+  {
+    "name": "ClimbUp_1m_RM",
+    "channels": 195
+  },
+  {
+    "name": "Consume",
+    "channels": 195
+  },
+  {
+    "name": "Farm_Harvest",
+    "channels": 195
+  },
+  {
+    "name": "Farm_PlantSeed",
+    "channels": 195
+  },
+  {
+    "name": "Farm_Watering",
+    "channels": 195
+  },
+  {
+    "name": "Hit_Knockback",
+    "channels": 195
+  },
+  {
+    "name": "Hit_Knockback_RM",
+    "channels": 195
+  },
+  {
+    "name": "Idle_FoldArms_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Idle_Lantern_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Idle_No_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Idle_Rail_Call",
+    "channels": 195
+  },
+  {
+    "name": "Idle_Rail_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Idle_Shield_Break",
+    "channels": 195
+  },
+  {
+    "name": "Idle_Shield_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Idle_TalkingPhone_Loop",
+    "channels": 195
+  },
+  {
+    "name": "LayToIdle",
+    "channels": 195
+  },
+  {
+    "name": "Melee_Hook",
+    "channels": 195
+  },
+  {
+    "name": "Melee_Hook_Rec",
+    "channels": 195
+  },
+  {
+    "name": "NinjaJump_Idle_Loop",
+    "channels": 195
+  },
+  {
+    "name": "NinjaJump_Land",
+    "channels": 195
+  },
+  {
+    "name": "NinjaJump_Start",
+    "channels": 195
+  },
+  {
+    "name": "OverhandThrow",
+    "channels": 195
+  },
+  {
+    "name": "Shield_Dash_RM",
+    "channels": 195
+  },
+  {
+    "name": "Shield_OneShot",
+    "channels": 195
+  },
+  {
+    "name": "Slide_Exit",
+    "channels": 195
+  },
+  {
+    "name": "Slide_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Slide_Start",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Block",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Dash_RM",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Regular_A",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Regular_A_Rec",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Regular_B",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Regular_B_Rec",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Regular_C",
+    "channels": 195
+  },
+  {
+    "name": "Sword_Regular_Combo",
+    "channels": 195
+  },
+  {
+    "name": "TreeChopping_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Walk_Carry_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Yes",
+    "channels": 195
+  },
+  {
+    "name": "Zombie_Idle_Loop",
+    "channels": 195
+  },
+  {
+    "name": "Zombie_Scratch",
+    "channels": 195
+  },
+  {
+    "name": "Zombie_Walk_Fwd_Loop",
+    "channels": 195
+  }
+]

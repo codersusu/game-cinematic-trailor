@@ -1,0 +1,31 @@
+{
+  "status": "Room editorial change saved; no video rendered",
+  "source": "observatory-v8-finger-study.blend",
+  "source_sha256": "42fbd51d306565c2656de9342796076dc6b97226a985b283b6a589fbcf749a52",
+  "scene": "observatory-v11-single-reaction.blend",
+  "scene_sha256": "9372e2afbffc9f8669b89b67904fd3c3def34bfce31cd1bac458ae0d46f55cd6",
+  "removed_camera_cuts": [
+    {
+      "name": "00 \u2022 A breath at the threshold",
+      "frame": 1,
+      "camera": "00 \u2022 A breath at the threshold"
+    }
+  ],
+  "frame_range": [
+    37,
+    576
+  ],
+  "fps": 24,
+  "duration_seconds": 22.5,
+  "removed_opening_seconds": 1.5,
+  "later_wonder_shot_preserved": [
+    289,
+    344
+  ],
+  "index_finger_performance_preserved": true,
+  "all_animation_curves_unchanged": true,
+  "animation_sha256": "2662d8856b357471dda7aa8d55dd8949c3ecc158fe15f20d67e63205d3093767",
+  "previous_scene_unchanged": true,
+  "production_render_performed": false,
+  "combined_forest_room_edit_rendered": false
+}

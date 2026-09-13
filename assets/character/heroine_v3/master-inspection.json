@@ -1,0 +1,111 @@
+{
+  "path": "assets/character/heroine_v3/master.glb",
+  "objects": [
+    {
+      "name": "Mesh_0",
+      "type": "MESH",
+      "dimensions": [
+        0.8612750172615051,
+        0.3838379979133606,
+        1.9035899639129639
+      ],
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "vertices": 1657108,
+      "polygons": 3024348,
+      "modifiers": []
+    }
+  ],
+  "rigs": {},
+  "images": [
+    {
+      "name": "Image_0",
+      "size": [
+        8192,
+        8192
+      ],
+      "filepath": "",
+      "packed": true,
+      "source": "FILE"
+    },
+    {
+      "name": "Image_1",
+      "size": [
+        4096,
+        4096
+      ],
+      "filepath": "",
+      "packed": true,
+      "source": "FILE"
+    },
+    {
+      "name": "Image_2",
+      "size": [
+        4096,
+        4096
+      ],
+      "filepath": "",
+      "packed": true,
+      "source": "FILE"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material_0",
+      "nodes": [
+        [
+          "Principled BSDF",
+          "BSDF_PRINCIPLED"
+        ],
+        [
+          "Material Output",
+          "OUTPUT_MATERIAL"
+        ],
+        [
+          "Image Texture",
+          "TEX_IMAGE"
+        ],
+        [
+          "Separate Color",
+          "SEPARATE_COLOR"
+        ],
+        [
+          "Image Texture.001",
+          "TEX_IMAGE"
+        ],
+        [
+          "Normal Map",
+          "NORMAL_MAP"
+        ],
+        [
+          "Image Texture.002",
+          "TEX_IMAGE"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scene": "bear-bow-forest-v12.blend",
+  "sha256": "e070afb606fa90c27e605be0ff1ad502b2f07e12e6a717a0855e146a2afecd0f",
+  "resolution": [
+    960,
+    540
+  ],
+  "source_fps": 12,
+  "output_fps": 12,
+  "engine": "EEVEE",
+  "samples": 16,
+  "view": "first"
+}

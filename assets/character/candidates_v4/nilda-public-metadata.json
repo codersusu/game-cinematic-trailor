@@ -1,0 +1,207 @@
+{
+  "animationCount": 1,
+  "categories": [
+    {
+      "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+      "name": "Characters & Creatures",
+      "slug": "characters-creatures",
+      "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 1,
+  "createdAt": "2022-04-14T02:10:45.415808",
+  "embedUrl": "https://sketchfab.com/models/d3f65ad04ec845b197a689db48ec4329/embed",
+  "faceCount": 12352,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 36,
+  "name": "Nilda Female Character Walk Animation",
+  "publishedAt": "2022-04-14T02:42:40.051848",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "high",
+      "slug": "high",
+      "uri": "https://api.sketchfab.com/v3/tags/high"
+    },
+    {
+      "name": "walking",
+      "slug": "walking",
+      "uri": "https://api.sketchfab.com/v3/tags/walking"
+    },
+    {
+      "name": "woman",
+      "slug": "woman",
+      "uri": "https://api.sketchfab.com/v3/tags/woman"
+    },
+    {
+      "name": "heels",
+      "slug": "heels",
+      "uri": "https://api.sketchfab.com/v3/tags/heels"
+    },
+    {
+      "name": "walkcycle",
+      "slug": "walkcycle",
+      "uri": "https://api.sketchfab.com/v3/tags/walkcycle"
+    },
+    {
+      "name": "character",
+      "slug": "character",
+      "uri": "https://api.sketchfab.com/v3/tags/character"
+    },
+    {
+      "name": "lowpoly",
+      "slug": "lowpoly",
+      "uri": "https://api.sketchfab.com/v3/tags/lowpoly"
+    },
+    {
+      "name": "low",
+      "slug": "low",
+      "uri": "https://api.sketchfab.com/v3/tags/low"
+    },
+    {
+      "name": "poly",
+      "slug": "poly",
+      "uri": "https://api.sketchfab.com/v3/tags/poly"
+    },
+    {
+      "name": "female",
+      "slug": "female",
+      "uri": "https://api.sketchfab.com/v3/tags/female"
+    },
+    {
+      "name": "walk",
+      "slug": "walk",
+      "uri": "https://api.sketchfab.com/v3/tags/walk"
+    },
+    {
+      "name": "free",
+      "slug": "free",
+      "uri": "https://api.sketchfab.com/v3/tags/free"
+    },
+    {
+      "name": "cycles",
+      "slug": "cycles",
+      "uri": "https://api.sketchfab.com/v3/tags/cycles"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "9b26d76df7594066878bf5165e260531",
+        "width": 1920,
+        "height": 1080,
+        "size": 118514,
+        "url": "https://media.sketchfab.com/models/d3f65ad04ec845b197a689db48ec4329/thumbnails/cac6930461154990abebc18dc5da3dc0/e2cd3f298a31430fa266b73cb1b80b45.jpeg"
+      },
+      {
+        "uid": "32b70b87ff8f4601bcff2b25efc1ab9b",
+        "width": 1024,
+        "height": 576,
+        "size": 23804,
+        "url": "https://media.sketchfab.com/models/d3f65ad04ec845b197a689db48ec4329/thumbnails/cac6930461154990abebc18dc5da3dc0/a6f84bc5ba59455a95c5ac5f084ec957.jpeg"
+      },
+      {
+        "uid": "aae46a6b3efe42de86eb6edf4bd0e5f9",
+        "width": 720,
+        "height": 405,
+        "size": 13986,
+        "url": "https://media.sketchfab.com/models/d3f65ad04ec845b197a689db48ec4329/thumbnails/cac6930461154990abebc18dc5da3dc0/65b68171e07d4385b5eb8da8c643a2f5.jpeg"
+      },
+      {
+        "uid": "0d39dc0b6dc04a64a7c0ae017db5b6e0",
+        "width": 256,
+        "height": 144,
+        "size": 3118,
+        "url": "https://media.sketchfab.com/models/d3f65ad04ec845b197a689db48ec4329/thumbnails/cac6930461154990abebc18dc5da3dc0/bb33d12b2dc84385967d5745df3cf56f.jpeg"
+      },
+      {
+        "uid": "15d25d09c90146df85e30106bdc293b5",
+        "width": 64,
+        "height": 36,
+        "size": 954,
+        "url": "https://media.sketchfab.com/models/d3f65ad04ec845b197a689db48ec4329/thumbnails/cac6930461154990abebc18dc5da3dc0/1c33ad0e2a234e78a6d2887b17d4ce03.jpeg"
+      }
+    ]
+  },
+  "uid": "d3f65ad04ec845b197a689db48ec4329",
+  "uri": "https://api.sketchfab.com/v3/models/d3f65ad04ec845b197a689db48ec4329",
+  "user": {
+    "uid": "2be250fe073e443ba16fa0bc49c3c4b8",
+    "username": "kelvin-carvalho",
+    "displayName": "ijiklvn",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/kelvin-carvalho",
+    "avatar": {
+      "uid": "6001b8d22bbe49428ed6eab9306d60e5",
+      "uri": "https://api.sketchfab.com/v3/avatars/6001b8d22bbe49428ed6eab9306d60e5",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1916,
+          "url": "https://media.sketchfab.com/avatars/6001b8d22bbe49428ed6eab9306d60e5/c73156ae065f4948b83c7a47ffd9daa7.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 3839,
+          "url": "https://media.sketchfab.com/avatars/6001b8d22bbe49428ed6eab9306d60e5/646e19dd893c4badbb8f76765c008cc7.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 11175,
+          "url": "https://media.sketchfab.com/avatars/6001b8d22bbe49428ed6eab9306d60e5/e4520cf773fc4d3d8b23cd98f17a597d.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 13294,
+          "url": "https://media.sketchfab.com/avatars/6001b8d22bbe49428ed6eab9306d60e5/b35dcb5fffa34759ae5811e6d6fedab1.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/2be250fe073e443ba16fa0bc49c3c4b8"
+  },
+  "vertexCount": 6303,
+  "viewCount": 6612,
+  "viewerUrl": "https://sketchfab.com/3d-models/nilda-female-character-walk-animation-d3f65ad04ec845b197a689db48ec4329",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "Model rigged in blender with rigify\n\nIt has some problems because it's my first rig, but nothing that gets in the way too much\n\nFBX n Textures\n\nLink with Blend. file\nhttps://www.mediafire.com/file/34gpm1ct966gkgy/nilda_female_character.rar/file",
+  "price": null,
+  "downloadCount": 857,
+  "editorUrl": "https://sketchfab.com/models/d3f65ad04ec845b197a689db48ec4329/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-15T12:47:29.743368",
+  "pbrType": null,
+  "textureCount": 9,
+  "materialCount": 8
+}

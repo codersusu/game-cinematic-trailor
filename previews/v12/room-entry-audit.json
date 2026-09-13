@@ -1,0 +1,224 @@
+{
+  "status": "passed",
+  "source_scene": "observatory-v11-single-reaction.blend",
+  "source_sha256": "9372e2afbffc9f8669b89b67904fd3c3def34bfce31cd1bac458ae0d46f55cd6",
+  "scene": "observatory-v12-run-entry.blend",
+  "scene_sha256": "f9b081ad2459c3171d968bfe839a83e3f8923d008049bd9fa1ebee9842f1b23d",
+  "modified_frame_range": [
+    37,
+    224
+  ],
+  "preserved_frame_range": [
+    225,
+    576
+  ],
+  "preserved_from_frame": 225,
+  "maximum_later_pose_difference": 0,
+  "samples": [
+    {
+      "frame": 225,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "02 \u2022 The turning heavens",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 226,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "02 \u2022 The turning heavens",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 250,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "02 \u2022 The turning heavens",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 288,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "02 \u2022 The turning heavens",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 289,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "03A \u2022 Wonder",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 317,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "03A \u2022 Wonder",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 344,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "03A \u2022 Wonder",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 345,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "V7 | Approach Astra",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 385,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "V7 | Approach Astra",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 424,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "V7 | Approach Astra",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 425,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "V7 | Beside Astra",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 478,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "V7 | Beside Astra",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 510,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "04 \u2022 The stars remember",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 575,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "04 \u2022 The stars remember",
+      "facial_shapes_exact": true
+    },
+    {
+      "frame": 576,
+      "maximum_object_and_bone_matrix_difference": 0.0,
+      "camera": "04 \u2022 The stars remember",
+      "facial_shapes_exact": true
+    }
+  ],
+  "doorway_body_bounds": [
+    {
+      "frame": 50,
+      "minimum_x": -3.9232523441314697,
+      "maximum_x": -3.6903398036956787,
+      "maximum_z": 1.4156932830810547
+    },
+    {
+      "frame": 51,
+      "minimum_x": -4.008106708526611,
+      "maximum_x": -3.6722402572631836,
+      "maximum_z": 1.4111216068267822
+    },
+    {
+      "frame": 52,
+      "minimum_x": -4.041966438293457,
+      "maximum_x": -3.665382146835327,
+      "maximum_z": 1.7054089307785034
+    },
+    {
+      "frame": 53,
+      "minimum_x": -4.043031692504883,
+      "maximum_x": -3.6475090980529785,
+      "maximum_z": 1.710567831993103
+    },
+    {
+      "frame": 54,
+      "minimum_x": -4.057199478149414,
+      "maximum_x": -3.489039659500122,
+      "maximum_z": 1.687148928642273
+    },
+    {
+      "frame": 55,
+      "minimum_x": -4.074079990386963,
+      "maximum_x": -3.5173494815826416,
+      "maximum_z": 1.6601320505142212
+    },
+    {
+      "frame": 56,
+      "minimum_x": -4.1189985275268555,
+      "maximum_x": -3.56361722946167,
+      "maximum_z": 1.6508370637893677
+    },
+    {
+      "frame": 57,
+      "minimum_x": -4.133399963378906,
+      "maximum_x": -3.550766706466675,
+      "maximum_z": 1.6531645059585571
+    },
+    {
+      "frame": 58,
+      "minimum_x": -4.153480052947998,
+      "maximum_x": -3.5285422801971436,
+      "maximum_z": 1.6619808673858643
+    },
+    {
+      "frame": 59,
+      "minimum_x": -4.175416469573975,
+      "maximum_x": -3.5123050212860107,
+      "maximum_z": 1.674281120300293
+    },
+    {
+      "frame": 60,
+      "minimum_x": -4.203760623931885,
+      "maximum_x": -3.5057032108306885,
+      "maximum_z": 1.6830065250396729
+    },
+    {
+      "frame": 61,
+      "minimum_x": -4.242130279541016,
+      "maximum_x": -3.5100555419921875,
+      "maximum_z": 1.6790064573287964
+    },
+    {
+      "frame": 62,
+      "minimum_x": -4.285089015960693,
+      "maximum_x": -3.532829999923706,
+      "maximum_z": 1.663731575012207
+    },
+    {
+      "frame": 63,
+      "minimum_x": -4.311175346374512,
+      "maximum_x": -3.5398542881011963,
+      "maximum_z": 1.6541441679000854
+    },
+    {
+      "frame": 64,
+      "minimum_x": -4.296030521392822,
+      "maximum_x": -3.571565866470337,
+      "maximum_z": 1.6378090381622314
+    },
+    {
+      "frame": 65,
+      "minimum_x": -3.9134392738342285,
+      "maximum_x": -3.6277661323547363,
+      "maximum_z": 1.600738286972046
+    },
+    {
+      "frame": 66,
+      "minimum_x": -3.7869443893432617,
+      "maximum_x": -3.7869436740875244,
+      "maximum_z": 1.6180622577667236
+    }
+  ],
+  "doorway_structural_collision_frames": [],
+  "doorway_collision_check_frames": [
+    37,
+    76
+  ],
+  "minimum_boot_clearance_m": -3.85572333061468e-07,
+  "maximum_boot_clearance_m": 0.07781803987213876,
+  "facial_animation_actions_unchanged": true,
+  "new_running_asset_provenance": "assets/character/heroine_v12/acquisition.json",
+  "production_render_performed": false,
+  "visual_review_pending": true
+}

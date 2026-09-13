@@ -1,0 +1,2363 @@
+{
+  "source_scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a",
+  "unchanged_keyframes10_onward_hash": "2424ee1f600fdd7e67e2e3440774f344c16155e3c6b0d4c3a6e79dd9ef08637e",
+  "unchanged_keyframes10_onward": true,
+  "pose_samples": [
+    {
+      "elbow_angle_degrees": 117.62882120666426,
+      "reach_ratio": 0.8555955105673246,
+      "upper_length_error_m": 7.48415698859084e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 1.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 117.58486210916605,
+      "reach_ratio": 0.8553971057144801,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 1.0625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 117.53718738875936,
+      "reach_ratio": 0.8551815850327381,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 1.125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 117.48537357371565,
+      "reach_ratio": 0.8549470886040906,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.04545214391672e-08,
+      "frame": 1.1875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9369216929998304e-06
+    },
+    {
+      "elbow_angle_degrees": 117.42962556971,
+      "reach_ratio": 0.8546950468815149,
+      "upper_length_error_m": 7.48422924468084e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 1.25,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 117.36958820690559,
+      "reach_ratio": 0.8544227748885987,
+      "upper_length_error_m": 7.484222264153573e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 1.3125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 117.30563031551759,
+      "reach_ratio": 0.8541331978197015,
+      "upper_length_error_m": 7.484214906150477e-08,
+      "forearm_length_error_m": 7.045442790287737e-08,
+      "frame": 1.375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 117.23760163138427,
+      "reach_ratio": 0.8538242583398971,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.045436681285544e-08,
+      "frame": 1.4375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 3.371747880871523e-07
+    },
+    {
+      "elbow_angle_degrees": 117.16565241866735,
+      "reach_ratio": 0.8534973011039408,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 1.5,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 117.08978267736686,
+      "reach_ratio": 0.8531525929563548,
+      "upper_length_error_m": 7.878079083534217e-08,
+      "forearm_length_error_m": 7.045471245303858e-08,
+      "frame": 1.5625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 117.01006070937446,
+      "reach_ratio": 0.8527891243289922,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.045458769172619e-08,
+      "frame": 1.625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 116.92647285431184,
+      "reach_ratio": 0.852408265831436,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 1.6875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.83870492347718,
+      "reach_ratio": 0.8520079129238894,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.045495217794517e-08,
+      "frame": 1.75,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 3.371747880871523e-07
+    },
+    {
+      "elbow_angle_degrees": 116.74730333200407,
+      "reach_ratio": 0.8515900746715261,
+      "upper_length_error_m": 7.878107499692533e-08,
+      "forearm_length_error_m": 6.631035120996387e-08,
+      "frame": 1.8125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 116.65198121194737,
+      "reach_ratio": 0.8511537909327634,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631026133741003e-08,
+      "frame": 1.875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 116.5530117708739,
+      "reach_ratio": 0.8507005411941154,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631003571233585e-08,
+      "frame": 1.9375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 116.45006715970345,
+      "reach_ratio": 0.85022807285129,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 2.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 116.41623040255521,
+      "reach_ratio": 0.8500728049516174,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631015250779804e-08,
+      "frame": 2.0625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 116.38109590946466,
+      "reach_ratio": 0.8499111874333248,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.423807902278256e-08,
+      "frame": 2.125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 116.3440762841632,
+      "reach_ratio": 0.8497412798609604,
+      "upper_length_error_m": 7.878078231438046e-08,
+      "forearm_length_error_m": 6.631013721447587e-08,
+      "frame": 2.1875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 116.30578624367611,
+      "reach_ratio": 0.8495647781499368,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.423796289345418e-08,
+      "frame": 2.25,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 3.371747880871523e-07
+    },
+    {
+      "elbow_angle_degrees": 116.2656110709781,
+      "reach_ratio": 0.849379995088602,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 2.3125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 116.22367370947421,
+      "reach_ratio": 0.8491867720366645,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.423814413736295e-08,
+      "frame": 2.375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.18068449883815,
+      "reach_ratio": 0.8489886915821823,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.423800436028415e-08,
+      "frame": 2.4375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 116.13574185409946,
+      "reach_ratio": 0.8487814581232637,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.423823833978659e-08,
+      "frame": 2.5,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.08925558660836,
+      "reach_ratio": 0.848567160371242,
+      "upper_length_error_m": 8.272040849521822e-08,
+      "forearm_length_error_m": 1.264041705473229e-07,
+      "frame": 2.5625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 116.04149890393164,
+      "reach_ratio": 0.8483465122198016,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.423798898369526e-08,
+      "frame": 2.625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 3.371747880871523e-07
+    },
+    {
+      "elbow_angle_degrees": 115.99188440980066,
+      "reach_ratio": 0.8481173797134616,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 2.6875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 115.94069897216059,
+      "reach_ratio": 0.8478808696347799,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.216562925542846e-08,
+      "frame": 2.75,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 115.88796991176808,
+      "reach_ratio": 0.847636739683568,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.21660052879669e-08,
+      "frame": 2.8125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 115.83353330408309,
+      "reach_ratio": 0.8473851112934012,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.2226000714599117e-07,
+      "frame": 2.875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 3.5762786865234375e-07
+    },
+    {
+      "elbow_angle_degrees": 115.77771699818574,
+      "reach_ratio": 0.8471263146079832,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.216606088238485e-08,
+      "frame": 2.9375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.966049969490843e-06
+    },
+    {
+      "elbow_angle_degrees": 115.71994725818577,
+      "reach_ratio": 0.8468581583439734,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.201875791945195e-07,
+      "frame": 3.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 115.71823971089327,
+      "reach_ratio": 0.8468502467346659,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.2018830622406718e-07,
+      "frame": 3.0625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9804534585280597e-06
+    },
+    {
+      "elbow_angle_degrees": 115.71642288057404,
+      "reach_ratio": 0.8468420900209387,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009384029281861e-08,
+      "frame": 3.125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 115.7144967672281,
+      "reach_ratio": 0.8468330945855725,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009344796775729e-08,
+      "frame": 3.1875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 115.71263895577385,
+      "reach_ratio": 0.8468241933782473,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.2018678455238962e-07,
+      "frame": 3.25,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 115.71024838956436,
+      "reach_ratio": 0.846813406213566,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009335820622574e-08,
+      "frame": 3.3125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 115.70773487994978,
+      "reach_ratio": 0.8468015469742258,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009368791470848e-08,
+      "frame": 3.375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 115.70560386092875,
+      "reach_ratio": 0.8467919923010842,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.2018727774121274e-07,
+      "frame": 3.4375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9804534585280597e-06
+    },
+    {
+      "elbow_angle_degrees": 115.70291276639576,
+      "reach_ratio": 0.8467792171673313,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009383810012814e-08,
+      "frame": 3.5,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 115.70056318132127,
+      "reach_ratio": 0.84676838548823,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 3.5625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 115.69828189813849,
+      "reach_ratio": 0.8467579027096879,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 5.802141553323814e-08,
+      "frame": 3.625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 4.76837158203125e-07
+    },
+    {
+      "elbow_angle_degrees": 115.69575472814559,
+      "reach_ratio": 0.846746098698679,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 3.6875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 115.69324121853103,
+      "reach_ratio": 0.8467344019512618,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 3.75,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 115.69063208626808,
+      "reach_ratio": 0.8467223238117874,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 3.8125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9073486328125e-06
+    },
+    {
+      "elbow_angle_degrees": 115.68772242568166,
+      "reach_ratio": 0.8467088347866938,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 3.875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 115.68494936887863,
+      "reach_ratio": 0.8466961485784397,
+      "upper_length_error_m": 8.271994203501443e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 3.9375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 115.68221729321063,
+      "reach_ratio": 0.8466831722484038,
+      "upper_length_error_m": 8.271948792604178e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 4.2981520598697533e-07
+    },
+    {
+      "elbow_angle_degrees": 115.7482515621063,
+      "reach_ratio": 0.8469899050951972,
+      "upper_length_error_m": 8.271977799956254e-08,
+      "forearm_length_error_m": 6.009421824049177e-08,
+      "frame": 4.0625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 115.81378039700341,
+      "reach_ratio": 0.8472934553976569,
+      "upper_length_error_m": 8.27204105768864e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 115.87840764693007,
+      "reach_ratio": 0.8475926410760523,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.1875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9369216929998304e-06
+    },
+    {
+      "elbow_angle_degrees": 115.94221527415633,
+      "reach_ratio": 0.8478876533579041,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 5.8021525223272974e-08,
+      "frame": 4.25,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 4.2981520598697533e-07
+    },
+    {
+      "elbow_angle_degrees": 116.00525792019555,
+      "reach_ratio": 0.8481790875429197,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009353220592928e-08,
+      "frame": 4.3125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9369216929998304e-06
+    },
+    {
+      "elbow_angle_degrees": 116.06754924542606,
+      "reach_ratio": 0.8484670028435307,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009348452185037e-08,
+      "frame": 4.375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.12876140076771,
+      "reach_ratio": 0.8487493793431852,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.4375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 116.18905831076059,
+      "reach_ratio": 0.8490272503572901,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009362310543942e-08,
+      "frame": 4.5,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 116.24856291880974,
+      "reach_ratio": 0.8493016390424485,
+      "upper_length_error_m": 7.878120952820034e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.5625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.30724790415849,
+      "reach_ratio": 0.8495715299721689,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.00936934658236e-08,
+      "frame": 4.625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 116.36486737999671,
+      "reach_ratio": 0.8498365058196691,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.216587458696132e-08,
+      "frame": 4.6875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 116.42188579918798,
+      "reach_ratio": 0.8500986196794378,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.75,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.47796165227379,
+      "reach_ratio": 0.8503560851691262,
+      "upper_length_error_m": 8.272023555022656e-08,
+      "forearm_length_error_m": 6.216592962626777e-08,
+      "frame": 4.8125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 116.53350475060434,
+      "reach_ratio": 0.850610945131411,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 116.58825554699115,
+      "reach_ratio": 0.8508620056983291,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 4.9375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 4.2981520598697533e-07
+    },
+    {
+      "elbow_angle_degrees": 116.64169494705733,
+      "reach_ratio": 0.8511066696703563,
+      "upper_length_error_m": 7.484129557755459e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 5.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.79217767485106,
+      "reach_ratio": 0.8517951230148051,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.423792911491866e-08,
+      "frame": 5.0625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.966049969490843e-06
+    },
+    {
+      "elbow_angle_degrees": 116.9385349683861,
+      "reach_ratio": 0.8524633136966735,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 5.125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 117.08073950690576,
+      "reach_ratio": 0.8531111441539659,
+      "upper_length_error_m": 7.878035770958469e-08,
+      "forearm_length_error_m": 6.423797235810547e-08,
+      "frame": 5.1875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9405866379856713e-06
+    },
+    {
+      "elbow_angle_degrees": 117.21834049792483,
+      "reach_ratio": 0.8537369916846256,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.3054866948580823e-07,
+      "frame": 5.25,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 117.35204828111699,
+      "reach_ratio": 0.8543437216860298,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.3054862255112987e-07,
+      "frame": 5.3125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9369216929998304e-06
+    },
+    {
+      "elbow_angle_degrees": 117.48143938475373,
+      "reach_ratio": 0.8549293041366268,
+      "upper_length_error_m": 7.484167210969339e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 5.375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 117.6062406012682,
+      "reach_ratio": 0.8554938468321245,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631049798144772e-08,
+      "frame": 5.4375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 3.371747880871523e-07
+    },
+    {
+      "elbow_angle_degrees": 117.72684808163228,
+      "reach_ratio": 0.8560381257142287,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631047841376692e-08,
+      "frame": 5.5,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 117.84322084471096,
+      "reach_ratio": 0.8565621174821841,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631053223182803e-08,
+      "frame": 5.5625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 4.915124923727108e-07
+    },
+    {
+      "elbow_angle_degrees": 117.95523594709917,
+      "reach_ratio": 0.8570662933918995,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 1.367654714479194e-07,
+      "frame": 5.625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.998311831264521e-06
+    },
+    {
+      "elbow_angle_degrees": 118.06230599252828,
+      "reach_ratio": 0.8575468885575928,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 5.6875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.969660716278351e-06
+    },
+    {
+      "elbow_angle_degrees": 118.16514132067199,
+      "reach_ratio": 0.8580078335244032,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631091439834869e-08,
+      "frame": 5.75,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 118.26372827115196,
+      "reach_ratio": 0.8584494627264326,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.04549079910688e-08,
+      "frame": 5.8125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 118.35738382505117,
+      "reach_ratio": 0.8588680864052193,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 5.875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 118.4468456428,
+      "reach_ratio": 0.8592673580657776,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.045478911393843e-08,
+      "frame": 5.9375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 118.53153998850816,
+      "reach_ratio": 0.8596451135905676,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 118.73536649371968,
+      "reach_ratio": 0.8605519953581515,
+      "upper_length_error_m": 6.696407497952528e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.0625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9405866379856713e-06
+    },
+    {
+      "elbow_angle_degrees": 118.93107873419723,
+      "reach_ratio": 0.8614205993428734,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.459947667931566e-08,
+      "frame": 6.125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9405866379856713e-06
+    },
+    {
+      "elbow_angle_degrees": 119.11862206842744,
+      "reach_ratio": 0.8622500510455884,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.459922907182559e-08,
+      "frame": 6.1875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 119.29818774170707,
+      "reach_ratio": 0.863042386118232,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.25,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9073486328125e-06
+    },
+    {
+      "elbow_angle_degrees": 119.46993967857621,
+      "reach_ratio": 0.863798079370848,
+      "upper_length_error_m": 6.302481064812682e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.3125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 119.63322218087454,
+      "reach_ratio": 0.8645149681534243,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 119.78777570141358,
+      "reach_ratio": 0.8651919615940994,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.874371055205387e-08,
+      "frame": 6.4375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 119.93401005154355,
+      "reach_ratio": 0.8658307366010661,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.5,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 120.07154274067094,
+      "reach_ratio": 0.8664303611530805,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.5625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 120.20090652355098,
+      "reach_ratio": 0.8669930103997345,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.874383978201394e-08,
+      "frame": 6.625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 120.32130909823996,
+      "reach_ratio": 0.8675163511204924,
+      "upper_length_error_m": 6.105536287659419e-08,
+      "forearm_length_error_m": 8.288861089167376e-08,
+      "frame": 6.6875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9258850123171223e-06
+    },
+    {
+      "elbow_angle_degrees": 120.432955370413,
+      "reach_ratio": 0.8679999271542364,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 8.288839839498685e-08,
+      "frame": 6.75,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 120.53568141552998,
+      "reach_ratio": 0.8684449759244159,
+      "upper_length_error_m": 5.908588548986238e-08,
+      "forearm_length_error_m": 8.288834490999264e-08,
+      "frame": 6.8125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 120.62970579964438,
+      "reach_ratio": 0.8688509319114144,
+      "upper_length_error_m": 5.908582642599747e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 120.7147962963244,
+      "reach_ratio": 0.8692181422151682,
+      "upper_length_error_m": 5.711635384098024e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 6.9375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 120.79091192443502,
+      "reach_ratio": 0.869546560960734,
+      "upper_length_error_m": 5.7116201102047626e-08,
+      "forearm_length_error_m": 8.703245554797512e-08,
+      "frame": 7.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 120.98569525918545,
+      "reach_ratio": 0.8703844438037067,
+      "upper_length_error_m": 5.711625439275281e-08,
+      "forearm_length_error_m": 8.703255907627216e-08,
+      "frame": 7.0625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 121.17158568763651,
+      "reach_ratio": 0.8711814077776242,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 4.915124923727108e-07
+    },
+    {
+      "elbow_angle_degrees": 121.34809143616798,
+      "reach_ratio": 0.8719360153211254,
+      "upper_length_error_m": 5.711636669181175e-08,
+      "forearm_length_error_m": 8.703275491961371e-08,
+      "frame": 7.1875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 121.51510322175314,
+      "reach_ratio": 0.872649176091352,
+      "upper_length_error_m": 1.299888538752736e-07,
+      "forearm_length_error_m": 1.5127110039592218e-07,
+      "frame": 7.25,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 121.67364557276747,
+      "reach_ratio": 0.8733230405648056,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 8.703265058640497e-08,
+      "frame": 7.3125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 4.2981520598697533e-07
+    },
+    {
+      "elbow_angle_degrees": 121.822393432512,
+      "reach_ratio": 0.8739545139981768,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 121.96123751796003,
+      "reach_ratio": 0.8745426603364173,
+      "upper_length_error_m": 5.317673767990527e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.4375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 122.09092914992023,
+      "reach_ratio": 0.8750906103501572,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.5,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 122.21152296990597,
+      "reach_ratio": 0.8755991632793572,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.5625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 122.32195346840673,
+      "reach_ratio": 0.8760640136204576,
+      "upper_length_error_m": 5.31767558598073e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.625,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 122.42249385298932,
+      "reach_ratio": 0.876486396207142,
+      "upper_length_error_m": 5.3176572700763813e-08,
+      "forearm_length_error_m": 9.11770330902506e-08,
+      "frame": 7.6875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9369216929998304e-06
+    },
+    {
+      "elbow_angle_degrees": 122.51362223689563,
+      "reach_ratio": 0.8768692208332707,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 9.117658497648229e-08,
+      "frame": 7.75,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 122.59449167666858,
+      "reach_ratio": 0.8772079430805972,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.8125,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 122.66544368176667,
+      "reach_ratio": 0.8775049131025673,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 7.875,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 122.72656021445995,
+      "reach_ratio": 0.8777605895753441,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 9.532073610984959e-08,
+      "frame": 7.9375,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 1.9073486328125e-06
+    },
+    {
+      "elbow_angle_degrees": 122.77752708604659,
+      "reach_ratio": 0.8779735189449983,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 9.117649751866352e-08,
+      "frame": 8.0,
+      "carry_cant_degrees": -25,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 122.96011170293937,
+      "reach_ratio": 0.8787346656689868,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 8.0625,
+      "carry_cant_degrees": -24.92828369140625,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 123.05834348358249,
+      "reach_ratio": 0.8791434339554033,
+      "upper_length_error_m": 5.514681636342722e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 8.125,
+      "carry_cant_degrees": -24.71923828125,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 123.07204484305754,
+      "reach_ratio": 0.8792003942471025,
+      "upper_length_error_m": 5.5146755245649715e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 8.1875,
+      "carry_cant_degrees": -24.38201904296875,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 123.00113381909446,
+      "reach_ratio": 0.8789052196125529,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 8.703239859353396e-08,
+      "frame": 8.25,
+      "carry_cant_degrees": -23.92578125,
+      "actual_grip_error_m": 1.9551777204104336e-06
+    },
+    {
+      "elbow_angle_degrees": 122.84354769456394,
+      "reach_ratio": 0.878248878338683,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 8.3125,
+      "carry_cant_degrees": -23.35968017578125,
+      "actual_grip_error_m": 4.2981520598697533e-07
+    },
+    {
+      "elbow_angle_degrees": 122.59953235627606,
+      "reach_ratio": 0.8772288586972863,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.874342369817988e-08,
+      "frame": 8.375,
+      "carry_cant_degrees": -22.69287109375,
+      "actual_grip_error_m": 1.9369216929998304e-06
+    },
+    {
+      "elbow_angle_degrees": 122.27089097417172,
+      "reach_ratio": 0.8758492261448177,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 8.4375,
+      "carry_cant_degrees": -21.93450927734375,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 121.8593857370568,
+      "reach_ratio": 0.8741109934074581,
+      "upper_length_error_m": 6.696457699462144e-08,
+      "forearm_length_error_m": 7.874329593926532e-08,
+      "frame": 8.5,
+      "carry_cant_degrees": -21.09375,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 121.36591822990171,
+      "reach_ratio": 0.8720129786186664,
+      "upper_length_error_m": 1.890752147626351e-07,
+      "forearm_length_error_m": 1.201869862799132e-07,
+      "frame": 8.5625,
+      "carry_cant_degrees": -20.17974853515625,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 120.79293366042934,
+      "reach_ratio": 0.8695552648519121,
+      "upper_length_error_m": 7.090319134595013e-08,
+      "forearm_length_error_m": 7.045459549104294e-08,
+      "frame": 8.625,
+      "carry_cant_degrees": -19.20166015625,
+      "actual_grip_error_m": 4.76837158203125e-07
+    },
+    {
+      "elbow_angle_degrees": 120.14241278349898,
+      "reach_ratio": 0.8667386296149527,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 7.045469099797863e-08,
+      "frame": 8.6875,
+      "carry_cant_degrees": -18.16864013671875,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 119.4181258635325,
+      "reach_ratio": 0.863570498079013,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631013965696653e-08,
+      "frame": 8.75,
+      "carry_cant_degrees": -17.08984375,
+      "actual_grip_error_m": 3.371747880871523e-07
+    },
+    {
+      "elbow_angle_degrees": 118.63231259952254,
+      "reach_ratio": 0.8600938465401683,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 8.8125,
+      "carry_cant_degrees": -15.97442626953125,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    },
+    {
+      "elbow_angle_degrees": 117.77842967024422,
+      "reach_ratio": 0.8562705206270504,
+      "upper_length_error_m": 7.87814884439797e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 8.875,
+      "carry_cant_degrees": -14.83154296875,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 116.85985118914753,
+      "reach_ratio": 0.8521041444314216,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.009354386327104e-08,
+      "frame": 8.9375,
+      "carry_cant_degrees": -13.67034912109375,
+      "actual_grip_error_m": 4.2981520598697533e-07
+    },
+    {
+      "elbow_angle_degrees": 115.88006055270921,
+      "reach_ratio": 0.84760022373158,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.0,
+      "carry_cant_degrees": -12.5,
+      "actual_grip_error_m": 1.9073486328125e-06
+    },
+    {
+      "elbow_angle_degrees": 120.10516093176574,
+      "reach_ratio": 0.8665765652027119,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.21656705279694e-08,
+      "frame": 9.0625,
+      "carry_cant_degrees": -11.32965087890625,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 124.34075248138741,
+      "reach_ratio": 0.8844190947321094,
+      "upper_length_error_m": 7.090281631261242e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.125,
+      "carry_cant_degrees": -10.16845703125,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 128.57388516290786,
+      "reach_ratio": 0.9010454100778961,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 6.631010784907687e-08,
+      "frame": 9.1875,
+      "carry_cant_degrees": -9.02557373046875,
+      "actual_grip_error_m": 1.1920928955078125e-07
+    },
+    {
+      "elbow_angle_degrees": 132.7922646358211,
+      "reach_ratio": 0.9163920429598003,
+      "upper_length_error_m": 5.5146582994547444e-08,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.25,
+      "carry_cant_degrees": -7.91015625,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 137.49599735115544,
+      "reach_ratio": 0.9320406821594935,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.3125,
+      "carry_cant_degrees": -6.83135986328125,
+      "actual_grip_error_m": 5.331201499700045e-07
+    },
+    {
+      "elbow_angle_degrees": 142.21060372764845,
+      "reach_ratio": 0.9461510939612284,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.375,
+      "carry_cant_degrees": -5.79833984375,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 146.91840723572813,
+      "reach_ratio": 0.9586445749334795,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.4375,
+      "carry_cant_degrees": -4.82025146484375,
+      "actual_grip_error_m": 2.6656007498500226e-07
+    },
+    {
+      "elbow_angle_degrees": 151.59917685507287,
+      "reach_ratio": 0.9694636181020626,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.5,
+      "carry_cant_degrees": -3.90625,
+      "actual_grip_error_m": 1.9369216929998304e-06
+    },
+    {
+      "elbow_angle_degrees": 158.6718787217561,
+      "reach_ratio": 0.9827402943488259,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.5625,
+      "carry_cant_degrees": -3.06549072265625,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 165.79946798860954,
+      "reach_ratio": 0.9923363276425335,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.625,
+      "carry_cant_degrees": -2.30712890625,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 172.9272348403814,
+      "reach_ratio": 0.9980970510579112,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.6875,
+      "carry_cant_degrees": -1.64031982421875,
+      "actual_grip_error_m": 1.9073486328125e-06
+    },
+    {
+      "elbow_angle_degrees": 179.999991348578,
+      "reach_ratio": 0.9999999905910022,
+      "upper_length_error_m": 1.6029118224930583e-05,
+      "forearm_length_error_m": 1.602401387079677e-05,
+      "frame": 9.75,
+      "carry_cant_degrees": -1.07421875,
+      "actual_grip_error_m": 2.384185791015625e-07
+    },
+    {
+      "elbow_angle_degrees": 178.12424381757407,
+      "reach_ratio": 0.9998661095115201,
+      "upper_length_error_m": 7.126655554579031e-08,
+      "forearm_length_error_m": 6.091248500039725e-08,
+      "frame": 9.8125,
+      "carry_cant_degrees": -0.61798095703125,
+      "actual_grip_error_m": 1.922192036699903e-06
+    },
+    {
+      "elbow_angle_degrees": 176.24792255067987,
+      "reach_ratio": 0.9994643350536024,
+      "upper_length_error_m": 6.893030371490916e-08,
+      "forearm_length_error_m": 5.490916676897939e-08,
+      "frame": 9.875,
+      "carry_cant_degrees": -0.28076171875,
+      "actual_grip_error_m": 0.0
+    },
+    {
+      "elbow_angle_degrees": 174.3714373592456,
+      "reach_ratio": 0.9987947036448366,
+      "upper_length_error_m": 0.0,
+      "forearm_length_error_m": 0.0,
+      "frame": 9.9375,
+      "carry_cant_degrees": -0.07171630859375,
+      "actual_grip_error_m": 1.9110702922202824e-06
+    }
+  ],
+  "clearance_samples": [
+    {
+      "frame": 1.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01876570028364658,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008419971215724945,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0187324781447649,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008414890851080417,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01868977514207363,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008413385833799839,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018690898317098616,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008409027244150638,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018723738613724707,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008406120586395264,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01879307371675968,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00840347656160593,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01885682274699211,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008399227868020534,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01895535108745098,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008393879282474518,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019087775844335554,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008391336771845817,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01918996987044811,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008393429453670978,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019300067099928854,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008392920020222664,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019294728758931158,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00839373865276575,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019301223802566526,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008394054371118545,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019242496463656424,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008393487195670605,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01919588004350662,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00839333073347807,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019115754637122152,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008396439488232136,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019044275629520414,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00839472119808197,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019026370021700857,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008400856751203537,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01901105535328388,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00840414431989193,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018968486461043356,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008412205848097801,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01892713573873043,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008412502008676529,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018858161988854406,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008419890190660953,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018790741685032843,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008422346088290214,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018692308339476583,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00842992612272501,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01859661867022514,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008430270712077617,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01847637188732624,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008440157632529735,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018367438811063765,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008445748361945152,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018248436275124548,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008456601995229721,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018142762827873228,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008462525206804275,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01803781581223011,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008472998860478401,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.017949667993187902,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008479326266050339,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.017868935364484785,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008488887223601341,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.017803930911421774,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008497454459965229,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.017549074488878248,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008505366045236587,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01731941220462322,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008516880917549133,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0171373237401247,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008527252125740051,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.017001941102743147,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00853862636834383,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01692932215631008,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008548295359313488,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01689447206556797,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008560044924914837,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01689127017855644,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008569905768334865,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016929161968827246,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008580224822461605,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01668244716823101,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008590350161492824,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01648151059746742,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008601142327487469,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016352546635270117,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008609259735047817,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016265907558798788,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008622203256189823,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01623756927549839,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008628189797699451,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016239484074711798,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00863772374689579,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016304505291581152,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00864297826886177,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016404557275772093,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008650622564554214,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016195961508154867,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008661591681838035,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.016007942381501196,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00867470656633377,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.015898681479692457,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008684483590722084,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.015804016265273092,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008696743521094322,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.015789821046590803,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008707722882926464,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.015797886300086973,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00872026686668396,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.015876812162995337,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008729025024175644,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.015972222435474394,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008742130595445633,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.013771985891461372,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008844944882392883,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.011963828700780868,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008993106196820736,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01057012961357832,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009125997546315193,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0095590401917696,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009418695467710495,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.010130166310071945,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00936324452161789,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.011060819263756275,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009327694076299667,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.015462578508257866,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009272294352948665,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.02040205081105232,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009231990437209606,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04125112225413322,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.022546596127748487,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04546879907250404,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009031611728668213,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.08991472725868226,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.026703392389416693,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.12196870450973511,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.011954178336262703,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.14637151663303374,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0037062622152268885,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.15556206111907958,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.005601833257079124,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.10282204602956772,
+      "R_triangle_intersections": 22,
+      "R_shaft_clearance": 0.002331888537108898,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.9375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.07344825868606568,
+      "R_triangle_intersections": 30,
+      "R_shaft_clearance": 0.0019107537820935248,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 10.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04297113721370697,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00691149500310421,
+      "nock_to_string_m": 0.0
+    }
+  ],
+  "intersection_samples": [
+    {
+      "frame": 9.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.10282204602956772,
+      "R_triangle_intersections": 22,
+      "R_shaft_clearance": 0.002331888537108898,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.9375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.07344825868606568,
+      "R_triangle_intersections": 30,
+      "R_shaft_clearance": 0.0019107537820935248,
+      "nock_to_string_m": 0.0
+    }
+  ],
+  "camera_samples": [
+    {
+      "frame": 1.0,
+      "camera_bow_surface_distance_m": 0.2009739726781845,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 1.125,
+      "camera_bow_surface_distance_m": 0.20044296979904175,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 1.25,
+      "camera_bow_surface_distance_m": 0.19989709556102753,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 1.375,
+      "camera_bow_surface_distance_m": 0.19950100779533386,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 1.5,
+      "camera_bow_surface_distance_m": 0.19909048080444336,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 1.625,
+      "camera_bow_surface_distance_m": 0.1987418234348297,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 1.75,
+      "camera_bow_surface_distance_m": 0.1983780413866043,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 1.875,
+      "camera_bow_surface_distance_m": 0.19799388945102692,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.0,
+      "camera_bow_surface_distance_m": 0.1975950449705124,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.125,
+      "camera_bow_surface_distance_m": 0.19720421731472015,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.25,
+      "camera_bow_surface_distance_m": 0.1968076378107071,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.375,
+      "camera_bow_surface_distance_m": 0.19643384218215942,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.5,
+      "camera_bow_surface_distance_m": 0.1960548460483551,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.625,
+      "camera_bow_surface_distance_m": 0.19569697976112366,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.75,
+      "camera_bow_surface_distance_m": 0.1953354775905609,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 2.875,
+      "camera_bow_surface_distance_m": 0.19499334692955017,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.0,
+      "camera_bow_surface_distance_m": 0.1946485936641693,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.125,
+      "camera_bow_surface_distance_m": 0.19465428590774536,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.25,
+      "camera_bow_surface_distance_m": 0.1946604996919632,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.375,
+      "camera_bow_surface_distance_m": 0.19466552138328552,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.5,
+      "camera_bow_surface_distance_m": 0.19467322528362274,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.625,
+      "camera_bow_surface_distance_m": 0.19468183815479279,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.75,
+      "camera_bow_surface_distance_m": 0.19469380378723145,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 3.875,
+      "camera_bow_surface_distance_m": 0.1947077065706253,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.0,
+      "camera_bow_surface_distance_m": 0.19472399353981018,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.125,
+      "camera_bow_surface_distance_m": 0.1951797902584076,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.25,
+      "camera_bow_surface_distance_m": 0.19563594460487366,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.375,
+      "camera_bow_surface_distance_m": 0.19608265161514282,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.5,
+      "camera_bow_surface_distance_m": 0.1965300440788269,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.625,
+      "camera_bow_surface_distance_m": 0.19696137309074402,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.75,
+      "camera_bow_surface_distance_m": 0.19739419221878052,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 4.875,
+      "camera_bow_surface_distance_m": 0.19780333340168,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.0,
+      "camera_bow_surface_distance_m": 0.19821490347385406,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.125,
+      "camera_bow_surface_distance_m": 0.19909562170505524,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.25,
+      "camera_bow_surface_distance_m": 0.19996680319309235,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.375,
+      "camera_bow_surface_distance_m": 0.20079132914543152,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.5,
+      "camera_bow_surface_distance_m": 0.2016056478023529,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.625,
+      "camera_bow_surface_distance_m": 0.2023722231388092,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.75,
+      "camera_bow_surface_distance_m": 0.20312809944152832,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 5.875,
+      "camera_bow_surface_distance_m": 0.20383624732494354,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.0,
+      "camera_bow_surface_distance_m": 0.20453481376171112,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.125,
+      "camera_bow_surface_distance_m": 0.20568031072616577,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.25,
+      "camera_bow_surface_distance_m": 0.2068006694316864,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.375,
+      "camera_bow_surface_distance_m": 0.20783460140228271,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.5,
+      "camera_bow_surface_distance_m": 0.20884129405021667,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.625,
+      "camera_bow_surface_distance_m": 0.20973435044288635,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.75,
+      "camera_bow_surface_distance_m": 0.21060216426849365,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 6.875,
+      "camera_bow_surface_distance_m": 0.21132902801036835,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.0,
+      "camera_bow_surface_distance_m": 0.2120286524295807,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.125,
+      "camera_bow_surface_distance_m": 0.21216285228729248,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.25,
+      "camera_bow_surface_distance_m": 0.21226412057876587,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.375,
+      "camera_bow_surface_distance_m": 0.2123030573129654,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.5,
+      "camera_bow_surface_distance_m": 0.21231035888195038,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.625,
+      "camera_bow_surface_distance_m": 0.2122950553894043,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.75,
+      "camera_bow_surface_distance_m": 0.21224841475486755,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 7.875,
+      "camera_bow_surface_distance_m": 0.21221694350242615,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.0,
+      "camera_bow_surface_distance_m": 0.2121550738811493,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.125,
+      "camera_bow_surface_distance_m": 0.21214811503887177,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.25,
+      "camera_bow_surface_distance_m": 0.2078675627708435,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.375,
+      "camera_bow_surface_distance_m": 0.19928927719593048,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.5,
+      "camera_bow_surface_distance_m": 0.18754370510578156,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.625,
+      "camera_bow_surface_distance_m": 0.17335090041160583,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.75,
+      "camera_bow_surface_distance_m": 0.15728799998760223,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 8.875,
+      "camera_bow_surface_distance_m": 0.13983812928199768,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.0,
+      "camera_bow_surface_distance_m": 0.12232182919979095,
+      "bow_screen_ray_fraction": 0.0,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.125,
+      "camera_bow_surface_distance_m": 0.11050974577665329,
+      "bow_screen_ray_fraction": 0.029304029304029304,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.25,
+      "camera_bow_surface_distance_m": 0.11684183776378632,
+      "bow_screen_ray_fraction": 0.19413919413919414,
+      "near_bow_screen_ray_fraction": 0.10622710622710622
+    },
+    {
+      "frame": 9.375,
+      "camera_bow_surface_distance_m": 0.18980306386947632,
+      "bow_screen_ray_fraction": 0.11721611721611722,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.5,
+      "camera_bow_surface_distance_m": 0.2798070013523102,
+      "bow_screen_ray_fraction": 0.05860805860805861,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.625,
+      "camera_bow_surface_distance_m": 0.3704392611980438,
+      "bow_screen_ray_fraction": 0.054945054945054944,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.75,
+      "camera_bow_surface_distance_m": 0.4571228325366974,
+      "bow_screen_ray_fraction": 0.047619047619047616,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.875,
+      "camera_bow_surface_distance_m": 0.4971853494644165,
+      "bow_screen_ray_fraction": 0.03296703296703297,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 9.9375,
+      "camera_bow_surface_distance_m": 0.5134410262107849,
+      "bow_screen_ray_fraction": 0.018315018315018316,
+      "near_bow_screen_ray_fraction": 0.0
+    },
+    {
+      "frame": 10.0,
+      "camera_bow_surface_distance_m": 0.5283766388893127,
+      "bow_screen_ray_fraction": 0.047619047619047616,
+      "near_bow_screen_ray_fraction": 0.0
+    }
+  ],
+  "change": "Additional25-degree low-carry cant through8, easing out8..10;4 mm nock slip during rapid raise9.25..10. Only frames1..9.9375 keyed; frame10 and all later keys untouched. Arrow follows shifted rest during carry; no camera, bear, root, right-hand or later animation modifications.",
+  "status": "UNPROMOTED CANDIDATE: failed dense transition checks; production scene remains9b39."
+}

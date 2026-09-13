@@ -1,0 +1,36 @@
+{
+  "source": {
+    "scene": "bear-bow-escape-v9.blend",
+    "sha256": "fb3cecd1f512e93245c141b37dcf1426abcdcdc2b40c964f3a98a4c21ba34440",
+    "view": "third",
+    "frames": 144,
+    "fps": 12,
+    "seconds": 12,
+    "resolution": [
+      768,
+      432
+    ],
+    "engine": "EEVEE",
+    "samples": 8,
+    "heavy_render": false
+  },
+  "timings": [
+    {
+      "frame": 55,
+      "seconds": 2.3630807919998915
+    },
+    {
+      "frame": 59,
+      "seconds": 0.4394357500004844
+    },
+    {
+      "frame": 70,
+      "seconds": 0.4277984580003249
+    },
+    {
+      "frame": 140,
+      "seconds": 0.2778555000004417
+    }
+  ],
+  "status": "rendered for review"
+}

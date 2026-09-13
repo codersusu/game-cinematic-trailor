@@ -1,0 +1,59 @@
+{
+  "option": "a",
+  "title": "A \u2014 BOW vs FOREST GUARDIAN",
+  "technical_checks": "passed",
+  "frames": 96,
+  "fps": 12,
+  "seconds": 8,
+  "size": [
+    768,
+    496
+  ],
+  "audio": false,
+  "source_scene": {
+    "scene": "option-a-bow-guardian.blend",
+    "sha256": "5580f65b7779d13ff39127cead781c4763b09cc952b9de29c2c5ad411a0f655f",
+    "resolution": [
+      768,
+      432
+    ],
+    "fps": 12,
+    "source_fps": 12.0,
+    "source_frame_start": 1,
+    "source_frame_end": 96,
+    "engine": "EEVEE",
+    "samples": 8
+  },
+  "movie_sha256": "a83acba8f61c231838da76672e37a7b650765c2d853063a1d54e4494da73df77",
+  "contact_sheet_frames": [
+    1,
+    18,
+    36,
+    54,
+    72,
+    96
+  ],
+  "visual_review": {
+    "status": "final contact sheet and corrected transition stills inspected",
+    "frames": [
+      1,
+      18,
+      36,
+      54,
+      72,
+      96
+    ],
+    "transition_stills": [
+      42,
+      46
+    ],
+    "findings": [
+      "Draw, release sequence and recovery remain framed.",
+      "Guardian now blends from walking into its attack stance.",
+      "Both actors visible in the wide shots; closer shot emphasizes bow motion."
+    ],
+    "limit": "Source stand-ins; no full realtime playback or final heroine retarget review."
+  },
+  "full_realtime_playback": false,
+  "heavy_render": false
+}

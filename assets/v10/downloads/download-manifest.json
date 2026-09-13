@@ -1,0 +1,170 @@
+{
+  "provider": "Poly Haven",
+  "license": "CC0-1.0",
+  "license_url": "https://polyhaven.com/license",
+  "assets": {
+    "grass_bermuda_01": {
+      "source": "https://polyhaven.com/a/grass_bermuda_01",
+      "authors": {
+        "Rico Cilliers": "All"
+      }
+    },
+    "fir_sapling": {
+      "source": "https://polyhaven.com/a/fir_sapling",
+      "authors": {
+        "Rob Tuytel": "photography",
+        "Rico Cilliers": "modeling"
+      }
+    },
+    "grass_medium_01": {
+      "source": "https://polyhaven.com/a/grass_medium_01",
+      "authors": {
+        "Rob Tuytel": "Photography",
+        "Rico Cilliers": "Modeling"
+      }
+    }
+  },
+  "files": [
+    {
+      "path": "grass_bermuda_01/grass_bermuda_01_2k.blend",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/grass_bermuda_01/grass_bermuda_01_2k.blend",
+      "bytes": 185406,
+      "md5": "3afe6597602f82d02dd69a76170432b3",
+      "sha256": "3b2ec52390d293b9e810ec4e2a182d725ed2a858eb0912f5bb36909d9c5f5073"
+    },
+    {
+      "path": "grass_bermuda_01/textures/grass_bermuda_01_alpha_2k.png",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/grass_bermuda_01/grass_bermuda_01_alpha_2k.png",
+      "bytes": 118124,
+      "md5": "62f5d6785a48f74ba3820279f685e14d",
+      "sha256": "2750b808598d2c4116e494c20065a2dbf7fba5a098c3ed445772ff6d02ec3d3c"
+    },
+    {
+      "path": "grass_bermuda_01/textures/grass_bermuda_01_diff_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/grass_bermuda_01/grass_bermuda_01_diff_2k.jpg",
+      "bytes": 494673,
+      "md5": "16d1d5cccc2966fff5abeeb2e91b44a2",
+      "sha256": "30183c203739dee9812b70f21916fcdcd88719dcfe4fa3270d8ce208369ec933"
+    },
+    {
+      "path": "grass_bermuda_01/textures/grass_bermuda_01_nor_gl_2k.exr",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_bermuda_01/grass_bermuda_01_nor_gl_2k.exr",
+      "bytes": 5539729,
+      "md5": "8dc54ea88e98892cbf783ff66cd561e4",
+      "sha256": "9455b54c57471a0a6816ef49a0169aa6180b16ba256e6c7179d1513ad79fe7d2"
+    },
+    {
+      "path": "grass_bermuda_01/textures/grass_bermuda_01_rough_2k.exr",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_bermuda_01/grass_bermuda_01_rough_2k.exr",
+      "bytes": 1990710,
+      "md5": "d16758423aca4e2ef2c8869dfde963c4",
+      "sha256": "353ac7379043d9dee6883af0283f6949bb436e9b6c890a49959036bd0733f0e4"
+    },
+    {
+      "path": "fir_sapling/fir_sapling_2k.gltf",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/fir_sapling/fir_sapling_2k.gltf",
+      "bytes": 10979,
+      "md5": "7d513103567f55260a28f203db1cd835",
+      "sha256": "093fd4af3f76044afe36ebf572fdbe6c38bed2874b7b920ac86561e33359bd5c"
+    },
+    {
+      "path": "fir_sapling/textures/fir_sapling_branches_nor_gl_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling/fir_sapling_branches_nor_gl_2k.jpg",
+      "bytes": 3921063,
+      "md5": "71ed83f58a42d1d896de0e58e0ab630d",
+      "sha256": "9fcb580665cff5c06ea77056f29b4b74fd54b046dd1371eda71814dbbc501aef"
+    },
+    {
+      "path": "fir_sapling/textures/fir_sapling_branches_diff_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling/fir_sapling_branches_diff_2k.jpg",
+      "bytes": 2839348,
+      "md5": "83c6029f4e7c124c68a6b5269e6d214a",
+      "sha256": "e2cbeab3fae3b3c059b084e28773ce16da99994de019db7b1f6738a50bd77a75"
+    },
+    {
+      "path": "fir_sapling/textures/fir_sapling_branches_arm_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling/fir_sapling_branches_arm_2k.jpg",
+      "bytes": 2798227,
+      "md5": "5effd466021fa7300d596e09996b3ef1",
+      "sha256": "2d6fc027508952d703cb9b59dd7b9e2727841bac0199a1bb0ad2d9efc09ff74d"
+    },
+    {
+      "path": "fir_sapling/textures/fir_sapling_twigs_diff_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling/fir_sapling_twigs_diff_2k.jpg",
+      "bytes": 751844,
+      "md5": "8f4dc0996acb0fa5082e5841407ffde9",
+      "sha256": "cf1e9852128dc6a6825fd4e40025dfa53b01c9ed049ae3431dbfe7420fde9547"
+    },
+    {
+      "path": "fir_sapling/textures/fir_sapling_twigs_nor_gl_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling/fir_sapling_twigs_nor_gl_2k.jpg",
+      "bytes": 1641253,
+      "md5": "76329d0fbef7976c898c768b1dff38d1",
+      "sha256": "bbeffa70891cc0a4ec8571f443cbb915b0d4d4d5ac079cea0d21a22183ded825"
+    },
+    {
+      "path": "fir_sapling/textures/fir_sapling_twigs_arm_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling/fir_sapling_twigs_arm_2k.jpg",
+      "bytes": 921388,
+      "md5": "5ccdd7aa2c40e20bd7647a66d3306825",
+      "sha256": "3b3bfbc5f5b19834afb9c3dda9edd5c3fcf7b3f36c2f4da2bee7368b011b1986"
+    },
+    {
+      "path": "fir_sapling/fir_sapling.bin",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fir_sapling/fir_sapling.bin",
+      "bytes": 21677180,
+      "md5": "b329143a90d95201891afc52daeb9698",
+      "sha256": "efdebfae6ee4b3ea20c7a85eb9f798ff4953259a3616bcff0b7e580b00f34f40"
+    },
+    {
+      "path": "fir_sapling/textures/fir_sapling_twigs_alpha_2k.png",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling/fir_sapling_twigs_alpha_2k.png",
+      "bytes": 267841,
+      "md5": "811064f646754026bdcdcdcfe5368abb",
+      "sha256": "c26331c7e53e911c49e587c6108c1b97f63fa6bc86c9d090cee3e9892783bf08"
+    },
+    {
+      "path": "grass_medium_01/grass_medium_01_2k.blend",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/grass_medium_01/grass_medium_01_2k.blend",
+      "bytes": 1832480,
+      "md5": "f301cca3574d007b7b67c68476936c1c",
+      "sha256": "c5ec75dd54a425d39d9e26fbeeee4c6428bd5f60c4e24006425321be43bf055f"
+    },
+    {
+      "path": "grass_medium_01/textures/grass_medium_01_alpha_2k.png",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/grass_medium_01/grass_medium_01_alpha_2k.png",
+      "bytes": 1580653,
+      "md5": "0810166131307c1094d37e73a8490542",
+      "sha256": "4af2c3d5ebf167764ad3746f8c925dc4fbe28f0df023656599123cb593b793dd"
+    },
+    {
+      "path": "grass_medium_01/textures/grass_medium_01_diff_2k.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/grass_medium_01/grass_medium_01_diff_2k.jpg",
+      "bytes": 1166527,
+      "md5": "000814eb2149add70695cf71bfb52c4b",
+      "sha256": "f768aa68daf14f37a92dd96621628a5252b169f4d94b4d1cc830d62cd3ac9e68"
+    },
+    {
+      "path": "grass_medium_01/textures/grass_medium_01_dry_diff_2k.png",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/grass_medium_01/grass_medium_01_dry_diff_2k.png",
+      "bytes": 6652964,
+      "md5": "8ea1c1853688113b9e1e0b17c4efda5a",
+      "sha256": "b41838fcdbf5d0387cc0441dce8ffde10bf79d0256a372ac01dbf3f2175b7273"
+    },
+    {
+      "path": "grass_medium_01/textures/grass_medium_01_nor_gl_2k.exr",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_medium_01/grass_medium_01_nor_gl_2k.exr",
+      "bytes": 7389519,
+      "md5": "4a1e50ca39ce25a4b33f9086f578a632",
+      "sha256": "37488442da10568ce47a24096df77ab82f35b2ccf294ca1c960b7506c95d47f1"
+    },
+    {
+      "path": "grass_medium_01/textures/grass_medium_01_rough_2k.exr",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_medium_01/grass_medium_01_rough_2k.exr",
+      "bytes": 2627410,
+      "md5": "8133a6d2d2fd01f899f12c27b7d854b7",
+      "sha256": "f71e4e0c66f7ab0e53ea4352824b86ab074471eba1864c8a7b81fa8fca785470"
+    }
+  ],
+  "total_bytes": 64407318
+}

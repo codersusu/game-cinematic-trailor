@@ -1,0 +1,461 @@
+[
+  {
+    "path": "bear-bow-escape-v9.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 106
+  },
+  {
+    "path": "bear-bow-escape-v9.blend1",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 106
+  },
+  {
+    "path": "bear-bow-forest-v10.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2612
+  },
+  {
+    "path": "bear-bow-forest-v10.blend1",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2612
+  },
+  {
+    "path": "bear-bow-forest-v12.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "bear-bow-forest-v12.blend1",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "bear-bow-forest-v13-aim-test.blend1",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "bear-bow-forest-v13-before-arm-staging.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "bear-bow-forest-v13-before-opening-fix.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "bear-bow-forest-v13-initial-archery.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "bear-bow-forest-v13.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "bear-bow-forest-v13.blend1",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 2613
+  },
+  {
+    "path": "forest-v8-layout.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 39
+  },
+  {
+    "path": "forest-v8-layout.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 39
+  },
+  {
+    "path": "observatory-eyes-fixed.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 46
+  },
+  {
+    "path": "observatory-v11-single-reaction.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 64
+  },
+  {
+    "path": "observatory-v12-run-entry.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 80
+  },
+  {
+    "path": "observatory-v12-run-entry.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 80
+  },
+  {
+    "path": "observatory-v2-environment.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 18
+  },
+  {
+    "path": "observatory-v2-environment.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 18
+  },
+  {
+    "path": "observatory-v2.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 39
+  },
+  {
+    "path": "observatory-v2.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 39
+  },
+  {
+    "path": "observatory-v3-environment.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 26
+  },
+  {
+    "path": "observatory-v3-environment.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 26
+  },
+  {
+    "path": "observatory-v3.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 28
+  },
+  {
+    "path": "observatory-v3.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 28
+  },
+  {
+    "path": "observatory-v4.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 47
+  },
+  {
+    "path": "observatory-v4.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 47
+  },
+  {
+    "path": "observatory-v5.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 61
+  },
+  {
+    "path": "observatory-v5.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 61
+  },
+  {
+    "path": "observatory-v6.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 62
+  },
+  {
+    "path": "observatory-v6.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 62
+  },
+  {
+    "path": "observatory-v7-camera-study.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 64
+  },
+  {
+    "path": "observatory-v7-camera-study.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 64
+  },
+  {
+    "path": "observatory-v7.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 64
+  },
+  {
+    "path": "observatory-v7.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 64
+  },
+  {
+    "path": "observatory-v8-finger-study.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 64
+  },
+  {
+    "path": "observatory-v8-finger-study.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 64
+  },
+  {
+    "path": "observatory.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 46
+  },
+  {
+    "path": "observatory.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 46
+  },
+  {
+    "path": "observatory45.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 46
+  },
+  {
+    "path": "observatory45.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 46
+  },
+  {
+    "path": "observatory52.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 46
+  },
+  {
+    "path": "option-a-bow-guardian.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 45
+  },
+  {
+    "path": "option-a-bow-guardian.blend1",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 45
+  },
+  {
+    "path": "option-b-sword-guardian.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 41
+  },
+  {
+    "path": "option-b-sword-guardian.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 41
+  },
+  {
+    "path": "option-c-bow-bear.blend",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 120
+  },
+  {
+    "path": "option-c-bow-bear.blend1",
+    "restricted_archer_markers": true,
+    "object_markers": [
+      "HumanF_BodyMesh",
+      "Human_BowMesh",
+      "Human_Bow",
+      "Human_Arrow",
+      "A | archer placement"
+    ],
+    "action_markers": [],
+    "action_count": 120
+  },
+  {
+    "path": "previews/eye-material-before/observatory-before-eyes.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 46
+  },
+  {
+    "path": "previews/v4/native-walk-probe/native-walk-probe.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 2
+  },
+  {
+    "path": "previews/v4/rocketbox-native-motion/native-motion-proof.blend",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 16
+  },
+  {
+    "path": "previews/v4/rocketbox-native-motion/native-motion-proof.blend1",
+    "restricted_archer_markers": false,
+    "object_markers": [],
+    "action_markers": [],
+    "action_count": 16
+  }
+]

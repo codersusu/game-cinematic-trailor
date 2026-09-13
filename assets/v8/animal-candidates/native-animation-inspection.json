@@ -1,0 +1,245 @@
+{
+  "boar": {
+    "actions": [
+      {
+        "name": "attack",
+        "frame_range": [
+          0.0,
+          19.0
+        ]
+      },
+      {
+        "name": "default",
+        "frame_range": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "walk",
+        "frame_range": [
+          0.0,
+          40.0
+        ]
+      }
+    ],
+    "meshes": [
+      {
+        "name": "boar_mesh.000",
+        "vertices": 313,
+        "triangles": 572
+      }
+    ],
+    "armatures": [
+      {
+        "name": "boar_armature",
+        "bones": 32
+      }
+    ],
+    "images": [
+      {
+        "name": "boar",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ]
+      }
+    ]
+  },
+  "tomek-wolf": {
+    "actions": [
+      {
+        "name": "wolf_attack01",
+        "frame_range": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "wolf_cry",
+        "frame_range": [
+          0.0,
+          36.0
+        ]
+      },
+      {
+        "name": "wolf_die",
+        "frame_range": [
+          0.0,
+          99.0
+        ]
+      },
+      {
+        "name": "wolf_fly",
+        "frame_range": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "wolf_idle",
+        "frame_range": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "wolf_jump",
+        "frame_range": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "wolf_land",
+        "frame_range": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "wolf_run",
+        "frame_range": [
+          0.0,
+          24.0
+        ]
+      },
+      {
+        "name": "wolf_walk",
+        "frame_range": [
+          0.0,
+          24.0
+        ]
+      }
+    ],
+    "meshes": [
+      {
+        "name": "wolf_female",
+        "vertices": 692,
+        "triangles": 1348
+      },
+      {
+        "name": "wolf_male2",
+        "vertices": 692,
+        "triangles": 1348
+      }
+    ],
+    "armatures": [
+      {
+        "name": "wolf_armature",
+        "bones": 26
+      }
+    ],
+    "images": [
+      {
+        "name": "Render Result",
+        "packed": false,
+        "dimensions": [
+          0,
+          0
+        ]
+      },
+      {
+        "name": "tex/actors/skins/wolf_female.png",
+        "packed": false,
+        "dimensions": [
+          0,
+          0
+        ]
+      },
+      {
+        "name": "wolf_female.png",
+        "packed": true,
+        "dimensions": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "wolf_male.png",
+        "packed": false,
+        "dimensions": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "coincoin-wolf": {
+    "actions": [
+      {
+        "name": "Armature|ATK1|Baked frames",
+        "frame_range": [
+          1.0,
+          161.0
+        ]
+      },
+      {
+        "name": "Armature|ATK2|Baked frames",
+        "frame_range": [
+          1.0,
+          114.00000762939453
+        ]
+      },
+      {
+        "name": "Armature|death|Baked frames",
+        "frame_range": [
+          1.0,
+          53.000003814697266
+        ]
+      },
+      {
+        "name": "Armature|hit|Baked frames",
+        "frame_range": [
+          1.0,
+          73.0
+        ]
+      },
+      {
+        "name": "Armature|idle|Baked frames",
+        "frame_range": [
+          1.0,
+          78.00000762939453
+        ]
+      },
+      {
+        "name": "Armature|rotation|Baked frames",
+        "frame_range": [
+          1.0,
+          38.0
+        ]
+      },
+      {
+        "name": "Armature|run|Baked frames",
+        "frame_range": [
+          1.0,
+          37.0
+        ]
+      }
+    ],
+    "meshes": [
+      {
+        "name": "Forest Wolf",
+        "vertices": 711,
+        "triangles": 1334
+      }
+    ],
+    "armatures": [
+      {
+        "name": "Armature",
+        "bones": 32
+      }
+    ],
+    "images": [
+      {
+        "name": "Diffuse Texture",
+        "packed": true,
+        "dimensions": [
+          256,
+          256
+        ]
+      }
+    ]
+  }
+}

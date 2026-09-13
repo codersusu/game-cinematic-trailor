@@ -1,0 +1,18 @@
+{
+  "visual_review": "Initial frames1,36,63,88 and final blue-hour36,63 inspected. Exported movie contact sheet1,18,36,54,72,96 plus source render frames38,39,40,41,42,48,49,50,51,58,60,63,65,67,70,72 inspected.",
+  "full_realtime_playback": false,
+  "readable": [
+    "native feminine anchor pose and full bow",
+    "guardian approach and attack silhouette",
+    "stone impact sparks at67",
+    "source proxy label and forest context"
+  ],
+  "remaining_limitations": [
+    "Accepted Rocketbox heroine retarget pending selection.",
+    "Bow limb flex and final moss/materials unfinished."
+  ],
+  "review_artifact": "transition-review.jpg",
+  "stance_fix": "Replacement render inspected at consecutive frames39\u201348 and60/63; height progression is smooth and floor contact remains stable.",
+  "corrected_review_artifact": "stance-corrected-review.jpg",
+  "final_movie_sha256": "a83acba8f61c231838da76672e37a7b650765c2d853063a1d54e4494da73df77"
+}

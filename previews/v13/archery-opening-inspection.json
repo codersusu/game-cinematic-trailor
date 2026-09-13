@@ -1,0 +1,664 @@
+[
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 1,
+    "object": "Human_Arrow",
+    "depth_min": -0.2108253538608551,
+    "depth_max": 0.6379213333129883,
+    "camera_surface_distance": 0.4876617193222046,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 1,
+    "object": "Human_BowMesh",
+    "depth_min": -0.1357162892818451,
+    "depth_max": 0.3395840525627136,
+    "camera_surface_distance": 0.020683301612734795,
+    "ray_hits": [
+      [
+        0.2,
+        0.2,
+        0.034333255141973495
+      ],
+      [
+        0.2,
+        0.5,
+        0.02642381377518177
+      ],
+      [
+        0.2,
+        0.8,
+        0.022832028567790985
+      ],
+      [
+        0.5,
+        0.5,
+        0.03992664813995361
+      ],
+      [
+        0.5,
+        0.8,
+        0.029626034200191498
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 1,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.4260827600955963,
+    "depth_max": 0.32012879848480225,
+    "camera_surface_distance": 0.23253123462200165,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 1,
+    "object": "V13 | Physical arrow rest",
+    "depth_min": 0.24631944298744202,
+    "depth_max": 0.3043375611305237,
+    "camera_surface_distance": 0.5112120509147644,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 6,
+    "object": "Human_Arrow",
+    "depth_min": -0.20904898643493652,
+    "depth_max": 0.638489842414856,
+    "camera_surface_distance": 0.470598042011261,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 6,
+    "object": "Human_BowMesh",
+    "depth_min": -0.1137353926897049,
+    "depth_max": 0.33479300141334534,
+    "camera_surface_distance": 0.049282241612672806,
+    "ray_hits": [
+      [
+        0.2,
+        0.2,
+        0.07718852907419205
+      ],
+      [
+        0.2,
+        0.5,
+        0.06025165319442749
+      ],
+      [
+        0.2,
+        0.8,
+        0.05255897715687752
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 6,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.43849557638168335,
+    "depth_max": 0.32290229201316833,
+    "camera_surface_distance": 0.23797602951526642,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 6,
+    "object": "V13 | Physical arrow rest",
+    "depth_min": 0.25116395950317383,
+    "depth_max": 0.3100225031375885,
+    "camera_surface_distance": 0.5027264952659607,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 9,
+    "object": "Human_Arrow",
+    "depth_min": -0.1902991235256195,
+    "depth_max": 0.6655129194259644,
+    "camera_surface_distance": 0.47618821263313293,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 9,
+    "object": "Human_BowMesh",
+    "depth_min": -0.10856431722640991,
+    "depth_max": 0.3521781265735626,
+    "camera_surface_distance": 0.05631546676158905,
+    "ray_hits": [
+      [
+        0.2,
+        0.2,
+        0.0933712050318718
+      ],
+      [
+        0.2,
+        0.5,
+        0.07420574873685837
+      ],
+      [
+        0.2,
+        0.8,
+        0.06534586101770401
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 9,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.4169555902481079,
+    "depth_max": 0.33844178915023804,
+    "camera_surface_distance": 0.2449936717748642,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 9,
+    "object": "V13 | Physical arrow rest",
+    "depth_min": 0.26604482531547546,
+    "depth_max": 0.3235214352607727,
+    "camera_surface_distance": 0.5144558548927307,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 10,
+    "object": "Human_Arrow",
+    "depth_min": 0.18152901530265808,
+    "depth_max": 1.135944128036499,
+    "camera_surface_distance": 0.2508801817893982,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 10,
+    "object": "Human_BowMesh",
+    "depth_min": 0.13792669773101807,
+    "depth_max": 0.5592448711395264,
+    "camera_surface_distance": 0.5283766388893127,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 10,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.2981260120868683,
+    "depth_max": 0.5597155094146729,
+    "camera_surface_distance": 0.13224363327026367,
+    "ray_hits": [
+      [
+        0.5,
+        0.2,
+        0.1929183006286621
+      ],
+      [
+        0.5,
+        0.5,
+        0.26027873158454895
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 10,
+    "object": "V13 | Physical arrow rest",
+    "depth_min": 0.500377893447876,
+    "depth_max": 0.5412809252738953,
+    "camera_surface_distance": 0.5233676433563232,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 12,
+    "object": "Human_Arrow",
+    "depth_min": 0.19329261779785156,
+    "depth_max": 1.1608164310455322,
+    "camera_surface_distance": 0.22268982231616974,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 12,
+    "object": "Human_BowMesh",
+    "depth_min": 0.18987852334976196,
+    "depth_max": 0.5611310005187988,
+    "camera_surface_distance": 0.5454315543174744,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 12,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.2736314833164215,
+    "depth_max": 0.5722156167030334,
+    "camera_surface_distance": 0.06777206808328629,
+    "ray_hits": [
+      [
+        0.5,
+        0.2,
+        0.1997786909341812
+      ],
+      [
+        0.5,
+        0.5,
+        0.33104443550109863
+      ],
+      [
+        0.8,
+        0.5,
+        0.10200073570013046
+      ],
+      [
+        0.8,
+        0.8,
+        0.1295333057641983
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 12,
+    "object": "V13 | Physical arrow rest",
+    "depth_min": 0.5173035860061646,
+    "depth_max": 0.5452777147293091,
+    "camera_surface_distance": 0.5450211763381958,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 15,
+    "object": "Human_Arrow",
+    "depth_min": 0.12371722608804703,
+    "depth_max": 1.109212875366211,
+    "camera_surface_distance": 0.15560564398765564,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 15,
+    "object": "Human_BowMesh",
+    "depth_min": 0.1973753124475479,
+    "depth_max": 0.5766428709030151,
+    "camera_surface_distance": 0.5514041781425476,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 15,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.2949654459953308,
+    "depth_max": 0.5846265554428101,
+    "camera_surface_distance": 0.06165711209177971,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 15,
+    "object": "V13 | Physical arrow rest",
+    "depth_min": 0.5232666730880737,
+    "depth_max": 0.5581128001213074,
+    "camera_surface_distance": 0.5482632517814636,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 19,
+    "object": "Human_Arrow",
+    "depth_min": -0.2038034051656723,
+    "depth_max": 0.7876001596450806,
+    "camera_surface_distance": 0.05798880755901337,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 19,
+    "object": "Human_BowMesh",
+    "depth_min": 0.17887060344219208,
+    "depth_max": 0.6249528527259827,
+    "camera_surface_distance": 0.5533689856529236,
+    "ray_hits": [
+      [
+        0.5,
+        0.5,
+        0.5892433524131775
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 19,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.48830676078796387,
+    "depth_max": 0.6231361627578735,
+    "camera_surface_distance": 0.1680649220943451,
+    "ray_hits": [
+      [
+        0.5,
+        0.2,
+        0.3584214746952057
+      ],
+      [
+        0.5,
+        0.5,
+        0.5343688726425171
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v13.blend",
+    "frame": 19,
+    "object": "V13 | Physical arrow rest",
+    "depth_min": 0.5581526160240173,
+    "depth_max": 0.5909870862960815,
+    "camera_surface_distance": 0.5658369064331055,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 1,
+    "object": "Human_Arrow",
+    "depth_min": -0.23417174816131592,
+    "depth_max": 0.5960230231285095,
+    "camera_surface_distance": 0.5637602210044861,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 1,
+    "object": "Human_BowMesh",
+    "depth_min": -0.1357162594795227,
+    "depth_max": 0.3395840525627136,
+    "camera_surface_distance": 0.020683249458670616,
+    "ray_hits": [
+      [
+        0.2,
+        0.2,
+        0.03433322161436081
+      ],
+      [
+        0.2,
+        0.5,
+        0.026423800736665726
+      ],
+      [
+        0.2,
+        0.8,
+        0.02283201925456524
+      ],
+      [
+        0.5,
+        0.5,
+        0.03992664813995361
+      ],
+      [
+        0.5,
+        0.8,
+        0.029626034200191498
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 1,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.4260827600955963,
+    "depth_max": 0.32012689113616943,
+    "camera_surface_distance": 0.23253214359283447,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 6,
+    "object": "Human_Arrow",
+    "depth_min": -0.23104332387447357,
+    "depth_max": 0.5960965752601624,
+    "camera_surface_distance": 0.5453135371208191,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 6,
+    "object": "Human_BowMesh",
+    "depth_min": -0.11373541504144669,
+    "depth_max": 0.33479297161102295,
+    "camera_surface_distance": 0.04928238317370415,
+    "ray_hits": [
+      [
+        0.2,
+        0.2,
+        0.07718876004219055
+      ],
+      [
+        0.2,
+        0.5,
+        0.06025182828307152
+      ],
+      [
+        0.2,
+        0.8,
+        0.05255913361907005
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 6,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.43849557638168335,
+    "depth_max": 0.32290229201316833,
+    "camera_surface_distance": 0.23797602951526642,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 9,
+    "object": "Human_Arrow",
+    "depth_min": -0.21769219636917114,
+    "depth_max": 0.6226195693016052,
+    "camera_surface_distance": 0.5521451830863953,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 9,
+    "object": "Human_BowMesh",
+    "depth_min": -0.1085643544793129,
+    "depth_max": 0.3521781265735626,
+    "camera_surface_distance": 0.0563151091337204,
+    "ray_hits": [
+      [
+        0.2,
+        0.2,
+        0.0933704674243927
+      ],
+      [
+        0.2,
+        0.5,
+        0.07420515269041061
+      ],
+      [
+        0.2,
+        0.8,
+        0.06534547358751297
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 9,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.4169555902481079,
+    "depth_max": 0.3384380638599396,
+    "camera_surface_distance": 0.24499426782131195,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 10,
+    "object": "Human_Arrow",
+    "depth_min": 0.17929919064044952,
+    "depth_max": 1.14336359500885,
+    "camera_surface_distance": 0.23320619761943817,
+    "ray_hits": [
+      [
+        0.8,
+        0.5,
+        0.30191752314567566
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 10,
+    "object": "Human_BowMesh",
+    "depth_min": 0.1383506953716278,
+    "depth_max": 0.5585021376609802,
+    "camera_surface_distance": 0.5280930399894714,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 10,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.2981260120868683,
+    "depth_max": 0.5591251850128174,
+    "camera_surface_distance": 0.13224363327026367,
+    "ray_hits": [
+      [
+        0.5,
+        0.2,
+        0.19261404871940613
+      ],
+      [
+        0.5,
+        0.5,
+        0.257676362991333
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 12,
+    "object": "Human_Arrow",
+    "depth_min": 0.20083311200141907,
+    "depth_max": 1.1982258558273315,
+    "camera_surface_distance": 0.21498438715934753,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 12,
+    "object": "Human_BowMesh",
+    "depth_min": 0.1751532256603241,
+    "depth_max": 0.5586780309677124,
+    "camera_surface_distance": 0.5436946153640747,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 12,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.2736314833164215,
+    "depth_max": 0.5683015584945679,
+    "camera_surface_distance": 0.06777206808328629,
+    "ray_hits": [
+      [
+        0.5,
+        0.2,
+        0.2094942033290863
+      ],
+      [
+        0.5,
+        0.5,
+        0.26126691699028015
+      ],
+      [
+        0.8,
+        0.5,
+        0.10200073570013046
+      ],
+      [
+        0.8,
+        0.8,
+        0.1295333057641983
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 15,
+    "object": "Human_Arrow",
+    "depth_min": 0.11278591305017471,
+    "depth_max": 1.1014853715896606,
+    "camera_surface_distance": 0.13551507890224457,
+    "ray_hits": [
+      [
+        0.8,
+        0.5,
+        0.18405131995677948
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 15,
+    "object": "Human_BowMesh",
+    "depth_min": 0.1545136272907257,
+    "depth_max": 0.5594887137413025,
+    "camera_surface_distance": 0.550154447555542,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 15,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.2949654459953308,
+    "depth_max": 0.5647979378700256,
+    "camera_surface_distance": 0.06165711209177971,
+    "ray_hits": [
+      [
+        0.5,
+        0.2,
+        0.19861043989658356
+      ]
+    ]
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 19,
+    "object": "Human_Arrow",
+    "depth_min": -0.22769775986671448,
+    "depth_max": 0.7619377970695496,
+    "camera_surface_distance": 0.11273259669542313,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 19,
+    "object": "Human_BowMesh",
+    "depth_min": 0.12888401746749878,
+    "depth_max": 0.5651532411575317,
+    "camera_surface_distance": 0.5536223649978638,
+    "ray_hits": []
+  },
+  {
+    "scene": "bear-bow-forest-v12.blend",
+    "frame": 19,
+    "object": "V12 | FemaleAdult04 first-person arms",
+    "depth_min": -0.48830676078796387,
+    "depth_max": 0.5667957663536072,
+    "camera_surface_distance": 0.1681826114654541,
+    "ray_hits": [
+      [
+        0.5,
+        0.2,
+        0.2294023633003235
+      ]
+    ]
+  }
+]

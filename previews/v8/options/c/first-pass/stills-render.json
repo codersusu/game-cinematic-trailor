@@ -1,0 +1,58 @@
+{
+  "source": {
+    "scene": "option-c-bow-bear.blend",
+    "sha256": "4b0782f808ecf53dc7d8490dce458bf4e50bc151f9d12bffa42b1994184518a5",
+    "resolution": [
+      768,
+      432
+    ],
+    "fps": 12,
+    "source_fps": 12.0,
+    "source_frame_start": 1,
+    "source_frame_end": 96,
+    "engine": "EEVEE",
+    "samples": 8
+  },
+  "frames_requested": [
+    1,
+    42,
+    48,
+    60,
+    63,
+    72
+  ],
+  "new_frame_timings": [
+    {
+      "frame": 1,
+      "source_frame": 1.0,
+      "seconds": 2.443
+    },
+    {
+      "frame": 42,
+      "source_frame": 42.0,
+      "seconds": 0.599
+    },
+    {
+      "frame": 48,
+      "source_frame": 48.0,
+      "seconds": 0.565
+    },
+    {
+      "frame": 60,
+      "source_frame": 60.0,
+      "seconds": 0.613
+    },
+    {
+      "frame": 63,
+      "source_frame": 63.0,
+      "seconds": 0.655
+    },
+    {
+      "frame": 72,
+      "source_frame": 72.0,
+      "seconds": 0.656
+    }
+  ],
+  "heavy_render": false,
+  "status": "rendered for review"
+}

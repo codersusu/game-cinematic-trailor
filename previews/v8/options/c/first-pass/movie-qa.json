@@ -1,0 +1,39 @@
+{
+  "option": "c",
+  "title": "C \u2014 BOW vs BEAR",
+  "technical_checks": "passed",
+  "frames": 96,
+  "fps": 12,
+  "seconds": 8,
+  "size": [
+    768,
+    496
+  ],
+  "audio": false,
+  "source_scene": {
+    "scene": "option-c-bow-bear.blend",
+    "sha256": "4b0782f808ecf53dc7d8490dce458bf4e50bc151f9d12bffa42b1994184518a5",
+    "resolution": [
+      768,
+      432
+    ],
+    "fps": 12,
+    "source_fps": 12.0,
+    "source_frame_start": 1,
+    "source_frame_end": 96,
+    "engine": "EEVEE",
+    "samples": 8
+  },
+  "movie_sha256": "b2531c649c64341699d8a5a2bb0cff699daafaea6b21183899730855f0c5aaec",
+  "contact_sheet_frames": [
+    1,
+    18,
+    36,
+    54,
+    72,
+    96
+  ],
+  "visual_review": "exported awaiting inspection",
+  "full_realtime_playback": false,
+  "heavy_render": false
+}

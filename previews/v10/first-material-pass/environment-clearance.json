@@ -1,0 +1,1490 @@
+{
+  "scene": "bear-bow-forest-v10.blend",
+  "scene_sha256": "1a666a9200bd1bb7896bde3ff4dd723370ceedd6d18d9db85548ea15801d815a",
+  "scene_unchanged": true,
+  "frames_checked": 144,
+  "gpu_rendered": false,
+  "obstacle_mesh_instances_checked": 421,
+  "source_meshes": [
+    "fir_tree_01_c_LOD1",
+    "fir_tree_01_b_LOD1",
+    "fir_tree_01_a_LOD2.001",
+    "fir_tree_01_c_LOD2.001",
+    "rock_moss_set_01_rock03.001",
+    "rock_moss_set_01_rock06.001",
+    "rock_moss_set_01_rock02.001",
+    "rock_moss_set_01_rock01.001",
+    "rock_moss_set_01_rock05.001",
+    "rock_moss_set_01_rock04.001",
+    "rock_face_01"
+  ],
+  "door_objects": [
+    "V5 | solid door leaf",
+    "V5 | solid door leaf.001"
+  ],
+  "exact_bvh_overlap_tests": 1,
+  "collision_frames": [],
+  "camera_near_surface_frames": [],
+  "terrain_height_under_low_body_min_z_frame": [
+    0.13999557495117188,
+    1
+  ],
+  "terrain_height_under_low_body_max_z_frame": [
+    0.14000320434570312,
+    1
+  ],
+  "maximum_body_ground_penetration_m_frame": [
+    0,
+    null
+  ],
+  "minimum_camera_surface_distance_within_broad_candidates": [
+    1.602144718170166,
+    67,
+    "V10 | Near canopy | 037"
+  ],
+  "rows": [
+    {
+      "frame": 1,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 2,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 3,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 4,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 5,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 6,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 7,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 8,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 9,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 10,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 11,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 12,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 13,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 14,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 15,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 16,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 17,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 18,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 19,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 20,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 21,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 22,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 23,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 24,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 25,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 26,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 27,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 28,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 29,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 30,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 31,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 32,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 33,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 34,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 35,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 36,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 37,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 38,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 39,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 40,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 41,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 42,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 43,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 44,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 45,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 46,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 47,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 48,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 49,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 50,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 51,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 52,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 53,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 54,
+      "collisions": [],
+      "camera_close_surfaces": []
+    },
+    {
+      "frame": 55,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399993896484375,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 56,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 57,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 58,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 59,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 60,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 61,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 62,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 63,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 64,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 65,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 66,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 67,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 68,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 69,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 70,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 71,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 72,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 73,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 74,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 75,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 76,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 77,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 78,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 79,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 80,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 81,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 82,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 83,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 84,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 85,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 86,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 87,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 88,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 89,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 90,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 91,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 92,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 93,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 94,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 95,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 96,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 97,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 98,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 99,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 100,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 101,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 102,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 103,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 104,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 105,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 106,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 107,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1399993896484375
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 108,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 109,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 110,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 111,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 112,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 113,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 114,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 115,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 116,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 117,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 118,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 119,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 120,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 121,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 122,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 123,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 124,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 125,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 126,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 127,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 128,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 129,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 130,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 131,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 132,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 133,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 134,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 135,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 136,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 137,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 138,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 139,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 140,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 141,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.13999557495117188,
+        0.1400012969970703
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 142,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 143,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    },
+    {
+      "frame": 144,
+      "collisions": [],
+      "camera_close_surfaces": [],
+      "terrain_under_low_body_z_range": [
+        0.1399974822998047,
+        0.14000320434570312
+      ],
+      "body_ground_penetration_m": 0
+    }
+  ],
+  "elapsed_seconds": 4.097687040999517,
+  "method": "All 144 frames: evaluated human/bear world-space triangle BVH versus new canopy and rock mesh instances after conservative AABB filtering; doorway meshes versus 3 new entrance rocks. Camera point-to-surface within 0.5 m expanded AABBs; flagged under 0.15 m. Actual triangulated terrain raycasts under human vertices below world Z .55 m.",
+  "limitations": [
+    "Grass/ferns/saplings excluded as decorative undergrowth.",
+    "Discrete frames only; no swept subframe audit.",
+    "Surface intersections do not detect complete enclosure; camera check is point-to-surface, not camera frustum visibility.",
+    "Tree collision includes foliage geometry; an intersection may be soft foliage rather than trunk."
+  ]
+}

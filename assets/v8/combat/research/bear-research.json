@@ -1,0 +1,347 @@
+{
+  "title": "Realistic Animated Bear 3D Model",
+  "author": "WildMesh 3D",
+  "source_url": "https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1",
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "is_downloadable": true,
+  "triangles": 7508,
+  "vertices": 3799,
+  "animation_count": 81,
+  "animations": [
+    {
+      "name": "Trans_TurnR",
+      "duration_seconds": 2.667
+    },
+    {
+      "name": "Trans_Stand_to_Walk",
+      "duration_seconds": 1.333
+    },
+    {
+      "name": "Trans_StandHind_to_Lying",
+      "duration_seconds": 3.867
+    },
+    {
+      "name": "Trans_Stand_to_Walk_3f",
+      "duration_seconds": 1.433
+    },
+    {
+      "name": "Trans_StandHind_to_Sitting",
+      "duration_seconds": 4.333
+    },
+    {
+      "name": "Trans_Stand_to_WalkSlow",
+      "duration_seconds": 1.333
+    },
+    {
+      "name": "Trans_StandHind_to_Stand",
+      "duration_seconds": 3.333
+    },
+    {
+      "name": "Trans_Stand_to_WalkSlow_3f",
+      "duration_seconds": 1.433
+    },
+    {
+      "name": "Trans_TurnL",
+      "duration_seconds": 2.667
+    },
+    {
+      "name": "Trans_StandAngry_to_Stand",
+      "duration_seconds": 1.333
+    },
+    {
+      "name": "Trans_Stand_to_Trot_3f",
+      "duration_seconds": 1.433
+    },
+    {
+      "name": "Trans_Stand_to_Trot",
+      "duration_seconds": 1.333
+    },
+    {
+      "name": "Trans_Stand_to_StandHind",
+      "duration_seconds": 3.0
+    },
+    {
+      "name": "Trans_Stand_to_StandAngry",
+      "duration_seconds": 2.333
+    },
+    {
+      "name": "Trans_Stand_to_Sprint_3f",
+      "duration_seconds": 1.1
+    },
+    {
+      "name": "Trans_Stand_to_Sitting",
+      "duration_seconds": 4.0
+    },
+    {
+      "name": "Trans_Stand_to_Sneak",
+      "duration_seconds": 1.6
+    },
+    {
+      "name": "Trans_Stand_to_Sneak_3f",
+      "duration_seconds": 1.7
+    },
+    {
+      "name": "Trans_Stand_to_Sprint",
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "Trans_Sitting_to_Stand",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "Trans_Sitting_to_StandHind",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "Trans_Stand_to_Lying",
+      "duration_seconds": 3.0
+    },
+    {
+      "name": "Trans_Stand_to_Run",
+      "duration_seconds": 1.133
+    },
+    {
+      "name": "Trans_Stand_to_Run_3f",
+      "duration_seconds": 1.233
+    },
+    {
+      "name": "Trans_Sitting_to_Lying",
+      "duration_seconds": 3.833
+    },
+    {
+      "name": "Trans_Lying_to_StandHind",
+      "duration_seconds": 4.667
+    },
+    {
+      "name": "Trans_Lying_to_Stand",
+      "duration_seconds": 4.0
+    },
+    {
+      "name": "Trans_Lying_to_Sitting",
+      "duration_seconds": 5.333
+    },
+    {
+      "name": "StandHind_Idle_02",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "StandAngry_Breathing_01",
+      "duration_seconds": 4.0
+    },
+    {
+      "name": "StandAngry_Breathing_02",
+      "duration_seconds": 4.0
+    },
+    {
+      "name": "StandHind_Breathing_01",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "StandHind_Idle_01",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "SittingSpec_Breathing01",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "Lying_Idle_02",
+      "duration_seconds": 8.333
+    },
+    {
+      "name": "Sitting_Breathing_01",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "Sitting_Idle_01",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "Sitting_Idle_02",
+      "duration_seconds": 5.0
+    },
+    {
+      "name": "WalkSlow",
+      "duration_seconds": 2.667
+    },
+    {
+      "name": "WalkSlowL",
+      "duration_seconds": 2.667
+    },
+    {
+      "name": "WalkSlowR",
+      "duration_seconds": 2.667
+    },
+    {
+      "name": "Lying_Breathing_01",
+      "duration_seconds": 4.167
+    },
+    {
+      "name": "Lying_Idle_01",
+      "duration_seconds": 4.167
+    },
+    {
+      "name": "WalkR",
+      "duration_seconds": 1.667
+    },
+    {
+      "name": "WalkL",
+      "duration_seconds": 1.667
+    },
+    {
+      "name": "Walk",
+      "duration_seconds": 1.667
+    },
+    {
+      "name": "TrotR",
+      "duration_seconds": 0.667
+    },
+    {
+      "name": "TrotL",
+      "duration_seconds": 0.667
+    },
+    {
+      "name": "Sprint",
+      "duration_seconds": 0.467
+    },
+    {
+      "name": "SprintL",
+      "duration_seconds": 0.467
+    },
+    {
+      "name": "SprintR",
+      "duration_seconds": 0.467
+    },
+    {
+      "name": "Trot",
+      "duration_seconds": 0.667
+    },
+    {
+      "name": "SneakR",
+      "duration_seconds": 5.333
+    },
+    {
+      "name": "SneakL",
+      "duration_seconds": 5.333
+    },
+    {
+      "name": "Sneak",
+      "duration_seconds": 5.333
+    },
+    {
+      "name": "RunR",
+      "duration_seconds": 0.533
+    },
+    {
+      "name": "Loco_RunL",
+      "duration_seconds": 0.533
+    },
+    {
+      "name": "Hit_Stand_F01",
+      "duration_seconds": 2.867
+    },
+    {
+      "name": "Hit_StandHind_F01",
+      "duration_seconds": 1.867
+    },
+    {
+      "name": "Hit_Walk_L01",
+      "duration_seconds": 3.333
+    },
+    {
+      "name": "Run",
+      "duration_seconds": 0.533
+    },
+    {
+      "name": "Hit_Sitting_F01",
+      "duration_seconds": 2.5
+    },
+    {
+      "name": "Hit_Lying_R01",
+      "duration_seconds": 2.5
+    },
+    {
+      "name": "Death_StandHind_F01_poses",
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "Death_StandHind_F01",
+      "duration_seconds": 2.0
+    },
+    {
+      "name": "Death_Stand_R01_poses",
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "Death_Lying_R01",
+      "duration_seconds": 0.733
+    },
+    {
+      "name": "Death_Lying_R01_DeathPose",
+      "duration_seconds": 0.0
+    },
+    {
+      "name": "Death_Sitting_R01",
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "Death_Sitting_R01_poses",
+      "duration_seconds": 1.0
+    },
+    {
+      "name": "Death_Stand_R01",
+      "duration_seconds": 1.333
+    },
+    {
+      "name": "CanonBall",
+      "duration_seconds": 1.067
+    },
+    {
+      "name": "Attack_StandAngry_02_High",
+      "duration_seconds": 3.0
+    },
+    {
+      "name": "Attack_StandAngry_01_Low",
+      "duration_seconds": 4.0
+    },
+    {
+      "name": "Attack_StandAngry_01_High",
+      "duration_seconds": 3.0
+    },
+    {
+      "name": "Attack_Run_01_Turn",
+      "duration_seconds": 1.6
+    },
+    {
+      "name": "Attack_Run_01_AttackF",
+      "duration_seconds": 1.833
+    },
+    {
+      "name": "Stand_Idle_02",
+      "duration_seconds": 6.667
+    },
+    {
+      "name": "Stand_Idle_01",
+      "duration_seconds": 6.667
+    },
+    {
+      "name": "Stand_Breathing_01",
+      "duration_seconds": 3.333
+    },
+    {
+      "name": "Stand_Eating_01",
+      "duration_seconds": 7.333
+    }
+  ],
+  "download_status": "User supplied official ZIP, safely extracted to assets/v8/combat/bear; source-manifest.json records archive/files hashes. Native Blender action inspection complete; visual rig QA remains pending.",
+  "author_warning": "This model is now free because it is an older, outdated version and contains known rigging problems.",
+  "preview_url": "https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/87b3ffc411ab4046abe45261598d4a03.jpeg",
+  "preview_status": "Publisher source preview; not rendered by this project."
+}

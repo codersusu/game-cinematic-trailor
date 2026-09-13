@@ -1,0 +1,27 @@
+{
+  "scene": "bear-bow-forest-v10.blend",
+  "source_scene": "bear-bow-escape-v9.blend",
+  "unchanged_motion_and_camera_hash": "9927ca5a90d0ecb829aaac6b941fa2f1f9f1622cf2313a2f3a16747583243e3f",
+  "instances": {
+    "Near canopy": 100,
+    "Wooded background": 170,
+    "Far treeline": 95,
+    "Understory conifer": 246,
+    "Fern colony": 835,
+    "Grass bank": 3948,
+    "Mossy outcrop": 53,
+    "Rock around entrance": 3
+  },
+  "total_environment_instances": 5450,
+  "assets": "Existing PolyHaven fir, fern, moss stones and rock face plus CC0 Grass Bermuda01 and Fir Sapling",
+  "design": "Dense layered conifer forest around a narrow worn escape route; overlapping wooded background, low conifers, fern/grass banks, softly lit haze",
+  "heavy_render": false,
+  "retargeted_final_heroine": false,
+  "frames": 144,
+  "fps": 12,
+  "resolution": [
+    960,
+    540
+  ],
+  "samples": 16
+}

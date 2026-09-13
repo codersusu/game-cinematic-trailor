@@ -1,0 +1,213 @@
+{
+  "sha": "ea8b5c2c9eecd72f6e5ead5a0218e59044a4e846",
+  "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/trees/ea8b5c2c9eecd72f6e5ead5a0218e59044a4e846",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e259d42c996742e9e3cba14c677129b2c1b6311",
+      "size": 7048,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/0e259d42c996742e9e3cba14c677129b2c1b6311"
+    },
+    {
+      "path": "MotionPack1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "675f41073200214cc8a2dca2305ea4b1d1e6a9bf",
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/trees/675f41073200214cc8a2dca2305ea4b1d1e6a9bf"
+    },
+    {
+      "path": "MotionPack1/FBX",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "41a4676b501437c898af912c247887c29229a072",
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/trees/41a4676b501437c898af912c247887c29229a072"
+    },
+    {
+      "path": "MotionPack1/FBX/Celebrate1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a54bf8d93aaa8b998708f17a052b72019946f4e5",
+      "size": 451244,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/a54bf8d93aaa8b998708f17a052b72019946f4e5"
+    },
+    {
+      "path": "MotionPack1/FBX/Celebrate2.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f90b2baa7701cce1c2b979882cd01c17dd233b5",
+      "size": 499052,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/2f90b2baa7701cce1c2b979882cd01c17dd233b5"
+    },
+    {
+      "path": "MotionPack1/FBX/Celebrate3.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc3b8908770655232bd50a174df05dac7e9c7b29",
+      "size": 429868,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/bc3b8908770655232bd50a174df05dac7e9c7b29"
+    },
+    {
+      "path": "MotionPack1/FBX/ComeHere1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8c39904e8fe0735d8fe76b808664afaf6d5fe53",
+      "size": 453148,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/b8c39904e8fe0735d8fe76b808664afaf6d5fe53"
+    },
+    {
+      "path": "MotionPack1/FBX/ComeHere2.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8a805ef61d423295692fb2d9b0656bb4c1f5bca",
+      "size": 518956,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/e8a805ef61d423295692fb2d9b0656bb4c1f5bca"
+    },
+    {
+      "path": "MotionPack1/FBX/ComeHere3.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fdd8ce3f74333b267c38e4f508a0de9c04bc7cf",
+      "size": 494972,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/3fdd8ce3f74333b267c38e4f508a0de9c04bc7cf"
+    },
+    {
+      "path": "MotionPack1/FBX/GoAwayAngry.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cacc7655c437ea43568047d0ce6fd97f70e7c006",
+      "size": 539372,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/cacc7655c437ea43568047d0ce6fd97f70e7c006"
+    },
+    {
+      "path": "MotionPack1/FBX/GoAwayAnnoyed.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb4aa4f0a2d323176de23a196ab739eaff280218",
+      "size": 509964,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/eb4aa4f0a2d323176de23a196ab739eaff280218"
+    },
+    {
+      "path": "MotionPack1/FBX/GoAwayQuickly.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20de0ec52c02f28dedec347ba1165a16386fdc53",
+      "size": 488892,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/20de0ec52c02f28dedec347ba1165a16386fdc53"
+    },
+    {
+      "path": "MotionPack1/FBX/HandsOnHead.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea831634d8bc6243b4ad886e021d2597c85c22c2",
+      "size": 575596,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/ea831634d8bc6243b4ad886e021d2597c85c22c2"
+    },
+    {
+      "path": "MotionPack1/FBX/MiddleFinger1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "506b2d7b20d13cbd9278b34916c8a1b4edb747e8",
+      "size": 448492,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/506b2d7b20d13cbd9278b34916c8a1b4edb747e8"
+    },
+    {
+      "path": "MotionPack1/FBX/MiddleFinger2.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6972d2b7a769cf128ca984b35b61436847c1460",
+      "size": 778428,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/a6972d2b7a769cf128ca984b35b61436847c1460"
+    },
+    {
+      "path": "MotionPack1/FBX/NodYes1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "168895d08fd88baf4eca128538608b6885c93edc",
+      "size": 331276,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/168895d08fd88baf4eca128538608b6885c93edc"
+    },
+    {
+      "path": "MotionPack1/FBX/ShakeHeadNo1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f54c9bf733129157167fa218c1631d9cf7f70639",
+      "size": 379420,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/f54c9bf733129157167fa218c1631d9cf7f70639"
+    },
+    {
+      "path": "MotionPack1/FBX/StopOneHand1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9099ce55dce199caa9d671fe7515596ed06f8f8",
+      "size": 502508,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/f9099ce55dce199caa9d671fe7515596ed06f8f8"
+    },
+    {
+      "path": "MotionPack1/FBX/StopOneHand2.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b27d11cdab84288aa2e3275312c89843f600b060",
+      "size": 457196,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/b27d11cdab84288aa2e3275312c89843f600b060"
+    },
+    {
+      "path": "MotionPack1/FBX/StopTwoHand1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fbb9c6d8ddd52387b4f96b04872d6eeb18fa7b7",
+      "size": 454908,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/2fbb9c6d8ddd52387b4f96b04872d6eeb18fa7b7"
+    },
+    {
+      "path": "MotionPack1/FBX/StopTwoHand2.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d01986424262b0a129af0e580ebd80b06f295ffe",
+      "size": 507132,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/d01986424262b0a129af0e580ebd80b06f295ffe"
+    },
+    {
+      "path": "MotionPack1/FBX/ThumbsDown1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef9bceaaa0f242e401506ae14f05e5c59382afc4",
+      "size": 467180,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/ef9bceaaa0f242e401506ae14f05e5c59382afc4"
+    },
+    {
+      "path": "MotionPack1/FBX/ThumbsDown2.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58f1c0312a4b0df9305bcd28b6a53afa7cc221ff",
+      "size": 486108,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/58f1c0312a4b0df9305bcd28b6a53afa7cc221ff"
+    },
+    {
+      "path": "MotionPack1/FBX/ThumbsUp1.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c40236f94d4d19725bf2c18b18d78ab37598db6",
+      "size": 457852,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/9c40236f94d4d19725bf2c18b18d78ab37598db6"
+    },
+    {
+      "path": "MotionPack1/NovasciAnimation_TestPack1.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cef4caa91abc96ed76b7f33944da8fab9277bf93",
+      "size": 10471716,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/cef4caa91abc96ed76b7f33944da8fab9277bf93"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73e9953759761bbda761f461a0864dba7fef5b58",
+      "size": 442,
+      "url": "https://api.github.com/repos/J-Beardmore/FreeMotionPack1/git/blobs/73e9953759761bbda761f461a0864dba7fef5b58"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,1558 @@
+{
+  "crystalline_iceplant": {
+    "lods": true,
+    "name": "Crystalline Iceplant",
+    "type": 2,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 23487,
+    "texel_density": 32731.860492748445,
+    "dimensions": [
+      1693.7321424484253,
+      738.1078898906708,
+      82.77220348827541
+    ],
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: namaqualand"
+    ],
+    "tags": [
+      "leaf",
+      "small",
+      "succulent",
+      "foliage",
+      "leaves",
+      "karoo",
+      "botanical",
+      "south africa"
+    ],
+    "date_published": 1728345600,
+    "files_hash": "0344e1f831a707e73f4bde5e29c2fa8a7cb14563",
+    "description": "Free 8K Crystalline Iceplant model - a small South African succulent groundcover with realistic leaves, botanical Karoo detail and low, rosette foliage.",
+    "sponsors": [
+      "7934315"
+    ],
+    "authors": {
+      "James Ray Cock": "modeling",
+      "Jenelle van Heerden": "Photography"
+    },
+    "category_id": "7295ef8b-0c01-5dc8-bd5f-bedc986e7871",
+    "category": "Nature/Plants/Succulents & Cacti",
+    "collections": [
+      "namaqualand"
+    ],
+    "attributes": {
+      "lods": true,
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "1adbbec9",
+    "download_count": 4748,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/crystalline_iceplant.png?width=256&height=256&v=1adbbec9"
+  },
+  "fir_sapling": {
+    "date_published": 1686096000,
+    "name": "Fir Sapling",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "photography",
+      "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "categories": [
+      "nature",
+      "plants",
+      "trees",
+      "collection: pine_forest"
+    ],
+    "tags": [
+      "fir",
+      "sapling",
+      "small",
+      "tree",
+      "needles",
+      "woodland",
+      "branches",
+      "natural",
+      "green",
+      "environment",
+      "coniferous"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 433021,
+    "texel_density": 43295.70036426686,
+    "dimensions": [
+      2742.7279949188232,
+      826.4130651950836,
+      1300.737977027893
+    ],
+    "files_hash": "bb9606eafe58f204df8c9e54970d234049eae021",
+    "description": "Free 8K model of young fir saplings - three small variations with slender trunks, layered horizontal branches and dense green needles, natural woodland detail.",
+    "category_id": "eff5ec6a-39d3-5f51-8893-bb32d3153e7f",
+    "category": "Nature/Trees/Saplings",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "bb4db69e",
+    "download_count": 10042,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fir_sapling.png?width=256&height=256&v=bb4db69e"
+  },
+  "fir_sapling_medium": {
+    "date_published": 1686268800,
+    "name": "Fir Sapling Medium",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "photography",
+      "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "version_required": {
+      "blend": "3.5"
+    },
+    "categories": [
+      "plants",
+      "nature",
+      "trees",
+      "collection: pine_forest"
+    ],
+    "geonodes": true,
+    "tags": [
+      "fir",
+      "sapling",
+      "medium",
+      "needles",
+      "woodland",
+      "branches",
+      "environment",
+      "coniferous",
+      "tree",
+      "plants",
+      "foliage",
+      "geometry nodes"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 2308249,
+    "files_hash": "0029476c186325a03c000bb1349ec299e43f9331",
+    "texel_density": 392.3404985749585,
+    "dimensions": [
+      26091.576099395752,
+      5434.919834136963,
+      9163.89086842537
+    ],
+    "lods": true,
+    "description": "Free 8K fir sapling model - a slender conifer with layered branches, dense needles, twiggy trunk and natural woodland silhouette.",
+    "sponsors": [
+      "145911546"
+    ],
+    "category_id": "eff5ec6a-39d3-5f51-8893-bb32d3153e7f",
+    "category": "Nature/Trees/Saplings",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "lods": true,
+      "geonodes": true,
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "e66bf476",
+    "download_count": 49239,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fir_sapling_medium.png?width=256&height=256&v=e66bf476"
+  },
+  "grass_bermuda_01": {
+    "date_published": 1649980800,
+    "name": "Grass Bermuda 01",
+    "type": 2,
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "sponsors": [
+      "78546118"
+    ],
+    "categories": [
+      "grass",
+      "nature",
+      "ground cover",
+      "collection: smugglers_cove"
+    ],
+    "tags": [
+      "plant",
+      "grass",
+      "nature",
+      "shrub",
+      "field",
+      "foliage",
+      "natural",
+      "outdoor",
+      "botany",
+      "small",
+      "green",
+      "bermuda"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 223596,
+    "texel_density": 6391.7935310361845,
+    "dimensions": [
+      3135.906159877777,
+      1073.481559753418,
+      1059.9278211593628
+    ],
+    "files_hash": "2db18033b751b1c846f98e2797539d39f155a8dc",
+    "geonodes": true,
+    "description": "Free 8K model of dense Bermuda grass tuft with fine blades, varied green-yellow tones and a natural, slightly wild groundcover look. Geometry nodes scatter system.",
+    "category_id": "60ce9140-83ac-527c-af91-fea9996be033",
+    "category": "Nature/Ground Cover & Moss/Grass Tufts",
+    "collections": [
+      "smugglers_cove"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "geonodes": true,
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "fd28a3b9",
+    "download_count": 102276,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grass_bermuda_01.png?width=256&height=256&v=fd28a3b9"
+  },
+  "grass_medium_01": {
+    "date_published": 1659052800,
+    "name": "Grass Medium 01",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "Modeling"
+    },
+    "sponsors": [
+      "78546118"
+    ],
+    "lods": true,
+    "categories": [
+      "grass",
+      "nature",
+      "ground cover",
+      "collection: pine_forest"
+    ],
+    "tags": [
+      "plant",
+      "grass",
+      "nature",
+      "green",
+      "shrub",
+      "outdoor",
+      "field",
+      "meadow",
+      "natural",
+      "foliage",
+      "small",
+      "botany"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 1606633,
+    "files_hash": "c37a6bea414dac24f578f288810652add69d09fc",
+    "texel_density": 16814.571847350904,
+    "dimensions": [
+      7266.327619552612,
+      1259.2098712921143,
+      1177.0583391189575
+    ],
+    "geonodes": true,
+    "description": "Free 8K grass model: dense medium tuft with varied green blades, natural meadow tones and wispy outer fronds for realistic ground cover. Geometry nodes scatter system.",
+    "category_id": "60ce9140-83ac-527c-af91-fea9996be033",
+    "category": "Nature/Ground Cover & Moss/Grass Tufts",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "lods": true,
+      "geonodes": true,
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "dbbb23c5",
+    "download_count": 237338,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grass_medium_01.png?width=256&height=256&v=dbbb23c5"
+  },
+  "grass_medium_02": {
+    "name": "Grass Medium 02",
+    "geonodes": true,
+    "categories": [
+      "nature",
+      "ground cover",
+      "grass",
+      "plants",
+      "collection: verdant_trail"
+    ],
+    "type": 2,
+    "version_required": {
+      "blend": "4.0.1"
+    },
+    "tags": [
+      "grass",
+      "field",
+      "meadow",
+      "shrub",
+      "small",
+      "green",
+      "nature",
+      "plant",
+      "foliage",
+      "natural",
+      "geometry nodes",
+      "ground cover",
+      "vegetation",
+      "undergrowth",
+      "ground",
+      "lawn",
+      "environment",
+      "pasture"
+    ],
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "info": null,
+    "date_published": 1707177600,
+    "max_resolution": [
+      4096,
+      4096
+    ],
+    "polycount": 1043926,
+    "files_hash": "d05007ce4693d18c58c6a58b3db37d0804888066",
+    "texel_density": 6999.954793674714,
+    "dimensions": [
+      3579.970385879278,
+      1406.527042388916,
+      1448.2848644256592
+    ],
+    "description": "Free 4K model of a medium grass tuft - dense green-brown blades, varied strands and geometry-nodes driven scatter system for natural ground cover.",
+    "category_id": "60ce9140-83ac-527c-af91-fea9996be033",
+    "category": "Nature/Ground Cover & Moss/Grass Tufts",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "geonodes": true,
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "60b219a5",
+    "download_count": 47006,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grass_medium_02.png?width=256&height=256&v=60b219a5"
+  },
+  "nettle_plant": {
+    "lods": true,
+    "type": 2,
+    "date_published": 1664323200,
+    "sponsors": [
+      "25436656"
+    ],
+    "name": "Nettle Plant",
+    "authors": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "nettle",
+      "plant",
+      "green",
+      "nature",
+      "shrub",
+      "outdoor",
+      "leaf",
+      "bush",
+      "botany",
+      "leaves",
+      "forest",
+      "jungle",
+      "foliage",
+      "field",
+      "meadow",
+      "natural",
+      "floral"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 46195,
+    "texel_density": 50149.637210843226,
+    "dimensions": [
+      1084.1034203767776,
+      94.6834422647953,
+      218.78226287662983
+    ],
+    "files_hash": "8f65dcb085e502c39e2abfa0161f4de2b43c6096",
+    "description": "Free 8K photoreal nettle plant model: slender stems with serrated green leaves, multiple sprigs, detailed veins and a natural wet sheen.",
+    "category_id": "f85fb5e2-abfd-5de4-9860-c9c3d04f12df",
+    "category": "Nature/Plants/Shrubs & Bushes",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "lods": true,
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "84344496",
+    "download_count": 32468,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/nettle_plant.png?width=256&height=256&v=84344496"
+  },
+  "periwinkle_plant": {
+    "type": 2,
+    "name": "Periwinkle Plant",
+    "categories": [
+      "nature",
+      "ground cover",
+      "plants",
+      "flowers"
+    ],
+    "tags": [
+      "small flowers",
+      "shrub",
+      "bush",
+      "spring",
+      "botanical",
+      "garden plant",
+      "foliage",
+      "leaf",
+      "leaves",
+      "meadow",
+      "wildflower"
+    ],
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "donated": true,
+    "max_resolution": [
+      4096,
+      4096
+    ],
+    "polycount": 67388,
+    "files_hash": "914403d31fda1dc15ff457e71e96ab7476134019",
+    "texel_density": 25989.965028703602,
+    "dimensions": [
+      1248.7584352493286,
+      334.93997156620026,
+      410.85796465631574
+    ],
+    "date_published": 1754438400,
+    "description": "Free 4K periwinkle plant model with small pink flowers, realistic leaves and branch variations, perfect for gardens, meadows, groundcover and botanical scenes.",
+    "lods": true,
+    "category_id": "081de04a-c797-537e-abf1-c0ce1a92552f",
+    "category": "Nature/Plants/Wildflowers",
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "lods": true,
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "06e03d2d",
+    "download_count": 11837,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/periwinkle_plant.png?width=256&height=256&v=06e03d2d"
+  },
+  "pine_sapling_medium": {
+    "date_published": 1687737600,
+    "name": "Pine Sapling Medium",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "photography",
+      "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "categories": [
+      "nature",
+      "plants",
+      "trees",
+      "collection: pine_forest"
+    ],
+    "geonodes": true,
+    "tags": [
+      "woodland",
+      "needles",
+      "pine",
+      "tree",
+      "sapling",
+      "branches",
+      "environment",
+      "coniferous",
+      "plants",
+      "trunk",
+      "bark",
+      "geometry nodes",
+      "foliage",
+      "natural",
+      "evergreen",
+      "twig",
+      "forest",
+      "vegetation",
+      "forest floor"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 9784670,
+    "files_hash": "af56623e42ba6af60745dd721297559ca06d7d76",
+    "texel_density": 671.0111517492023,
+    "dimensions": [
+      22793.24197769165,
+      5462.29362487793,
+      11513.279110193253
+    ],
+    "lods": true,
+    "description": "Free 8K pine sapling model: slender trunk, twiggy branches, dense needle clusters and textured bark with natural evergreen foliage.",
+    "category_id": "eff5ec6a-39d3-5f51-8893-bb32d3153e7f",
+    "category": "Nature/Trees/Saplings",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "lods": true,
+      "geonodes": true,
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "ab1c9a01",
+    "download_count": 21459,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_sapling_medium.png?width=256&height=256&v=ab1c9a01"
+  },
+  "pine_sapling_small": {
+    "date_published": 1688083200,
+    "name": "Pine Sapling Small",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "photography",
+      "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "categories": [
+      "nature",
+      "plants",
+      "trees",
+      "collection: pine_forest"
+    ],
+    "tags": [
+      "needles",
+      "tree",
+      "pine",
+      "woodland",
+      "branches",
+      "environment",
+      "coniferous",
+      "plants",
+      "sapling",
+      "trunk",
+      "bark",
+      "foliage",
+      "natural",
+      "forest",
+      "vegetation",
+      "evergreen",
+      "forest floor"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 398144,
+    "dimensions": [
+      2642.0599818229675,
+      770.349532365799,
+      1298.9574084058404
+    ],
+    "texel_density": 33412.543986093486,
+    "files_hash": "e756e9c95c4bac208f0074fb7768cc1a1ab09783",
+    "description": "Free 8K model of a small pine sapling with detailed bark and slender trunk, layered needle clusters, irregular branches and natural evergreen foliage.",
+    "category_id": "eff5ec6a-39d3-5f51-8893-bb32d3153e7f",
+    "category": "Nature/Trees/Saplings",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "2f751975",
+    "download_count": 14987,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_sapling_small.png?width=256&height=256&v=2f751975"
+  },
+  "planter_box_01": {
+    "date_published": 1683244800,
+    "name": "Planter Box 01",
+    "type": 2,
+    "authors": {
+      "James Ray Cock": "All"
+    },
+    "info": null,
+    "categories": [
+      "decorative",
+      "containers",
+      "potted plants",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "old",
+      "wooden",
+      "wood",
+      "farmhouse",
+      "shed",
+      "outdoor",
+      "gardening",
+      "greenhouse",
+      "landscaping",
+      "garden",
+      "farm",
+      "planter",
+      "flower box",
+      "planters"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 8094,
+    "texel_density": 2884.9625300931693,
+    "dimensions": [
+      912.6113951206207,
+      413.6679768562317,
+      424.96823612600565
+    ],
+    "files_hash": "e3e14427dcd99e4141916fa2a581509036657015",
+    "description": "Free 8K model of an old farmhouse wooden planter box - weathered planks, interior liner, rustic shed/garden charm for landscaping, greenhouses, and decor.",
+    "category_id": "4e0d72d4-befe-5e09-a7a1-2d82c3484e29",
+    "category": "Containers & Storage/Boxes & Crates/Planter Boxes",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "bdec6d07",
+    "download_count": 8796,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/planter_box_01.png?width=256&height=256&v=bdec6d07"
+  },
+  "planter_box_02": {
+    "date_published": 1683676800,
+    "name": "Planter Box 02",
+    "type": 2,
+    "info": null,
+    "authors": {
+      "James Ray Cock": "All"
+    },
+    "categories": [
+      "containers",
+      "decorative",
+      "potted plants",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "old",
+      "wooden",
+      "wood",
+      "worn",
+      "shed",
+      "outdoor",
+      "gardening",
+      "farm",
+      "greenhouse",
+      "landscaping",
+      "farmhouse",
+      "garden",
+      "flower box",
+      "planters"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 10944,
+    "texel_density": 2342.375245351104,
+    "dimensions": [
+      1251.5764236450195,
+      467.18619763851166,
+      453.37272534379736
+    ],
+    "files_hash": "11d15f92f767aa1e72507d3ceacd24f50f09253e",
+    "description": "Free 8K model of a worn wooden planter box with metal liner, farmhouse shed style and realistic weathered grain - great for gardens, greenhouses, and landscaping.",
+    "category_id": "4e0d72d4-befe-5e09-a7a1-2d82c3484e29",
+    "category": "Containers & Storage/Boxes & Crates/Planter Boxes",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "metal"
+      ]
+    },
+    "img_version": "f50dc7a1",
+    "download_count": 6677,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/planter_box_02.png?width=256&height=256&v=f50dc7a1"
+  },
+  "planter_box_03": {
+    "date_published": 1683849600,
+    "name": "Planter Box 03",
+    "type": 2,
+    "authors": {
+      "James Ray Cock": "All"
+    },
+    "info": null,
+    "categories": [
+      "containers",
+      "decorative",
+      "potted plants",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "old",
+      "wooden",
+      "wood",
+      "shed",
+      "farm",
+      "gardening",
+      "landscaping",
+      "garden",
+      "greenhouse",
+      "planters",
+      "farmhouse",
+      "outdoor",
+      "flower box"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 13112,
+    "texel_density": 2268.2665115463296,
+    "dimensions": [
+      914.3069684505463,
+      655.5436849594116,
+      855.1032352806942
+    ],
+    "files_hash": "f7992283532ca3db8edfa08e6a27b989696f05cd",
+    "description": "Free 8K model - weathered wooden planter box with liner, rustic farmhouse style, ideal for gardens, greenhouses and landscaping scenes.",
+    "category_id": "4e0d72d4-befe-5e09-a7a1-2d82c3484e29",
+    "category": "Containers & Storage/Boxes & Crates/Planter Boxes",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "d56145b2",
+    "download_count": 4844,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/planter_box_03.png?width=256&height=256&v=d56145b2"
+  },
+  "planter_pot_clay": {
+    "donated": true,
+    "name": "Planter Pot Clay",
+    "type": 2,
+    "info": null,
+    "authors": {
+      "Amal Kumar": "All"
+    },
+    "date_published": 1675641600,
+    "categories": [
+      "containers",
+      "vases",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "outdoor",
+      "mossy",
+      "dirty",
+      "used",
+      "worn",
+      "shed",
+      "garden",
+      "gardening",
+      "farmhouse",
+      "greenhouse",
+      "landscaping"
+    ],
+    "max_resolution": [
+      4096,
+      4096
+    ],
+    "polycount": 3080,
+    "texel_density": 6950.3651147291475,
+    "dimensions": [
+      265.9967243671417,
+      263.4630501270294,
+      221.87034250237048
+    ],
+    "sponsors": [
+      "20953239",
+      "95481047"
+    ],
+    "files_hash": "9add1027ddc7f4f0bcc83024d2bdf7715dea8b5d",
+    "description": "Free 4K model of a weathered terracotta planter: worn rim, chipped paint, mossy stains and gritty dirt with rough, aged clay surface.",
+    "category_id": "f7e11f2d-8cca-599d-b6b6-62c0ea0980ce",
+    "category": "Decor & Art/Vases & Vessels/Terracotta Pots",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "ceramic"
+      ]
+    },
+    "img_version": "f6d6a277",
+    "download_count": 7781,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/planter_pot_clay.png?width=256&height=256&v=f6d6a277"
+  },
+  "potted_plant_01": {
+    "date_published": 1626872095,
+    "name": "Potted Plant 01",
+    "categories": [
+      "decorative",
+      "plants",
+      "potted plants",
+      "nature"
+    ],
+    "type": 2,
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "tags": [
+      "potplant",
+      "plant",
+      "terracotta",
+      "pot",
+      "vase",
+      "medium",
+      "leaf",
+      "green"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 96030,
+    "texel_density": 15606.764063682307,
+    "dimensions": [
+      588.9185070991516,
+      636.6117596626282,
+      1350.7787585258484
+    ],
+    "files_hash": "9fa70d49cb125b1b74e3aeddef22253ba2db060b",
+    "description": "Free 8K model of a medium potted plant with lush scalloped green leaves in a weathered terracotta pedestal pot, detailed trunk and gravel-filled soil.",
+    "category_id": "3dde8a0d-8ee9-5e81-85c4-3251ec4a5d88",
+    "category": "Nature/Plants/Potted Plants",
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "ceramic"
+      ]
+    },
+    "img_version": "217a8182",
+    "download_count": 62417,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/potted_plant_01.png?width=256&height=256&v=217a8182"
+  },
+  "potted_plant_02": {
+    "date_published": 1628208000,
+    "sponsors": [
+      "78546118"
+    ],
+    "name": "Potted Plant 02",
+    "categories": [
+      "decorative",
+      "plants",
+      "potted plants",
+      "nature"
+    ],
+    "type": 2,
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "tags": [
+      "potplant",
+      "plant",
+      "pot",
+      "vase",
+      "medium",
+      "leaf",
+      "green",
+      "terracotta"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 69806,
+    "texel_density": 10185.839275915265,
+    "dimensions": [
+      701.1570334434509,
+      657.3865860700607,
+      841.1787391305552
+    ],
+    "files_hash": "155661c96a28b9eb143e866daeb41f5a076d6677",
+    "description": "Free 8K model. Realistic terracotta pot with weathered rim, textured soil, and variegated green, heart-shaped leaves with pronounced veins.",
+    "category_id": "3dde8a0d-8ee9-5e81-85c4-3251ec4a5d88",
+    "category": "Nature/Plants/Potted Plants",
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "ceramic"
+      ]
+    },
+    "img_version": "24e1bc4c",
+    "download_count": 107754,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/potted_plant_02.png?width=256&height=256&v=24e1bc4c"
+  },
+  "potted_plant_04": {
+    "date_published": 1623767629,
+    "name": "Potted Plant 04",
+    "categories": [
+      "decorative",
+      "plants",
+      "potted plants",
+      "succulent",
+      "nature"
+    ],
+    "type": 2,
+    "tags": [
+      "cactus",
+      "aloe",
+      "succulent",
+      "potplant",
+      "small",
+      "pot",
+      "plant",
+      "decor"
+    ],
+    "authors": {
+      "James Ray Cock": "All"
+    },
+    "sponsors": [
+      "78546118"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 6097,
+    "texel_density": 13467.404038911603,
+    "dimensions": [
+      170.27407884597778,
+      185.9453096985817,
+      267.5964875961654
+    ],
+    "files_hash": "c71ad499bc2ad1a95b689fc8895447eff788408b",
+    "description": "Free 8K potted succulent model - small zebra haworthia in a weathered ceramic pot. Realistic textures and natural detail; ideal for interior decor scenes.",
+    "category_id": "3dde8a0d-8ee9-5e81-85c4-3251ec4a5d88",
+    "category": "Nature/Plants/Potted Plants",
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "ceramic"
+      ]
+    },
+    "img_version": "0458b049",
+    "download_count": 86407,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/potted_plant_04.png?width=256&height=256&v=0458b049"
+  },
+  "shrub_01": {
+    "lods": true,
+    "name": "Shrub 01",
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "flowers",
+      "collection: verdant_trail"
+    ],
+    "type": 2,
+    "version_required": {
+      "blend": "4.0.1"
+    },
+    "tags": [
+      "plant",
+      "foliage",
+      "nature",
+      "forest",
+      "leaf",
+      "botany",
+      "green",
+      "leaves",
+      "bush",
+      "shrub",
+      "small",
+      "meadow",
+      "flower",
+      "floral",
+      "ground cover",
+      "garden",
+      "environment",
+      "ageratina adenophora"
+    ],
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "info": null,
+    "date_published": 1707177600,
+    "max_resolution": [
+      4096,
+      4096
+    ],
+    "polycount": 282224,
+    "texel_density": 26698.181996899726,
+    "dimensions": [
+      2586.938261985779,
+      218.97432953119278,
+      395.9742886945605
+    ],
+    "files_hash": "b962e00abd51cece23b2878ce436f9a5b3c36729",
+    "description": "Free 4K model of a slender wild shrub with heart-shaped green leaves and delicate clustered white flowers on thin brown stems, realistic botanical detail.",
+    "category_id": "f85fb5e2-abfd-5de4-9860-c9c3d04f12df",
+    "category": "Nature/Plants/Shrubs & Bushes",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "lods": true,
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "c021b0ec",
+    "download_count": 22020,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shrub_01.png?width=256&height=256&v=c021b0ec"
+  },
+  "shrub_02": {
+    "lods": true,
+    "name": "Shrub 02",
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: verdant_trail"
+    ],
+    "type": 2,
+    "version_required": {
+      "blend": "4.0.1"
+    },
+    "tags": [
+      "sapling",
+      "vegetation",
+      "environment",
+      "ground cover",
+      "foliage",
+      "forest",
+      "leaves",
+      "bush",
+      "jungle",
+      "nature",
+      "leaf",
+      "plant",
+      "green"
+    ],
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "info": null,
+    "date_published": 1707177600,
+    "max_resolution": [
+      4096,
+      4096
+    ],
+    "polycount": 52317,
+    "texel_density": 10647.241989587834,
+    "dimensions": [
+      5340.904712677002,
+      2060.703456401825,
+      2070.5229938030243
+    ],
+    "files_hash": "b8a0252030e27a0d209db5e564cd6aa62e2bb9db",
+    "description": "Free 4K shrub model with delicate branching stems and narrow lanceolate leaves, realistic low-growing groundcover with subtle color variation and fine detail.",
+    "category_id": "f85fb5e2-abfd-5de4-9860-c9c3d04f12df",
+    "category": "Nature/Plants/Shrubs & Bushes",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "lods": true,
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "0224a75c",
+    "download_count": 8156,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shrub_02.png?width=256&height=256&v=0224a75c"
+  },
+  "shrub_03": {
+    "lods": true,
+    "name": "Shrub 03",
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: verdant_trail"
+    ],
+    "type": 2,
+    "version_required": {
+      "blend": "4.0.1"
+    },
+    "tags": [
+      "meadow",
+      "field",
+      "shrub",
+      "botany",
+      "green",
+      "nature",
+      "plant",
+      "leaf",
+      "bush",
+      "foliage",
+      "small",
+      "ground cover",
+      "undergrowth",
+      "garden",
+      "flora",
+      "environment",
+      "vegetation"
+    ],
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "info": null,
+    "date_published": 1707177600,
+    "max_resolution": [
+      4096,
+      4096
+    ],
+    "polycount": 16955,
+    "texel_density": 28859.739259583006,
+    "dimensions": [
+      1366.9319450855255,
+      151.20302885770798,
+      402.78380597010255
+    ],
+    "files_hash": "54def63266ae691c3656edadb07e137996c6dde7",
+    "description": "Free 4K shrub with slender stems, paired oval leaves and vertical seed spikes - detailed green low\u2011growth foliage with a natural meadow character.",
+    "category_id": "f85fb5e2-abfd-5de4-9860-c9c3d04f12df",
+    "category": "Nature/Plants/Shrubs & Bushes",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "lods": true,
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "357b0f84",
+    "download_count": 7726,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shrub_03.png?width=256&height=256&v=357b0f84"
+  },
+  "shrub_04": {
+    "lods": true,
+    "name": "Shrub 04",
+    "type": 2,
+    "version_required": {
+      "blend": "4.0.1"
+    },
+    "tags": [
+      "plant",
+      "shrub",
+      "bush",
+      "nature",
+      "green",
+      "leaf",
+      "foliage",
+      "ground cover",
+      "vegetation",
+      "undergrowth"
+    ],
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "info": null,
+    "date_published": 1707177600,
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: verdant_trail"
+    ],
+    "max_resolution": [
+      4096,
+      4096
+    ],
+    "polycount": 47813,
+    "texel_density": 31145.26651225114,
+    "dimensions": [
+      746.7864416539669,
+      186.9201734662056,
+      280.6698549538851
+    ],
+    "files_hash": "e2ec49df49d4a6ee25e245f493249e07a42a9b7d",
+    "description": "Free 4K model - four detailed shrub branches with glossy green leaves, thin woody stems and natural undergrowth variation.",
+    "category_id": "f85fb5e2-abfd-5de4-9860-c9c3d04f12df",
+    "category": "Nature/Plants/Shrubs & Bushes",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "lods": true,
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "8bfaf1f2",
+    "download_count": 18046,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shrub_04.png?width=256&height=256&v=8bfaf1f2"
+  },
+  "shrub_sorrel_01": {
+    "date_published": 1649376000,
+    "name": "Shrub Sorrel 01",
+    "type": 2,
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "categories": [
+      "plants",
+      "flowers",
+      "nature",
+      "collection: smugglers_cove"
+    ],
+    "tags": [
+      "nature",
+      "sorrel",
+      "potplant",
+      "bush",
+      "shrub",
+      "leaf",
+      "leaves",
+      "green",
+      "small",
+      "forest",
+      "field",
+      "floral",
+      "flower"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 3319,
+    "texel_density": 168223.46231941675,
+    "dimensions": [
+      352.09934413433075,
+      146.4103851467371,
+      58.00368043128401
+    ],
+    "files_hash": "65530d7157644eab84ae2b32da08acd26efa07f6",
+    "description": "Free 8K model of small sorrel shrubs: clusters of round scalloped green leaves on thin stems, subtle edge wear and delicate pink five-petaled flowers.",
+    "category_id": "f85fb5e2-abfd-5de4-9860-c9c3d04f12df",
+    "category": "Nature/Plants/Shrubs & Bushes",
+    "collections": [
+      "smugglers_cove"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "079989cc",
+    "download_count": 46399,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shrub_sorrel_01.png?width=256&height=256&v=079989cc"
+  },
+  "tree_small_02": {
+    "date_published": 1682640000,
+    "sponsors": [
+      "11109006"
+    ],
+    "name": "Tree Small 02",
+    "type": 2,
+    "tags": [
+      "tree",
+      "natural",
+      "nature",
+      "plant",
+      "outdoor",
+      "green",
+      "botany",
+      "leaf",
+      "leaves",
+      "forest",
+      "jungle",
+      "foliage",
+      "geometry nodes",
+      "trunk",
+      "bark",
+      "medium",
+      "garden",
+      "branches",
+      "burkea africana",
+      "wild syringa",
+      "small"
+    ],
+    "authors": {
+      "Rico Cilliers": "All"
+    },
+    "info": null,
+    "geonodes": true,
+    "categories": [
+      "nature",
+      "plants",
+      "trees",
+      "collection: verdant_trail"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 4652585,
+    "files_hash": "5fe4637be7454be81ee92fc68a7938b56d20c613",
+    "texel_density": 35294.28602250067,
+    "dimensions": [
+      2921.434998512268,
+      4292.873501777649,
+      4649.933725595474
+    ],
+    "lods": true,
+    "description": "Free 8K model: small tree with a slender curved trunk, detailed bark and branches, and a dense, airy canopy of clustered green leaves.",
+    "category_id": "accb9301-4212-5378-9483-fc02b73a900a",
+    "category": "Nature/Trees/Broadleaf Trees",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ],
+      "lods": true,
+      "geonodes": true
+    },
+    "img_version": "3743831d",
+    "download_count": 155635,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tree_small_02.png?width=256&height=256&v=3743831d"
+  },
+  "weed_plant_02": {
+    "lods": true,
+    "date_published": 1663891200,
+    "name": "Weed Plant 02",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "Modeling"
+    },
+    "info": null,
+    "sponsors": [
+      "91384425"
+    ],
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: the_shed"
+    ],
+    "tags": [
+      "nature",
+      "natural",
+      "bush",
+      "shrub",
+      "green",
+      "plant",
+      "outdoor",
+      "leaf",
+      "botany",
+      "leaves",
+      "forest",
+      "jungle",
+      "foliage",
+      "small",
+      "field",
+      "meadow"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 17062,
+    "texel_density": 49404.648940606014,
+    "dimensions": [
+      2125.253051519394,
+      290.9194082021713,
+      75.0729264691472
+    ],
+    "files_hash": "ec3ea7f56c7504415056b28465ce384a4f884f6c",
+    "description": "Free 8K model of small weed clusters with glossy green leaves, reddish stems and yellowing edges - photoreal low-growing groundcover with natural detail.",
+    "category_id": "7478356f-977c-59dd-9890-fa6a88ca1513",
+    "category": "Nature/Ground Cover & Moss/Low Groundcover",
+    "collections": [
+      "the_shed"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "lods": true,
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "2071c6b9",
+    "download_count": 24697,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/weed_plant_02.png?width=256&height=256&v=2071c6b9"
+  },
+  "wild_rooibos_bush": {
+    "lods": true,
+    "name": "Wild Rooibos Bush",
+    "categories": [
+      "nature",
+      "plants",
+      "collection: namaqualand"
+    ],
+    "type": 2,
+    "tags": [
+      "karoo",
+      "south africa",
+      "desert",
+      "dried",
+      "dry",
+      "shrub"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 76521,
+    "texel_density": 17748.299962122845,
+    "dimensions": [
+      2285.276174545288,
+      854.104071855545,
+      543.936595087871
+    ],
+    "date_published": 1728345600,
+    "files_hash": "e36b891edee5f1133d3d05b0707a690f8a078f6c",
+    "description": "Free 8K model of a dried wild rooibos shrub from South Africa's Karoo/Namaqualand - low, multi-stemmed desert bush with needle-like leaves, perfect for arid scenes.",
+    "authors": {
+      "James Ray Cock": "modeling",
+      "Jenelle van Heerden": "photography"
+    },
+    "category_id": "b05588cc-d537-59b4-a609-a3b076b80e5f",
+    "category": "Nature/Plants/Desert & Arid Plants",
+    "collections": [
+      "namaqualand"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "lods": true,
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "17366077",
+    "download_count": 7021,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wild_rooibos_bush.png?width=256&height=256&v=17366077"
+  }
+}

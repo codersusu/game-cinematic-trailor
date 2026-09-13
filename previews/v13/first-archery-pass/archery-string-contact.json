@@ -1,0 +1,44 @@
+{
+  "scene_sha256": "85f35c6ec07f20217e2edcff72133ce6c4105ad85e48cb8b33071ff0d0f3b131",
+  "method": "string centerline sampled every 0.25 mm within 25 cm of nock on each segment; subtract actual curve bevel radius; evaluated full tube triangle overlap against drawing fingers",
+  "samples": [
+    {
+      "frame": 20,
+      "string_radius_m": 0.003000000026077032,
+      "centerline_to_finger_m": 0.005848873872309923,
+      "string_surface_to_finger_m": 0.002848873846232891,
+      "closest_world_points": [
+        [
+          -3.6767454147338867,
+          -20.104244232177734,
+          1.6126821041107178
+        ],
+        [
+          -3.6799561977386475,
+          -20.108875274658203,
+          1.614248514175415
+        ]
+      ],
+      "actual_tube_finger_triangle_intersections": 0
+    },
+    {
+      "frame": 31,
+      "string_radius_m": 0.003000000026077032,
+      "centerline_to_finger_m": 0.005851901136338711,
+      "string_surface_to_finger_m": 0.0028519011102616787,
+      "closest_world_points": [
+        [
+          -3.6792795658111572,
+          -20.10490608215332,
+          1.6224191188812256
+        ],
+        [
+          -3.6825637817382812,
+          -20.109487533569336,
+          1.6239904165267944
+        ]
+      ],
+      "actual_tube_finger_triangle_intersections": 0
+    }
+  ]
+}

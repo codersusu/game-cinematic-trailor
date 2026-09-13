@@ -1,0 +1,2395 @@
+{
+  "rendered": false,
+  "assets": {
+    "fern_02": [
+      {
+        "name": "fern_02_a",
+        "vertices": 544,
+        "triangles": 784,
+        "dimensions": [
+          0.5519406199455261,
+          0.6134210824966431,
+          0.28680354356765747
+        ],
+        "materials": [
+          "fern_02"
+        ]
+      },
+      {
+        "name": "fern_02_b",
+        "vertices": 1660,
+        "triangles": 2384,
+        "dimensions": [
+          0.9897474050521851,
+          0.893689751625061,
+          0.427694708108902
+        ],
+        "materials": [
+          "fern_02"
+        ]
+      },
+      {
+        "name": "fern_02_c",
+        "vertices": 1568,
+        "triangles": 2248,
+        "dimensions": [
+          0.8743258118629456,
+          0.7652256488800049,
+          0.3490203619003296
+        ],
+        "materials": [
+          "fern_02"
+        ]
+      },
+      {
+        "name": "fern_02_d",
+        "vertices": 565,
+        "triangles": 816,
+        "dimensions": [
+          0.5727821588516235,
+          0.5932782888412476,
+          0.2130875587463379
+        ],
+        "materials": [
+          "fern_02"
+        ]
+      }
+    ],
+    "rock_moss_set_01": [
+      {
+        "name": "rock_moss_set_01_rock01",
+        "vertices": 6078,
+        "triangles": 11000,
+        "dimensions": [
+          2.2376322746276855,
+          3.368804454803467,
+          1.4726980924606323
+        ],
+        "materials": [
+          "rock_moss_set_01"
+        ]
+      },
+      {
+        "name": "rock_moss_set_01_rock02",
+        "vertices": 6192,
+        "triangles": 10996,
+        "dimensions": [
+          2.6553807258605957,
+          3.2637205123901367,
+          1.2619911432266235
+        ],
+        "materials": [
+          "rock_moss_set_01"
+        ]
+      },
+      {
+        "name": "rock_moss_set_01_rock03",
+        "vertices": 2741,
+        "triangles": 5000,
+        "dimensions": [
+          2.1085824966430664,
+          2.079585552215576,
+          1.0996944904327393
+        ],
+        "materials": [
+          "rock_moss_set_01"
+        ]
+      },
+      {
+        "name": "rock_moss_set_01_rock04",
+        "vertices": 5691,
+        "triangles": 10589,
+        "dimensions": [
+          2.127629280090332,
+          1.9647413492202759,
+          1.768319845199585
+        ],
+        "materials": [
+          "rock_moss_set_01"
+        ]
+      },
+      {
+        "name": "rock_moss_set_01_rock05",
+        "vertices": 8538,
+        "triangles": 16548,
+        "dimensions": [
+          1.8173227310180664,
+          2.998663902282715,
+          1.2054507732391357
+        ],
+        "materials": [
+          "rock_moss_set_01"
+        ]
+      },
+      {
+        "name": "rock_moss_set_01_rock06",
+        "vertices": 4748,
+        "triangles": 8994,
+        "dimensions": [
+          2.1259822845458984,
+          2.757303237915039,
+          1.261852741241455
+        ],
+        "materials": [
+          "rock_moss_set_01"
+        ]
+      }
+    ],
+    "dead_tree_trunk": [
+      {
+        "name": "dead_tree_trunk",
+        "vertices": 52593,
+        "triangles": 101802,
+        "dimensions": [
+          3.0510149002075195,
+          0.27752751111984253,
+          0.29043155908584595
+        ],
+        "materials": [
+          "dead_tree_trunk"
+        ]
+      }
+    ],
+    "root_cluster_01": [
+      {
+        "name": "root_cluster_01",
+        "vertices": 117551,
+        "triangles": 225261,
+        "dimensions": [
+          4.122708320617676,
+          2.682776689529419,
+          1.5092800855636597
+        ],
+        "materials": [
+          "root_cluster_01"
+        ]
+      }
+    ],
+    "fir_tree_01": [
+      {
+        "name": "fir_tree_01_a_LOD0",
+        "type": "MESH",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD0"
+        ],
+        "vertices": 5337567,
+        "polygons": 2107255,
+        "dimensions": [
+          6.533779144287109,
+          6.426823139190674,
+          18.92510986328125
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_a_LOD1",
+        "type": "MESH",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD1"
+        ],
+        "vertices": 138058,
+        "polygons": 88980,
+        "dimensions": [
+          6.58326530456543,
+          6.467047691345215,
+          18.954601287841797
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_a_LOD2",
+        "type": "MESH",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD2"
+        ],
+        "vertices": 73227,
+        "polygons": 48149,
+        "dimensions": [
+          6.583094120025635,
+          6.467402458190918,
+          18.957046508789062
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_b_LOD0",
+        "type": "MESH",
+        "location": [
+          6.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD0"
+        ],
+        "vertices": 2899226,
+        "polygons": 1161596,
+        "dimensions": [
+          5.612586975097656,
+          6.056670665740967,
+          14.055205345153809
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_b_LOD1",
+        "type": "MESH",
+        "location": [
+          6.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD1"
+        ],
+        "vertices": 90714,
+        "polygons": 64508,
+        "dimensions": [
+          5.631947040557861,
+          6.084495544433594,
+          14.077526092529297
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_b_LOD2",
+        "type": "MESH",
+        "location": [
+          6.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD2"
+        ],
+        "vertices": 48164,
+        "polygons": 41742,
+        "dimensions": [
+          5.631947040557861,
+          6.084495544433594,
+          14.077526092529297
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_c_LOD0",
+        "type": "MESH",
+        "location": [
+          12.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD0"
+        ],
+        "vertices": 620039,
+        "polygons": 255682,
+        "dimensions": [
+          6.305939197540283,
+          5.9662370681762695,
+          14.520581245422363
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_c_LOD1",
+        "type": "MESH",
+        "location": [
+          12.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD1"
+        ],
+        "vertices": 43277,
+        "polygons": 34656,
+        "dimensions": [
+          6.3490400314331055,
+          6.005417823791504,
+          14.545815467834473
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_c_LOD2",
+        "type": "MESH",
+        "location": [
+          12.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_LOD2"
+        ],
+        "vertices": 22574,
+        "polygons": 22079,
+        "dimensions": [
+          6.3499040603637695,
+          6.005417823791504,
+          14.552308082580566
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_a",
+        "type": "MESH",
+        "location": [
+          12.044425964355469,
+          -0.0006212163134478033,
+          -0.0005589627544395626
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 56,
+        "polygons": 55,
+        "dimensions": [
+          0.04350806772708893,
+          0.1047419011592865,
+          0.8416321277618408
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_b",
+        "type": "MESH",
+        "location": [
+          12.16246223449707,
+          -0.0011166910408064723,
+          0.002458675066009164
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 46,
+        "polygons": 45,
+        "dimensions": [
+          0.040126197040081024,
+          0.04115891829133034,
+          0.5081018805503845
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_c",
+        "type": "MESH",
+        "location": [
+          12.306560516357422,
+          -0.0012392839416861534,
+          -6.778520764783025e-05
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 21,
+        "polygons": 20,
+        "dimensions": [
+          0.024249820038676262,
+          0.02496662177145481,
+          0.3959311842918396
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_d",
+        "type": "MESH",
+        "location": [
+          12.420554161071777,
+          -0.001580720767378807,
+          0.00124931032769382
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 31,
+        "polygons": 30,
+        "dimensions": [
+          0.0253315307199955,
+          0.03250836953520775,
+          0.39375901222229004
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_e",
+        "type": "MESH",
+        "location": [
+          12.542791366577148,
+          -0.002083855913951993,
+          -0.0012030082289129496
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 69,
+        "polygons": 71,
+        "dimensions": [
+          0.12681876122951508,
+          0.029341552406549454,
+          0.6661511659622192
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_f",
+        "type": "MESH",
+        "location": [
+          12.701974868774414,
+          -0.004064565058797598,
+          0.0007587340078316629
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 36,
+        "polygons": 35,
+        "dimensions": [
+          0.04264296591281891,
+          0.02673415094614029,
+          0.44976145029067993
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_g",
+        "type": "MESH",
+        "location": [
+          12.844046592712402,
+          -0.002780047943815589,
+          0.00524340383708477
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 46,
+        "polygons": 45,
+        "dimensions": [
+          0.0721280500292778,
+          0.03955667465925217,
+          0.813187837600708
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_h",
+        "type": "MESH",
+        "location": [
+          13.027653694152832,
+          -0.002083898289129138,
+          -0.0012030082289129496
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 110,
+        "polygons": 111,
+        "dimensions": [
+          0.4475494623184204,
+          0.1380915343761444,
+          0.8118776082992554
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_i",
+        "type": "MESH",
+        "location": [
+          13.392741203308105,
+          -0.005527203902602196,
+          0.0032851409632712603
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 77,
+        "polygons": 75,
+        "dimensions": [
+          0.2376514971256256,
+          0.07671960443258286,
+          0.8874806761741638
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_dead_branch_j",
+        "type": "MESH",
+        "location": [
+          13.675185203552246,
+          -0.005527119617909193,
+          0.0032851460855454206
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_dead_branches"
+        ],
+        "vertices": 215,
+        "polygons": 217,
+        "dimensions": [
+          0.6067721843719482,
+          0.2036450356245041,
+          1.1023281812667847
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_geometry_nodes",
+        "type": "CURVE",
+        "location": [
+          -12.930569648742676,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_geometry_nodes"
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_tree_01",
+            "inputs": {
+              "Input_3": "0.20000000298023224",
+              "Input_3_use_attribute": "0",
+              "Input_3_attribute_name": "",
+              "Input_4": "51",
+              "Input_4_use_attribute": "0",
+              "Input_4_attribute_name": "",
+              "Input_16": "12",
+              "Input_16_use_attribute": "0",
+              "Input_16_attribute_name": "",
+              "Input_2": "0.06899996101856232",
+              "Input_2_use_attribute": "0",
+              "Input_2_attribute_name": "",
+              "Input_13": "51",
+              "Input_13_use_attribute": "0",
+              "Input_13_attribute_name": "",
+              "Input_11": "13",
+              "Input_11_use_attribute": "0",
+              "Input_11_attribute_name": "",
+              "Input_5": "0.23899993300437927",
+              "Input_5_use_attribute": "0",
+              "Input_5_attribute_name": "",
+              "Input_12": "0.8899999856948853",
+              "Input_12_use_attribute": "0",
+              "Input_12_attribute_name": "",
+              "Input_7": "0.18085098266601562",
+              "Input_7_use_attribute": "0",
+              "Input_7_attribute_name": "",
+              "Input_8": "-0.3500000238418579",
+              "Input_8_use_attribute": "0",
+              "Input_8_attribute_name": "",
+              "Input_9": "0.34761905670166016",
+              "Input_9_use_attribute": "0",
+              "Input_9_attribute_name": "",
+              "Input_10": "0.6949999928474426",
+              "Input_10_use_attribute": "0",
+              "Input_10_attribute_name": "",
+              "Input_14": "0.6329999566078186",
+              "Input_14_use_attribute": "0",
+              "Input_14_attribute_name": ""
+            },
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "trunk_disp_val",
+                "identifier": "Input_3",
+                "socket_type": "NodeSocketFloat",
+                "default": "0.27000004053115845"
+              },
+              {
+                "name": "trunk_res",
+                "identifier": "Input_4",
+                "socket_type": "NodeSocketInt",
+                "default": "0"
+              },
+              {
+                "name": "trunk_circle_res",
+                "identifier": "Input_16",
+                "socket_type": "NodeSocketInt",
+                "default": "13"
+              },
+              {
+                "name": "branch_density",
+                "identifier": "Input_2",
+                "socket_type": "NodeSocketFloat",
+                "default": "0.10000000149011612"
+              },
+              {
+                "name": "branch_seed",
+                "identifier": "Input_13",
+                "socket_type": "NodeSocketInt",
+                "default": "40"
+              },
+              {
+                "name": "branch_res",
+                "identifier": "Input_11",
+                "socket_type": "NodeSocketInt",
+                "default": "9"
+              },
+              {
+                "name": "branc_noise",
+                "identifier": "Input_5",
+                "socket_type": "NodeSocketFloat",
+                "default": "0.47999992966651917"
+              },
+              {
+                "name": "branch_overall_length",
+                "identifier": "Input_12",
+                "socket_type": "NodeSocketFloat",
+                "default": "1.0"
+              },
+              {
+                "name": "branch_shorten_percentage",
+                "identifier": "Input_7",
+                "socket_type": "NodeSocketFloat",
+                "default": "1.0"
+              },
+              {
+                "name": "branch_shorten_amount",
+                "identifier": "Input_8",
+                "socket_type": "NodeSocketFloat",
+                "default": "-0.7999999523162842"
+              },
+              {
+                "name": "random_rotation_percentage",
+                "identifier": "Input_9",
+                "socket_type": "NodeSocketFloat",
+                "default": "0.4954128563404083"
+              },
+              {
+                "name": "random_rotation_amount",
+                "identifier": "Input_10",
+                "socket_type": "NodeSocketFloat",
+                "default": "0.3199999928474426"
+              },
+              {
+                "name": "small_branches_probability",
+                "identifier": "Input_14",
+                "socket_type": "NodeSocketFloat",
+                "default": "0.4899999797344208"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_needle_a",
+        "type": "MESH",
+        "location": [
+          23.360475540161133,
+          -0.0047050598077476025,
+          0.0012003681622445583
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_needles"
+        ],
+        "vertices": 6,
+        "polygons": 2,
+        "dimensions": [
+          0.011976360343396664,
+          0.1466040462255478,
+          0.12771637737751007
+        ],
+        "modifiers": [
+          {
+            "name": "Solidify",
+            "type": "SOLIDIFY",
+            "show_render": true,
+            "show_viewport": false
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_needle_b",
+        "type": "MESH",
+        "location": [
+          23.405433654785156,
+          -0.0047050598077476025,
+          0.0012003681622445583
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_needles"
+        ],
+        "vertices": 6,
+        "polygons": 2,
+        "dimensions": [
+          0.013077715411782265,
+          0.15110959112644196,
+          0.13068006932735443
+        ],
+        "modifiers": [
+          {
+            "name": "Solidify",
+            "type": "SOLIDIFY",
+            "show_render": true,
+            "show_viewport": false
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_needle_c",
+        "type": "MESH",
+        "location": [
+          23.44113540649414,
+          -0.0047050598077476025,
+          0.0012003681622445583
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_needles"
+        ],
+        "vertices": 6,
+        "polygons": 2,
+        "dimensions": [
+          0.012960651889443398,
+          0.15741942822933197,
+          0.12043575942516327
+        ],
+        "modifiers": [
+          {
+            "name": "Solidify",
+            "type": "SOLIDIFY",
+            "show_render": true,
+            "show_viewport": false
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_needle_d",
+        "type": "MESH",
+        "location": [
+          23.48476791381836,
+          -0.0047050598077476025,
+          0.0012003681622445583
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_needles"
+        ],
+        "vertices": 6,
+        "polygons": 2,
+        "dimensions": [
+          0.013184608891606331,
+          0.15841743350028992,
+          0.13774073123931885
+        ],
+        "modifiers": [
+          {
+            "name": "Solidify",
+            "type": "SOLIDIFY",
+            "show_render": true,
+            "show_viewport": false
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_trunk_a",
+        "type": "MESH",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_trunks"
+        ],
+        "vertices": 42391,
+        "polygons": 42222,
+        "dimensions": [
+          1.126545786857605,
+          1.1712186336517334,
+          17.546592712402344
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_trunk_b",
+        "type": "MESH",
+        "location": [
+          5.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_trunks"
+        ],
+        "vertices": 39564,
+        "polygons": 39442,
+        "dimensions": [
+          1.2329157590866089,
+          1.2554314136505127,
+          12.525795936584473
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_trunk_c",
+        "type": "MESH",
+        "location": [
+          9.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_trunks"
+        ],
+        "vertices": 23290,
+        "polygons": 23186,
+        "dimensions": [
+          1.2225232124328613,
+          1.1875925064086914,
+          13.322330474853516
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_main_a",
+        "type": "MESH",
+        "location": [
+          15.753096580505371,
+          -0.0168001651763916,
+          0.001200360246002674
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD0"
+        ],
+        "vertices": 478,
+        "polygons": 470,
+        "dimensions": [
+          1.7689182758331299,
+          2.0726218223571777,
+          0.24371816217899323
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_twig",
+            "inputs": {},
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_twig_main_a_LOD1",
+        "type": "MESH",
+        "location": [
+          15.753097534179688,
+          -0.016800284385681152,
+          0.0012003601295873523
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD1"
+        ],
+        "vertices": 54,
+        "polygons": 21,
+        "dimensions": [
+          1.951459288597107,
+          2.226330518722534,
+          0.5400862693786621
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_main_a_LOD2",
+        "type": "MESH",
+        "location": [
+          15.753097534179688,
+          -0.016800284385681152,
+          0.0012003601295873523
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD2"
+        ],
+        "vertices": 37,
+        "polygons": 15,
+        "dimensions": [
+          1.9608078002929688,
+          2.226330518722534,
+          0.5372464656829834
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_main_b",
+        "type": "MESH",
+        "location": [
+          17.105791091918945,
+          -0.0006524724885821342,
+          0.001200360246002674
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD0"
+        ],
+        "vertices": 118,
+        "polygons": 115,
+        "dimensions": [
+          1.0179309844970703,
+          1.4302157163619995,
+          0.1554563045501709
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_twig",
+            "inputs": {},
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_twig_main_b_LOD1",
+        "type": "MESH",
+        "location": [
+          17.105789184570312,
+          -0.000652313232421875,
+          0.001200360246002674
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD1"
+        ],
+        "vertices": 33,
+        "polygons": 13,
+        "dimensions": [
+          1.4686939716339111,
+          1.5641744136810303,
+          0.5143488049507141
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_main_b_LOD2",
+        "type": "MESH",
+        "location": [
+          17.105789184570312,
+          -0.000652313232421875,
+          0.001200360246002674
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD2"
+        ],
+        "vertices": 22,
+        "polygons": 9,
+        "dimensions": [
+          1.4686939716339111,
+          1.5641744136810303,
+          0.5143738985061646
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_main_c",
+        "type": "MESH",
+        "location": [
+          18.47947883605957,
+          0.002939300611615181,
+          0.009735913947224617
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD0"
+        ],
+        "vertices": 299,
+        "polygons": 290,
+        "dimensions": [
+          1.6815509796142578,
+          2.059082269668579,
+          0.2399275302886963
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_twig",
+            "inputs": {},
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_twig_main_c_LOD1",
+        "type": "MESH",
+        "location": [
+          18.479480743408203,
+          0.0029393434524536133,
+          0.009735913947224617
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD1"
+        ],
+        "vertices": 54,
+        "polygons": 25,
+        "dimensions": [
+          1.8751732110977173,
+          2.1855289936065674,
+          0.5518758893013
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_main_c_LOD2",
+        "type": "MESH",
+        "location": [
+          18.479480743408203,
+          0.0029393434524536133,
+          0.009735913947224617
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_main_LOD2"
+        ],
+        "vertices": 35,
+        "polygons": 18,
+        "dimensions": [
+          1.8769845962524414,
+          2.1854946613311768,
+          0.5517637133598328
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_a",
+        "type": "MESH",
+        "location": [
+          20.451642990112305,
+          -0.003399965353310108,
+          0.0018799244426190853
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD0"
+        ],
+        "vertices": 42,
+        "polygons": 40,
+        "dimensions": [
+          0.1931261420249939,
+          0.43095242977142334,
+          0.06451553106307983
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_twig",
+            "inputs": {},
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_twig_tip_a_LOD1",
+        "type": "MESH",
+        "location": [
+          20.451642990112305,
+          -0.0034000277519226074,
+          0.0018799244426190853
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD1"
+        ],
+        "vertices": 20,
+        "polygons": 7,
+        "dimensions": [
+          0.4505331218242645,
+          0.6290178298950195,
+          0.35395869612693787
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_a_LOD2",
+        "type": "MESH",
+        "location": [
+          20.451642990112305,
+          -0.0034000277519226074,
+          0.0018799244426190853
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD2"
+        ],
+        "vertices": 13,
+        "polygons": 5,
+        "dimensions": [
+          0.4644189774990082,
+          0.6290178298950195,
+          0.3539576530456543
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_b",
+        "type": "MESH",
+        "location": [
+          21.08637237548828,
+          -0.0057644168846309185,
+          0.001200360246002674
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD0"
+        ],
+        "vertices": 128,
+        "polygons": 125,
+        "dimensions": [
+          0.5047848224639893,
+          0.7331756949424744,
+          0.18046611547470093
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_twig",
+            "inputs": {},
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_twig_tip_b_LOD1",
+        "type": "MESH",
+        "location": [
+          21.08637237548828,
+          -0.005764424800872803,
+          0.001200360246002674
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD1"
+        ],
+        "vertices": 29,
+        "polygons": 11,
+        "dimensions": [
+          0.883147120475769,
+          0.8697722554206848,
+          0.4364299178123474
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_b_LOD2",
+        "type": "MESH",
+        "location": [
+          21.08637237548828,
+          -0.005764424800872803,
+          0.001200360246002674
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD2"
+        ],
+        "vertices": 18,
+        "polygons": 8,
+        "dimensions": [
+          0.883147120475769,
+          0.826554000377655,
+          0.45826250314712524
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_c",
+        "type": "MESH",
+        "location": [
+          21.74461555480957,
+          -0.0006053317338228226,
+          0.0012003681622445583
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD0"
+        ],
+        "vertices": 41,
+        "polygons": 40,
+        "dimensions": [
+          0.0376313142478466,
+          0.5783848762512207,
+          0.011440514586865902
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_twig",
+            "inputs": {},
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_twig_tip_c_LOD1",
+        "type": "MESH",
+        "location": [
+          21.74461555480957,
+          -0.0006053447723388672,
+          0.0012003680458292365
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD1"
+        ],
+        "vertices": 8,
+        "polygons": 2,
+        "dimensions": [
+          0.3538737893104553,
+          0.7824212908744812,
+          0.35395872592926025
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_c_LOD2",
+        "type": "MESH",
+        "location": [
+          21.74461555480957,
+          -0.0006053447723388672,
+          0.0012003680458292365
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD2"
+        ],
+        "vertices": 8,
+        "polygons": 2,
+        "dimensions": [
+          0.3538737893104553,
+          0.7824212908744812,
+          0.35395872592926025
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_d",
+        "type": "MESH",
+        "location": [
+          22.555280685424805,
+          -0.0060241371393203735,
+          0.06481482833623886
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD0"
+        ],
+        "vertices": 193,
+        "polygons": 190,
+        "dimensions": [
+          1.483476161956787,
+          1.7940212488174438,
+          0.2147793471813202
+        ],
+        "modifiers": [
+          {
+            "name": "GeometryNodes",
+            "type": "NODES",
+            "show_render": true,
+            "show_viewport": true,
+            "node_group": "fir_twig",
+            "inputs": {},
+            "interface": [
+              {
+                "name": "Geometry",
+                "identifier": "Output_1",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              },
+              {
+                "name": "Geometry",
+                "identifier": "Input_0",
+                "socket_type": "NodeSocketGeometry",
+                "default": "None"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "fir_tree_01_twig_tip_d_LOD1",
+        "type": "MESH",
+        "location": [
+          22.555282592773438,
+          -0.00602412223815918,
+          0.06481482833623886
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD1"
+        ],
+        "vertices": 46,
+        "polygons": 19,
+        "dimensions": [
+          1.7436375617980957,
+          1.9213743209838867,
+          0.507404088973999
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "fir_tree_01_twig_tip_d_LOD2",
+        "type": "MESH",
+        "location": [
+          22.555282592773438,
+          -0.00602412223815918,
+          0.06481482833623886
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "parent": null,
+        "instance_collection": null,
+        "hide_render": false,
+        "hide_viewport": false,
+        "collections": [
+          "fir_tree_01_twigs_tip_LOD2"
+        ],
+        "vertices": 29,
+        "polygons": 11,
+        "dimensions": [
+          1.7436375617980957,
+          1.9213743209838867,
+          0.507404088973999
+        ],
+        "modifiers": []
+      }
+    ]
+  },
+  "fir_available_collections": [
+    "fir_tree_01_twigs_tip_LOD2",
+    "fir_tree_01_twigs_tip_LOD1",
+    "fir_tree_01_twigs_tip_LOD0",
+    "fir_tree_01_twigs_main_LOD2",
+    "fir_tree_01_twigs_main_LOD1",
+    "fir_tree_01_twigs_main_LOD0",
+    "fir_tree_01_trunks",
+    "fir_tree_01_needles",
+    "fir_tree_01_LOD2",
+    "fir_tree_01_LOD1",
+    "fir_tree_01_LOD0",
+    "fir_tree_01_geometry_nodes",
+    "fir_tree_01_geometry",
+    "fir_tree_01_dead_branches",
+    "fir_tree_01"
+  ],
+  "fir_available_objects": [
+    "fir_tree_01_twig_tip_d_LOD2",
+    "fir_tree_01_twig_tip_d_LOD1",
+    "fir_tree_01_twig_tip_d",
+    "fir_tree_01_twig_tip_c_LOD2",
+    "fir_tree_01_twig_tip_c_LOD1",
+    "fir_tree_01_twig_tip_c",
+    "fir_tree_01_twig_tip_b_LOD2",
+    "fir_tree_01_twig_tip_b_LOD1",
+    "fir_tree_01_twig_tip_b",
+    "fir_tree_01_twig_tip_a_LOD2",
+    "fir_tree_01_twig_tip_a_LOD1",
+    "fir_tree_01_twig_tip_a",
+    "fir_tree_01_twig_main_c_LOD2",
+    "fir_tree_01_twig_main_c_LOD1",
+    "fir_tree_01_twig_main_c",
+    "fir_tree_01_twig_main_b_LOD2",
+    "fir_tree_01_twig_main_b_LOD1",
+    "fir_tree_01_twig_main_b",
+    "fir_tree_01_twig_main_a_LOD2",
+    "fir_tree_01_twig_main_a_LOD1",
+    "fir_tree_01_twig_main_a",
+    "fir_tree_01_trunk_c",
+    "fir_tree_01_trunk_b",
+    "fir_tree_01_trunk_a",
+    "fir_tree_01_needle_d",
+    "fir_tree_01_needle_c",
+    "fir_tree_01_needle_b",
+    "fir_tree_01_needle_a",
+    "fir_tree_01_geometry_nodes",
+    "fir_tree_01_dead_branch_j",
+    "fir_tree_01_dead_branch_i",
+    "fir_tree_01_dead_branch_h",
+    "fir_tree_01_dead_branch_g",
+    "fir_tree_01_dead_branch_f",
+    "fir_tree_01_dead_branch_e",
+    "fir_tree_01_dead_branch_d",
+    "fir_tree_01_dead_branch_c",
+    "fir_tree_01_dead_branch_b",
+    "fir_tree_01_dead_branch_a",
+    "fir_tree_01_c_LOD2",
+    "fir_tree_01_c_LOD1",
+    "fir_tree_01_c_LOD0",
+    "fir_tree_01_b_LOD2",
+    "fir_tree_01_b_LOD1",
+    "fir_tree_01_b_LOD0",
+    "fir_tree_01_a_LOD2",
+    "fir_tree_01_a_LOD1",
+    "fir_tree_01_a_LOD0"
+  ],
+  "fir_collections": {
+    "fir_tree_01_twigs_tip_LOD2": {
+      "objects": [
+        "fir_tree_01_twig_tip_d_LOD2",
+        "fir_tree_01_twig_tip_c_LOD2",
+        "fir_tree_01_twig_tip_b_LOD2",
+        "fir_tree_01_twig_tip_a_LOD2"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_twigs_tip_LOD1": {
+      "objects": [
+        "fir_tree_01_twig_tip_d_LOD1",
+        "fir_tree_01_twig_tip_c_LOD1",
+        "fir_tree_01_twig_tip_b_LOD1",
+        "fir_tree_01_twig_tip_a_LOD1"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_twigs_tip_LOD0": {
+      "objects": [
+        "fir_tree_01_twig_tip_d",
+        "fir_tree_01_twig_tip_a",
+        "fir_tree_01_twig_tip_b",
+        "fir_tree_01_twig_tip_c"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_twigs_main_LOD2": {
+      "objects": [
+        "fir_tree_01_twig_main_a_LOD2",
+        "fir_tree_01_twig_main_c_LOD2",
+        "fir_tree_01_twig_main_b_LOD2"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_twigs_main_LOD1": {
+      "objects": [
+        "fir_tree_01_twig_main_a_LOD1",
+        "fir_tree_01_twig_main_c_LOD1",
+        "fir_tree_01_twig_main_b_LOD1"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_twigs_main_LOD0": {
+      "objects": [
+        "fir_tree_01_twig_main_a",
+        "fir_tree_01_twig_main_b",
+        "fir_tree_01_twig_main_c"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_trunks": {
+      "objects": [
+        "fir_tree_01_trunk_b",
+        "fir_tree_01_trunk_a",
+        "fir_tree_01_trunk_c"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_needles": {
+      "objects": [
+        "fir_tree_01_needle_a",
+        "fir_tree_01_needle_b",
+        "fir_tree_01_needle_c",
+        "fir_tree_01_needle_d"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_LOD2": {
+      "objects": [
+        "fir_tree_01_a_LOD2",
+        "fir_tree_01_b_LOD2",
+        "fir_tree_01_c_LOD2"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_LOD1": {
+      "objects": [
+        "fir_tree_01_a_LOD1",
+        "fir_tree_01_b_LOD1",
+        "fir_tree_01_c_LOD1"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_LOD0": {
+      "objects": [
+        "fir_tree_01_a_LOD0",
+        "fir_tree_01_b_LOD0",
+        "fir_tree_01_c_LOD0"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_geometry_nodes": {
+      "objects": [
+        "fir_tree_01_geometry_nodes"
+      ],
+      "children": [
+        "fir_tree_01_geometry"
+      ],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_geometry": {
+      "objects": [],
+      "children": [
+        "fir_tree_01_needles",
+        "fir_tree_01_twigs_main_LOD0",
+        "fir_tree_01_twigs_tip_LOD0",
+        "fir_tree_01_dead_branches",
+        "fir_tree_01_trunks",
+        "fir_tree_01_twigs_main_LOD1",
+        "fir_tree_01_twigs_tip_LOD1",
+        "fir_tree_01_twigs_main_LOD2",
+        "fir_tree_01_twigs_tip_LOD2"
+      ],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01_dead_branches": {
+      "objects": [
+        "fir_tree_01_dead_branch_a",
+        "fir_tree_01_dead_branch_b",
+        "fir_tree_01_dead_branch_c",
+        "fir_tree_01_dead_branch_d",
+        "fir_tree_01_dead_branch_e",
+        "fir_tree_01_dead_branch_f",
+        "fir_tree_01_dead_branch_g",
+        "fir_tree_01_dead_branch_h",
+        "fir_tree_01_dead_branch_i",
+        "fir_tree_01_dead_branch_j"
+      ],
+      "children": [],
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    "fir_tree_01": {
+      "objects": [],
+      "children": [
+        "fir_tree_01_geometry_nodes",
+        "fir_tree_01_LOD0",
+        "fir_tree_01_LOD1",
+        "fir_tree_01_LOD2"
+      ],
+      "hide_render": false,
+      "hide_viewport": false
+    }
+  },
+  "images": [
+    {
+      "name": "dead_tree_trunk_diff",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "dead_tree_trunk/textures/dead_tree_trunk_diff_2k.jpg"
+    },
+    {
+      "name": "dead_tree_trunk_nor_gl",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "dead_tree_trunk/textures/dead_tree_trunk_nor_gl_2k.jpg"
+    },
+    {
+      "name": "dead_tree_trunk_rough",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "dead_tree_trunk/textures/dead_tree_trunk_arm_2k.jpg"
+    },
+    {
+      "name": "fern_02_diff-fern_02_alpha",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fern_02/textures/fern_02_diff_2k.jpg"
+    },
+    {
+      "name": "fern_02_nor_gl",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fern_02/textures/fern_02_nor_gl_2k.jpg"
+    },
+    {
+      "name": "fern_02_rough",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fern_02/textures/fern_02_arm_2k.jpg"
+    },
+    {
+      "name": "fir_tree_01_bark_diff.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_bark_diff_2k.png"
+    },
+    {
+      "name": "fir_tree_01_bark_disp.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_bark_disp_2k.png"
+    },
+    {
+      "name": "fir_tree_01_bark_nor_gl.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_bark_nor_gl_2k.png"
+    },
+    {
+      "name": "fir_tree_01_bark_rough.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_bark_rough_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_a_diff.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_a_diff_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_a_nor_gl.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_a_nor_gl_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_a_rough.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_a_rough_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_b_diff.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_b_diff_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_b_nor_gl.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_b_nor_gl_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_b_rough.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_b_rough_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_c_diff.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_c_diff_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_c_nor_gl.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_c_nor_gl_2k.png"
+    },
+    {
+      "name": "fir_tree_01_trunk_c_rough.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_trunk_c_rough_2k.png"
+    },
+    {
+      "name": "fir_tree_01_twig_alpha.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_twig_alpha_2k.png"
+    },
+    {
+      "name": "fir_tree_01_twig_diff.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_twig_diff_2k.png"
+    },
+    {
+      "name": "fir_tree_01_twig_mask.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_twig_mask_2k.png"
+    },
+    {
+      "name": "fir_tree_01_twig_nor_gl.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_twig_nor_gl_2k.png"
+    },
+    {
+      "name": "fir_tree_01_twig_rough.png",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "fir_tree_01/textures/fir_tree_01_twig_rough_2k.png"
+    },
+    {
+      "name": "rock_moss_set_01_diff",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg"
+    },
+    {
+      "name": "rock_moss_set_01_nor_gl",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg"
+    },
+    {
+      "name": "rock_moss_set_01_rough",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg"
+    },
+    {
+      "name": "root_cluster_01_diff",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "root_cluster_01/textures/root_cluster_01_diff_2k.jpg"
+    },
+    {
+      "name": "root_cluster_01_nor_gl",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "root_cluster_01/textures/root_cluster_01_nor_gl_2k.jpg"
+    },
+    {
+      "name": "root_cluster_01_rough",
+      "exists": true,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "path": "root_cluster_01/textures/root_cluster_01_arm_2k.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1836 @@
+{
+  "HumanArcherAnimations_BowAndProps.blend": {
+    "fps": 30,
+    "frame": [
+      1,
+      51
+    ],
+    "objects": [
+      {
+        "name": "Human_Arrow",
+        "type": "MESH",
+        "dim": [
+          0.046146243810653687,
+          0.04611966386437416,
+          1.0011036396026611
+        ],
+        "verts": 74,
+        "bones": null,
+        "action": null
+      },
+      {
+        "name": "Human_Bow",
+        "type": "ARMATURE",
+        "dim": [
+          0.6383039951324463,
+          1.2683307204497396e-07,
+          2.4361891746520996
+        ],
+        "verts": null,
+        "bones": [
+          "B-root",
+          "B-bowLimb01",
+          "B-bowTip01",
+          "B-bowLimb02",
+          "B-bowTip02",
+          "B-nockPoint"
+        ],
+        "action": null
+      },
+      {
+        "name": "Human_BowMesh",
+        "type": "MESH",
+        "dim": [
+          0.05687635764479637,
+          0.3495338559150696,
+          2.0029914379119873
+        ],
+        "verts": 126,
+        "bones": null,
+        "action": null
+      },
+      {
+        "name": "Human_Quiver",
+        "type": "MESH",
+        "dim": [
+          0.13447082042694092,
+          0.607093334197998,
+          0.14139097929000854
+        ],
+        "verts": 171,
+        "bones": null,
+        "action": null
+      },
+      {
+        "name": "Human_Trap",
+        "type": "MESH",
+        "dim": [
+          0.1823461353778839,
+          0.028908059000968933,
+          0.5006511807441711
+        ],
+        "verts": 30,
+        "bones": null,
+        "action": null
+      },
+      {
+        "name": "Human_Trap_Jaw01",
+        "type": "MESH",
+        "dim": [
+          0.3721407651901245,
+          0.18613648414611816,
+          0.48857182264328003
+        ],
+        "verts": 82,
+        "bones": null,
+        "action": null
+      },
+      {
+        "name": "Human_Trap_Jaw02",
+        "type": "MESH",
+        "dim": [
+          0.3159938156604767,
+          0.1634352058172226,
+          0.4148698151111603
+        ],
+        "verts": 78,
+        "bones": null,
+        "action": null
+      }
+    ],
+    "actions": [],
+    "images": []
+  },
+  "HumanF_ArcherAnimationsFREE_2.0.blend": {
+    "fps": 30,
+    "frame": [
+      1,
+      11
+    ],
+    "objects": [
+      {
+        "name": "Rig",
+        "type": "ARMATURE",
+        "dim": [
+          1.7374799251556396,
+          1.1938307285308838,
+          1.7796138525009155
+        ],
+        "verts": null,
+        "bones": [
+          "B-root",
+          "B-hips",
+          "B-spine",
+          "B-chest",
+          "B-neck",
+          "B-head",
+          "B-jaw",
+          "B-shoulder.L",
+          "B-upperArm.L",
+          "B-forearm.L",
+          "B-hand.L",
+          "B-indexFinger01.L",
+          "B-indexFinger02.L",
+          "B-indexFinger03.L",
+          "B-middleFinger01.L",
+          "B-middleFinger02.L",
+          "B-middleFinger03.L",
+          "B-ringFinger01.L",
+          "B-ringFinger02.L",
+          "B-ringFinger03.L",
+          "B-pinky01.L",
+          "B-pinky02.L",
+          "B-pinky03.L",
+          "B-thumb01.L",
+          "B-thumb02.L",
+          "B-thumb03.L",
+          "Index.L",
+          "Middle.L",
+          "Ring.L",
+          "Pinky.L",
+          "Thumb.L",
+          "Palm.L",
+          "B-handProp.L",
+          "FK_UpperArm.L",
+          "FK_Forearm.L",
+          "FK_Hand.L",
+          "IK_UpperArm.L",
+          "IK_Forearm.L",
+          "IK_Hand.L",
+          "B-shoulder.R",
+          "B-upperArm.R",
+          "B-forearm.R",
+          "B-hand.R",
+          "B-indexFinger01.R",
+          "B-indexFinger02.R",
+          "B-indexFinger03.R",
+          "B-middleFinger01.R",
+          "B-middleFinger02.R",
+          "B-middleFinger03.R",
+          "B-ringFinger01.R",
+          "B-ringFinger02.R",
+          "B-ringFinger03.R",
+          "B-pinky01.R",
+          "B-pinky02.R",
+          "B-pinky03.R",
+          "B-thumb01.R",
+          "B-thumb02.R",
+          "B-thumb03.R",
+          "Index.R",
+          "Middle.R",
+          "Ring.R",
+          "Pinky.R",
+          "Thumb.R",
+          "Palm.R",
+          "B-handProp.R",
+          "FK_UpperArm.R",
+          "FK_Forearm.R",
+          "FK_Hand.R",
+          "IK_UpperArm.R",
+          "IK_Forearm.R",
+          "IK_Hand.R",
+          "B-thigh.L",
+          "B-shin.L",
+          "B-foot.L",
+          "B-toe.L",
+          "B-thigh.R",
+          "B-shin.R",
+          "B-foot.R",
+          "B-toe.R",
+          "RootRotation",
+          "PoleGuide.L",
+          "PoleGuide.R",
+          "LegPoleGuide.L",
+          "LegPoleGuide.R",
+          "IKHandPole.L",
+          "IKHandPole.R",
+          "IKLegPole.L",
+          "IKLegPole.R",
+          "Hips",
+          "Spine",
+          "Chest",
+          "Shoulder.L",
+          "Shoulder.R",
+          "Neck",
+          "Head",
+          "Jaw",
+          "IKLeg.R",
+          "FootRoll.R",
+          "footHeelRoll.R",
+          "toeRoll.R",
+          "footHeelSide01.R",
+          "footHeelSide02.R",
+          "footIKHelper.R",
+          "Toe.R",
+          "IKLeg.L",
+          "FootRoll.L",
+          "footHeelRoll.L",
+          "toeRoll.L",
+          "footHeelSide01.L",
+          "footHeelSide02.L",
+          "footIKHelper.L",
+          "Toe.L",
+          "B-spineProxy",
+          "IKHand.R",
+          "IKHand.L",
+          "HandProp.L",
+          "HandProp.R"
+        ],
+        "action": "Bind_Rest_T_Pose"
+      },
+      {
+        "name": "HumanF_BodyMesh",
+        "type": "MESH",
+        "dim": [
+          1.6889309883117676,
+          1.7658464908599854,
+          0.36393967270851135
+        ],
+        "verts": 2747,
+        "bones": null,
+        "action": null
+      },
+      {
+        "name": "Human_BycocketHat",
+        "type": "MESH",
+        "dim": [
+          0.24624782800674438,
+          0.6232037544250488,
+          0.21926036477088928
+        ],
+        "verts": 242,
+        "bones": null,
+        "action": null
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bind_Rest_T_Pose",
+        "frames": [
+          1.0,
+          11.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "Human@HandsClosed01",
+        "frames": [
+          1.0,
+          11.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "Human@ObjectGripHands01",
+        "frames": [
+          1.0,
+          11.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@BowIdle01",
+        "frames": [
+          -18.0,
+          68.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@BowIdle02",
+        "frames": [
+          -18.0,
+          51.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@BowShot01 - Hold",
+        "frames": [
+          1.0,
+          41.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@BowShot01 - Load",
+        "frames": [
+          -10.0,
+          26.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@BowShot01 - Release",
+        "frames": [
+          1.0,
+          25.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle01",
+        "frames": [
+          1.0,
+          82.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle01-Idle02",
+        "frames": [
+          1.0,
+          21.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle01-Idle03",
+        "frames": [
+          1.0,
+          81.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle01-Idle04",
+        "frames": [
+          1.0,
+          101.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle02",
+        "frames": [
+          1.0,
+          82.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle02-Idle01",
+        "frames": [
+          1.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle03",
+        "frames": [
+          -15.0,
+          116.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle03-Idle01",
+        "frames": [
+          1.0,
+          81.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle04",
+        "frames": [
+          -14.0,
+          149.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Idle04-Idle01",
+        "frames": [
+          1.0,
+          101.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Backward",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Backward [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_BackwardLeft",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_BackwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_BackwardRight",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_BackwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Forward",
+        "frames": [
+          -8.0,
+          27.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Forward [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_ForwardLeft",
+        "frames": [
+          -8.0,
+          27.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_ForwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_ForwardRight",
+        "frames": [
+          -8.0,
+          27.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_ForwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Left",
+        "frames": [
+          -8.0,
+          27.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Left [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Right",
+        "frames": [
+          -8.0,
+          27.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Run01_Right [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@SheatheBack01_L",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@SheatheBack01_R",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@SheatheBack02_L",
+        "frames": [
+          1.0,
+          34.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@SheatheBack02_R",
+        "frames": [
+          1.0,
+          34.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_BackwardLeft",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_BackwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_BackwardRight",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_BackwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_ForwardLeft",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_ForwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_ForwardRight",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_ForwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_Left",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_Left [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_Right",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@StrafeRun01_Right [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@UnsheatheBack01_L",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@UnsheatheBack01_R",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@UnsheatheBack02_L",
+        "frames": [
+          1.0,
+          20.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@UnsheatheBack02_R",
+        "frames": [
+          1.0,
+          20.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Backward",
+        "frames": [
+          -11.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Backward [RM]",
+        "frames": [
+          -11.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_BackwardLeft",
+        "frames": [
+          -11.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_BackwardLeft [RM]",
+        "frames": [
+          -11.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_BackwardRight",
+        "frames": [
+          -11.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_BackwardRight [RM]",
+        "frames": [
+          -11.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Forward",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Forward [RM]",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_ForwardLeft",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_ForwardLeft [RM]",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_ForwardRight",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_ForwardRight [RM]",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Left",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Left [RM]",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Right",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanF@Walk01_Right [RM]",
+        "frames": [
+          -17.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      }
+    ],
+    "images": []
+  },
+  "HumanM_ArcherAnimationsFREE_2.0.blend": {
+    "fps": 30,
+    "frame": [
+      1,
+      11
+    ],
+    "objects": [
+      {
+        "name": "Rig",
+        "type": "ARMATURE",
+        "dim": [
+          1.8191187381744385,
+          1.1938292980194092,
+          1.8258593082427979
+        ],
+        "verts": null,
+        "bones": [
+          "B-root",
+          "B-hips",
+          "B-spine",
+          "B-chest",
+          "B-neck",
+          "B-head",
+          "B-jaw",
+          "B-shoulder.L",
+          "B-upperArm.L",
+          "B-forearm.L",
+          "B-hand.L",
+          "B-indexFinger01.L",
+          "B-indexFinger02.L",
+          "B-indexFinger03.L",
+          "B-middleFinger01.L",
+          "B-middleFinger02.L",
+          "B-middleFinger03.L",
+          "B-ringFinger01.L",
+          "B-ringFinger02.L",
+          "B-ringFinger03.L",
+          "B-pinky01.L",
+          "B-pinky02.L",
+          "B-pinky03.L",
+          "B-thumb01.L",
+          "B-thumb02.L",
+          "B-thumb03.L",
+          "Index.L",
+          "Middle.L",
+          "Ring.L",
+          "Pinky.L",
+          "Thumb.L",
+          "Palm.L",
+          "B-handProp.L",
+          "IK_UpperArm.L",
+          "IK_Forearm.L",
+          "IK_Hand.L",
+          "FK_UpperArm.L",
+          "FK_Forearm.L",
+          "FK_Hand.L",
+          "B-shoulder.R",
+          "B-upperArm.R",
+          "B-forearm.R",
+          "B-hand.R",
+          "B-indexFinger01.R",
+          "B-indexFinger02.R",
+          "B-indexFinger03.R",
+          "B-middleFinger01.R",
+          "B-middleFinger02.R",
+          "B-middleFinger03.R",
+          "B-ringFinger01.R",
+          "B-ringFinger02.R",
+          "B-ringFinger03.R",
+          "B-pinky01.R",
+          "B-pinky02.R",
+          "B-pinky03.R",
+          "B-thumb01.R",
+          "B-thumb02.R",
+          "B-thumb03.R",
+          "Index.R",
+          "Middle.R",
+          "Ring.R",
+          "Pinky.R",
+          "Thumb.R",
+          "Palm.R",
+          "B-handProp.R",
+          "FK_UpperArm.R",
+          "FK_Forearm.R",
+          "FK_Hand.R",
+          "IK_UpperArm.R",
+          "IK_Forearm.R",
+          "IK_Hand.R",
+          "B-thigh.L",
+          "B-shin.L",
+          "B-foot.L",
+          "B-toe.L",
+          "B-thigh.R",
+          "B-shin.R",
+          "B-foot.R",
+          "B-toe.R",
+          "RootRotation",
+          "PoleGuide.L",
+          "PoleGuide.R",
+          "LegPoleGuide.L",
+          "LegPoleGuide.R",
+          "IKHandPole.L",
+          "IKHandPole.R",
+          "IKLegPole.L",
+          "IKLegPole.R",
+          "Hips",
+          "Spine",
+          "Chest",
+          "Shoulder.L",
+          "Shoulder.R",
+          "Neck",
+          "Head",
+          "Jaw",
+          "IKLeg.R",
+          "FootRoll.R",
+          "footHeelRoll.R",
+          "toeRoll.R",
+          "footHeelSide01.R",
+          "footHeelSide02.R",
+          "footIKHelper.R",
+          "Toe.R",
+          "IKLeg.L",
+          "FootRoll.L",
+          "footHeelRoll.L",
+          "toeRoll.L",
+          "footHeelSide01.L",
+          "footHeelSide02.L",
+          "footIKHelper.L",
+          "Toe.L",
+          "B-spineProxy",
+          "HandProp.R",
+          "IKHand.R",
+          "IKHand.L",
+          "HandProp.L"
+        ],
+        "action": "Bind_Rest_T_Pose"
+      },
+      {
+        "name": "HumanM_BodyMesh",
+        "type": "MESH",
+        "dim": [
+          1.822675108909607,
+          1.8179057836532593,
+          0.36140990257263184
+        ],
+        "verts": 2739,
+        "bones": null,
+        "action": null
+      },
+      {
+        "name": "Human_BycocketHat",
+        "type": "MESH",
+        "dim": [
+          0.24624782800674438,
+          0.6232035160064697,
+          0.21926039457321167
+        ],
+        "verts": 242,
+        "bones": null,
+        "action": null
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bind_Rest_T_Pose",
+        "frames": [
+          1.0,
+          11.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "Human@HandsClosed01",
+        "frames": [
+          1.0,
+          11.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "Human@ObjectGripHands01",
+        "frames": [
+          1.0,
+          11.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@BowIdle01",
+        "frames": [
+          -18.0,
+          68.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@BowIdle02",
+        "frames": [
+          -18.0,
+          51.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@BowShot01 - Hold",
+        "frames": [
+          1.0,
+          41.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@BowShot01 - Load",
+        "frames": [
+          -10.0,
+          26.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@BowShot01 - Release",
+        "frames": [
+          1.0,
+          25.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle01",
+        "frames": [
+          -26.0,
+          123.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle01-Idle02",
+        "frames": [
+          0.0,
+          21.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle01-Idle03",
+        "frames": [
+          1.0,
+          81.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle01-Idle04",
+        "frames": [
+          1.0,
+          101.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle02",
+        "frames": [
+          -22.0,
+          123.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle02-Idle01",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle03",
+        "frames": [
+          -15.0,
+          116.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle03-Idle01",
+        "frames": [
+          1.0,
+          81.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle04",
+        "frames": [
+          -14.0,
+          149.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Idle04-Idle01",
+        "frames": [
+          1.0,
+          101.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Backward",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Backward [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_BackwardLeft",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_BackwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_BackwardRight",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_BackwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Forward",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Forward [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_ForwardLeft",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_ForwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_ForwardRight",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_ForwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Left",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Left [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Right",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Run01_Right [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@SheatheBack01_L",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@SheatheBack01_R",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@SheatheBack02_L",
+        "frames": [
+          1.0,
+          34.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@SheatheBack02_R",
+        "frames": [
+          1.0,
+          34.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_BackwardLeft",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_BackwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_BackwardRight",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_BackwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_ForwardLeft",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_ForwardLeft [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_ForwardRight",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_ForwardRight [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_Left",
+        "frames": [
+          -8.0,
+          24.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_Left [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_Right",
+        "frames": [
+          -8.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@StrafeRun01_Right [RM]",
+        "frames": [
+          -8.0,
+          31.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@UnsheatheBack01_L",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@UnsheatheBack01_R",
+        "frames": [
+          1.0,
+          23.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@UnsheatheBack02_L",
+        "frames": [
+          1.0,
+          20.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@UnsheatheBack02_R",
+        "frames": [
+          1.0,
+          20.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Backward",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Backward [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_BackwardLeft",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_BackwardLeft [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_BackwardRight",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_BackwardRight [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Forward",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Forward [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_ForwardLeft",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_ForwardLeft [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_ForwardRight",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_ForwardRight [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Left",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Left [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Right",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      },
+      {
+        "name": "HumanM@Walk01_Right [RM]",
+        "frames": [
+          -11.0,
+          32.0
+        ],
+        "slots": [
+          "OBLegacy Slot"
+        ]
+      }
+    ],
+    "images": []
+  }
+}

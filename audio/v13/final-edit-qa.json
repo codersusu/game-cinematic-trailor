@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "edit": "Remove forest source frames 1\u20139 at 12 fps; final picture begins at frame 10.",
+  "source_duration_seconds": 33.5,
+  "trim_start_seconds": 0.75,
+  "trim_start_samples": 36000,
+  "fade_in_seconds": 0.12,
+  "fade_in_samples": 5760,
+  "fade_curve": "sin squared, zero to unity",
+  "duration_seconds": 32.75,
+  "sample_frames": 1572000,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "encoding": "24-bit PCM WAV",
+  "master_file": "audio/v13/forest_to_astra_music_final.wav",
+  "master_sha256": "723c45d6a074d4ac704f70c7f345104ed181507af114aa96d7dd5f5bb35800a5",
+  "mp3_file": "audio/v13/forest_to_astra_music_final.mp3",
+  "mp3_sha256": "3511b253b6ccd3d9beda846edaf75733a4183655578fc03985f1874e176c7b9b",
+  "source_hashes": {
+    "forest_to_astra_music.wav": "3f6d515c1147259351a5ef501c6ac0ab32d75b643d4704a28a8c60ea56fb64b3",
+    "forest_to_astra_music.mp3": "975015625536f64b11f85caad81c7e8b06f24a234188c9ad0668d54787ce8459"
+  },
+  "source_preservation": {
+    "forest_to_astra_music.wav": true,
+    "forest_to_astra_music.mp3": true
+  },
+  "integrated_loudness_lufs": -17.99,
+  "true_peak_dbtp": -3.4,
+  "loudness_range_lu": 9.2,
+  "sample_peak_dbfs": -3.401092132599794,
+  "clipped_sample_count": 0,
+  "mp3_measurements": {
+    "input_i": -17.99,
+    "input_tp": -3.39,
+    "input_lra": 9.2
+  },
+  "checks": {
+    "original_wav_and_mp3_unchanged": true,
+    "exact_1572000_stereo_frames": true,
+    "sample_rate_48000": true,
+    "pcm_24": true,
+    "finite": true,
+    "no_clipped_samples": true,
+    "true_peak_below_minus_2": true,
+    "integrated_loudness_minus_19_to_minus_16": true,
+    "first_sample_zero": true,
+    "tail_after_fade_exact_original_samples": true,
+    "final_fade_preserved": true,
+    "mp3_decodes_to_exact_duration": true,
+    "mp3_no_clipping": true
+  },
+  "final_cues_seconds": {
+    "forest": [
+      0,
+      10.25
+    ],
+    "doorway": 10.25,
+    "vigilance": [
+      10.25,
+      14.25
+    ],
+    "curiosity": [
+      14.25,
+      16.75
+    ],
+    "astra_atmosphere": 16.75,
+    "expressive_reveal": 21.95,
+    "fingertip": 28.55,
+    "resolve": [
+      30.25,
+      32.75
+    ]
+  },
+  "composition_regenerated": false,
+  "gain_renormalization": false,
+  "stems_and_score_events": "Preserved at original 33.5-second timeline.",
+  "perceptual_listening_performed": false
+}

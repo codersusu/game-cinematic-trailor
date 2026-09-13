@@ -1,0 +1,17 @@
+{
+  "status": "Both camera studies complete for user review",
+  "scene_sha256": "efbf48cc04cf56536b6c6e61f6ab12f47dcaede45b4e3056220afffba8e186a8",
+  "frames_each": 144,
+  "fps": 12,
+  "seconds_each": 12,
+  "heavy_render": false,
+  "source_heroine_stand_in": true,
+  "final_heroine_retargeted": false,
+  "previous_versions_preserved": true,
+  "movies": {
+    "third": "previews/v9/third/Bear-Escape-third-person.mp4",
+    "first": "previews/v9/first/Bear-Escape-first-person.mp4"
+  },
+  "validation": "Full movie decode, representative final frame visual review, all144frame body/bear/bow/floor/doorway audit",
+  "full_realtime_playback": false
+}

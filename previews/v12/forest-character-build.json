@@ -1,0 +1,33 @@
+{
+  "scene": "bear-bow-forest-v12.blend",
+  "sha256": "e070afb606fa90c27e605be0ff1ad502b2f07e12e6a717a0855e146a2afecd0f",
+  "source_sha256": "2f438e256ab943120b68d1f9ff219d714c781396679bf6ddf30b4f117499b461",
+  "protected_action_hash_before": "d4814110c7af7a87945157d7225d6a32f9dce402d1d1d0a9662d2cc8e48f6d8c",
+  "protected_action_hash_after": "d4814110c7af7a87945157d7225d6a32f9dce402d1d1d0a9662d2cc8e48f6d8c",
+  "heroine": "V12 | FemaleAdult04 full body",
+  "first_person_arms": "V12 | FemaleAdult04 first-person arms",
+  "first_person_tag": "first",
+  "third_person_tag": "third",
+  "no_gpu_render": true,
+  "max_grip_error_m": 1.5396990297684495e-06,
+  "max_shoulder_reach_m": 0.06372367646868826,
+  "max_floor_profile_error_m": 0.012428372246409247,
+  "pre_eyeheight_scene_sha256": "d0cfea90130052c7b3c992f6659a41309a2a6f71e5916ec064c2b91e50219ea2",
+  "first_camera_eyeheight_adjustment": {
+    "shoot_run_offset_m": -0.17,
+    "ease_out_frames": [
+      44,
+      51
+    ],
+    "roll_unchanged_frames": [
+      51,
+      68
+    ],
+    "ease_in_frames": [
+      68,
+      77
+    ],
+    "rotation_xy_other_cameras_unchanged": true
+  },
+  "camera_only_followup_integrity_hash": "ca06801071cc80fad8a86a4d1072c541e3bf6296b51a4f630cb1f73c880d1f1b"
+}

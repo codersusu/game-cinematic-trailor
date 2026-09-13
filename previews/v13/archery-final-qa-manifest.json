@@ -1,0 +1,43 @@
+{
+  "scene": "bear-bow-forest-v13.blend",
+  "final_scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a",
+  "status": "FP20 and FP32 visually accepted by parent; frozen for production rendering. Final audits did not modify scene.",
+  "final_evidence": {
+    "archery-clearance.json": {
+      "sha256": "bc5bded8e402f21dda07a9507c2ea66cf167e99ebe02ad2c0ad3a1791e906e14",
+      "scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a"
+    },
+    "archery-arm-staging.json": {
+      "sha256": "f163628aa8124b58074c51891bd53f08a53a85abb07fb6f9734a5bbc7b5ce7dc",
+      "scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a"
+    },
+    "archery-final-provenance.json": {
+      "sha256": "be9f6faba62384611a57028f40f4a82c94e727ac31b274d19758c4d8a1bef4e9",
+      "scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a"
+    },
+    "archery-pursuit-full-body-audit.json": {
+      "sha256": "7b2c226127cdba8d37736744aa941fd91734197f9b5a6a8c390cbd02f8b1e165",
+      "scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a"
+    }
+  },
+  "summary": {
+    "dense_arrow_skin_samples": 217,
+    "dense_intersections": 0,
+    "pursuit_full_body_frames": 110,
+    "pursuit_intersections": 0,
+    "release_direction_change_degrees": 0.05233915597547922,
+    "max_rest_axis_miss_m": 5.331201499700045e-07,
+    "max_evaluated_grip_position_error_m": 2.1457672119140625e-06,
+    "max_evaluated_upper_length_error_m": 2.8793554740946803e-05,
+    "max_evaluated_forearm_length_error_m": 2.8764015318899494e-05,
+    "arrow_matrices_exactly_unchanged_all144": true,
+    "actor_root_exactly_unchanged": true,
+    "protected_camera_arrow_bear_actions_exactly_unchanged": true,
+    "post40_hero_pose_max_world_matrix_component_difference": 5.7220458984375e-06
+  },
+  "preceding_stage_evidence": {
+    "7ab3f13a": "before-arm-staging/ plus archery-aim-correction.json; belongs to prior aiming pose, not final staging. Prior pursuit test was rerun on final SHA.",
+    "85f35c6e": "first-archery-pass/; initial shelf correction, superseded by aim correction."
+  },
+  "coverage_note": "Triangle-surface collision tests at the production integer frames and explicitly listed subframes. Final full-body pursuit test covers35..144 including changed35..40; no dependence on assumed reuse of preceding-stage collision results."
+}

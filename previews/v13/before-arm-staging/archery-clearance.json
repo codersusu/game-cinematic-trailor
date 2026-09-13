@@ -1,0 +1,1833 @@
+{
+  "scene_sha256": "7ab3f13a441a8f644528cfdf07046f3ccae6583548af21da5458a293ebacaf84",
+  "sampling": "217 quarter/sixteenth-frame samples with evaluated actual FP skin, plus11 full-body verification poses; actual complete arrow triangle collision and conservative sampled radial shaft/fletching envelope",
+  "samples": [
+    {
+      "frame": 1.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022299236851930616,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008397596190869808,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022270350950956343,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008389519761502743,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022349008592963217,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008379766020178795,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 1.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022506888258457182,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008371561999619007,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0227174398034811,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008362919326126575,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022935391637682913,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0083620122179389,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.02296988782584667,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008360281820595264,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 2.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022874395596981047,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008359556320309639,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022689984413981436,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00835939706414938,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.02267803554534912,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008366060677170753,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022601588863134382,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008374005790054798,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 3.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022460618290305136,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008382650326192379,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.02225715969800949,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008389046649634838,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.02206240338385105,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008406042355298996,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.02186183002889156,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008420911851525307,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 4.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.021650308045744894,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008438089165091514,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.021475435468554495,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008455836448073387,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.021015492501854895,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008475642885267734,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.020649203333258627,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0084989157050848,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 5.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.020468791249394415,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008520521457493305,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.020408789861202238,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008542625467479229,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019800550538301466,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008565337631106376,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019390668022632597,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008588166210055351,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 6.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019189528423547743,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00860562012642622,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.019220381277799604,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008621061454713344,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.01865480211675167,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00864335545450449,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018335343572497366,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00866913539469242,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 7.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018239529106020926,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008693247336149216,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.018348328071832655,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008717031452059746,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.014653788182139397,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008965065005421638,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.012133448618650436,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009388205829262733,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.013588913950324058,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009298921796679497,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022207948613166807,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009209872457385063,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04707290907502174,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008983143839240074,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.12256586854457856,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00820783642232418,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 9.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.15549452905654906,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.005436568203568458,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 10.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.042971241521835325,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00691149500310421,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 10.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04851431329846382,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00642357696890831,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 10.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04880613763928413,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.005982553820312023,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 10.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.046061924892663954,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.005651787157356739,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 11.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.042470633286237715,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.004524337741732597,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 11.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04214483057260513,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0036710329905152318,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 11.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04252979089617729,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.002519492673873901,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 11.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04299603705406189,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.001147160920500755,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 12.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04310987074971199,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00847813789844513,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 12.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04353285511136055,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008610093268752098,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 12.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04368523811101913,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008289678636193273,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 12.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.043657473522424696,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008071384075284002,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 13.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04351923545002937,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008001801240444181,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 13.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.043707541424036024,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008279266069829464,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 13.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04383931239247322,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008330161917209625,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 13.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04389464785456657,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008329556006193159,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 14.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04379896004796028,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008002505871653557,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 14.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04402758111357689,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006853816333413124,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 14.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04411999439001083,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006670580479502678,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 14.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04410195653438568,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006480099867284298,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 15.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04400715162158012,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006538251648843288,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 15.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044196161675453184,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009995376925170421,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 15.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044292534935474394,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.01001818408370018,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 15.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04427561094164848,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.010119089159369469,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 16.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04409855906963348,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009884085740149021,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 16.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04406034504175186,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00967521057575941,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 16.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04404847254157066,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008959428641200065,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 16.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04407497798204422,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00891916384100914,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 17.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04417518084049225,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00893948529958725,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 17.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04434224520921707,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008896364133059978,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 17.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044399733889102934,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008929291042685509,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 17.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044352407801151274,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008863303112983703,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 18.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04425440286397934,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008176892298460007,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 18.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04414249514341354,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008126570145785808,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 18.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044069460827112196,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008087950061261654,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 18.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04410895262956619,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008108237992227077,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 19.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04432262037992477,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.007106240141391754,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 19.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04436268215179443,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.007170512574911117,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 19.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04456875776052475,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.007015686716139316,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 19.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04465231602191925,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006979838247597217,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 20.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04437200655341148,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006716409932076931,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 20.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04452272807359695,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006717219251394272,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 20.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04446038906574249,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006720762002468109,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 20.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044354024577140806,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006722377847135067,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 21.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04436241393089294,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006725237938761711,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 21.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04413621057868004,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726785796880722,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 21.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04412098904252052,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067262465611100195,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 21.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0442239709675312,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726534339785576,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 22.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04436699231266975,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006725729677081108,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 22.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04434771393537521,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006725626300275326,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 22.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04431712185144424,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067277944192290304,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 22.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04431361635327339,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726031425595283,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 23.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04436704446673393,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726748543977737,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 23.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04433537204861641,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006729608635604381,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 23.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044329374331235884,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067300808161497114,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 23.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04434541915655136,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067307467117905615,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 24.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04437431250810623,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006729874993860721,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 24.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044334310340881346,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006731472212076187,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 24.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04432652075886726,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006730152527987957,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 24.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04434256558418274,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006732579554617405,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 25.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044381323504447935,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006730554859340191,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 25.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04436691780686378,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006730362075567245,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 25.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044364365983009336,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006732385839521885,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 25.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044372386533021925,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006731342758238315,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 26.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044391497272253035,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006732745330035686,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 26.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04438731749653816,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006732012379169464,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 26.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0443889119207859,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006732132519781589,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 26.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044389630901813505,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006732976298034191,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 27.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0443959452688694,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006731765578687191,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 27.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04439537529945373,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006733088056743145,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 27.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04439668660163879,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00673093204498291,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 27.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04439902235865593,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006731062430143356,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 28.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0444005385518074,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006729566726088524,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 28.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044424723136425016,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.00672864378541708,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 28.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044435142773389814,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006731003756821155,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 28.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04442546446919441,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006729084300994873,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 29.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04439827357530594,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006728768582642078,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 29.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04441044037342071,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006728950190544128,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 29.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0444080524623394,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006728609326481819,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 29.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04440475558042526,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067267746210098265,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044405858266353605,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726298715174198,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.0625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04442876135110855,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726643304526806,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04445113544464111,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726838882267475,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.1875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0444744222342968,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006727393950521946,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04449788783788681,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006727819564938545,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.3125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044514774578809736,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726333174109459,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0445315719127655,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067263266548514365,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.4375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044548250037431715,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006724847714602947,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044566079276800154,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006725140149891376,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.5625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04456211556792259,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006724873791635036,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04455828969478607,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006724962267279625,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.6875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044554545778036116,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067263266548514365,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04455136065483093,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067263629764318465,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.8125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04451166768670082,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726023043692112,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04447302897572517,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006727135042846203,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 30.9375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0444337308883667,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006725123386085033,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044395811158418653,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726339693367481,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.0625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04454574664235115,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006712892326712608,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044697615551948545,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006707188907265663,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.1875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04485048656463623,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006710923510789871,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.045004896122217176,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006721113111078739,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.3125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04484171723127365,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006707933965325355,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04467962985038757,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006705822657048702,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.4375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04451681603789329,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006708586822450161,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044350031065940855,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006720696809887886,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.5625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044187705266475676,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006709720242023468,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04402593453526497,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006705400767922401,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.6875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04386547138094902,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006708730246126652,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04370626737475395,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006721424172818661,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.8125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0438689060986042,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067104671627283095,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04403326590657234,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006705507870018482,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.9375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044198069024086,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067117775335907934,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04436399345397949,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067225529357790945,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.0625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0442380190372467,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.023383555236458776,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044108073461055754,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.05718237836956978,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.1875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044048848795890806,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.09302244638204575,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0439742722094059,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.13276396994590758,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.3125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04396062274575233,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.17387166922092437,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0439357489824295,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.2155636579275131,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.4375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04395253514051437,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.25760551099777224,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0439689413189888,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.29989387397766115,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.5625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.043083757776021955,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.3423523784160614,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04296814711689949,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.3849322379112244,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.6875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04298333140015602,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.42759757046699526,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04298957498669624,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.4703247130393982,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.8125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04300984801650047,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.51309128408432,
+      "nock_to_string_m": 0.045665700337432766
+    },
+    {
+      "frame": 32.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04422368412017822,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.5558799684524536,
+      "nock_to_string_m": 0.09133163042974951
+    },
+    {
+      "frame": 32.9375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0366974888920784,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.59867717628479,
+      "nock_to_string_m": 0.11329567192873158
+    },
+    {
+      "frame": 33.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0362743555188179,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.6414691389083862,
+      "nock_to_string_m": 0.14167606617623782
+    },
+    {
+      "frame": 33.0625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.03632213981747627,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.6786902130126953,
+      "nock_to_string_m": 0.1733658261747602
+    },
+    {
+      "frame": 33.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.03637887226343155,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.7157865942001342,
+      "nock_to_string_m": 0.20685348517214286
+    },
+    {
+      "frame": 33.1875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.03640381308197975,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.7525180161476135,
+      "nock_to_string_m": 0.24148612019028648
+    },
+    {
+      "frame": 33.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044459819096326826,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.7894367754936218,
+      "nock_to_string_m": 0.2767836322064831
+    },
+    {
+      "frame": 33.3125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.05630913307070732,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.8265152752876281,
+      "nock_to_string_m": 0.31260544179772803
+    },
+    {
+      "frame": 33.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.07275152509212494,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.8637820661544799,
+      "nock_to_string_m": 0.3487325599917197
+    },
+    {
+      "frame": 33.4375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.09776550089120865,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.9012513936042785,
+      "nock_to_string_m": 0.38515233477064864
+    },
+    {
+      "frame": 33.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.12846099143028258,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.9389168203353881,
+      "nock_to_string_m": 0.42173488489936645
+    },
+    {
+      "frame": 33.5625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.16150960628986358,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.9767758429527282,
+      "nock_to_string_m": 0.4584976618922019
+    },
+    {
+      "frame": 33.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.19605154101848601,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.0148189247131347,
+      "nock_to_string_m": 0.495358004902353
+    },
+    {
+      "frame": 33.6875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.2314204752922058,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.0530381381988525,
+      "nock_to_string_m": 0.5323344845929621
+    },
+    {
+      "frame": 33.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.2673005640983582,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.0914225757598877,
+      "nock_to_string_m": 0.5693748961152402
+    },
+    {
+      "frame": 33.8125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.3035061538696289,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.129959839630127,
+      "nock_to_string_m": 0.606485938310893
+    },
+    {
+      "frame": 33.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.33988832240104677,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.1686355054855346,
+      "nock_to_string_m": 0.6436364942288887
+    },
+    {
+      "frame": 33.9375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.3764250457763672,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.207439678955078,
+      "nock_to_string_m": 0.6808300390134273
+    },
+    {
+      "frame": 34.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.4130934060096741,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.2463591278076172,
+      "nock_to_string_m": 0.7180522580605552
+    },
+    {
+      "frame": 34.0625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.4497568190574646,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.2834595621109008,
+      "nock_to_string_m": 0.755291447687129
+    },
+    {
+      "frame": 34.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.4864469647884369,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.3206401050567627,
+      "nock_to_string_m": 0.7925472040476854
+    },
+    {
+      "frame": 34.1875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.5232291996955871,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.3579056442260742,
+      "nock_to_string_m": 0.8298163556055151
+    },
+    {
+      "frame": 34.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.5600887716293335,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.3952548683166504,
+      "nock_to_string_m": 0.8671003651473685
+    },
+    {
+      "frame": 34.3125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.5970071137428283,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.4326850355148315,
+      "nock_to_string_m": 0.9043928807686233
+    },
+    {
+      "frame": 34.375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.6339664042472839,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.4701935232162475,
+      "nock_to_string_m": 0.9416984643995442
+    },
+    {
+      "frame": 34.4375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.6709666431427002,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.5077829540252685,
+      "nock_to_string_m": 0.9790073040581598
+    },
+    {
+      "frame": 34.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.7080032408714294,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.5454433143615722,
+      "nock_to_string_m": 1.0163228123706218
+    },
+    {
+      "frame": 34.5625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.7450680912017822,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.5831774652481079,
+      "nock_to_string_m": 1.053641304027048
+    },
+    {
+      "frame": 34.625,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.7821626842498779,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.6209848106384277,
+      "nock_to_string_m": 1.0909684311118617
+    },
+    {
+      "frame": 34.6875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.8192790925979614,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.6588571250915527,
+      "nock_to_string_m": 1.1283027100483831
+    },
+    {
+      "frame": 34.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.8564184487342834,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.6967938125610351,
+      "nock_to_string_m": 1.1656424427513121
+    },
+    {
+      "frame": 34.8125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.8935662091255188,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.7347907007217407,
+      "nock_to_string_m": 1.2029864964265147
+    },
+    {
+      "frame": 34.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.9307302415847778,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.7728395641326904,
+      "nock_to_string_m": 1.240333118858541
+    },
+    {
+      "frame": 34.9375,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.9679103076934814,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.8109404027938842,
+      "nock_to_string_m": 1.2776853613222445
+    },
+    {
+      "frame": 35.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.0051051557540893,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.8484182537078857,
+      "nock_to_string_m": 1.3150432516154102
+    },
+    {
+      "frame": 35.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.0131789625167846,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.8465790927886963,
+      "nock_to_string_m": 1.3197584131847337
+    },
+    {
+      "frame": 35.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.0235440910339355,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.846250909614563,
+      "nock_to_string_m": 1.3264685560184464
+    },
+    {
+      "frame": 35.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.0357494533538818,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.8474500358581543,
+      "nock_to_string_m": 1.335042432831342
+    },
+    {
+      "frame": 36.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.049351471710205,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.8501975715637207,
+      "nock_to_string_m": 1.3453437071901218
+    },
+    {
+      "frame": 36.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.1275124729156494,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.9063157022476196,
+      "nock_to_string_m": 1.4160417953900981
+    },
+    {
+      "frame": 36.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.21716763381958,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.9718244255065918,
+      "nock_to_string_m": 1.4966047144472985
+    },
+    {
+      "frame": 36.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.3157584846496582,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 2.045285481262207,
+      "nock_to_string_m": 1.5851937799889781
+    },
+    {
+      "frame": 37.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.4212708652496338,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 2.123039501953125,
+      "nock_to_string_m": 1.68028380931636
+    },
+    {
+      "frame": 37.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.603469508934021,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 2.276012438583374,
+      "nock_to_string_m": 1.8561278748556478
+    },
+    {
+      "frame": 37.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.7964827001571655,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 2.4411456764221193,
+      "nock_to_string_m": 2.0422672139424236
+    },
+    {
+      "frame": 37.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.9975989044189453,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 2.6162135780334475,
+      "nock_to_string_m": 2.2363855746023855
+    },
+    {
+      "frame": 38.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 2.201068077850342,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 2.799402493286133,
+      "nock_to_string_m": 2.436840530586124
+    },
+    {
+      "frame": 38.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 2.323993120956421,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 2.917120474624634,
+      "nock_to_string_m": 2.5614111028916287
+    },
+    {
+      "frame": 38.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 2.448459540176392,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.033955727386475,
+      "nock_to_string_m": 2.687532646513195
+    },
+    {
+      "frame": 38.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 2.565877114105225,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.1516775234222414,
+      "nock_to_string_m": 2.815317776904018
+    },
+    {
+      "frame": 39.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 2.6712248504638674,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.2705980880737306,
+      "nock_to_string_m": 2.945012752751457
+    },
+    {
+      "frame": 39.25,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 2.7503049552917482,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.2872573478698732,
+      "nock_to_string_m": 3.05683530729859
+    },
+    {
+      "frame": 39.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 2.8914091766357424,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.323018330383301,
+      "nock_to_string_m": 3.2136659376618852
+    },
+    {
+      "frame": 39.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 3.086179035949707,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.341237086105347,
+      "nock_to_string_m": 3.375303607989355
+    },
+    {
+      "frame": 40.0,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 3.276150721359253,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.344300764846802,
+      "nock_to_string_m": 3.496531590157966
+    }
+  ],
+  "full_body_samples": [
+    {
+      "frame": 1,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.022299236851930616,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.008397596190869808,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 8.5,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.012133448618650436,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.009388205829262733,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 11.75,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04299603705406189,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.001147160920500755,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 20,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04437200655341148,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006716409932076931,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044395811158418653,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006726339693367481,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 31.875,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04403326590657234,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.006705507870018482,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.04436399345397949,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.0067225529357790945,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 32.125,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.044108073461055754,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.05718237836956978,
+      "nock_to_string_m": 0.0
+    },
+    {
+      "frame": 33,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 0.0362743555188179,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 0.6414691389083862,
+      "nock_to_string_m": 0.14167606617623782
+    },
+    {
+      "frame": 35,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 1.0051051557540893,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 1.8484182537078857,
+      "nock_to_string_m": 1.3150432516154102
+    },
+    {
+      "frame": 40,
+      "L_triangle_intersections": 0,
+      "L_shaft_clearance": 3.276150721359253,
+      "R_triangle_intersections": 0,
+      "R_shaft_clearance": 3.344300764846802,
+      "nock_to_string_m": 3.496531590157966
+    }
+  ],
+  "intersection_samples": []
+}

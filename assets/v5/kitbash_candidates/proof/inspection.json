@@ -1,0 +1,110 @@
+[
+  {
+    "source": "industrial",
+    "name": "control_terminal_mat",
+    "vertices": 103,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      1.0973196029663086,
+      1.1906094551086426,
+      2.299999952316284
+    ],
+    "material_count": 4
+  },
+  {
+    "source": "industrial",
+    "name": "pipe_05",
+    "vertices": 696,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      2.197206497192383,
+      2.3000001907348633,
+      0.39280372858047485
+    ],
+    "material_count": 2
+  },
+  {
+    "source": "industrial",
+    "name": "tank_control_panel_mat",
+    "vertices": 198,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      1.8218727111816406,
+      0.7341073751449585,
+      2.299999952316284
+    ],
+    "material_count": 7
+  },
+  {
+    "source": "industrial",
+    "name": "tank_2_mat",
+    "vertices": 876,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      1.0052425861358643,
+      0.7355839610099792,
+      2.299999952316284
+    ],
+    "material_count": 6
+  },
+  {
+    "source": "industrial",
+    "name": "vent_mat",
+    "vertices": 100,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      2.3000032901763916,
+      0.929603099822998,
+      1.8907949924468994
+    ],
+    "material_count": 4
+  },
+  {
+    "source": "industrial",
+    "name": "wall_thing_mat",
+    "vertices": 50,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      0.24203813076019287,
+      0.20017047226428986,
+      2.299999952316284
+    ],
+    "material_count": 3
+  },
+  {
+    "source": "irondust",
+    "name": "Door1",
+    "vertices": 8,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      1.1500005722045898,
+      0.28750014305114746,
+      2.299999952316284
+    ],
+    "material_count": 1
+  },
+  {
+    "source": "irondust",
+    "name": "Wall1",
+    "vertices": 8,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      2.3000001907348633,
+      0.5750000476837158,
+      2.2999989986419678
+    ],
+    "material_count": 1
+  },
+  {
+    "source": "irondust",
+    "name": "Locker1",
+    "vertices": 8,
+    "uv_layers": 1,
+    "dimensions_normalized": [
+      0.5750002861022949,
+      0.5750002861022949,
+      2.299999952316284
+    ],
+    "material_count": 1
+  }
+]

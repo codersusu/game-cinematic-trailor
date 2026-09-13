@@ -1,0 +1,41 @@
+{
+  "request": "Three lightweight paired combat encounters for user selection",
+  "heavy_rendering": "on hold until assets and choreography settled",
+  "delivery_target": {
+    "seconds_each": 8,
+    "fps": 12,
+    "render_size": [
+      768,
+      432
+    ],
+    "source_stand_ins": true,
+    "final_heroine_retargeted": false
+  },
+  "options": {
+    "a": {
+      "pair": "bow / forest guardian",
+      "state": "corrected eight-second draft complete; picture and decode checks passed",
+      "movie": "previews/v8/options/a/Option-A-draft.mp4",
+      "scene_sha256": "5580f65b7779d13ff39127cead781c4763b09cc952b9de29c2c5ad411a0f655f"
+    },
+    "b": {
+      "pair": "sword / forest guardian",
+      "state": "eight-second draft video complete; representative frames reviewed",
+      "movie": "previews/v8/options/b/Option-B-draft.mp4",
+      "scene_sha256": "a2dd54eadfffb451ef1ab3f6800396342a785ea2ffad78d5926a9e95d09f834a"
+    },
+    "c": {
+      "pair": "bow / realistic bear",
+      "state": "corrected eight-second draft complete; picture, full decode and96frame collision checks passed",
+      "asset_page": "https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1",
+      "source_zip": "realistic-animated-bear-3d-model.zip",
+      "movie": "previews/v8/options/c/Option-C-draft.mp4",
+      "scene_sha256": "ef2b9a48eca59f2a78bd1cec8e13c3e264a1371453a66d8095f4a8e10de3e844"
+    }
+  },
+  "previous_film": "The Last Observatory - Astra Approach.mp4",
+  "previous_versions_preserved": true,
+  "active_render_jobs": 0,
+  "selection": "User selected C \u2014 bow versus realistic bear",
+  "follow_up": "V9 third-person and first-person twelve-second shoot/roll/escape drafts complete"
+}

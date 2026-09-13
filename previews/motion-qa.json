@@ -1,0 +1,39 @@
+{
+  "frames_checked": 33,
+  "background_patch_mean_min_max": [
+    0.15789288307915758,
+    0.2362955700798838
+  ],
+  "consecutive_full_frame_mean_absolute_difference_min_max": [
+    0.00513700022189946,
+    0.00580285745985637
+  ],
+  "notes": "Numerical continuity check; includes intentional camera and face movement.",
+  "encoded_frames": 48,
+  "encoded_metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 2.0
+  },
+  "visual_review": "Blink contact sheet inspected; no visible rig break or discontinuity. Eyes close and reopen correctly.",
+  "eye_material_revision": {
+    "proof_frames": [
+      145,
+      191,
+      195
+    ],
+    "result": "Full-resolution open-eye and lower-resolution closed/reopened-eye proofs inspected and passed. Final motion clip will be regenerated from corrected native movie frames180\u2013227."
+  },
+  "current_version": "Corrected eye materials, native1080p final frames180\u2013227"
+}

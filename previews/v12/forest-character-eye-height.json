@@ -1,0 +1,26 @@
+{
+  "scene": "bear-bow-forest-v12.blend",
+  "previous_scene_sha256": "d0cfea90130052c7b3c992f6659a41309a2a6f71e5916ec064c2b91e50219ea2",
+  "scene_sha256": "e070afb606fa90c27e605be0ff1ad502b2f07e12e6a717a0855e146a2afecd0f",
+  "details": {
+    "shoot_run_offset_m": -0.17,
+    "ease_out_frames": [
+      44,
+      51
+    ],
+    "roll_unchanged_frames": [
+      51,
+      68
+    ],
+    "ease_in_frames": [
+      68,
+      77
+    ],
+    "rotation_xy_other_cameras_unchanged": true
+  },
+  "all_other_object_action_hash_before": "ca06801071cc80fad8a86a4d1072c541e3bf6296b51a4f630cb1f73c880d1f1b",
+  "all_other_object_action_hash_after": "ca06801071cc80fad8a86a4d1072c541e3bf6296b51a4f630cb1f73c880d1f1b",
+  "body_bear_props_meshes_materials_changed": false,
+  "prior_stills_archived": "previews/v12/before-eye-height",
+  "gpu_render": false
+}

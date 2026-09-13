@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-09-12T15:15:57.381245+00:00",
+  "commit": "c48f626011a4c0246b954ae2a848db1b6f91380d",
+  "artifact": "previews/v7/Astra-Approach-motion-proof.mp4",
+  "url": "https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v7/Astra-Approach-motion-proof.mp4",
+  "http_status": 200,
+  "sha256": "793399a0babd8e879db17ccc01d182a2da6d03acb654d776ad9cea244200e6a5",
+  "matches_local": true,
+  "final_film_status": "rendering"
+}

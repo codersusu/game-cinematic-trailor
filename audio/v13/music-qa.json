@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "title": "Beyond the Threshold",
+  "file": "audio/v13/forest_to_astra_music.wav",
+  "master_sha256": "3f6d515c1147259351a5ef501c6ac0ab32d75b643d4704a28a8c60ea56fb64b3",
+  "preview_mp3": "audio/v13/forest_to_astra_music.mp3",
+  "preview_sha256": "975015625536f64b11f85caad81c7e8b06f24a234188c9ad0668d54787ce8459",
+  "duration_seconds": 33.5,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "encoding": "24-bit PCM WAV",
+  "integrated_loudness_lufs": -18.0,
+  "true_peak_dbtp": -3.4,
+  "loudness_range_lu": 9.7,
+  "sample_peak_dbfs": -3.401092132599794,
+  "clipped_sample_count": 0,
+  "original_note_event_count": 165,
+  "instrument_recording_count": 24,
+  "transparent_master_gain_db": 9.920000000000002,
+  "checks": {
+    "exact_33_5_seconds": true,
+    "sample_rate_48000": true,
+    "stereo": true,
+    "finite": true,
+    "no_clipped_samples": true,
+    "true_peak_below_minus_2_5": true,
+    "loudness_between_minus_20_and_minus_17": true,
+    "ends_near_silence": true
+  },
+  "cue_levels": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 11,
+      "cue": "forest tension",
+      "rms_dbfs": -20.76
+    },
+    {
+      "start_seconds": 11,
+      "end_seconds": 15,
+      "cue": "doorway vigilance",
+      "rms_dbfs": -26.78
+    },
+    {
+      "start_seconds": 15,
+      "end_seconds": 17.5,
+      "cue": "curiosity builds",
+      "rms_dbfs": -31.44
+    },
+    {
+      "start_seconds": 17.5,
+      "end_seconds": 22.7,
+      "cue": "Astra atmosphere",
+      "rms_dbfs": -19.97
+    },
+    {
+      "start_seconds": 22.7,
+      "end_seconds": 29.3,
+      "cue": "expressive revelation",
+      "rms_dbfs": -19.13
+    },
+    {
+      "start_seconds": 29.3,
+      "end_seconds": 33.5,
+      "cue": "finger and resolve",
+      "rms_dbfs": -20.84
+    }
+  ],
+  "stems": [
+    "low_strings_and_pulse",
+    "orchestral_harmony",
+    "melodic_winds",
+    "harp_and_starlight",
+    "orchestral_percussion",
+    "subtle_synth_support"
+  ],
+  "script": "scripts/music_v13.py",
+  "script_sha256": "70bbedcf0c692140c1bb6405d45b31474bfddb92e2c3f5f16d390954521217c1",
+  "source_manifest": "audio/v13/sources/acquisition.json",
+  "sample_license": "CC0-1.0",
+  "production_apis_used": false,
+  "dialogue_or_vocals": false,
+  "old_footsteps_or_surprise_cues_used": false,
+  "perceptual_listening_performed": false
+}

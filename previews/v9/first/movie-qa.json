@@ -1,0 +1,27 @@
+{
+  "view": "first",
+  "technical_checks": "passed",
+  "frames": 144,
+  "fps": 12,
+  "duration_seconds": 12,
+  "source": {
+    "scene": "bear-bow-escape-v9.blend",
+    "sha256": "efbf48cc04cf56536b6c6e61f6ab12f47dcaede45b4e3056220afffba8e186a8",
+    "view": "first",
+    "frames": 144,
+    "fps": 12,
+    "seconds": 12,
+    "resolution": [
+      768,
+      432
+    ],
+    "engine": "EEVEE",
+    "samples": 8,
+    "heavy_render": false
+  },
+  "sha256": "ebdd479bf3c01ccb9e16815705a4aa433f163c27e36a58b73d398ef1e062575f",
+  "visual_review": "Reviewed final contact sheet20,35,55,64,96,140 and roll59. Bow/hand and bear readable at aim/release; banked dodge has unobstructed eye view; run reaches lit doorway. Uses stabilized head camera and cropped arm geometry.",
+  "full_realtime_playback": false,
+  "heavy_render": false,
+  "collision_audit": "Same144-frame audited scene as third-person version"
+}

@@ -1,0 +1,30 @@
+{
+  "movie": "The Last Observatory.mp4",
+  "decoded_frames": 576,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 24.0,
+    "source_size": [
+      1920,
+      1080
+    ],
+    "size": [
+      1920,
+      1080
+    ],
+    "rotate": 0,
+    "duration": 24.0
+  },
+  "technical_checks": "passed",
+  "visual_review": "Passed: representative decoded frames from all four shots, the corrected character eyes, the illuminated finale, and title/credit overlays inspected.",
+  "audio_checks": {
+    "integrated_lufs": -19.2,
+    "true_peak_dbfs": -1.6,
+    "duration_seconds": 24,
+    "result": "No clipping; full soundtrack decoded."
+  },
+  "movie_sha256": "f7a83b4e20974ace8e443cfe4d439a8b3ef1b505630c411440f6b9dafeed8a23"
+}

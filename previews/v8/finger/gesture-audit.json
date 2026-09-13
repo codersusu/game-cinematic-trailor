@@ -1,0 +1,123 @@
+{
+  "status": "passed",
+  "errors": [],
+  "unchanged_nonfinger_curves": 750,
+  "maximum_finger_curve_difference_through_417": 0,
+  "source_sha256": "f40b3f5d7a6f2d12dc6a08b76598cf0bfe7344cda6052b0259c0e3e817cdd1d4",
+  "study_sha256": "42fbd51d306565c2656de9342796076dc6b97226a985b283b6a589fbcf749a52",
+  "rows": [
+    {
+      "frame": 418,
+      "index_ray_error_degrees": 131.66051595072832,
+      "index_knuckle": [
+        -2.806161403656006,
+        0.9670140147209167,
+        0.880094587802887
+      ],
+      "index_distal_joint": [
+        -2.808539390563965,
+        0.9760562777519226,
+        0.8251460194587708
+      ]
+    },
+    {
+      "frame": 421,
+      "index_ray_error_degrees": 131.6082923243344,
+      "index_knuckle": [
+        -2.8006176948547363,
+        0.9776698350906372,
+        0.8806013464927673
+      ],
+      "index_distal_joint": [
+        -2.8031208515167236,
+        0.9872457385063171,
+        0.8257283568382263
+      ]
+    },
+    {
+      "frame": 438,
+      "index_ray_error_degrees": 91.28574463459805,
+      "index_knuckle": [
+        -2.51078462600708,
+        1.070593237876892,
+        1.0541059970855713
+      ],
+      "index_distal_joint": [
+        -2.4801747798919678,
+        1.095315933227539,
+        1.0145950317382812
+      ]
+    },
+    {
+      "frame": 456,
+      "index_ray_error_degrees": 14.463647860006729,
+      "index_knuckle": [
+        -2.450843095779419,
+        1.0919227600097656,
+        1.6316450834274292
+      ],
+      "index_distal_joint": [
+        -2.415511131286621,
+        1.1198331117630005,
+        1.6644914150238037
+      ]
+    },
+    {
+      "frame": 478,
+      "index_ray_error_degrees": 0.0,
+      "index_knuckle": [
+        -2.5208656787872314,
+        1.0758246183395386,
+        1.735026478767395
+      ],
+      "index_distal_joint": [
+        -2.478654146194458,
+        1.0912997722625732,
+        1.7679296731948853
+      ]
+    },
+    {
+      "frame": 510,
+      "index_ray_error_degrees": 0.0,
+      "index_knuckle": [
+        -2.51676607131958,
+        1.0771430730819702,
+        1.737991452217102
+      ],
+      "index_distal_joint": [
+        -2.4745569229125977,
+        1.092620611190796,
+        1.7708967924118042
+      ]
+    },
+    {
+      "frame": 576,
+      "index_ray_error_degrees": 0.0,
+      "index_knuckle": [
+        -2.516606330871582,
+        1.0778056383132935,
+        1.737724781036377
+      ],
+      "index_distal_joint": [
+        -2.474397897720337,
+        1.0932726860046387,
+        1.7706360816955566
+      ]
+    }
+  ],
+  "visual_review": {
+    "status": "three_workbench_views_inspected",
+    "frame": 478,
+    "views": [
+      "palm",
+      "back",
+      "side"
+    ],
+    "observations": [
+      "Index finger is extended; other three fingers are individually curled with open space toward palm.",
+      "Thumb remains relaxed beside the index.",
+      "Original mesh topology limits knuckle detail in this magnified diagnostic view."
+    ],
+    "production_render_performed": false
+  }
+}

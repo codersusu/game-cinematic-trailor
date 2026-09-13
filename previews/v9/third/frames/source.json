@@ -1,0 +1,15 @@
+{
+  "scene": "bear-bow-escape-v9.blend",
+  "sha256": "efbf48cc04cf56536b6c6e61f6ab12f47dcaede45b4e3056220afffba8e186a8",
+  "view": "third",
+  "frames": 144,
+  "fps": 12,
+  "seconds": 12,
+  "resolution": [
+    768,
+    432
+  ],
+  "engine": "EEVEE",
+  "samples": 8,
+  "heavy_render": false
+}

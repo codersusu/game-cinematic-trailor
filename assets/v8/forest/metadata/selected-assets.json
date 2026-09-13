@@ -1,0 +1,315 @@
+{
+  "fir_tree_01": {
+    "date_published": 1686873600,
+    "name": "Fir Tree 01",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "photography",
+      "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "geonodes": true,
+    "categories": [
+      "nature",
+      "plants",
+      "trees",
+      "collection: pine_forest"
+    ],
+    "tags": [
+      "fir",
+      "tree",
+      "geometry nodes",
+      "woodland",
+      "needles",
+      "branches",
+      "environment",
+      "coniferous",
+      "plants",
+      "forest",
+      "tall",
+      "trunk",
+      "bark",
+      "foliage",
+      "twig"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "sponsors": [
+      "11109006",
+      "4714267"
+    ],
+    "polycount": 7853731,
+    "files_hash": "6b79f3da0de1d192fc78ab54efa5e8956af97749",
+    "texel_density": 595.7552160626647,
+    "dimensions": [
+      26732.96093940735,
+      6541.954040527344,
+      19267.957717180252
+    ],
+    "lods": true,
+    "description": "Free 8K model of three tall fir trees with slender trunks, detailed bark, layered needle foliage and natural twiggy branch structure.",
+    "category_id": "889de586-d203-511a-b417-fac77b27a029",
+    "category": "Nature/Trees/Coniferous Trees",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "lods": true,
+      "geonodes": true,
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "55f25e61",
+    "download_count": 70225,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fir_tree_01.png?width=256&height=256&v=55f25e61"
+  },
+  "fern_02": {
+    "date_published": 1653609600,
+    "name": "Fern 02",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "scanning",
+      "Rico Cilliers": "modeling"
+    },
+    "sponsors": [
+      "78546118",
+      "25436656"
+    ],
+    "categories": [
+      "plants",
+      "nature",
+      "collection: smugglers_cove",
+      "collection: pine_forest"
+    ],
+    "tags": [
+      "plant",
+      "fern",
+      "foliage",
+      "jungle",
+      "shrub",
+      "bush",
+      "leaf",
+      "leaves",
+      "green",
+      "nature",
+      "forest",
+      "outdoor"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 6232,
+    "texel_density": 10144.159682262632,
+    "dimensions": [
+      1972.5302457809448,
+      1724.0281701087952,
+      427.6947118341923
+    ],
+    "files_hash": "36e2a53d7f23f422640ad368c1f27745de2fef82",
+    "description": "Free 8K model of four realistic fern clumps featuring detailed serrated fronds, varied silhouettes and rich dappled green foliage.",
+    "category_id": "b46752a1-8a91-5224-8bda-44c37b96c364",
+    "category": "Nature/Plants/Ferns",
+    "collections": [
+      "pine_forest",
+      "smugglers_cove"
+    ],
+    "attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "plant"
+      ]
+    },
+    "img_version": "334ce7aa",
+    "download_count": 78499,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fern_02.png?width=256&height=256&v=334ce7aa"
+  },
+  "rock_moss_set_01": {
+    "donated": true,
+    "date_published": 1625069057,
+    "name": "Rock Moss Set 01",
+    "type": 2,
+    "authors": {
+      "Kless Gyzen": "All"
+    },
+    "categories": [
+      "rocks",
+      "nature",
+      "collection: pine_forest"
+    ],
+    "tags": [
+      "rocks",
+      "outdoor",
+      "stones",
+      "pebbles",
+      "rock",
+      "dirt"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 63127,
+    "texel_density": 606.028316455845,
+    "dimensions": [
+      8004.603862762451,
+      6948.764801025391,
+      1768.319845199585
+    ],
+    "sponsors": [
+      "82322099"
+    ],
+    "files_hash": "3d61828e10ef81512a639c8064c9a51a75165b5a",
+    "description": "Free 8K set of mossy forest rocks: six weathered stones with varied silhouettes, earthy textures, subtle green moss, dirt and realistic erosion.",
+    "category_id": "75be0f95-5fbf-5ce3-94a8-4b929bf42fb6",
+    "category": "Nature/Rocks & Stone/Stone Sets",
+    "collections": [
+      "pine_forest"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "stone"
+      ]
+    },
+    "img_version": "e99703c4",
+    "download_count": 83563,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rock_moss_set_01.png?width=256&height=256&v=e99703c4"
+  },
+  "dead_tree_trunk": {
+    "date_published": 1685664000,
+    "name": "Dead Tree Trunk",
+    "type": 2,
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "info": null,
+    "tags": [
+      "log",
+      "dead tree",
+      "tree",
+      "trunk",
+      "bark",
+      "natural",
+      "foliage",
+      "nature",
+      "forest",
+      "plant",
+      "dead",
+      "dry",
+      "woodland",
+      "decayed",
+      "rough texture",
+      "forest floor"
+    ],
+    "categories": [
+      "nature",
+      "plants",
+      "ground cover",
+      "collection: pine_forest",
+      "collection: verdant_trail"
+    ],
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 101802,
+    "texel_density": 5227.11070900053,
+    "dimensions": [
+      3051.015019416809,
+      277.52751111984253,
+      290.43155536055565
+    ],
+    "sponsors": [
+      "95481047"
+    ],
+    "files_hash": "1e56e4393417d157e43e26bd8b7b019189d313ed",
+    "description": "Free 8K dead tree trunk model, a long weathered log with cracked, decayed bark, pronounced wood grain, broken ends and subtle mossy-green patches.",
+    "category_id": "a690b075-9aa9-5ad2-a35e-3e247d1fce4b",
+    "category": "Nature/Logs, Branches & Roots/Fallen Logs & Stumps",
+    "collections": [
+      "pine_forest",
+      "verdant_trail"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "ed7326b9",
+    "download_count": 16846,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dead_tree_trunk.png?width=256&height=256&v=ed7326b9"
+  },
+  "root_cluster_01": {
+    "name": "Root Cluster 01",
+    "categories": [
+      "nature",
+      "collection: verdant_trail",
+      "plants",
+      "ground cover"
+    ],
+    "type": 2,
+    "version_required": {
+      "blend": "4.0.1"
+    },
+    "tags": [
+      "root",
+      "tree",
+      "forest",
+      "foliage",
+      "bark",
+      "nature",
+      "plant",
+      "leaves",
+      "environment"
+    ],
+    "info": null,
+    "date_published": 1707177600,
+    "max_resolution": [
+      8192,
+      8192
+    ],
+    "polycount": 225261,
+    "texel_density": 1777.881109151483,
+    "dimensions": [
+      4122.708559036255,
+      2682.776689529419,
+      1509.2801377177238
+    ],
+    "authors": {
+      "Jenelle van Heerden": "Photography",
+      "Rico Cilliers": "photography, processing"
+    },
+    "files_hash": "f3dbd608c7a1d3447a8cb33bac5e53a812f628bb",
+    "description": "Free 8K root cluster model with high-detail bark, tangled roots and forest-floor foliage; natural, layered ground cover ideal for realistic woodland environments.",
+    "category_id": "177d78d5-2c9b-5c88-a3f9-751d49114c15",
+    "category": "Nature/Logs, Branches & Roots/Root Clusters",
+    "collections": [
+      "verdant_trail"
+    ],
+    "attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "img_version": "e8bad11e",
+    "download_count": 4533,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/root_cluster_01.png?width=256&height=256&v=e8bad11e"
+  }
+}

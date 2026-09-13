@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-09-12T14:48:06.957292+00:00",
+  "commit": "d7f4b2d9a84101f83533105407b0d7ae2ff0d0b0",
+  "remote_main_matches": true,
+  "artifacts": [
+    {
+      "file": "The Last Observatory - Astra Reach.mp4",
+      "url": "https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/The%20Last%20Observatory%20-%20Astra%20Reach.mp4",
+      "http_status": 200,
+      "bytes": 13157114,
+      "sha256": "dcf97d4c58f08ac456411af848f5cf4f54ac5d1d3250e13fdc71c4b2eca6ff7e",
+      "matches_local": true
+    },
+    {
+      "file": "previews/v6/Astra-Reach-closeup-1080p.mp4",
+      "url": "https://media.githubusercontent.com/media/codersusu/game-cinematic-trailor/main/previews/v6/Astra-Reach-closeup-1080p.mp4",
+      "http_status": 200,
+      "bytes": 1415280,
+      "sha256": "f79a1b9b204aec6ed4b94b03c3197e36eb0fc13d76e1b88b8763c6ecebbef2ce",
+      "matches_local": true
+    }
+  ]
+}

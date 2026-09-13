@@ -1,0 +1,13 @@
+{
+  "frames": 78,
+  "fps": 12,
+  "duration_seconds": 6.5,
+  "source_range": [
+    37,
+    192
+  ],
+  "decode_check": "passed",
+  "sha256": "dd4c951a42f9122c79bfc86e8949f6f4e3ef955ae58339a395bc3085c1b12d8a",
+  "visual_review": "Native frames45,79,101,147 inspected",
+  "full_realtime_playback": false
+}

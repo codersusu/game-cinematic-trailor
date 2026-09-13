@@ -1,0 +1,1343 @@
+{
+  "scene": "bear-bow-forest-v12.blend",
+  "scene_sha256": "e070afb606fa90c27e605be0ff1ad502b2f07e12e6a717a0855e146a2afecd0f",
+  "frames": 144,
+  "render_subdivision_levels_used": true,
+  "method": "Evaluated full heroine skin at render subdivision; all candidate vertices below .5m ray-tested against actual V10 terrain. Disjoint world AABBs reject safe actor/door pairs; overlapping AABBs receive full evaluated-surface BVH overlap checks. This is sampled-frame geometry QA, not continuous swept-volume simulation.",
+  "minimum_terrain_clearance_m": 0.00499946033706733,
+  "minimum_clearance_frame": 89,
+  "terrain_penetrations_over_3mm": [],
+  "actor_or_door_surface_collisions": [],
+  "closest_hero_bear_aabb_gap_m": 0.2691671647521865,
+  "closest_hero_bear_frame": 123,
+  "door_objects": [
+    "V5 | airlock lintel",
+    "V5 | airlock pale casing",
+    "V5 | airlock pale casing.001",
+    "V5 | airlock structural jamb",
+    "V5 | airlock structural jamb.001",
+    "V5 | flush threshold",
+    "V5 | lintel illuminated inset",
+    "V5 | portal equipment wing",
+    "V5 | portal equipment wing.001",
+    "V5 | door status strip",
+    "V5 | inset ceramic door panel",
+    "V5 | machined door seam",
+    "V5 | machined door seam.001",
+    "V5 | solid door leaf",
+    "V5 | door status strip.001",
+    "V5 | inset ceramic door panel.001",
+    "V5 | machined door seam.002",
+    "V5 | machined door seam.003",
+    "V5 | solid door leaf.001",
+    "V5 | warm airlock rim",
+    "V5 | warm airlock rim.001",
+    "V5 | wing dark recess",
+    "V5 | wing dark recess.001",
+    "V5 | wing dark recess.002",
+    "V5 | wing dark recess.003",
+    "V9 | vestibule left",
+    "V9 | vestibule right",
+    "V9 | vestibule back"
+  ],
+  "rows": [
+    {
+      "frame": 1,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0050003870299976105,
+      "terrain_candidate_vertices": 2268,
+      "hero_bear_aabb_gap_m": 4.978731682035049,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 2,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999856035327599,
+      "terrain_candidate_vertices": 2274,
+      "hero_bear_aabb_gap_m": 4.883897065894384,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 3,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999929890195709,
+      "terrain_candidate_vertices": 2283,
+      "hero_bear_aabb_gap_m": 4.783508845109758,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 4,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00500005752726973,
+      "terrain_candidate_vertices": 2293,
+      "hero_bear_aabb_gap_m": 4.694083978953518,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 5,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000057057509055,
+      "terrain_candidate_vertices": 2309,
+      "hero_bear_aabb_gap_m": 4.602979664495562,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 6,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000016045009659,
+      "terrain_candidate_vertices": 2319,
+      "hero_bear_aabb_gap_m": 4.508917437065991,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 7,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000052760141593,
+      "terrain_candidate_vertices": 2322,
+      "hero_bear_aabb_gap_m": 4.412312147408894,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 8,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999908618914639,
+      "terrain_candidate_vertices": 2320,
+      "hero_bear_aabb_gap_m": 4.321690065675853,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 9,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00499994350606614,
+      "terrain_candidate_vertices": 2297,
+      "hero_bear_aabb_gap_m": 4.252789944022725,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 10,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000126793938686,
+      "terrain_candidate_vertices": 2269,
+      "hero_bear_aabb_gap_m": 3.90663836135821,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 11,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000149002039156,
+      "terrain_candidate_vertices": 2269,
+      "hero_bear_aabb_gap_m": 3.8358359869528513,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 12,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999969507451518,
+      "terrain_candidate_vertices": 2269,
+      "hero_bear_aabb_gap_m": 3.751999970485791,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 13,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000313989097949,
+      "terrain_candidate_vertices": 2268,
+      "hero_bear_aabb_gap_m": 3.65744127689193,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 14,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000288377306372,
+      "terrain_candidate_vertices": 2268,
+      "hero_bear_aabb_gap_m": 3.573710503496608,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 15,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000013242951296,
+      "terrain_candidate_vertices": 2266,
+      "hero_bear_aabb_gap_m": 3.4881478133070694,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 16,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049997866092554855,
+      "terrain_candidate_vertices": 2264,
+      "hero_bear_aabb_gap_m": 3.399479588269452,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 17,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000105478956907,
+      "terrain_candidate_vertices": 2264,
+      "hero_bear_aabb_gap_m": 3.305518485586706,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 18,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000081228722197,
+      "terrain_candidate_vertices": 2261,
+      "hero_bear_aabb_gap_m": 3.2177320001773886,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 19,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000210180496345,
+      "terrain_candidate_vertices": 2259,
+      "hero_bear_aabb_gap_m": 3.13369815799442,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 20,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049999883127782585,
+      "terrain_candidate_vertices": 2250,
+      "hero_bear_aabb_gap_m": 3.047837170616816,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 21,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000165084529051,
+      "terrain_candidate_vertices": 2246,
+      "hero_bear_aabb_gap_m": 2.9760316612744084,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 22,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999938450822805,
+      "terrain_candidate_vertices": 2248,
+      "hero_bear_aabb_gap_m": 2.922324874314487,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 23,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999867742247255,
+      "terrain_candidate_vertices": 2249,
+      "hero_bear_aabb_gap_m": 2.8249782669238677,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 24,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000285655548775,
+      "terrain_candidate_vertices": 2251,
+      "hero_bear_aabb_gap_m": 2.732702053779981,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 25,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000320117729329,
+      "terrain_candidate_vertices": 2252,
+      "hero_bear_aabb_gap_m": 2.6455425044628456,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 26,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000280936784396,
+      "terrain_candidate_vertices": 2254,
+      "hero_bear_aabb_gap_m": 2.5555405094420216,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 27,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000183888474119,
+      "terrain_candidate_vertices": 2257,
+      "hero_bear_aabb_gap_m": 2.4620578283447507,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 28,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999889949895864,
+      "terrain_candidate_vertices": 2258,
+      "hero_bear_aabb_gap_m": 2.368457329184565,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 29,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000165765053022,
+      "terrain_candidate_vertices": 2259,
+      "hero_bear_aabb_gap_m": 2.2782794773653094,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 30,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999941173522537,
+      "terrain_candidate_vertices": 2259,
+      "hero_bear_aabb_gap_m": 2.192904296249356,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 31,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000156703275582,
+      "terrain_candidate_vertices": 2260,
+      "hero_bear_aabb_gap_m": 2.111583951485297,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 32,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000249620173425,
+      "terrain_candidate_vertices": 2245,
+      "hero_bear_aabb_gap_m": 2.038511544233966,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 33,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000107991647962,
+      "terrain_candidate_vertices": 2249,
+      "hero_bear_aabb_gap_m": 1.9392109604470846,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 34,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000080807057383,
+      "terrain_candidate_vertices": 2246,
+      "hero_bear_aabb_gap_m": 1.853461580548057,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 35,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000184827906984,
+      "terrain_candidate_vertices": 2246,
+      "hero_bear_aabb_gap_m": 1.844948431773524,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 36,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0050003188036223944,
+      "terrain_candidate_vertices": 2242,
+      "hero_bear_aabb_gap_m": 1.828874910488441,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 37,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000014606575953,
+      "terrain_candidate_vertices": 2239,
+      "hero_bear_aabb_gap_m": 1.9588848826385181,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 38,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999997834867709,
+      "terrain_candidate_vertices": 2239,
+      "hero_bear_aabb_gap_m": 2.3283471733675896,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 39,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0050001135224209126,
+      "terrain_candidate_vertices": 2229,
+      "hero_bear_aabb_gap_m": 2.448224630848987,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 40,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000086965498252,
+      "terrain_candidate_vertices": 2263,
+      "hero_bear_aabb_gap_m": 2.7294462265086423,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 41,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999869232136023,
+      "terrain_candidate_vertices": 2248,
+      "hero_bear_aabb_gap_m": 2.7912668577095125,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 42,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000220459733251,
+      "terrain_candidate_vertices": 2227,
+      "hero_bear_aabb_gap_m": 2.8590640832527754,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 43,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000117650384994,
+      "terrain_candidate_vertices": 2216,
+      "hero_bear_aabb_gap_m": 2.938386439177197,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 44,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999958865838483,
+      "terrain_candidate_vertices": 2209,
+      "hero_bear_aabb_gap_m": 2.919420567626684,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 45,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999956142715867,
+      "terrain_candidate_vertices": 2207,
+      "hero_bear_aabb_gap_m": 2.7603971796585363,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 46,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00499991649233722,
+      "terrain_candidate_vertices": 2206,
+      "hero_bear_aabb_gap_m": 2.472834401050587,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 47,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000050420719604,
+      "terrain_candidate_vertices": 2205,
+      "hero_bear_aabb_gap_m": 2.4552480607802636,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 48,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049999784671981296,
+      "terrain_candidate_vertices": 2201,
+      "hero_bear_aabb_gap_m": 2.3082072227758843,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 49,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000184465646873,
+      "terrain_candidate_vertices": 2192,
+      "hero_bear_aabb_gap_m": 1.9834062580905112,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 50,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00500016131860459,
+      "terrain_candidate_vertices": 2183,
+      "hero_bear_aabb_gap_m": 1.7400081736095423,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 51,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999968429160506,
+      "terrain_candidate_vertices": 2220,
+      "hero_bear_aabb_gap_m": 1.5450761937974136,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 52,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000056349333315,
+      "terrain_candidate_vertices": 2124,
+      "hero_bear_aabb_gap_m": 1.281566083808439,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 53,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.24765613126613872,
+      "terrain_candidate_vertices": 630,
+      "hero_bear_aabb_gap_m": 0.9412522053668617,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 54,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.7646744437331893,
+      "terrain_candidate_vertices": 0,
+      "hero_bear_aabb_gap_m": 0.39160493325040235,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 55,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.36898190364590644,
+      "terrain_candidate_vertices": 0,
+      "hero_bear_aabb_gap_m": 0.6465989604066676,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 56,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.027362505782386082,
+      "terrain_candidate_vertices": 21613,
+      "hero_bear_aabb_gap_m": 1.28428827206889,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 57,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049999270410983065,
+      "terrain_candidate_vertices": 21644,
+      "hero_bear_aabb_gap_m": 2.0442188529548386,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 58,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000248515278138,
+      "terrain_candidate_vertices": 21730,
+      "hero_bear_aabb_gap_m": 2.6141073989368593,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 59,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999950208484094,
+      "terrain_candidate_vertices": 6424,
+      "hero_bear_aabb_gap_m": 3.0909869123898766,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 60,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.09062445060438151,
+      "terrain_candidate_vertices": 3631,
+      "hero_bear_aabb_gap_m": 3.810596017128119,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 61,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00499998524539047,
+      "terrain_candidate_vertices": 3117,
+      "hero_bear_aabb_gap_m": 4.285597124346353,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 62,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049999263141714545,
+      "terrain_candidate_vertices": 2454,
+      "hero_bear_aabb_gap_m": 4.400049759331667,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 63,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00499998659827916,
+      "terrain_candidate_vertices": 2386,
+      "hero_bear_aabb_gap_m": 4.399882642194692,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 64,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00500009334812157,
+      "terrain_candidate_vertices": 2270,
+      "hero_bear_aabb_gap_m": 4.392861575494619,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 65,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049999983947250914,
+      "terrain_candidate_vertices": 2204,
+      "hero_bear_aabb_gap_m": 4.365524016115083,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 66,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000069787675088,
+      "terrain_candidate_vertices": 2177,
+      "hero_bear_aabb_gap_m": 4.358074146355192,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 67,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049999741501071115,
+      "terrain_candidate_vertices": 2160,
+      "hero_bear_aabb_gap_m": 4.341654782069607,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 68,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999938796634185,
+      "terrain_candidate_vertices": 2161,
+      "hero_bear_aabb_gap_m": 4.31239618841798,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 69,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049999246768779315,
+      "terrain_candidate_vertices": 2139,
+      "hero_bear_aabb_gap_m": 4.235162065863669,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 70,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000052252395304,
+      "terrain_candidate_vertices": 2111,
+      "hero_bear_aabb_gap_m": 4.138446743026003,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 71,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999719816501269,
+      "terrain_candidate_vertices": 2006,
+      "hero_bear_aabb_gap_m": 4.123358270768934,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 72,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999838371348986,
+      "terrain_candidate_vertices": 1837,
+      "hero_bear_aabb_gap_m": 4.23061575314971,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 73,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000070212544561,
+      "terrain_candidate_vertices": 1950,
+      "hero_bear_aabb_gap_m": 4.25689696712025,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 74,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00499998481096342,
+      "terrain_candidate_vertices": 2073,
+      "hero_bear_aabb_gap_m": 4.276407085204344,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 75,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999928070511306,
+      "terrain_candidate_vertices": 1863,
+      "hero_bear_aabb_gap_m": 4.324207473933072,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 76,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000066386720015,
+      "terrain_candidate_vertices": 1311,
+      "hero_bear_aabb_gap_m": 4.3129279713680475,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 77,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999905228598167,
+      "terrain_candidate_vertices": 1348,
+      "hero_bear_aabb_gap_m": 4.252405294457786,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 78,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000012828529576,
+      "terrain_candidate_vertices": 1788,
+      "hero_bear_aabb_gap_m": 4.239679613255236,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 79,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999950183458557,
+      "terrain_candidate_vertices": 1918,
+      "hero_bear_aabb_gap_m": 4.301465615526979,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 80,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000074295782975,
+      "terrain_candidate_vertices": 2134,
+      "hero_bear_aabb_gap_m": 4.3728746746238425,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 81,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999726183868014,
+      "terrain_candidate_vertices": 1668,
+      "hero_bear_aabb_gap_m": 4.405092520493011,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 82,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999687088619309,
+      "terrain_candidate_vertices": 1140,
+      "hero_bear_aabb_gap_m": 4.403985551568073,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 83,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000261444253029,
+      "terrain_candidate_vertices": 1388,
+      "hero_bear_aabb_gap_m": 4.4111277056141045,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 84,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000055609326481,
+      "terrain_candidate_vertices": 1799,
+      "hero_bear_aabb_gap_m": 4.4610006004974885,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 85,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0049995504603354,
+      "terrain_candidate_vertices": 1946,
+      "hero_bear_aabb_gap_m": 4.479449051733647,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 86,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000236987387607,
+      "terrain_candidate_vertices": 2212,
+      "hero_bear_aabb_gap_m": 4.5245643247302105,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 87,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000125767946173,
+      "terrain_candidate_vertices": 1668,
+      "hero_bear_aabb_gap_m": 4.529262923162069,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 88,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999980077979527,
+      "terrain_candidate_vertices": 1200,
+      "hero_bear_aabb_gap_m": 4.475458521276442,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 89,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00499946033706733,
+      "terrain_candidate_vertices": 1453,
+      "hero_bear_aabb_gap_m": 4.377165884251429,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 90,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999939346184812,
+      "terrain_candidate_vertices": 1899,
+      "hero_bear_aabb_gap_m": 4.304128069659672,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 91,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000070887570041,
+      "terrain_candidate_vertices": 1934,
+      "hero_bear_aabb_gap_m": 4.3871540230843555,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 92,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.012403353401385209,
+      "terrain_candidate_vertices": 2099,
+      "hero_bear_aabb_gap_m": 4.122520642036004,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 93,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999738422268196,
+      "terrain_candidate_vertices": 1417,
+      "hero_bear_aabb_gap_m": 3.4949887726881337,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 94,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999720947414965,
+      "terrain_candidate_vertices": 1142,
+      "hero_bear_aabb_gap_m": 2.947505924338408,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 95,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000197449288923,
+      "terrain_candidate_vertices": 1466,
+      "hero_bear_aabb_gap_m": 3.0290137500962047,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 96,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999897636448591,
+      "terrain_candidate_vertices": 1927,
+      "hero_bear_aabb_gap_m": 2.935646952480422,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 97,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000274673141791,
+      "terrain_candidate_vertices": 1981,
+      "hero_bear_aabb_gap_m": 2.8083544520448624,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 98,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.01854324861812484,
+      "terrain_candidate_vertices": 2067,
+      "hero_bear_aabb_gap_m": 2.6378052357860127,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 99,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999932720691436,
+      "terrain_candidate_vertices": 1473,
+      "hero_bear_aabb_gap_m": 2.470871080501802,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 100,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00500018116257861,
+      "terrain_candidate_vertices": 1227,
+      "hero_bear_aabb_gap_m": 2.3327917201988377,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 101,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999934967714115,
+      "terrain_candidate_vertices": 1626,
+      "hero_bear_aabb_gap_m": 2.298924231807623,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 102,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000039835415304,
+      "terrain_candidate_vertices": 1918,
+      "hero_bear_aabb_gap_m": 2.025156569165911,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 103,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999959271424603,
+      "terrain_candidate_vertices": 1988,
+      "hero_bear_aabb_gap_m": 1.8401156014299611,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 104,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0072070848994364445,
+      "terrain_candidate_vertices": 2058,
+      "hero_bear_aabb_gap_m": 1.6656308984094903,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 105,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00500009950342617,
+      "terrain_candidate_vertices": 1297,
+      "hero_bear_aabb_gap_m": 1.5440164940987686,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 106,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999741090837118,
+      "terrain_candidate_vertices": 1194,
+      "hero_bear_aabb_gap_m": 1.5070684241804657,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 107,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999918561348182,
+      "terrain_candidate_vertices": 1622,
+      "hero_bear_aabb_gap_m": 1.7395429139349177,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 108,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0050000787042996375,
+      "terrain_candidate_vertices": 1947,
+      "hero_bear_aabb_gap_m": 1.5659644046717636,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 109,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999849159216141,
+      "terrain_candidate_vertices": 2064,
+      "hero_bear_aabb_gap_m": 1.4121174539240597,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 110,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000224584613133,
+      "terrain_candidate_vertices": 1921,
+      "hero_bear_aabb_gap_m": 1.294730547956287,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 111,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999961533585284,
+      "terrain_candidate_vertices": 1336,
+      "hero_bear_aabb_gap_m": 1.230335729901813,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 112,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999704127460425,
+      "terrain_candidate_vertices": 1322,
+      "hero_bear_aabb_gap_m": 1.2344465960733417,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 113,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000233063143011,
+      "terrain_candidate_vertices": 1759,
+      "hero_bear_aabb_gap_m": 1.3335928067522111,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 114,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999846013633125,
+      "terrain_candidate_vertices": 1914,
+      "hero_bear_aabb_gap_m": 1.167003995431342,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 115,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999788985104003,
+      "terrain_candidate_vertices": 2107,
+      "hero_bear_aabb_gap_m": 1.0060315352824603,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 116,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999967034987174,
+      "terrain_candidate_vertices": 1701,
+      "hero_bear_aabb_gap_m": 0.8646612322859717,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 117,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999952868861679,
+      "terrain_candidate_vertices": 1155,
+      "hero_bear_aabb_gap_m": 0.7942533615171339,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 118,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0050000428517987805,
+      "terrain_candidate_vertices": 1369,
+      "hero_bear_aabb_gap_m": 0.8301212208146254,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 119,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999717103842838,
+      "terrain_candidate_vertices": 1757,
+      "hero_bear_aabb_gap_m": 0.8137975662105976,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 120,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000066377980117,
+      "terrain_candidate_vertices": 1953,
+      "hero_bear_aabb_gap_m": 0.6735467064283149,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 121,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000163163868754,
+      "terrain_candidate_vertices": 2198,
+      "hero_bear_aabb_gap_m": 0.4763474449293845,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 122,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999823437009887,
+      "terrain_candidate_vertices": 1707,
+      "hero_bear_aabb_gap_m": 0.34465827711071384,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 123,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999975186234518,
+      "terrain_candidate_vertices": 1195,
+      "hero_bear_aabb_gap_m": 0.2691671647521865,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 124,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000230771352698,
+      "terrain_candidate_vertices": 1435,
+      "hero_bear_aabb_gap_m": 0.32822133248431484,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 125,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000014553459109,
+      "terrain_candidate_vertices": 1888,
+      "hero_bear_aabb_gap_m": 0.4767720192944296,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 126,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000055543867954,
+      "terrain_candidate_vertices": 1931,
+      "hero_bear_aabb_gap_m": 0.4384144106928911,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 127,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999855681297349,
+      "terrain_candidate_vertices": 2159,
+      "hero_bear_aabb_gap_m": 0.3487336219786563,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 128,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000027907320459,
+      "terrain_candidate_vertices": 1447,
+      "hero_bear_aabb_gap_m": 0.2920085554506251,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 129,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999699057755769,
+      "terrain_candidate_vertices": 1134,
+      "hero_bear_aabb_gap_m": 0.29927126700665596,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 130,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00500014426873896,
+      "terrain_candidate_vertices": 1429,
+      "hero_bear_aabb_gap_m": 0.452969996317119,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 131,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999901475261859,
+      "terrain_candidate_vertices": 1916,
+      "hero_bear_aabb_gap_m": 0.5103217593067928,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 132,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999704020511975,
+      "terrain_candidate_vertices": 1967,
+      "hero_bear_aabb_gap_m": 0.41982624853518047,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 133,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.022196220744322592,
+      "terrain_candidate_vertices": 2061,
+      "hero_bear_aabb_gap_m": 0.35010906425677035,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 134,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999968489922901,
+      "terrain_candidate_vertices": 1509,
+      "hero_bear_aabb_gap_m": 0.3329423086105816,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 135,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00499998409627056,
+      "terrain_candidate_vertices": 1222,
+      "hero_bear_aabb_gap_m": 0.4146629964692732,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 136,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999973388924661,
+      "terrain_candidate_vertices": 1593,
+      "hero_bear_aabb_gap_m": 0.7196875526580762,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 137,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000248590941614,
+      "terrain_candidate_vertices": 1911,
+      "hero_bear_aabb_gap_m": 0.6182892183858861,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 138,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999831078190353,
+      "terrain_candidate_vertices": 1976,
+      "hero_bear_aabb_gap_m": 0.5306945485712209,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 139,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0101053523794149,
+      "terrain_candidate_vertices": 2049,
+      "hero_bear_aabb_gap_m": 0.4978662845932904,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 140,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999939625286998,
+      "terrain_candidate_vertices": 1313,
+      "hero_bear_aabb_gap_m": 0.5673163512041688,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 141,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.00500002654133469,
+      "terrain_candidate_vertices": 1185,
+      "hero_bear_aabb_gap_m": 0.7216974341629534,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 142,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.004999975854592109,
+      "terrain_candidate_vertices": 1610,
+      "hero_bear_aabb_gap_m": 1.1453002235600884,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 143,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.005000161191799357,
+      "terrain_candidate_vertices": 1948,
+      "hero_bear_aabb_gap_m": 1.0243377372304598,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    },
+    {
+      "frame": 144,
+      "skin_vertices": 28839,
+      "minimum_terrain_clearance_m": 0.0050004414175314205,
+      "terrain_candidate_vertices": 2051,
+      "hero_bear_aabb_gap_m": 0.8947532853115092,
+      "bear_surface_pairs": 0,
+      "door_hits": []
+    }
+  ],
+  "scene_modified_or_saved": false,
+  "gpu_render": false
+}

@@ -1,0 +1,61 @@
+{
+  "option": "b",
+  "title": "B \u2014 SWORD vs FOREST GUARDIAN",
+  "technical_checks": "passed",
+  "frames": 96,
+  "fps": 12,
+  "seconds": 8,
+  "size": [
+    768,
+    496
+  ],
+  "audio": false,
+  "source_scene": {
+    "scene": "option-b-sword-guardian.blend",
+    "sha256": "a2dd54eadfffb451ef1ab3f6800396342a785ea2ffad78d5926a9e95d09f834a",
+    "resolution": [
+      768,
+      432
+    ],
+    "fps": 12,
+    "source_fps": 24.0,
+    "source_frame_start": 1,
+    "source_frame_end": 192,
+    "engine": "EEVEE",
+    "samples": 8
+  },
+  "movie_sha256": "c1b0d42e14f4c87e02888901c40af7dc5920e1deaef1adbab02d7f0338935939",
+  "contact_sheet_frames": [
+    1,
+    18,
+    36,
+    54,
+    72,
+    96
+  ],
+  "visual_review": {
+    "status": "representative encoded contact sheet inspected",
+    "frames": [
+      1,
+      18,
+      36,
+      54,
+      72,
+      96
+    ],
+    "additional_native_stills": [
+      1,
+      71,
+      115,
+      175
+    ],
+    "findings": [
+      "Full-body roll and counter remain in frame.",
+      "Guardian and human are separated at inspected contact and retreat stages.",
+      "Stand-in actor and draft scope are labelled."
+    ],
+    "limit": "No full realtime playback or final heroine retarget review."
+  },
+  "full_realtime_playback": false,
+  "heavy_render": false
+}

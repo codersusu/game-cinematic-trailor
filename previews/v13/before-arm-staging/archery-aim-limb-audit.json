@@ -1,0 +1,2620 @@
+{
+  "samples": [
+    {
+      "frame": 1.0,
+      "upper_length_change_m": 1.1344431803117505e-06,
+      "forearm_length_change_m": 1.1604315958424483e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 1.25,
+      "upper_length_change_m": 2.3043530375521648e-07,
+      "forearm_length_change_m": 2.196519953145959e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 5.331201499700045e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 1.5,
+      "upper_length_change_m": 7.484213720987398e-08,
+      "forearm_length_change_m": 1.1376346395475245e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.9110702922202824e-06,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 1.75,
+      "upper_length_change_m": 1.1029342048274327e-06,
+      "forearm_length_change_m": 1.3842281094966769e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 5.960464477539062e-07,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 2.0,
+      "upper_length_change_m": 9.749163595029753e-07,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 2.25,
+      "upper_length_change_m": 1.122627326294312e-06,
+      "forearm_length_change_m": 1.4919793253631575e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 3.371747880871523e-07,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 2.5,
+      "upper_length_change_m": 1.6150134368730917e-07,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 4.2981520598697533e-07
+    },
+    {
+      "frame": 2.75,
+      "upper_length_change_m": 1.6544035397192403e-07,
+      "forearm_length_change_m": 1.0775400079154895e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.922192036699903e-06,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 3.0,
+      "upper_length_change_m": 1.0950533211873115e-06,
+      "forearm_length_change_m": 9.739314604795268e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 3.25,
+      "upper_length_change_m": 1.8513564040145702e-07,
+      "forearm_length_change_m": 7.086878466011637e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.998311831264521e-06,
+      "grip_offset_error_m": 1.9369216929998304e-06
+    },
+    {
+      "frame": 3.5,
+      "upper_length_change_m": 1.2151942201388266e-06,
+      "forearm_length_change_m": 9.511380084092913e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 3.75,
+      "upper_length_change_m": 9.84761427957892e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 4.0,
+      "upper_length_change_m": 6.558510043663812e-07,
+      "forearm_length_change_m": 1.2391765967512125e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 3.371747880871523e-07,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 4.25,
+      "upper_length_change_m": 1.0044607520742765e-07,
+      "forearm_length_change_m": 2.9839629708816595e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 4.5,
+      "upper_length_change_m": 1.1501971798055788e-06,
+      "forearm_length_change_m": 1.1044817519179073e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 3.371747880871523e-07,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 4.75,
+      "upper_length_change_m": 1.575621434435348e-07,
+      "forearm_length_change_m": 8.703214418592786e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.9258850123171223e-06,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 5.0,
+      "upper_length_change_m": 1.2467077858402398e-06,
+      "forearm_length_change_m": 6.216566533767676e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 5.25,
+      "upper_length_change_m": 2.5544589828119246e-06,
+      "forearm_length_change_m": 1.0982649288338031e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 5.5,
+      "upper_length_change_m": 1.3668475637718114e-06,
+      "forearm_length_change_m": 9.366334173810387e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 3.371747880871523e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 5.75,
+      "upper_length_change_m": 1.752884547789879e-07,
+      "forearm_length_change_m": 1.1314216301905322e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.6656007498500226e-07,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 6.0,
+      "upper_length_change_m": 1.3589717157147518e-07,
+      "forearm_length_change_m": 7.045476962952435e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 4.2981520598697533e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 6.25,
+      "upper_length_change_m": 1.3786724645248327e-07,
+      "forearm_length_change_m": 2.735293613831402e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 6.5,
+      "upper_length_change_m": 1.4771436429028562e-06,
+      "forearm_length_change_m": 5.387706847326257e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.9551777204104336e-06,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 6.75,
+      "upper_length_change_m": 1.7509137895388438e-06,
+      "forearm_length_change_m": 4.558841101842681e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.9258850123171223e-06,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 7.0,
+      "upper_length_change_m": 1.3057979770525474e-06,
+      "forearm_length_change_m": 9.324891850903683e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 7.25,
+      "upper_length_change_m": 2.0483083940092683e-07,
+      "forearm_length_change_m": 9.387080605605114e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.9258850123171223e-06,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 7.5,
+      "upper_length_change_m": 9.05980928611605e-08,
+      "forearm_length_change_m": 8.205922081561123e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 3.371747880871523e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 7.75,
+      "upper_length_change_m": 1.4968350822430754e-06,
+      "forearm_length_change_m": 1.2433169760406315e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 8.0,
+      "upper_length_change_m": 1.3786694896822382e-08,
+      "forearm_length_change_m": 1.0360958035970924e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 2.6656007498500226e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 8.25,
+      "upper_length_change_m": 2.6588707721653115e-07,
+      "forearm_length_change_m": 2.3622958061908506e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 5.960464477539062e-07,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 8.5,
+      "upper_length_change_m": 2.2846580455260224e-07,
+      "forearm_length_change_m": 2.6524134863481486e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 5.331201499700045e-07,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 8.75,
+      "upper_length_change_m": 9.650688723161771e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 9.0,
+      "upper_length_change_m": 3.643619969073697e-07,
+      "forearm_length_change_m": 2.3622988123972455e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 1.9804534585280597e-06,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 9.25,
+      "upper_length_change_m": 1.5903950614792883e-06,
+      "forearm_length_change_m": 1.1645718277220052e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0004727604313560837,
+      "grip_offset_error_m": 1.9258850123171223e-06
+    },
+    {
+      "frame": 9.5,
+      "upper_length_change_m": 2.3501592390506865e-06,
+      "forearm_length_change_m": 2.7974430746868784e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0017678103400214583,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 9.75,
+      "upper_length_change_m": 1.080182024881804e-06,
+      "forearm_length_change_m": 1.1054788049968955e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.003094644061452872,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 10.0,
+      "upper_length_change_m": 2.100510329172689e-06,
+      "forearm_length_change_m": 5.377369350356709e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.001376766700703001,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 10.25,
+      "upper_length_change_m": 1.1009644731163615e-06,
+      "forearm_length_change_m": 6.605113417601505e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0023532624412712718,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 10.5,
+      "upper_length_change_m": 2.3250200315294567e-06,
+      "forearm_length_change_m": 2.5519136818696886e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0035417131846340747,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 10.75,
+      "upper_length_change_m": 9.8378052418302e-07,
+      "forearm_length_change_m": 7.133487381072445e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0049187858719523855,
+      "grip_offset_error_m": 4.2981520598697533e-07
+    },
+    {
+      "frame": 11.0,
+      "upper_length_change_m": 8.360660581074875e-07,
+      "forearm_length_change_m": 8.837882511103512e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.006615101109304266,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 11.25,
+      "upper_length_change_m": 2.2354086876008594e-07,
+      "forearm_length_change_m": 1.566586518703117e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.008828785738255657,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 11.5,
+      "upper_length_change_m": 1.5263863703540714e-07,
+      "forearm_length_change_m": 1.9887835628062955e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.011652577258007708,
+      "grip_offset_error_m": 1.969660716278351e-06
+    },
+    {
+      "frame": 11.75,
+      "upper_length_change_m": 1.5559225828298828e-06,
+      "forearm_length_change_m": 1.8395923329916908e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.01511227950235003,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 12.0,
+      "upper_length_change_m": 3.033069556068746e-07,
+      "forearm_length_change_m": 4.165110755460777e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.019676796814493976,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 12.25,
+      "upper_length_change_m": 7.188823606951722e-07,
+      "forearm_length_change_m": 8.084085056925261e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.023732633109349942,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 12.5,
+      "upper_length_change_m": 9.749192811381313e-08,
+      "forearm_length_change_m": 1.6031066791266646e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.028214340006647128,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 12.75,
+      "upper_length_change_m": 1.1049014246033995e-06,
+      "forearm_length_change_m": 2.9045919458514646e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.03304190205867139,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 13.0,
+      "upper_length_change_m": 2.560371223647717e-07,
+      "forearm_length_change_m": 1.722521949243383e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.03844704617792127,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 13.25,
+      "upper_length_change_m": 8.449313686487159e-07,
+      "forearm_length_change_m": 9.397341902694922e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.04423411082695149,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 13.5,
+      "upper_length_change_m": 1.1029397128659024e-06,
+      "forearm_length_change_m": 1.2994843955893565e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.049488188186883275,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 13.75,
+      "upper_length_change_m": 6.794910228091755e-07,
+      "forearm_length_change_m": 9.903087361262664e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.05421343715709844,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 14.0,
+      "upper_length_change_m": 7.001670447315256e-07,
+      "forearm_length_change_m": 1.1178862608374196e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.060106150694458516,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 14.25,
+      "upper_length_change_m": 4.5299093978656835e-07,
+      "forearm_length_change_m": 6.092419482517375e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.06790217498481056,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 14.5,
+      "upper_length_change_m": 6.105527718403003e-07,
+      "forearm_length_change_m": 9.555734337141075e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0760115570156522,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 14.75,
+      "upper_length_change_m": 3.249717361875071e-08,
+      "forearm_length_change_m": 1.9353142587941186e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.08292982458105906,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 15.0,
+      "upper_length_change_m": 6.204038908164122e-07,
+      "forearm_length_change_m": 5.190830101309274e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.0905401673894818,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 15.25,
+      "upper_length_change_m": 1.0527118451397754e-06,
+      "forearm_length_change_m": 1.1977297580956225e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1002035145484066,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 15.5,
+      "upper_length_change_m": 3.446677515339669e-07,
+      "forearm_length_change_m": 5.196028136922326e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.10749617847863194,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 15.75,
+      "upper_length_change_m": 1.6937952361517628e-06,
+      "forearm_length_change_m": 9.376723772436257e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.11568485878338944,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 16.0,
+      "upper_length_change_m": 4.332974753995522e-08,
+      "forearm_length_change_m": 9.894726313297575e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.12527867501262496,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 16.25,
+      "upper_length_change_m": 6.568380458982226e-07,
+      "forearm_length_change_m": 9.065812759112557e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.12636581293755833,
+      "grip_offset_error_m": 1.9551777204104336e-06
+    },
+    {
+      "frame": 16.5,
+      "upper_length_change_m": 8.104609049430778e-07,
+      "forearm_length_change_m": 9.539866946961517e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1317932144121403,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 16.75,
+      "upper_length_change_m": 5.947985309007198e-07,
+      "forearm_length_change_m": 1.348678451723595e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1406456954139511,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 17.0,
+      "upper_length_change_m": 7.041044340905245e-07,
+      "forearm_length_change_m": 2.616200064503582e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.15511735759155837,
+      "grip_offset_error_m": 1.9258850123171223e-06
+    },
+    {
+      "frame": 17.25,
+      "upper_length_change_m": 1.9695239300565603e-08,
+      "forearm_length_change_m": 2.7508324962344233e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.15926729506382906,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 17.5,
+      "upper_length_change_m": 1.3225319121790147e-06,
+      "forearm_length_change_m": 3.1818866237376398e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.164070301814145,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 17.75,
+      "upper_length_change_m": 3.7519396567375907e-07,
+      "forearm_length_change_m": 1.5331345633584625e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.16959244828232467,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 18.0,
+      "upper_length_change_m": 1.9793757502495346e-07,
+      "forearm_length_change_m": 2.802425557724142e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.17627973490661608,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 18.25,
+      "upper_length_change_m": 2.0581510026818073e-07,
+      "forearm_length_change_m": 2.3995817222122184e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.17921166919182177,
+      "grip_offset_error_m": 1.9369216929998304e-06
+    },
+    {
+      "frame": 18.5,
+      "upper_length_change_m": 7.966706230266851e-07,
+      "forearm_length_change_m": 6.06110060696885e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18176406737502074,
+      "grip_offset_error_m": 1.9258850123171223e-06
+    },
+    {
+      "frame": 18.75,
+      "upper_length_change_m": 7.710678655847847e-07,
+      "forearm_length_change_m": 7.726264878160638e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1840182271356851,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 19.0,
+      "upper_length_change_m": 6.371423408590982e-07,
+      "forearm_length_change_m": 2.452341300973604e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18615494773595592,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 19.25,
+      "upper_length_change_m": 1.7331852816826476e-07,
+      "forearm_length_change_m": 1.0352057946971804e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18820719373608344,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 19.5,
+      "upper_length_change_m": 2.759288177833774e-06,
+      "forearm_length_change_m": 1.2704012529729525e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1902635864745545,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 19.75,
+      "upper_length_change_m": 2.9739758578006814e-07,
+      "forearm_length_change_m": 3.730745447572126e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19141102180931208,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 20.0,
+      "upper_length_change_m": 4.618526066035855e-07,
+      "forearm_length_change_m": 4.61710721960662e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19141956995821813,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 20.25,
+      "upper_length_change_m": 1.1521805812209074e-07,
+      "forearm_length_change_m": 2.2049313458394337e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1915351655689896,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 20.5,
+      "upper_length_change_m": 2.8656435567819827e-06,
+      "forearm_length_change_m": 2.9774060033016525e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19122489213981994,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 20.75,
+      "upper_length_change_m": 7.523586959823358e-07,
+      "forearm_length_change_m": 7.991884565794471e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19082899845303072,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 21.0,
+      "upper_length_change_m": 1.619931715463041e-06,
+      "forearm_length_change_m": 4.8162438426313514e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19068976456572947,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 21.25,
+      "upper_length_change_m": 1.2565618308646442e-06,
+      "forearm_length_change_m": 2.4492267744480323e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19008842419682462,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 21.5,
+      "upper_length_change_m": 1.615009952438129e-07,
+      "forearm_length_change_m": 1.3619890320837325e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.189904235669365,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 21.75,
+      "upper_length_change_m": 2.235424329810609e-07,
+      "forearm_length_change_m": 2.2559311582681651e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1899598950863626,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 22.0,
+      "upper_length_change_m": 7.543271468568591e-07,
+      "forearm_length_change_m": 9.026951820756413e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1900825374936821,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 22.25,
+      "upper_length_change_m": 4.234478707676459e-07,
+      "forearm_length_change_m": 2.250593445496385e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18997807649813886,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 22.5,
+      "upper_length_change_m": 3.4958944997165453e-07,
+      "forearm_length_change_m": 1.4129553005948203e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18983568277530896,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 22.75,
+      "upper_length_change_m": 1.0044584677904034e-07,
+      "forearm_length_change_m": 1.8294603415791588e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1897292015908691,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 23.0,
+      "upper_length_change_m": 1.8050675806291494e-06,
+      "forearm_length_change_m": 1.739022890967501e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18972784736175705,
+      "grip_offset_error_m": 1.9405866379856713e-06
+    },
+    {
+      "frame": 23.25,
+      "upper_length_change_m": 2.7868796867447365e-07,
+      "forearm_length_change_m": 7.387029510308452e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18965487243503812,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 23.5,
+      "upper_length_change_m": 9.85745189474585e-07,
+      "forearm_length_change_m": 1.0719604625897272e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1896287660630651,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 23.75,
+      "upper_length_change_m": 3.712573228564775e-07,
+      "forearm_length_change_m": 1.2827884287580638e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18963634518895212,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 24.0,
+      "upper_length_change_m": 1.3550313069932152e-06,
+      "forearm_length_change_m": 1.0960267518012046e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.189663726033743,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 24.25,
+      "upper_length_change_m": 1.1019521661270737e-06,
+      "forearm_length_change_m": 2.770828981341067e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1896182610519179,
+      "grip_offset_error_m": 1.9258850123171223e-06
+    },
+    {
+      "frame": 24.5,
+      "upper_length_change_m": 1.8739977071524638e-06,
+      "forearm_length_change_m": 5.924665321677125e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18963385969692992,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 24.75,
+      "upper_length_change_m": 1.0064329951930961e-06,
+      "forearm_length_change_m": 9.695857446923029e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18969998103055338,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 25.0,
+      "upper_length_change_m": 4.84501744640875e-07,
+      "forearm_length_change_m": 5.182938170866791e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18980496408111314,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 25.25,
+      "upper_length_change_m": 1.31073157544348e-06,
+      "forearm_length_change_m": 3.950114665918214e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18985002582384639,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 25.5,
+      "upper_length_change_m": 6.469902589234522e-07,
+      "forearm_length_change_m": 5.432383711478916e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18992352707959106,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 25.75,
+      "upper_length_change_m": 4.047374652094149e-07,
+      "forearm_length_change_m": 4.7452585960616744e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19002718079718545,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 26.0,
+      "upper_length_change_m": 8.86285388357333e-07,
+      "forearm_length_change_m": 1.0426185899914397e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19016173968002184,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 26.25,
+      "upper_length_change_m": 5.475289867051814e-07,
+      "forearm_length_change_m": 2.361563462532912e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19026274489285033,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 26.5,
+      "upper_length_change_m": 1.0103684147666492e-06,
+      "forearm_length_change_m": 9.047861080635489e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1903932185358001,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 26.75,
+      "upper_length_change_m": 4.4806968851895945e-07,
+      "forearm_length_change_m": 3.1996658084176843e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1905499237676085,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 27.0,
+      "upper_length_change_m": 2.2747939382172788e-07,
+      "forearm_length_change_m": 5.517301341906311e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19073011209292376,
+      "grip_offset_error_m": 1.9369216929998304e-06
+    },
+    {
+      "frame": 27.25,
+      "upper_length_change_m": 3.1414013648700667e-07,
+      "forearm_length_change_m": 4.6406264980758394e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19089409254795756,
+      "grip_offset_error_m": 2.6656007498500226e-07
+    },
+    {
+      "frame": 27.5,
+      "upper_length_change_m": 5.061688770624517e-07,
+      "forearm_length_change_m": 1.2418878373721132e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19107599472309475,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 27.75,
+      "upper_length_change_m": 2.715974416089839e-06,
+      "forearm_length_change_m": 8.787076959115847e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19127507270259622,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 28.0,
+      "upper_length_change_m": 1.471234639366381e-06,
+      "forearm_length_change_m": 1.1437953423287794e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1914895990217869,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 28.25,
+      "upper_length_change_m": 2.6391665292058164e-07,
+      "forearm_length_change_m": 2.361399053796287e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19171794570880543,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 28.5,
+      "upper_length_change_m": 2.914900807116094e-07,
+      "forearm_length_change_m": 5.416448145834085e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19194936097914528,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 28.75,
+      "upper_length_change_m": 1.3747319805024194e-06,
+      "forearm_length_change_m": 1.5232001283060903e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19217074043601556,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 29.0,
+      "upper_length_change_m": 9.276427110904706e-07,
+      "forearm_length_change_m": 9.991674393694527e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19237169334064808,
+      "grip_offset_error_m": 1.9258850123171223e-06
+    },
+    {
+      "frame": 29.25,
+      "upper_length_change_m": 5.672273193368937e-07,
+      "forearm_length_change_m": 4.778559426488194e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19258771990580914,
+      "grip_offset_error_m": 1.9258850123171223e-06
+    },
+    {
+      "frame": 29.5,
+      "upper_length_change_m": 2.2689048734814143e-06,
+      "forearm_length_change_m": 6.481611331821124e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19279500631450405,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 29.75,
+      "upper_length_change_m": 4.923820243196708e-08,
+      "forearm_length_change_m": 1.3124583522761135e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1930179503121468,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 30.0,
+      "upper_length_change_m": 1.2604917348779665e-07,
+      "forearm_length_change_m": 1.5332030324499701e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1932814436822328,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 30.25,
+      "upper_length_change_m": 1.4771435935534427e-07,
+      "forearm_length_change_m": 2.203521098559369e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19366098784467303,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 30.5,
+      "upper_length_change_m": 4.264008732768332e-07,
+      "forearm_length_change_m": 2.1865175440505258e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19399952547061164,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 30.75,
+      "upper_length_change_m": 2.088688892815105e-06,
+      "forearm_length_change_m": 2.1907364370077342e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1941880387887054,
+      "grip_offset_error_m": 4.2981520598697533e-07
+    },
+    {
+      "frame": 31.0,
+      "upper_length_change_m": 3.328503316579745e-07,
+      "forearm_length_change_m": 5.4093247964237534e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1941136647746998,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 31.25,
+      "upper_length_change_m": 6.834240039166328e-07,
+      "forearm_length_change_m": 5.8734369903779e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19405813884998535,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 31.5,
+      "upper_length_change_m": 1.3786636748891468e-08,
+      "forearm_length_change_m": 1.0707421999045508e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19270046478904132,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 31.75,
+      "upper_length_change_m": 6.922882799798025e-07,
+      "forearm_length_change_m": 7.565257099662048e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19138547133160777,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 32.0,
+      "upper_length_change_m": 5.101071143542857e-07,
+      "forearm_length_change_m": 7.226597949216984e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19146218625965564,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 32.25,
+      "upper_length_change_m": 1.2023919880865819e-06,
+      "forearm_length_change_m": 1.4028937357080107e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19181070486695737,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 32.5,
+      "upper_length_change_m": 2.550554709657149e-07,
+      "forearm_length_change_m": 1.189813336160972e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19266883280916222,
+      "grip_offset_error_m": 1.9369216929998304e-06
+    },
+    {
+      "frame": 32.75,
+      "upper_length_change_m": 9.15830233455539e-07,
+      "forearm_length_change_m": 9.127358382154949e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1936285995129832,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 33.0,
+      "upper_length_change_m": 4.460959002472453e-07,
+      "forearm_length_change_m": 4.360991779361889e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1942805944945746,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 33.25,
+      "upper_length_change_m": 7.562980239572692e-07,
+      "forearm_length_change_m": 2.2410228598113147e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19432886553481424,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 33.5,
+      "upper_length_change_m": 1.7105399011674294e-06,
+      "forearm_length_change_m": 9.020492761080412e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1938410387453069,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 33.75,
+      "upper_length_change_m": 1.361928058246642e-06,
+      "forearm_length_change_m": 2.953693344409647e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19295576540466366,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 34.0,
+      "upper_length_change_m": 3.653466867648003e-07,
+      "forearm_length_change_m": 2.566934522996167e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19181231246123487,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 34.25,
+      "upper_length_change_m": 7.828893083816624e-07,
+      "forearm_length_change_m": 8.042721145185006e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.19051813629936215,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 34.5,
+      "upper_length_change_m": 1.4791073459918813e-06,
+      "forearm_length_change_m": 1.4013337767959655e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.18906280423590127,
+      "grip_offset_error_m": 1.9369216929998304e-06
+    },
+    {
+      "frame": 34.75,
+      "upper_length_change_m": 2.9276741233541514e-06,
+      "forearm_length_change_m": 1.5498841510752648e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": null,
+      "left_hand_change_m": 0.1874061973199425,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 35.0,
+      "upper_length_change_m": 1.923232816392062e-06,
+      "forearm_length_change_m": 3.232619964210759e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.18550927607059028,
+      "grip_offset_error_m": 1.922192036699903e-06
+    },
+    {
+      "frame": 35.25,
+      "upper_length_change_m": 8.675821443482334e-07,
+      "forearm_length_change_m": 7.410636157223482e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.1820167670956057,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 35.5,
+      "upper_length_change_m": 5.623013128730481e-07,
+      "forearm_length_change_m": 4.192299013217049e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 0.1758939756195215,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 35.75,
+      "upper_length_change_m": 8.596960371920481e-07,
+      "forearm_length_change_m": 9.699138485697034e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 0.16756705487084372,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 36.0,
+      "upper_length_change_m": 9.542377125415502e-07,
+      "forearm_length_change_m": 1.2989728870871353e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.1574533993155406,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 36.25,
+      "upper_length_change_m": 1.516535725443191e-06,
+      "forearm_length_change_m": 2.0723480978479536e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 0.14599671780331666,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 36.5,
+      "upper_length_change_m": 5.150324737801526e-07,
+      "forearm_length_change_m": 7.21633298672586e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 0.13350772693830198,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 36.75,
+      "upper_length_change_m": 1.0694526834387208e-06,
+      "forearm_length_change_m": 1.0173510255617746e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 0.12020570473229107,
+      "grip_offset_error_m": 1.9258850123171223e-06
+    },
+    {
+      "frame": 37.0,
+      "upper_length_change_m": 4.3132528620981603e-07,
+      "forearm_length_change_m": 6.968293619624699e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.1063362505331579,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 37.25,
+      "upper_length_change_m": 1.4131380314530428e-06,
+      "forearm_length_change_m": 1.516426968439788e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 0.09217304182278,
+      "grip_offset_error_m": 1.9551777204104336e-06
+    },
+    {
+      "frame": 37.5,
+      "upper_length_change_m": 8.774184396265206e-07,
+      "forearm_length_change_m": 9.46315726113589e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 0.07826505641104717,
+      "grip_offset_error_m": 1.9369216929998304e-06
+    },
+    {
+      "frame": 37.75,
+      "upper_length_change_m": 5.288168151429407e-07,
+      "forearm_length_change_m": 6.331882222709861e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.06514219787535742,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 38.0,
+      "upper_length_change_m": 1.2467089386125618e-06,
+      "forearm_length_change_m": 1.6827486923887136e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.05313367857244586,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 38.25,
+      "upper_length_change_m": 8.961362604753553e-08,
+      "forearm_length_change_m": 2.395977902192037e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.042262470323589825,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 38.5,
+      "upper_length_change_m": 6.745618885140026e-07,
+      "forearm_length_change_m": 9.722348778551382e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 0.032124665817576864,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 38.75,
+      "upper_length_change_m": 6.174465609076751e-07,
+      "forearm_length_change_m": 7.10018062760609e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.022661121773758196,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 39.0,
+      "upper_length_change_m": 5.12073163400073e-07,
+      "forearm_length_change_m": 2.331046846049123e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 0.014229194978800225,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 39.25,
+      "upper_length_change_m": 8.631466108521835e-07,
+      "forearm_length_change_m": 9.69392261573887e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 3.371747880871523e-07,
+      "left_hand_change_m": 0.0054018550239631835,
+      "grip_offset_error_m": 1.9405866379856713e-06
+    },
+    {
+      "frame": 39.5,
+      "upper_length_change_m": 2.0343850715975886e-06,
+      "forearm_length_change_m": 1.6059463067708002e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 3.371747880871523e-07,
+      "left_hand_change_m": 0.006767330890464456,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 39.75,
+      "upper_length_change_m": 1.4168254459934193e-06,
+      "forearm_length_change_m": 1.7924466774732473e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0033753518368472646,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 40.0,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 3.0461226022127086e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 1.9369216929998304e-06,
+      "grip_offset_error_m": 1.9369216929998304e-06
+    },
+    {
+      "frame": 41,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 2.1965209556773502e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 42,
+      "upper_length_change_m": 1.1423248952313614e-07,
+      "forearm_length_change_m": 7.459888443084317e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.9110702922202824e-06,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 43,
+      "upper_length_change_m": 2.096392652806145e-07,
+      "forearm_length_change_m": 8.55817706091333e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 5.960464477539062e-07,
+      "grip_offset_error_m": 5.960464477539062e-07
+    },
+    {
+      "frame": 44,
+      "upper_length_change_m": 3.722409643025504e-07,
+      "forearm_length_change_m": 1.1604282557087231e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 45,
+      "upper_length_change_m": 8.075068591573142e-08,
+      "forearm_length_change_m": 1.0360963620392738e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 46,
+      "upper_length_change_m": 2.560383082217399e-07,
+      "forearm_length_change_m": 1.1604280303334491e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 3.5762786865234375e-07,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 47,
+      "upper_length_change_m": 4.291092611241609e-07,
+      "forearm_length_change_m": 1.6914281045221635e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.966049969490843e-06,
+      "grip_offset_error_m": 1.966049969490843e-06
+    },
+    {
+      "frame": 48,
+      "upper_length_change_m": 6.893350609771254e-08,
+      "forearm_length_change_m": 2.818181845110068e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 49,
+      "upper_length_change_m": 1.5204696520443317e-06,
+      "forearm_length_change_m": 4.403410608366798e-09,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 50,
+      "upper_length_change_m": 8.301533978294362e-07,
+      "forearm_length_change_m": 2.590239364386182e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 51,
+      "upper_length_change_m": 9.374929807737242e-07,
+      "forearm_length_change_m": 1.4544204221533796e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 3.371747880871523e-07,
+      "grip_offset_error_m": 3.371747880871523e-07
+    },
+    {
+      "frame": 52,
+      "upper_length_change_m": 1.0182497320321282e-06,
+      "forearm_length_change_m": 1.4711763751673601e-09,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 53,
+      "upper_length_change_m": 1.1004730252062167e-07,
+      "forearm_length_change_m": 9.324915625774644e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    },
+    {
+      "frame": 54,
+      "upper_length_change_m": 1.8519701527885957e-07,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.969660716278351e-06,
+      "grip_offset_error_m": 1.969660716278351e-06
+    },
+    {
+      "frame": 55,
+      "upper_length_change_m": 6.913047407020034e-07,
+      "forearm_length_change_m": 3.1082906123969245e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.805480091749757e-07,
+      "grip_offset_error_m": 4.805480091749757e-07
+    },
+    {
+      "frame": 56,
+      "upper_length_change_m": 2.0187661237125454e-08,
+      "forearm_length_change_m": 2.3726625247855182e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 5.960464477539063e-08,
+      "grip_offset_error_m": 5.960464477539063e-08
+    },
+    {
+      "frame": 57,
+      "upper_length_change_m": 1.0896371345214817e-06,
+      "forearm_length_change_m": 5.273726677579305e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.9802322387695312e-08,
+      "grip_offset_error_m": 2.9802322387695312e-08
+    },
+    {
+      "frame": 58,
+      "upper_length_change_m": 3.939056081314618e-08,
+      "forearm_length_change_m": 4.1029414518667373e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.9802322387695312e-08,
+      "grip_offset_error_m": 2.9802322387695312e-08
+    },
+    {
+      "frame": 59,
+      "upper_length_change_m": 8.936750054977516e-07,
+      "forearm_length_change_m": 6.905422958447538e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.969660716278351e-06,
+      "grip_offset_error_m": 1.969660716278351e-06
+    },
+    {
+      "frame": 60,
+      "upper_length_change_m": 8.193275447543336e-07,
+      "forearm_length_change_m": 4.558824537315154e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 61,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 1.0535500249986285e-10,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 3.5762786865234375e-07,
+      "left_hand_change_m": 1.9073486328125e-06,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 62,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 5.5949260419074776e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.9110702922202824e-06,
+      "grip_offset_error_m": 1.9110702922202824e-06
+    },
+    {
+      "frame": 63,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 3.255942558622049e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.9082797281243946e-06,
+      "grip_offset_error_m": 1.9082797281243946e-06
+    },
+    {
+      "frame": 64,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 65,
+      "upper_length_change_m": 2.954296243751209e-07,
+      "forearm_length_change_m": 1.1459262801438719e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.1358100017510553e-06,
+      "grip_offset_error_m": 2.1358100017510553e-06
+    },
+    {
+      "frame": 66,
+      "upper_length_change_m": 8.665930686935219e-08,
+      "forearm_length_change_m": 8.703221962558239e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 67,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 1.2764774038609428e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 68,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 8.5167395441621e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 69,
+      "upper_length_change_m": 1.4259408666894569e-06,
+      "forearm_length_change_m": 4.828219176133963e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.1457672119140625e-06,
+      "grip_offset_error_m": 2.1457672119140625e-06
+    },
+    {
+      "frame": 70,
+      "upper_length_change_m": 1.7048677497522036e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 9.5367431640625e-07,
+      "grip_offset_error_m": 9.5367431640625e-07
+    },
+    {
+      "frame": 71,
+      "upper_length_change_m": 3.2792509260803904e-07,
+      "forearm_length_change_m": 1.264038026471681e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.9073486328125e-06,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 72,
+      "upper_length_change_m": 4.726877847471833e-08,
+      "forearm_length_change_m": 3.232627349136763e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 73,
+      "upper_length_change_m": 5.317719820041589e-08,
+      "forearm_length_change_m": 1.5168501476259255e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 74,
+      "upper_length_change_m": 4.012906854033993e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 75,
+      "upper_length_change_m": 3.545149659944791e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 1.9073486328125e-06,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 76,
+      "upper_length_change_m": 3.367886201033343e-07,
+      "forearm_length_change_m": 1.7986700475147721e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 77,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 78,
+      "upper_length_change_m": 1.9064894371534358e-06,
+      "forearm_length_change_m": 1.4629558678647125e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 2.132480599880018e-06,
+      "grip_offset_error_m": 2.132480599880018e-06
+    },
+    {
+      "frame": 79,
+      "upper_length_change_m": 5.526954316437127e-08,
+      "forearm_length_change_m": 3.543451457255209e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 80,
+      "upper_length_change_m": 1.4889564114717313e-06,
+      "forearm_length_change_m": 1.2889075766964186e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 81,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 1.5748713534657899e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.9073486328125e-06,
+      "grip_offset_error_m": 1.9073486328125e-06
+    },
+    {
+      "frame": 82,
+      "upper_length_change_m": 3.2497153690247416e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 83,
+      "upper_length_change_m": 1.7606329563435441e-06,
+      "forearm_length_change_m": 2.6342771305976065e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 84,
+      "upper_length_change_m": 7.41524068786914e-07,
+      "forearm_length_change_m": 1.021587506283561e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 85,
+      "upper_length_change_m": 2.560387699079847e-08,
+      "forearm_length_change_m": 1.6577520611793517e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 86,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 87,
+      "upper_length_change_m": 5.672256064570558e-07,
+      "forearm_length_change_m": 1.2723307606377077e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 9.830249847454215e-07,
+      "grip_offset_error_m": 9.830249847454215e-07
+    },
+    {
+      "frame": 88,
+      "upper_length_change_m": 5.632856810711129e-07,
+      "forearm_length_change_m": 4.6070769954553725e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.830249847454215e-07,
+      "grip_offset_error_m": 9.830249847454215e-07
+    },
+    {
+      "frame": 89,
+      "upper_length_change_m": 2.2114101161374577e-07,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.830249847454215e-07,
+      "grip_offset_error_m": 9.830249847454215e-07
+    },
+    {
+      "frame": 90,
+      "upper_length_change_m": 1.2880650719915288e-06,
+      "forearm_length_change_m": 7.238504962092662e-09,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 91,
+      "upper_length_change_m": 9.069638300940319e-07,
+      "forearm_length_change_m": 1.0775407618957011e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.830249847454215e-07,
+      "grip_offset_error_m": 9.830249847454215e-07
+    },
+    {
+      "frame": 92,
+      "upper_length_change_m": 8.272015080967865e-07,
+      "forearm_length_change_m": 7.874321386602823e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 93,
+      "upper_length_change_m": 4.529918359863494e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 94,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 5.304820466789373e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 95,
+      "upper_length_change_m": 2.264954057640267e-08,
+      "forearm_length_change_m": 3.947531753423217e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 4.915124923727108e-07,
+      "left_hand_change_m": 9.5367431640625e-07,
+      "grip_offset_error_m": 9.5367431640625e-07
+    },
+    {
+      "frame": 96,
+      "upper_length_change_m": 2.0187675975336106e-08,
+      "forearm_length_change_m": 8.703203702165041e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 9.5367431640625e-07,
+      "grip_offset_error_m": 9.5367431640625e-07
+    },
+    {
+      "frame": 97,
+      "upper_length_change_m": 6.016909026851369e-07,
+      "forearm_length_change_m": 8.703234158358164e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 9.5367431640625e-07,
+      "grip_offset_error_m": 9.5367431640625e-07
+    },
+    {
+      "frame": 98,
+      "upper_length_change_m": 8.705281268339693e-07,
+      "forearm_length_change_m": 1.3082681420972797e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.5367431640625e-07,
+      "grip_offset_error_m": 9.5367431640625e-07
+    },
+    {
+      "frame": 99,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 4.76837158203125e-07,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 100,
+      "upper_length_change_m": 1.8710518484565952e-07,
+      "forearm_length_change_m": 1.3331580935582732e-06,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 3.5762786865234375e-07,
+      "grip_offset_error_m": 3.5762786865234375e-07
+    },
+    {
+      "frame": 101,
+      "upper_length_change_m": 7.050928209351159e-07,
+      "forearm_length_change_m": 7.957221858367891e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.5367431640625e-07,
+      "grip_offset_error_m": 9.5367431640625e-07
+    },
+    {
+      "frame": 102,
+      "upper_length_change_m": 7.949350459557358e-07,
+      "forearm_length_change_m": 2.1550774995104938e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 103,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 8.993338730944878e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.3696104637475082e-06,
+      "grip_offset_error_m": 1.3696104637475082e-06
+    },
+    {
+      "frame": 104,
+      "upper_length_change_m": 2.9542948654093237e-07,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 105,
+      "upper_length_change_m": 3.7814911593714307e-07,
+      "forearm_length_change_m": 6.631014026758919e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 106,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 1.9064210682318006e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 107,
+      "upper_length_change_m": 4.0375413845605834e-08,
+      "forearm_length_change_m": 8.528378117600433e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 108,
+      "upper_length_change_m": 7.228183471763572e-07,
+      "forearm_length_change_m": 7.252673899227347e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 109,
+      "upper_length_change_m": 1.7947349204017193e-07,
+      "forearm_length_change_m": 3.025402437462077e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 110,
+      "upper_length_change_m": 1.2026423829025745e-07,
+      "forearm_length_change_m": 3.6056209190560295e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 5.331201499700045e-07,
+      "grip_offset_error_m": 5.331201499700045e-07
+    },
+    {
+      "frame": 111,
+      "upper_length_change_m": 8.473877406711683e-07,
+      "forearm_length_change_m": 5.064574874757977e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 9.5367431640625e-07,
+      "grip_offset_error_m": 9.5367431640625e-07
+    },
+    {
+      "frame": 112,
+      "upper_length_change_m": 4.4117392081211015e-07,
+      "forearm_length_change_m": 5.118329902409346e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 4.76837158203125e-07,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    },
+    {
+      "frame": 113,
+      "upper_length_change_m": 4.5151543295873786e-07,
+      "forearm_length_change_m": 9.076252842077359e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 114,
+      "upper_length_change_m": 3.9292069178853417e-07,
+      "forearm_length_change_m": 5.54311265221763e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    },
+    {
+      "frame": 115,
+      "upper_length_change_m": 9.138633019767362e-07,
+      "forearm_length_change_m": 4.68315373203243e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 116,
+      "upper_length_change_m": 3.7224036392169424e-07,
+      "forearm_length_change_m": 3.564177138426494e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 117,
+      "upper_length_change_m": 1.0044585765922598e-07,
+      "forearm_length_change_m": 7.045466243749132e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 118,
+      "upper_length_change_m": 7.52176335189203e-07,
+      "forearm_length_change_m": 1.927138500446013e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.066240299940009e-06,
+      "grip_offset_error_m": 1.066240299940009e-06
+    },
+    {
+      "frame": 119,
+      "upper_length_change_m": 1.1029340349355543e-07,
+      "forearm_length_change_m": 3.9371678278721234e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    },
+    {
+      "frame": 120,
+      "upper_length_change_m": 2.2944958993909026e-07,
+      "forearm_length_change_m": 3.4812907107051316e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 5.331201499700045e-07,
+      "left_hand_change_m": 5.331201499700045e-07,
+      "grip_offset_error_m": 5.331201499700045e-07
+    },
+    {
+      "frame": 121,
+      "upper_length_change_m": 8.518202090912474e-08,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 5.331201499700045e-07,
+      "grip_offset_error_m": 5.331201499700045e-07
+    },
+    {
+      "frame": 122,
+      "upper_length_change_m": 1.1669468302777375e-07,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 123,
+      "upper_length_change_m": 6.302502050803405e-08,
+      "forearm_length_change_m": 2.3623044742571153e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 124,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 8.91043973327843e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 125,
+      "upper_length_change_m": 1.82181338403975e-07,
+      "forearm_length_change_m": 1.181150348361637e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    },
+    {
+      "frame": 126,
+      "upper_length_change_m": 3.860278270650941e-07,
+      "forearm_length_change_m": 2.621324574625383e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 127,
+      "upper_length_change_m": 2.0089142999113463e-07,
+      "forearm_length_change_m": 0.0,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 9.610960183499514e-07,
+      "grip_offset_error_m": 9.610960183499514e-07
+    },
+    {
+      "frame": 128,
+      "upper_length_change_m": 6.046448639829283e-07,
+      "forearm_length_change_m": 3.035759618408296e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 129,
+      "upper_length_change_m": 3.860279267631217e-07,
+      "forearm_length_change_m": 2.44518130410043e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 130,
+      "upper_length_change_m": 4.761327011548744e-07,
+      "forearm_length_change_m": 8.28876106639953e-09,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 131,
+      "upper_length_change_m": 5.514677731133233e-08,
+      "forearm_length_change_m": 8.703209761207198e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 5.331201499700045e-07,
+      "grip_offset_error_m": 5.331201499700045e-07
+    },
+    {
+      "frame": 132,
+      "upper_length_change_m": 1.4968410175231206e-07,
+      "forearm_length_change_m": 3.4812831825603574e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 4.76837158203125e-07,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 133,
+      "upper_length_change_m": 9.269103690145997e-08,
+      "forearm_length_change_m": 1.8455438871578522e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 134,
+      "upper_length_change_m": 4.7440834435863444e-07,
+      "forearm_length_change_m": 2.896536631380453e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    },
+    {
+      "frame": 135,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 3.3983928968139843e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 9.610960183499514e-07,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 136,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 4.206553615715425e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 1.1920928955078125e-07,
+      "grip_offset_error_m": 1.1920928955078125e-07
+    },
+    {
+      "frame": 137,
+      "upper_length_change_m": 6.656988941200481e-07,
+      "forearm_length_change_m": 4.010496381934292e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.76837158203125e-07,
+      "grip_offset_error_m": 4.76837158203125e-07
+    },
+    {
+      "frame": 138,
+      "upper_length_change_m": 1.2703432233918122e-07,
+      "forearm_length_change_m": 1.1397055993400684e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 139,
+      "upper_length_change_m": 8.222777880817489e-08,
+      "forearm_length_change_m": 1.0257351074072218e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 2.384185791015625e-07,
+      "grip_offset_error_m": 2.384185791015625e-07
+    },
+    {
+      "frame": 140,
+      "upper_length_change_m": 4.007993768262441e-07,
+      "forearm_length_change_m": 6.423797652144181e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 1.1920928955078125e-07,
+      "left_hand_change_m": 5.331201499700045e-07,
+      "grip_offset_error_m": 5.331201499700045e-07
+    },
+    {
+      "frame": 141,
+      "upper_length_change_m": 4.411733114384475e-07,
+      "forearm_length_change_m": 9.946531129290115e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 142,
+      "upper_length_change_m": 3.7421019838390635e-08,
+      "forearm_length_change_m": 1.0775407954799476e-07,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 2.384185791015625e-07,
+      "left_hand_change_m": 0.0,
+      "grip_offset_error_m": 0.0
+    },
+    {
+      "frame": 143,
+      "upper_length_change_m": 5.514673367956746e-08,
+      "forearm_length_change_m": 1.7743156166538654e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    },
+    {
+      "frame": 144,
+      "upper_length_change_m": 0.0,
+      "forearm_length_change_m": 3.833558351318267e-08,
+      "root_matrix_error": 0.0,
+      "right_hand_matrix_error": 0.0,
+      "tip_error_m": 0.0,
+      "left_hand_change_m": 4.915124923727108e-07,
+      "grip_offset_error_m": 4.915124923727108e-07
+    }
+  ],
+  "max_upper_length_change_m": 2.9276741233541514e-06,
+  "max_forearm_length_change_m": 3.1818866237376398e-06,
+  "max_root_matrix_error": 0.0,
+  "max_right_hand_matrix_error": 0.0,
+  "max_impact_tip_error_m": 1.9073486328125e-06,
+  "max_grip_offset_error_m": 2.1457672119140625e-06
+}

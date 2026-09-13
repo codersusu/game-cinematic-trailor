@@ -39,6 +39,6 @@ An existing user-authorized ElevenLabs key was read privately from another proje
 
 ## Rebuild
 
-From the project root, run `python scripts/audio_mix_v2.py` in a Python environment with requirements.txt installed. The script imports project-local NumPy/SciPy and defaults to imageio-ffmpeg's installed executable. `--sync PATH` selects a different contact-timing file; `--ffmpeg PATH` selects another encoder. Rebuilding the mix uses local files and makes no API calls. The separate `scripts/audio_generate_v2.py` requires `--env-file EXTERNAL_PATH` and only requests the missing footstep source.
+From the project root, run `python scripts/audio_mix_v2.py` with the bundled Python interpreter. The script imports project-local NumPy/SciPy and defaults to the installed project-local ffmpeg. `--sync PATH` selects a different contact-timing file; `--ffmpeg PATH` selects another encoder. Rebuilding the mix uses local files and makes no API calls. The separate `scripts/audio_generate_v2.py` requires `--env-file EXTERNAL_PATH` and only requests the missing footstep source.
 
 The mixer reads existing v1 assets and writes only under `audio/v2/`. The QA file records hashes of the reused sources. Technical checks cover exact duration, stereo format, finite values, loudness and clipping. The audio agent has not performed perceptual listening; review the final video on headphones or speakers for footfall weight, acoustic scale, and synchronization.

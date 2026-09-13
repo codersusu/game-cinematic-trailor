@@ -1,0 +1,36 @@
+{
+  "status": "complete",
+  "active_render_jobs": 0,
+  "room_scene": "observatory-v12-run-entry.blend",
+  "forest_scene": "bear-bow-forest-v12.blend",
+  "first_person_forest": true,
+  "third_person_room": true,
+  "same_heroine": true,
+  "run_lookback_walk": true,
+  "single_surprise_preserved": true,
+  "previous_versions_preserved": true,
+  "production_render": false,
+  "room_scene_sha256": "f9b081ad2459c3171d968bfe839a83e3f8923d008049bd9fa1ebee9842f1b23d",
+  "forest_scene_sha256": "e070afb606fa90c27e605be0ff1ad502b2f07e12e6a717a0855e146a2afecd0f",
+  "room_entrance_preview": "Room-entry-run-look-back-walk.mp4",
+  "room_key_frames_reviewed": [
+    45,
+    79,
+    101,
+    147
+  ],
+  "forest_final_key_frames_reviewed": [
+    20,
+    35,
+    59,
+    96
+  ],
+  "movie": "Forest-to-Astra-V12.mp4",
+  "movie_sha256": "2a5c629759663794163b66911a35800d0eef67c3cb2f8d21b23b2f42d365fea0",
+  "duration_seconds": 33.5,
+  "frames": 402,
+  "fps": 12,
+  "full_decode_check": "passed",
+  "representative_image_review": "complete",
+  "full_realtime_playback": false
+}

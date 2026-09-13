@@ -1,0 +1,35 @@
+{
+  "status": "rendered awaiting visual inspection",
+  "mode": "layout",
+  "resolution": [
+    960,
+    540
+  ],
+  "heavy_render": false,
+  "stills": [
+    {
+      "frame": 60,
+      "camera": "V8 | Trail exploration",
+      "seconds": 2.67,
+      "image": "previews/v8/forest/layout-060.png"
+    },
+    {
+      "frame": 160,
+      "camera": "V8 | Clearing discovery",
+      "seconds": 2.08,
+      "image": "previews/v8/forest/layout-160.png"
+    },
+    {
+      "frame": 230,
+      "camera": "V8 | Concealed door",
+      "seconds": 1.69,
+      "image": "previews/v8/forest/layout-230.png"
+    },
+    {
+      "frame": 270,
+      "camera": "V8 | A sound behind her",
+      "seconds": 1.37,
+      "image": "previews/v8/forest/layout-270.png"
+    }
+  ]
+}

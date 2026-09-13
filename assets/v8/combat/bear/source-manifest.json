@@ -1,0 +1,43 @@
+{
+  "source_archive_name": "realistic-animated-bear-3d-model.zip",
+  "source_archive_sha256": "6b2554d2bfcf096fedea0bee57c06cfc44e765fcbc1ced3cd3c02976fbeab170",
+  "files": [
+    {
+      "path": "source/Bear Animated.fbx",
+      "bytes": 44282128,
+      "sha256": "dea803bd6efd12aa1d9a4e8e3ac09c2570f006e6a15efa559fb2c691b9bcbeaf"
+    },
+    {
+      "path": "textures/a_c_bear_01_head_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "bytes": 2762200,
+      "sha256": "680f38e43e2d3885925cca9ad29913994b02fffe536e6f9ff339ac4e1bda15ec"
+    },
+    {
+      "path": "textures/a_c_bear_01_head_000_c0_000_nm.png",
+      "bytes": 55713,
+      "sha256": "6b114128ff0f8fe13b663741236e377c3cc48cee04a9509007f7325066bff24f"
+    },
+    {
+      "path": "textures/a_c_bear_01_teef_001_c0_000_ab.png",
+      "bytes": 70944,
+      "sha256": "0c8303f1ab907f321bb475b6982f9034d9c6a5217a7029ae6bf726e43b77e0e5"
+    },
+    {
+      "path": "textures/a_c_bear_01_uppr_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "bytes": 3057459,
+      "sha256": "24e3122e6ac525b0fbbc5c9e065303170c4ae43002f424c4d2dd3f273946e443"
+    },
+    {
+      "path": "textures/a_c_bear_01_uppr_000_c0_000_nm.png",
+      "bytes": 62141,
+      "sha256": "a18c8d8af83d236c18251ff9d4353928e8efcaae283ea7c1a6e61c5d4e55154f"
+    }
+  ],
+  "source_model": "https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1",
+  "author": "WildMesh 3D",
+  "license": "CC-BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "acquisition": "User provided official download ZIP",
+  "model_warning": "Older release with known rigging problems per source creator. Background Blender import/action sampling completed; visual deformation QA remains pending.",
+  "provenance_note": "CC-BY 4.0 is the Sketchfab uploader-declared license. Texture filenames a_c_bear_01_* and upscayl suffixes do not establish original authorship; independent ownership verification was not performed. This acquisition supports local user-requested draft review, not a claim of cleared third-party source redistribution."
+}

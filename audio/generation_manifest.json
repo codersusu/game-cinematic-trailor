@@ -11,6 +11,7 @@
       "loop": true,
       "prompt": "Quiet steady rain falling through a broken dome onto ancient stone and shallow puddles inside a large abandoned observatory. Intimate detailed individual water droplets, distant soft mountain wind, spacious natural stone chamber acoustics. Consistent ambience only, no thunder, no music, no voices.",
       "billed_characters": "66",
+      "request_id": null,
       "status": "generated",
       "bytes": 193141
     },
@@ -20,6 +21,7 @@
       "loop": false,
       "prompt": "An enormous ancient bronze astronomical clockwork mechanism slowly awakens: deep heavy metal groans, stone bearing rumble, deliberate ratchet ticks, large interlocking gears grinding and rotating with tremendous weight, accelerating gently then settling. Cinematic realistic mechanical sound design in a vast stone hall. No modern motors, no music, no voices.",
       "billed_characters": "55",
+      "request_id": null,
       "status": "generated",
       "bytes": 160958
     },
@@ -29,6 +31,7 @@
       "loop": false,
       "prompt": "One monumental bronze astronomical ring clicks firmly into alignment, followed by a deep warm resonant metallic bell tone blooming and decaying through a vast ancient stone observatory. Restrained majestic mysterious cinematic sound. Single event near the start with a long beautiful reverberant tail. No speech, no music, no explosions.",
       "billed_characters": "33",
+      "request_id": null,
       "status": "generated",
       "bytes": 97010
     }

@@ -1,0 +1,14 @@
+{
+  "scene": "bear-bow-forest-v13.blend",
+  "sha256": "85f35c6ec07f20217e2edcff72133ce6c4105ad85e48cb8b33071ff0d0f3b131",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "source_fps": 12,
+  "output_fps": 12,
+  "engine": "EEVEE",
+  "samples": 16,
+  "view": "third",
+  "camera": "V13 | Arrow rest diagnostic"
+}

@@ -1,0 +1,30 @@
+{
+  "status": "Two representative material stills visually inspected; layout study only",
+  "mode": "material",
+  "resolution": [
+    960,
+    540
+  ],
+  "heavy_render": false,
+  "stills": [
+    {
+      "frame": 60,
+      "camera": "V8 | Trail exploration",
+      "seconds": 6.68,
+      "image": "previews/v8/forest/material-060.png"
+    },
+    {
+      "frame": 160,
+      "camera": "V8 | Clearing discovery",
+      "seconds": 2.59,
+      "image": "previews/v8/forest/material-160.png"
+    }
+  ],
+  "scene_sha256": "58e27cf0b49cc5c35462d729b5726f7a4fd11fb84a299accfd0e27aa45b50971",
+  "observations": [
+    "Downloaded fir, fern, stone, ground and character materials resolve; no missing pink textures.",
+    "Trail view shows full performer; second view reveals the portal.",
+    "Forest dressing, rock joins and exterior side of doorway still need art-direction polish before a final render."
+  ],
+  "full_animation_review_performed": false
+}

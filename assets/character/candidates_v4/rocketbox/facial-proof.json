@@ -1,0 +1,27 @@
+{
+  "mesh_vertices": 5170,
+  "bones": 80,
+  "shape_keys": 175,
+  "poses": {
+    "neutral": {},
+    "surprise": {
+      "AK_03_BrowInnerUp": 0.32,
+      "AK_04_BrowOuterUpLeft": 0.28,
+      "AK_05_BrowOuterUpRight": 0.28,
+      "AK_21_EyeWideLeft": 0.35,
+      "AK_22_EyeWideRight": 0.35,
+      "AK_25_JawOpen": 0.23
+    },
+    "wonder": {
+      "AK_03_BrowInnerUp": 0.15,
+      "AK_04_BrowOuterUpLeft": 0.16,
+      "AK_05_BrowOuterUpRight": 0.14,
+      "AK_21_EyeWideLeft": 0.16,
+      "AK_22_EyeWideRight": 0.16,
+      "AK_25_JawOpen": 0.28,
+      "AK_32_MouthFunnel": 0.14,
+      "AK_44_MouthSmileLeft": 0.12,
+      "AK_45_MouthSmileRight": 0.1
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "view": "third",
+  "technical_checks": "passed",
+  "frames": 144,
+  "fps": 12,
+  "duration_seconds": 12,
+  "source": {
+    "scene": "bear-bow-escape-v9.blend",
+    "sha256": "efbf48cc04cf56536b6c6e61f6ab12f47dcaede45b4e3056220afffba8e186a8",
+    "view": "third",
+    "frames": 144,
+    "fps": 12,
+    "seconds": 12,
+    "resolution": [
+      768,
+      432
+    ],
+    "engine": "EEVEE",
+    "samples": 8,
+    "heavy_render": false
+  },
+  "sha256": "d244d51a808b97aa9a71ff71d637fcedf70d3d403e7244749c901908e188f721",
+  "visual_review": "Reviewed final contact sheet at20,35,55,64,96,140 and final roll frame59. Shoot, evasion, run and doorway remain readable; pursuit no longer covers heroine at door.",
+  "full_realtime_playback": false,
+  "heavy_render": false,
+  "collision_audit": "Passed144-frame body/bear, bow/bear, floor and24doorstructure checks on matching scene hash"
+}

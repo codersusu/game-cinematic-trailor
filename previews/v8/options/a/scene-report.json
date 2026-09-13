@@ -1,0 +1,27 @@
+{
+  "option": "A \u2014 Bow versus forest guardian",
+  "frames": 96,
+  "fps": 12,
+  "duration": 8,
+  "actor": "Native licensed feminine source proxy; not yet retargeted to accepted Rocketbox woman",
+  "release_frame": 60,
+  "impact_frame": 63,
+  "guardian_walk": "Native in-place Walk, 2 cycles, matching2.1m travel over40frames",
+  "timeline": [
+    "1\u201324 guardian approaches while woman readies",
+    "25\u201335 load",
+    "36\u201359 hold/aim, guardian winds up",
+    "60 release",
+    "63 stone impact",
+    "64\u201378 recoil",
+    "79\u201396 recover"
+  ],
+  "licensed_source_scene_local_only": true,
+  "frame_handlers": 0,
+  "impact_point": [
+    -3.996732711791992,
+    -16.890348434448242,
+    1.8553905487060547
+  ],
+  "scene": "option-a-bow-guardian.blend"
+}

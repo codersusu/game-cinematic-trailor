@@ -1,0 +1,1848 @@
+{
+  "scene": "option-c-bow-bear.blend",
+  "scene_sha256": "4b0782f808ecf53dc7d8490dce458bf4e50bc151f9d12bffa42b1994184518a5",
+  "scene_unchanged_during_audit": true,
+  "frames_checked": 96,
+  "fps": 12,
+  "gpu_rendered": false,
+  "method": "Evaluated world-space skinned mesh triangles. BVH triangle intersection test on every frame. Exact vertex/face and edge/edge distance tests over conservatively bounded triangle candidates when disjoint. Bow separately tested; flying/embedded arrow intentionally excluded.",
+  "rows": [
+    {
+      "frame": 1,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.8048056397873,
+        "exact_candidate_triangle_pairs_tested": 628
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.848044694549127,
+        "exact_candidate_triangle_pairs_tested": 6698
+      },
+      "bear_floor_minimum_m": 0.15715862810611725,
+      "bear_head_world": [
+        -3.8039305210113525,
+        -14.092145919799805,
+        1.3906701803207397
+      ]
+    },
+    {
+      "frame": 2,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.709863041977183,
+        "exact_candidate_triangle_pairs_tested": 619
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.753127574920654,
+        "exact_candidate_triangle_pairs_tested": 6700
+      },
+      "bear_floor_minimum_m": 0.1593034714460373,
+      "bear_head_world": [
+        -3.7762153148651123,
+        -14.188803672790527,
+        1.4001096487045288
+      ]
+    },
+    {
+      "frame": 3,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.611899375915527,
+        "exact_candidate_triangle_pairs_tested": 623
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.655147075653076,
+        "exact_candidate_triangle_pairs_tested": 6713
+      },
+      "bear_floor_minimum_m": 0.14500008523464203,
+      "bear_head_world": [
+        -3.751059055328369,
+        -14.287131309509277,
+        1.4083144664764404
+      ]
+    },
+    {
+      "frame": 4,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.526360211886532,
+        "exact_candidate_triangle_pairs_tested": 619
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.56967157002354,
+        "exact_candidate_triangle_pairs_tested": 6829
+      },
+      "bear_floor_minimum_m": 0.18103106319904327,
+      "bear_head_world": [
+        -3.7207679748535156,
+        -14.372246742248535,
+        1.3950275182724
+      ]
+    },
+    {
+      "frame": 5,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.440141969822367,
+        "exact_candidate_triangle_pairs_tested": 623
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.483497142791748,
+        "exact_candidate_triangle_pairs_tested": 6955
+      },
+      "bear_floor_minimum_m": 0.18104350566864014,
+      "bear_head_world": [
+        -3.7045867443084717,
+        -14.457511901855469,
+        1.3715404272079468
+      ]
+    },
+    {
+      "frame": 6,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.350595245180117,
+        "exact_candidate_triangle_pairs_tested": 619
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.393982324755061,
+        "exact_candidate_triangle_pairs_tested": 6985
+      },
+      "bear_floor_minimum_m": 0.16789519786834717,
+      "bear_head_world": [
+        -3.7051613330841064,
+        -14.545538902282715,
+        1.3447870016098022
+      ]
+    },
+    {
+      "frame": 7,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.257006406105563,
+        "exact_candidate_triangle_pairs_tested": 611
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.30038297681798,
+        "exact_candidate_triangle_pairs_tested": 6923
+      },
+      "bear_floor_minimum_m": 0.16237010061740875,
+      "bear_head_world": [
+        -3.7243027687072754,
+        -14.637248992919922,
+        1.3262667655944824
+      ]
+    },
+    {
+      "frame": 8,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.167811393737793,
+        "exact_candidate_triangle_pairs_tested": 602
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.211316259756836,
+        "exact_candidate_triangle_pairs_tested": 6840
+      },
+      "bear_floor_minimum_m": 0.15045496821403503,
+      "bear_head_world": [
+        -3.720181465148926,
+        -14.724956512451172,
+        1.3112155199050903
+      ]
+    },
+    {
+      "frame": 9,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.083558082580566,
+        "exact_candidate_triangle_pairs_tested": 598
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.126999378204346,
+        "exact_candidate_triangle_pairs_tested": 6719
+      },
+      "bear_floor_minimum_m": 0.14500004053115845,
+      "bear_head_world": [
+        -3.7279903888702393,
+        -14.8104248046875,
+        1.352385401725769
+      ]
+    },
+    {
+      "frame": 10,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.001083708132217,
+        "exact_candidate_triangle_pairs_tested": 610
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 4.044539451599121,
+        "exact_candidate_triangle_pairs_tested": 6611
+      },
+      "bear_floor_minimum_m": 0.15461017191410065,
+      "bear_head_world": [
+        -3.749682903289795,
+        -14.892714500427246,
+        1.3519166707992554
+      ]
+    },
+    {
+      "frame": 11,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.9218058586120605,
+        "exact_candidate_triangle_pairs_tested": 639
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.9650678634643555,
+        "exact_candidate_triangle_pairs_tested": 6531
+      },
+      "bear_floor_minimum_m": 0.15396316349506378,
+      "bear_head_world": [
+        -3.7861180305480957,
+        -14.973135948181152,
+        1.3844324350357056
+      ]
+    },
+    {
+      "frame": 12,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.8307556712801825,
+        "exact_candidate_triangle_pairs_tested": 640
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.8737854957580566,
+        "exact_candidate_triangle_pairs_tested": 6554
+      },
+      "bear_floor_minimum_m": 0.1606539636850357,
+      "bear_head_world": [
+        -3.8205740451812744,
+        -15.063756942749023,
+        1.4058842658996582
+      ]
+    },
+    {
+      "frame": 13,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.730818748474121,
+        "exact_candidate_triangle_pairs_tested": 649
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.773686341310357,
+        "exact_candidate_triangle_pairs_tested": 6688
+      },
+      "bear_floor_minimum_m": 0.14500008523464203,
+      "bear_head_world": [
+        -3.8446359634399414,
+        -15.161989212036133,
+        1.4065027236938477
+      ]
+    },
+    {
+      "frame": 14,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.642713785171509,
+        "exact_candidate_triangle_pairs_tested": 653
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.68538236618042,
+        "exact_candidate_triangle_pairs_tested": 6771
+      },
+      "bear_floor_minimum_m": 0.18218201398849487,
+      "bear_head_world": [
+        -3.8766512870788574,
+        -15.247236251831055,
+        1.3912965059280396
+      ]
+    },
+    {
+      "frame": 15,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.554112672805786,
+        "exact_candidate_triangle_pairs_tested": 647
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.596650487999798,
+        "exact_candidate_triangle_pairs_tested": 6862
+      },
+      "bear_floor_minimum_m": 0.17981593310832977,
+      "bear_head_world": [
+        -3.8958497047424316,
+        -15.332319259643555,
+        1.36484956741333
+      ]
+    },
+    {
+      "frame": 16,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.4628524780273438,
+        "exact_candidate_triangle_pairs_tested": 640
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.5053888131307676,
+        "exact_candidate_triangle_pairs_tested": 6832
+      },
+      "bear_floor_minimum_m": 0.16013507544994354,
+      "bear_head_world": [
+        -3.897475004196167,
+        -15.419563293457031,
+        1.3283629417419434
+      ]
+    },
+    {
+      "frame": 17,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.3683377903339395,
+        "exact_candidate_triangle_pairs_tested": 631
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.4109323963095646,
+        "exact_candidate_triangle_pairs_tested": 6779
+      },
+      "bear_floor_minimum_m": 0.1541350930929184,
+      "bear_head_world": [
+        -3.877840518951416,
+        -15.5111722946167,
+        1.3143031597137451
+      ]
+    },
+    {
+      "frame": 18,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.280140598717116,
+        "exact_candidate_triangle_pairs_tested": 635
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.322647798758367,
+        "exact_candidate_triangle_pairs_tested": 6663
+      },
+      "bear_floor_minimum_m": 0.15164925158023834,
+      "bear_head_world": [
+        -3.87770414352417,
+        -15.596853256225586,
+        1.3118311166763306
+      ]
+    },
+    {
+      "frame": 19,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.1979761123657227,
+        "exact_candidate_triangle_pairs_tested": 628
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.2403087615966797,
+        "exact_candidate_triangle_pairs_tested": 6537
+      },
+      "bear_floor_minimum_m": 0.14500007033348083,
+      "bear_head_world": [
+        -3.862610101699829,
+        -15.68012809753418,
+        1.3556994199752808
+      ]
+    },
+    {
+      "frame": 20,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.1187543683604377,
+        "exact_candidate_triangle_pairs_tested": 624
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.1611690521240234,
+        "exact_candidate_triangle_pairs_tested": 6438
+      },
+      "bear_floor_minimum_m": 0.1581791341304779,
+      "bear_head_world": [
+        -3.8336942195892334,
+        -15.759804725646973,
+        1.3630541563034058
+      ]
+    },
+    {
+      "frame": 21,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.0394046306610107,
+        "exact_candidate_triangle_pairs_tested": 621
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.081822331358784,
+        "exact_candidate_triangle_pairs_tested": 6392
+      },
+      "bear_floor_minimum_m": 0.1571648269891739,
+      "bear_head_world": [
+        -3.8038768768310547,
+        -15.842476844787598,
+        1.390700101852417
+      ]
+    },
+    {
+      "frame": 22,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.982295513153076,
+        "exact_candidate_triangle_pairs_tested": 634
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 3.024716701691632,
+        "exact_candidate_triangle_pairs_tested": 6407
+      },
+      "bear_floor_minimum_m": 0.15275117754936218,
+      "bear_head_world": [
+        -3.7873380184173584,
+        -15.90018081665039,
+        1.3974995613098145
+      ]
+    },
+    {
+      "frame": 23,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.8851962089538574,
+        "exact_candidate_triangle_pairs_tested": 623
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.927588701248169,
+        "exact_candidate_triangle_pairs_tested": 6454
+      },
+      "bear_floor_minimum_m": 0.14500005543231964,
+      "bear_head_world": [
+        -3.760471820831299,
+        -15.998172760009766,
+        1.4078878164291382
+      ]
+    },
+    {
+      "frame": 24,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.794923782348633,
+        "exact_candidate_triangle_pairs_tested": 627
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.8373807579037393,
+        "exact_candidate_triangle_pairs_tested": 6628
+      },
+      "bear_floor_minimum_m": 0.178744375705719,
+      "bear_head_world": [
+        -3.731419801712036,
+        -16.088621139526367,
+        1.4009357690811157
+      ]
+    },
+    {
+      "frame": 25,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.724930763244629,
+        "exact_candidate_triangle_pairs_tested": 630
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.767864942550659,
+        "exact_candidate_triangle_pairs_tested": 6624
+      },
+      "bear_floor_minimum_m": 0.18231616914272308,
+      "bear_head_world": [
+        -3.7090649604797363,
+        -16.17349624633789,
+        1.38092041015625
+      ]
+    },
+    {
+      "frame": 26,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.3874868432604313,
+        "exact_candidate_triangle_pairs_tested": 2298
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.4185632518313853,
+        "exact_candidate_triangle_pairs_tested": 6720
+      },
+      "bear_floor_minimum_m": 0.17585937678813934,
+      "bear_head_world": [
+        -3.702970027923584,
+        -16.260251998901367,
+        1.3558142185211182
+      ]
+    },
+    {
+      "frame": 27,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.309008221244196,
+        "exact_candidate_triangle_pairs_tested": 2580
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.3456578254699707,
+        "exact_candidate_triangle_pairs_tested": 7090
+      },
+      "bear_floor_minimum_m": 0.1601879745721817,
+      "bear_head_world": [
+        -3.714094400405884,
+        -16.35040855407715,
+        1.330996036529541
+      ]
+    },
+    {
+      "frame": 28,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.2302417755126953,
+        "exact_candidate_triangle_pairs_tested": 2759
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.2703847885131836,
+        "exact_candidate_triangle_pairs_tested": 7234
+      },
+      "bear_floor_minimum_m": 0.15568938851356506,
+      "bear_head_world": [
+        -3.7201485633850098,
+        -16.440265655517578,
+        1.3123817443847656
+      ]
+    },
+    {
+      "frame": 29,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.149703025817871,
+        "exact_candidate_triangle_pairs_tested": 2728
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.1897808311645814,
+        "exact_candidate_triangle_pairs_tested": 7019
+      },
+      "bear_floor_minimum_m": 0.14512713253498077,
+      "bear_head_world": [
+        -3.7234106063842773,
+        -16.52696990966797,
+        1.3171653747558594
+      ]
+    },
+    {
+      "frame": 30,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.067579507827759,
+        "exact_candidate_triangle_pairs_tested": 2725
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.10695481300354,
+        "exact_candidate_triangle_pairs_tested": 6888
+      },
+      "bear_floor_minimum_m": 0.14500002562999725,
+      "bear_head_world": [
+        -3.739272117614746,
+        -16.61046600341797,
+        1.358657717704773
+      ]
+    },
+    {
+      "frame": 31,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.9914621079678452,
+        "exact_candidate_triangle_pairs_tested": 2796
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0283915996551514,
+        "exact_candidate_triangle_pairs_tested": 6649
+      },
+      "bear_floor_minimum_m": 0.15871277451515198,
+      "bear_head_world": [
+        -3.769688129425049,
+        -16.691299438476562,
+        1.3712457418441772
+      ]
+    },
+    {
+      "frame": 32,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.907386538685837,
+        "exact_candidate_triangle_pairs_tested": 2814
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.942704729779117,
+        "exact_candidate_triangle_pairs_tested": 6580
+      },
+      "bear_floor_minimum_m": 0.15260259807109833,
+      "bear_head_world": [
+        -3.8096368312835693,
+        -16.775178909301758,
+        1.4001140594482422
+      ]
+    },
+    {
+      "frame": 33,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8070155382156372,
+        "exact_candidate_triangle_pairs_tested": 2756
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8417357206344604,
+        "exact_candidate_triangle_pairs_tested": 6487
+      },
+      "bear_floor_minimum_m": 0.14500004053115845,
+      "bear_head_world": [
+        -3.835336208343506,
+        -16.87293243408203,
+        1.408768653869629
+      ]
+    },
+    {
+      "frame": 34,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.7156801223754883,
+        "exact_candidate_triangle_pairs_tested": 2699
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.750055193901062,
+        "exact_candidate_triangle_pairs_tested": 6423
+      },
+      "bear_floor_minimum_m": 0.17989981174468994,
+      "bear_head_world": [
+        -3.865090847015381,
+        -16.96360206604004,
+        1.398268461227417
+      ]
+    },
+    {
+      "frame": 35,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.631909473207378,
+        "exact_candidate_triangle_pairs_tested": 2665
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.665809833298197,
+        "exact_candidate_triangle_pairs_tested": 6354
+      },
+      "bear_floor_minimum_m": 0.18297335505485535,
+      "bear_head_world": [
+        -3.890097141265869,
+        -17.0484561920166,
+        1.3772814273834229
+      ]
+    },
+    {
+      "frame": 36,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.5432060956954956,
+        "exact_candidate_triangle_pairs_tested": 2732
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.5757333040237427,
+        "exact_candidate_triangle_pairs_tested": 6340
+      },
+      "bear_floor_minimum_m": 0.16859793663024902,
+      "bear_head_world": [
+        -3.899031400680542,
+        -17.13465690612793,
+        1.3425066471099854
+      ]
+    },
+    {
+      "frame": 37,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4643205687512941,
+        "exact_candidate_triangle_pairs_tested": 2856
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4954427181593204,
+        "exact_candidate_triangle_pairs_tested": 6334
+      },
+      "bear_floor_minimum_m": 0.15187294781208038,
+      "bear_head_world": [
+        -3.8885765075683594,
+        -17.224111557006836,
+        1.3142192363739014
+      ]
+    },
+    {
+      "frame": 38,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3823721583282256,
+        "exact_candidate_triangle_pairs_tested": 3153
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4122429490393698,
+        "exact_candidate_triangle_pairs_tested": 6381
+      },
+      "bear_floor_minimum_m": 0.15628056228160858,
+      "bear_head_world": [
+        -3.8795344829559326,
+        -17.313016891479492,
+        1.3095744848251343
+      ]
+    },
+    {
+      "frame": 39,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.303762674331665,
+        "exact_candidate_triangle_pairs_tested": 3145
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3331797855657954,
+        "exact_candidate_triangle_pairs_tested": 6405
+      },
+      "bear_floor_minimum_m": 0.14588724076747894,
+      "bear_head_world": [
+        -3.8705432415008545,
+        -17.397579193115234,
+        1.3214679956436157
+      ]
+    },
+    {
+      "frame": 40,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.22250993602709,
+        "exact_candidate_triangle_pairs_tested": 3104
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2519850730895996,
+        "exact_candidate_triangle_pairs_tested": 6178
+      },
+      "bear_floor_minimum_m": 0.14500004053115845,
+      "bear_head_world": [
+        -3.846508264541626,
+        -17.478607177734375,
+        1.361275553703308
+      ]
+    },
+    {
+      "frame": 41,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1476162565909165,
+        "exact_candidate_triangle_pairs_tested": 3234
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.176619045892234,
+        "exact_candidate_triangle_pairs_tested": 6182
+      },
+      "bear_floor_minimum_m": 0.16141417622566223,
+      "bear_head_world": [
+        -3.8124876022338867,
+        -17.556556701660156,
+        1.3833343982696533
+      ]
+    },
+    {
+      "frame": 42,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.0953564749990132,
+        "exact_candidate_triangle_pairs_tested": 3289
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1238855123519897,
+        "exact_candidate_triangle_pairs_tested": 6115
+      },
+      "bear_floor_minimum_m": 0.15328851342201233,
+      "bear_head_world": [
+        -3.7984981536865234,
+        -17.61208152770996,
+        1.3934581279754639
+      ]
+    },
+    {
+      "frame": 43,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.0881608724594116,
+        "exact_candidate_triangle_pairs_tested": 3322
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1171798389012078,
+        "exact_candidate_triangle_pairs_tested": 6122
+      },
+      "bear_floor_minimum_m": 0.14755646884441376,
+      "bear_head_world": [
+        -3.7838611602783203,
+        -17.61589241027832,
+        1.3936976194381714
+      ]
+    },
+    {
+      "frame": 44,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1012791064469305,
+        "exact_candidate_triangle_pairs_tested": 3303
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1320198706139857,
+        "exact_candidate_triangle_pairs_tested": 6507
+      },
+      "bear_floor_minimum_m": 0.14500002562999725,
+      "bear_head_world": [
+        -3.736006736755371,
+        -17.597183227539062,
+        1.389553427696228
+      ]
+    },
+    {
+      "frame": 45,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1798139810562134,
+        "exact_candidate_triangle_pairs_tested": 2712
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2089623584181215,
+        "exact_candidate_triangle_pairs_tested": 7555
+      },
+      "bear_floor_minimum_m": 0.14500005543231964,
+      "bear_head_world": [
+        -3.6513912677764893,
+        -17.53649139404297,
+        1.3231756687164307
+      ]
+    },
+    {
+      "frame": 46,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3484522104263306,
+        "exact_candidate_triangle_pairs_tested": 6894
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3619303231654722,
+        "exact_candidate_triangle_pairs_tested": 9756
+      },
+      "bear_floor_minimum_m": 0.14500007033348083,
+      "bear_head_world": [
+        -3.554574728012085,
+        -17.425334930419922,
+        1.1821744441986084
+      ]
+    },
+    {
+      "frame": 47,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.464842677116394,
+        "exact_candidate_triangle_pairs_tested": 6364
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4748228493331124,
+        "exact_candidate_triangle_pairs_tested": 9009
+      },
+      "bear_floor_minimum_m": 0.14500005543231964,
+      "bear_head_world": [
+        -3.4736945629119873,
+        -17.31867790222168,
+        1.1232799291610718
+      ]
+    },
+    {
+      "frame": 48,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2929277420043945,
+        "exact_candidate_triangle_pairs_tested": 2328
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.32939875125885,
+        "exact_candidate_triangle_pairs_tested": 6234
+      },
+      "bear_floor_minimum_m": 0.19887922704219818,
+      "bear_head_world": [
+        -3.4442214965820312,
+        -17.36927032470703,
+        1.3943562507629395
+      ]
+    },
+    {
+      "frame": 49,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2144603729248047,
+        "exact_candidate_triangle_pairs_tested": 5795
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2264432120175341,
+        "exact_candidate_triangle_pairs_tested": 9150
+      },
+      "bear_floor_minimum_m": 0.20543470978736877,
+      "bear_head_world": [
+        -3.464704751968384,
+        -17.45652961730957,
+        1.8179848194122314
+      ]
+    },
+    {
+      "frame": 50,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3406185997241082,
+        "exact_candidate_triangle_pairs_tested": 15351
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2825857183883766,
+        "exact_candidate_triangle_pairs_tested": 15462
+      },
+      "bear_floor_minimum_m": 0.20354609191417694,
+      "bear_head_world": [
+        -3.4846251010894775,
+        -17.505901336669922,
+        2.171600103378296
+      ]
+    },
+    {
+      "frame": 51,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3418386618036369,
+        "exact_candidate_triangle_pairs_tested": 19552
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2603531694542385,
+        "exact_candidate_triangle_pairs_tested": 5954
+      },
+      "bear_floor_minimum_m": 0.21171347796916962,
+      "bear_head_world": [
+        -3.4517323970794678,
+        -17.58525276184082,
+        2.3572139739990234
+      ]
+    },
+    {
+      "frame": 52,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.0841935873031616,
+        "exact_candidate_triangle_pairs_tested": 47209
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.0763293504714966,
+        "exact_candidate_triangle_pairs_tested": 10789
+      },
+      "bear_floor_minimum_m": 0.2103169858455658,
+      "bear_head_world": [
+        -3.1408305168151855,
+        -17.768943786621094,
+        2.1228299140930176
+      ]
+    },
+    {
+      "frame": 53,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 0.540595293045044,
+        "exact_candidate_triangle_pairs_tested": 4010
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 0.5665813487805362,
+        "exact_candidate_triangle_pairs_tested": 6419
+      },
+      "bear_floor_minimum_m": 0.2049144059419632,
+      "bear_head_world": [
+        -2.7917094230651855,
+        -17.884811401367188,
+        1.7223949432373047
+      ]
+    },
+    {
+      "frame": 54,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1376732558048341,
+        "exact_candidate_triangle_pairs_tested": 104887
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1036570072174072,
+        "exact_candidate_triangle_pairs_tested": 1690
+      },
+      "bear_floor_minimum_m": 0.1977389007806778,
+      "bear_head_world": [
+        -2.5718917846679688,
+        -17.970596313476562,
+        1.439206838607788
+      ]
+    },
+    {
+      "frame": 55,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3768789768218994,
+        "exact_candidate_triangle_pairs_tested": 107575
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4056764841079712,
+        "exact_candidate_triangle_pairs_tested": 12208
+      },
+      "bear_floor_minimum_m": 0.1932557076215744,
+      "bear_head_world": [
+        -2.468156099319458,
+        -17.974809646606445,
+        1.2464054822921753
+      ]
+    },
+    {
+      "frame": 56,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.379846215248108,
+        "exact_candidate_triangle_pairs_tested": 79562
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4080579070398969,
+        "exact_candidate_triangle_pairs_tested": 8984
+      },
+      "bear_floor_minimum_m": 0.19731402397155762,
+      "bear_head_world": [
+        -2.4499399662017822,
+        -17.999191284179688,
+        1.2168883085250854
+      ]
+    },
+    {
+      "frame": 57,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3560501337051392,
+        "exact_candidate_triangle_pairs_tested": 40112
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3864822958444156,
+        "exact_candidate_triangle_pairs_tested": 6974
+      },
+      "bear_floor_minimum_m": 0.17986418306827545,
+      "bear_head_world": [
+        -2.437190532684326,
+        -18.030643463134766,
+        1.287176489830017
+      ]
+    },
+    {
+      "frame": 58,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3213401777104092,
+        "exact_candidate_triangle_pairs_tested": 22698
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3512557744979858,
+        "exact_candidate_triangle_pairs_tested": 5822
+      },
+      "bear_floor_minimum_m": 0.20130962133407593,
+      "bear_head_world": [
+        -2.445058822631836,
+        -18.06748390197754,
+        1.378584384918213
+      ]
+    },
+    {
+      "frame": 59,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2741397619247437,
+        "exact_candidate_triangle_pairs_tested": 18316
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3043237325103678,
+        "exact_candidate_triangle_pairs_tested": 5897
+      },
+      "bear_floor_minimum_m": 0.21381321549415588,
+      "bear_head_world": [
+        -2.4720547199249268,
+        -18.106246948242188,
+        1.4336899518966675
+      ]
+    },
+    {
+      "frame": 60,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2048102617263794,
+        "exact_candidate_triangle_pairs_tested": 17516
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.2349941524217667,
+        "exact_candidate_triangle_pairs_tested": 6471
+      },
+      "bear_floor_minimum_m": 0.21115750074386597,
+      "bear_head_world": [
+        -2.52764630317688,
+        -18.156509399414062,
+        1.430070400238037
+      ]
+    },
+    {
+      "frame": 61,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1264564990997314,
+        "exact_candidate_triangle_pairs_tested": 17565
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1524235010147095,
+        "exact_candidate_triangle_pairs_tested": 6033
+      },
+      "bear_floor_minimum_m": 0.20403100550174713,
+      "bear_head_world": [
+        -2.582329273223877,
+        -18.200672149658203,
+        1.4264634847640991
+      ]
+    },
+    {
+      "frame": 62,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.075955590090283,
+        "exact_candidate_triangle_pairs_tested": 16652
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.0993502140045166,
+        "exact_candidate_triangle_pairs_tested": 5893
+      },
+      "bear_floor_minimum_m": 0.20535919070243835,
+      "bear_head_world": [
+        -2.6258726119995117,
+        -18.23124885559082,
+        1.4494887590408325
+      ]
+    },
+    {
+      "frame": 63,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.003519355218324,
+        "exact_candidate_triangle_pairs_tested": 21302
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.0297163724899292,
+        "exact_candidate_triangle_pairs_tested": 11569
+      },
+      "bear_floor_minimum_m": 0.18730834126472473,
+      "bear_head_world": [
+        -2.8083548545837402,
+        -18.158647537231445,
+        1.4776721000671387
+      ]
+    },
+    {
+      "frame": 64,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 0.812587559223175,
+        "exact_candidate_triangle_pairs_tested": 1733
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 0.8447486758232117,
+        "exact_candidate_triangle_pairs_tested": 6936
+      },
+      "bear_floor_minimum_m": 0.19879132509231567,
+      "bear_head_world": [
+        -3.2538204193115234,
+        -17.979143142700195,
+        1.5329262018203735
+      ]
+    },
+    {
+      "frame": 65,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.0933311392656826,
+        "exact_candidate_triangle_pairs_tested": 15988
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.1057630381432693,
+        "exact_candidate_triangle_pairs_tested": 11260
+      },
+      "bear_floor_minimum_m": 0.2182484120130539,
+      "bear_head_world": [
+        -3.634768009185791,
+        -17.690549850463867,
+        1.6291778087615967
+      ]
+    },
+    {
+      "frame": 66,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.5585488080978394,
+        "exact_candidate_triangle_pairs_tested": 56904
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.5862110059479193,
+        "exact_candidate_triangle_pairs_tested": 9216
+      },
+      "bear_floor_minimum_m": 0.206759974360466,
+      "bear_head_world": [
+        -3.590550661087036,
+        -17.435588836669922,
+        1.6886831521987915
+      ]
+    },
+    {
+      "frame": 67,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.7149203641532567,
+        "exact_candidate_triangle_pairs_tested": 47551
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.7260535569434354,
+        "exact_candidate_triangle_pairs_tested": 5907
+      },
+      "bear_floor_minimum_m": 0.1956074833869934,
+      "bear_head_world": [
+        -3.4411122798919678,
+        -17.34310531616211,
+        1.6961944103240967
+      ]
+    },
+    {
+      "frame": 68,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.7792060375213623,
+        "exact_candidate_triangle_pairs_tested": 64721
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.7878547760709669,
+        "exact_candidate_triangle_pairs_tested": 5137
+      },
+      "bear_floor_minimum_m": 0.18521784245967865,
+      "bear_head_world": [
+        -3.347710609436035,
+        -17.283315658569336,
+        1.696413516998291
+      ]
+    },
+    {
+      "frame": 69,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8120977878570557,
+        "exact_candidate_triangle_pairs_tested": 61057
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8369749784469604,
+        "exact_candidate_triangle_pairs_tested": 5805
+      },
+      "bear_floor_minimum_m": 0.1884075552225113,
+      "bear_head_world": [
+        -3.2884039878845215,
+        -17.24489402770996,
+        1.7020329236984253
+      ]
+    },
+    {
+      "frame": 70,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8128470182418823,
+        "exact_candidate_triangle_pairs_tested": 57433
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8439884142772238,
+        "exact_candidate_triangle_pairs_tested": 5908
+      },
+      "bear_floor_minimum_m": 0.18576472997665405,
+      "bear_head_world": [
+        -3.2616100311279297,
+        -17.236726760864258,
+        1.6976248025894165
+      ]
+    },
+    {
+      "frame": 71,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0965059923148877,
+        "exact_candidate_triangle_pairs_tested": 14931
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.9596895071583913,
+        "exact_candidate_triangle_pairs_tested": 2789
+      },
+      "bear_floor_minimum_m": 0.18377439677715302,
+      "bear_head_world": [
+        -3.2503671646118164,
+        -17.237709045410156,
+        1.6989717483520508
+      ]
+    },
+    {
+      "frame": 72,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.101212901756316,
+        "exact_candidate_triangle_pairs_tested": 18073
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.159891115718044,
+        "exact_candidate_triangle_pairs_tested": 3379
+      },
+      "bear_floor_minimum_m": 0.18049879372119904,
+      "bear_head_world": [
+        -3.2447338104248047,
+        -17.24305534362793,
+        1.703499674797058
+      ]
+    },
+    {
+      "frame": 73,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.1006396974860517,
+        "exact_candidate_triangle_pairs_tested": 18956
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.156282663345337,
+        "exact_candidate_triangle_pairs_tested": 3110
+      },
+      "bear_floor_minimum_m": 0.17980067431926727,
+      "bear_head_world": [
+        -3.241598606109619,
+        -17.250640869140625,
+        1.7098654508590698
+      ]
+    },
+    {
+      "frame": 74,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0991873741149902,
+        "exact_candidate_triangle_pairs_tested": 19923
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.151546546984934,
+        "exact_candidate_triangle_pairs_tested": 2885
+      },
+      "bear_floor_minimum_m": 0.17986831068992615,
+      "bear_head_world": [
+        -3.240311622619629,
+        -17.259849548339844,
+        1.7171119451522827
+      ]
+    },
+    {
+      "frame": 75,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0983641147613525,
+        "exact_candidate_triangle_pairs_tested": 21644
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.1454906463623047,
+        "exact_candidate_triangle_pairs_tested": 2697
+      },
+      "bear_floor_minimum_m": 0.17972332239151,
+      "bear_head_world": [
+        -3.2412705421447754,
+        -17.270687103271484,
+        1.7241708040237427
+      ]
+    },
+    {
+      "frame": 76,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.09761643409729,
+        "exact_candidate_triangle_pairs_tested": 24483
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.1374199390411377,
+        "exact_candidate_triangle_pairs_tested": 2595
+      },
+      "bear_floor_minimum_m": 0.17930269241333008,
+      "bear_head_world": [
+        -3.2460086345672607,
+        -17.284074783325195,
+        1.730902075767517
+      ]
+    },
+    {
+      "frame": 77,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0966770643387522,
+        "exact_candidate_triangle_pairs_tested": 28770
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.12750244140625,
+        "exact_candidate_triangle_pairs_tested": 2700
+      },
+      "bear_floor_minimum_m": 0.1786850094795227,
+      "bear_head_world": [
+        -3.25492000579834,
+        -17.299911499023438,
+        1.7372417449951172
+      ]
+    },
+    {
+      "frame": 78,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0893518924713135,
+        "exact_candidate_triangle_pairs_tested": 30793
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.116438388824463,
+        "exact_candidate_triangle_pairs_tested": 3136
+      },
+      "bear_floor_minimum_m": 0.17821496725082397,
+      "bear_head_world": [
+        -3.267421007156372,
+        -17.31760597229004,
+        1.7434369325637817
+      ]
+    },
+    {
+      "frame": 79,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0784780979156494,
+        "exact_candidate_triangle_pairs_tested": 31463
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.1049320697784424,
+        "exact_candidate_triangle_pairs_tested": 3981
+      },
+      "bear_floor_minimum_m": 0.1780402660369873,
+      "bear_head_world": [
+        -3.2828445434570312,
+        -17.33644676208496,
+        1.7495125532150269
+      ]
+    },
+    {
+      "frame": 80,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0665301392163204,
+        "exact_candidate_triangle_pairs_tested": 32697
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.092661329035526,
+        "exact_candidate_triangle_pairs_tested": 5274
+      },
+      "bear_floor_minimum_m": 0.1730806827545166,
+      "bear_head_world": [
+        -3.301197052001953,
+        -17.355873107910156,
+        1.7502689361572266
+      ]
+    },
+    {
+      "frame": 81,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.055049572434321,
+        "exact_candidate_triangle_pairs_tested": 35260
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0745480060577393,
+        "exact_candidate_triangle_pairs_tested": 6185
+      },
+      "bear_floor_minimum_m": 0.16859102249145508,
+      "bear_head_world": [
+        -3.3220694065093994,
+        -17.375656127929688,
+        1.7508609294891357
+      ]
+    },
+    {
+      "frame": 82,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.044411123629225,
+        "exact_candidate_triangle_pairs_tested": 40368
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0478682419548346,
+        "exact_candidate_triangle_pairs_tested": 5673
+      },
+      "bear_floor_minimum_m": 0.16468410193920135,
+      "bear_head_world": [
+        -3.3453516960144043,
+        -17.39551544189453,
+        1.7513060569763184
+      ]
+    },
+    {
+      "frame": 83,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0304579734802246,
+        "exact_candidate_triangle_pairs_tested": 42996
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0222725868225098,
+        "exact_candidate_triangle_pairs_tested": 5213
+      },
+      "bear_floor_minimum_m": 0.1614014059305191,
+      "bear_head_world": [
+        -3.370628595352173,
+        -17.4150447845459,
+        1.751598834991455
+      ]
+    },
+    {
+      "frame": 84,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 2.0058553218841553,
+        "exact_candidate_triangle_pairs_tested": 34885
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.9935592108281177,
+        "exact_candidate_triangle_pairs_tested": 4882
+      },
+      "bear_floor_minimum_m": 0.15883733332157135,
+      "bear_head_world": [
+        -3.3993983268737793,
+        -17.437824249267578,
+        1.7520346641540527
+      ]
+    },
+    {
+      "frame": 85,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.979243278503418,
+        "exact_candidate_triangle_pairs_tested": 30053
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.9611953496932983,
+        "exact_candidate_triangle_pairs_tested": 5628
+      },
+      "bear_floor_minimum_m": 0.15696562826633453,
+      "bear_head_world": [
+        -3.4339027404785156,
+        -17.466670989990234,
+        1.7516123056411743
+      ]
+    },
+    {
+      "frame": 86,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.9462054780658753,
+        "exact_candidate_triangle_pairs_tested": 29322
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.9075119070741382,
+        "exact_candidate_triangle_pairs_tested": 4328
+      },
+      "bear_floor_minimum_m": 0.155864879488945,
+      "bear_head_world": [
+        -3.4743812084198,
+        -17.499675750732422,
+        1.7485885620117188
+      ]
+    },
+    {
+      "frame": 87,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8829727172851562,
+        "exact_candidate_triangle_pairs_tested": 15620
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.8444567069502351,
+        "exact_candidate_triangle_pairs_tested": 4372
+      },
+      "bear_floor_minimum_m": 0.15553830564022064,
+      "bear_head_world": [
+        -3.5200490951538086,
+        -17.533679962158203,
+        1.7416657209396362
+      ]
+    },
+    {
+      "frame": 88,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.790780782699585,
+        "exact_candidate_triangle_pairs_tested": 2084
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.761364459991455,
+        "exact_candidate_triangle_pairs_tested": 11810
+      },
+      "bear_floor_minimum_m": 0.1560613214969635,
+      "bear_head_world": [
+        -3.569690704345703,
+        -17.566383361816406,
+        1.7295684814453125
+      ]
+    },
+    {
+      "frame": 89,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.663211464881897,
+        "exact_candidate_triangle_pairs_tested": 716
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.631528615951538,
+        "exact_candidate_triangle_pairs_tested": 8848
+      },
+      "bear_floor_minimum_m": 0.1574261635541916,
+      "bear_head_world": [
+        -3.6209237575531006,
+        -17.59522247314453,
+        1.7122327089309692
+      ]
+    },
+    {
+      "frame": 90,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.56592523057501,
+        "exact_candidate_triangle_pairs_tested": 2280
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.517796277999878,
+        "exact_candidate_triangle_pairs_tested": 7804
+      },
+      "bear_floor_minimum_m": 0.1597144454717636,
+      "bear_head_world": [
+        -3.6693453788757324,
+        -17.617725372314453,
+        1.6913813352584839
+      ]
+    },
+    {
+      "frame": 91,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4764423927019685,
+        "exact_candidate_triangle_pairs_tested": 3388
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.430351972579956,
+        "exact_candidate_triangle_pairs_tested": 7058
+      },
+      "bear_floor_minimum_m": 0.16078904271125793,
+      "bear_head_world": [
+        -3.7124247550964355,
+        -17.633726119995117,
+        1.669677495956421
+      ]
+    },
+    {
+      "frame": 92,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.4082848793667826,
+        "exact_candidate_triangle_pairs_tested": 2759
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3753045243385413,
+        "exact_candidate_triangle_pairs_tested": 8046
+      },
+      "bear_floor_minimum_m": 0.1624164879322052,
+      "bear_head_world": [
+        -3.7474050521850586,
+        -17.64389419555664,
+        1.6497459411621094
+      ]
+    },
+    {
+      "frame": 93,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.364266037940979,
+        "exact_candidate_triangle_pairs_tested": 2331
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3433607816696167,
+        "exact_candidate_triangle_pairs_tested": 8745
+      },
+      "bear_floor_minimum_m": 0.1643899828195572,
+      "bear_head_world": [
+        -3.7741799354553223,
+        -17.649660110473633,
+        1.6345282793045044
+      ]
+    },
+    {
+      "frame": 94,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3423182921206822,
+        "exact_candidate_triangle_pairs_tested": 2879
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3286387920379639,
+        "exact_candidate_triangle_pairs_tested": 9103
+      },
+      "bear_floor_minimum_m": 0.16664057970046997,
+      "bear_head_world": [
+        -3.7917773723602295,
+        -17.65265464782715,
+        1.6255494356155396
+      ]
+    },
+    {
+      "frame": 95,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3295096158981323,
+        "exact_candidate_triangle_pairs_tested": 2138
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.322473614941364,
+        "exact_candidate_triangle_pairs_tested": 9357
+      },
+      "bear_floor_minimum_m": 0.16906942427158356,
+      "bear_head_world": [
+        -3.8026278018951416,
+        -17.654443740844727,
+        1.6214948892593384
+      ]
+    },
+    {
+      "frame": 96,
+      "bear_vs_character": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3241397142410278,
+        "exact_candidate_triangle_pairs_tested": 1903
+      },
+      "bear_vs_bow": {
+        "overlapping_triangle_pairs": 0,
+        "minimum_surface_distance_m": 1.3198381662368774,
+        "exact_candidate_triangle_pairs_tested": 9390
+      },
+      "bear_floor_minimum_m": 0.17160744965076447,
+      "bear_head_world": [
+        -3.8086814880371094,
+        -17.655750274658203,
+        1.6209174394607544
+      ]
+    }
+  ],
+  "character_collision_frames": [],
+  "bow_collision_frames": [],
+  "minimum_character_surface_clearance_m": 0.540595293045044,
+  "minimum_bow_surface_clearance_m": 0.5665813487805362,
+  "bear_floor_range_m": [
+    0.14500002562999725,
+    0.2182484120130539
+  ],
+  "elapsed_seconds": 32.76562783400004,
+  "limitations": [
+    "No cloth/fur volume or swept subframe collision test.",
+    "BVH triangle crossing does not detect fully enclosed disconnected solids without crossing surfaces."
+  ]
+}

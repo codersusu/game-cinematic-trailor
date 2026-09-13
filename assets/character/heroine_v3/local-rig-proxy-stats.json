@@ -1,0 +1,15 @@
+{
+  "source": "master.glb",
+  "output": "/Users/yanqima/Documents/ChatGPT/3A Game Trailer/assets/character/heroine_v3/local-rig-proxy.glb",
+  "triangles": 199998,
+  "vertices": 176869,
+  "original_triangles": 3024348,
+  "dimensions": [
+    0.8609966039657593,
+    0.38477271795272827,
+    1.9037375450134277
+  ],
+  "seconds": 20.33889274999092,
+  "size_bytes": 8941224,
+  "purpose": "Upload-only rig proxy; original visual master and8Ktexture files untouched"
+}

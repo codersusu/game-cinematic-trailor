@@ -1,0 +1,291 @@
+{
+  "group_inputs": {
+    "Diffuse": "<bpy_float[4], NodeSocketColor.default_value>",
+    "Diffuse Dead": "<bpy_float[4], NodeSocketColor.default_value>",
+    "Rough": "<bpy_float[4], NodeSocketColor.default_value>",
+    "Normal": "<bpy_float[4], NodeSocketColor.default_value>",
+    "Alpha": "1.0",
+    "Specular": "0.5",
+    "Dead Amount": "0.0",
+    "Wetness": "0.0",
+    "Translucency": "0.4000000059604645",
+    "Hue": "0.49999991059303284",
+    "Saturation": "0.9999998807907104",
+    "Value": "1.0"
+  },
+  "inner_nodes": [
+    {
+      "name": "Translucent BSDF",
+      "type": "BSDF_TRANSLUCENT",
+      "inputs": {
+        "Weight": "0.0"
+      }
+    },
+    {
+      "name": "Math",
+      "type": "MATH",
+      "inputs": {
+        "Value": "0.5"
+      }
+    },
+    {
+      "name": "Normal Map",
+      "type": "NORMAL_MAP",
+      "inputs": {
+        "Strength": "1.0"
+      }
+    },
+    {
+      "name": "Math.001",
+      "type": "MATH",
+      "inputs": {
+        "Value": "0.5"
+      }
+    },
+    {
+      "name": "Hue Saturation Value",
+      "type": "HUE_SAT",
+      "inputs": {
+        "Fac": "1.0"
+      }
+    },
+    {
+      "name": "Group Input",
+      "type": "GROUP_INPUT",
+      "inputs": {}
+    },
+    {
+      "name": "Mix Shader",
+      "type": "MIX_SHADER",
+      "inputs": {}
+    },
+    {
+      "name": "Group Output",
+      "type": "GROUP_OUTPUT",
+      "inputs": {}
+    },
+    {
+      "name": "Mix.001",
+      "type": "MIX",
+      "inputs": {
+        "Factor": "<bpy_float[3], NodeSocketVectorFactor.default_value>",
+        "A": "<Euler (x=0.0000, y=0.0000, z=0.0000), order='XYZ'>",
+        "B": "<Euler (x=0.0000, y=0.0000, z=0.0000), order='XYZ'>"
+      }
+    },
+    {
+      "name": "rough amount",
+      "type": "MIX",
+      "inputs": {
+        "Factor": "<bpy_float[3], NodeSocketVectorFactor.default_value>",
+        "A": "<Euler (x=0.0000, y=0.0000, z=0.0000), order='XYZ'>",
+        "B": "<Euler (x=0.0000, y=0.0000, z=0.0000), order='XYZ'>"
+      }
+    },
+    {
+      "name": "Mix",
+      "type": "MIX",
+      "inputs": {
+        "Factor": "<bpy_float[3], NodeSocketVectorFactor.default_value>",
+        "A": "<Euler (x=0.0000, y=0.0000, z=0.0000), order='XYZ'>",
+        "B": "<Euler (x=0.0000, y=0.0000, z=0.0000), order='XYZ'>"
+      }
+    },
+    {
+      "name": "Principled BSDF",
+      "type": "BSDF_PRINCIPLED",
+      "inputs": {
+        "Metallic": "0.0",
+        "IOR": "1.4500000476837158",
+        "Weight": "0.0",
+        "Diffuse Roughness": "0.0",
+        "Subsurface Weight": "0.0",
+        "Subsurface Radius": "<bpy_float[3], NodeSocketVector.default_value>",
+        "Subsurface Scale": "0.05000000074505806",
+        "Subsurface IOR": "1.399999976158142",
+        "Subsurface Anisotropy": "0.0",
+        "Specular Tint": "<bpy_float[4], NodeSocketColor.default_value>",
+        "Anisotropic": "0.0",
+        "Anisotropic Rotation": "0.0",
+        "Tangent": "<bpy_float[3], NodeSocketVector.default_value>",
+        "Transmission Weight": "0.0",
+        "Coat Weight": "0.0",
+        "Coat Roughness": "0.029999999329447746",
+        "Coat IOR": "1.5",
+        "Coat Tint": "<bpy_float[4], NodeSocketColor.default_value>",
+        "Coat Normal": "<bpy_float[3], NodeSocketVector.default_value>",
+        "Sheen Weight": "0.0",
+        "Sheen Roughness": "0.5",
+        "Sheen Tint": "<bpy_float[4], NodeSocketColor.default_value>",
+        "Emission Color": "<bpy_float[4], NodeSocketColor.default_value>",
+        "Emission Strength": "1.0",
+        "Thin Film Thickness": "0.0",
+        "Thin Film IOR": "1.3300000429153442"
+      }
+    }
+  ],
+  "inner_links": [
+    [
+      "Group Input",
+      "Normal",
+      "Normal Map",
+      "Color"
+    ],
+    [
+      "Group Input",
+      "Alpha",
+      "Principled BSDF",
+      "Alpha"
+    ],
+    [
+      "Group Input",
+      "Diffuse",
+      "Mix",
+      "A"
+    ],
+    [
+      "Group Input",
+      "Rough",
+      "Mix.001",
+      "A"
+    ],
+    [
+      "Mix Shader",
+      "Shader",
+      "Group Output",
+      "Shader"
+    ],
+    [
+      "rough amount",
+      "Result",
+      "Principled BSDF",
+      "Roughness"
+    ],
+    [
+      "Normal Map",
+      "Normal",
+      "Principled BSDF",
+      "Normal"
+    ],
+    [
+      "Principled BSDF",
+      "BSDF",
+      "Mix Shader",
+      "Shader"
+    ],
+    [
+      "Translucent BSDF",
+      "BSDF",
+      "Mix Shader",
+      "Shader"
+    ],
+    [
+      "Normal Map",
+      "Normal",
+      "Translucent BSDF",
+      "Normal"
+    ],
+    [
+      "Hue Saturation Value",
+      "Color",
+      "Translucent BSDF",
+      "Color"
+    ],
+    [
+      "Math",
+      "Value",
+      "Mix Shader",
+      "Fac"
+    ],
+    [
+      "Math.001",
+      "Value",
+      "Mix.001",
+      "B"
+    ],
+    [
+      "Group Input",
+      "Dead Amount",
+      "Mix.001",
+      "Factor"
+    ],
+    [
+      "Group Input",
+      "Dead Amount",
+      "Mix",
+      "Factor"
+    ],
+    [
+      "Group Input",
+      "Rough",
+      "Math.001",
+      "Value"
+    ],
+    [
+      "Group Input",
+      "Alpha",
+      "Math",
+      "Value"
+    ],
+    [
+      "Group Input",
+      "Translucency",
+      "Math",
+      "Value"
+    ],
+    [
+      "Mix.001",
+      "Result",
+      "rough amount",
+      "A"
+    ],
+    [
+      "Group Input",
+      "Wetness",
+      "rough amount",
+      "Factor"
+    ],
+    [
+      "Mix",
+      "Result",
+      "Hue Saturation Value",
+      "Color"
+    ],
+    [
+      "Hue Saturation Value",
+      "Color",
+      "Principled BSDF",
+      "Base Color"
+    ],
+    [
+      "Group Input",
+      "Hue",
+      "Hue Saturation Value",
+      "Hue"
+    ],
+    [
+      "Group Input",
+      "Saturation",
+      "Hue Saturation Value",
+      "Saturation"
+    ],
+    [
+      "Group Input",
+      "Value",
+      "Hue Saturation Value",
+      "Value"
+    ],
+    [
+      "Group Input",
+      "Diffuse Dead",
+      "Mix",
+      "B"
+    ],
+    [
+      "Group Input",
+      "Specular",
+      "Principled BSDF",
+      "Specular IOR Level"
+    ]
+  ]
+}

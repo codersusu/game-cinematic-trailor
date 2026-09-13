@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/microsoft/Microsoft-Rocketbox",
+  "commit": "0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+  "files": [
+    {
+      "file": "f_run_neutral_01.max.fbx",
+      "url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/f_run_neutral_01.max.fbx",
+      "git_blob": "e7e2bfcc1d4a5f95d434e10aedaae04cdbecf675",
+      "sha256": "f615a83d50f2b5671877c7449bce557885f4575517b6d83d588b16428f913e51",
+      "bytes": 877504
+    },
+    {
+      "file": "f_run_to_walk.max.fbx",
+      "url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/f_run_to_walk.max.fbx",
+      "git_blob": "f73452f3b3db6c005e40fc501187fb87a3cb7ab8",
+      "sha256": "356801765cbd08c29037f04d484a4810864af145f9f39c932d44a06f12a24bd0",
+      "bytes": 1147040
+    },
+    {
+      "file": "f_run_stop.max.fbx",
+      "url": "https://raw.githubusercontent.com/microsoft/Microsoft-Rocketbox/0943055db6ec570bcef9f2c8b41c9e5467c808f9/Assets/Animations/all_animations_max_motextr_xy/f_run_stop.max.fbx",
+      "git_blob": "5445c1e1b1a5ac35dfe708dcb6ca36352004124b",
+      "sha256": "4bae1a4d381d5479f517679fdccf125520abd57dc32ce2d422f6421c67d73427",
+      "bytes": 1120448
+    }
+  ]
+}

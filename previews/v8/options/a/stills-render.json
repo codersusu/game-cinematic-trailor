@@ -1,0 +1,34 @@
+{
+  "source": {
+    "scene": "option-a-bow-guardian.blend",
+    "sha256": "12c05f0cd438f79846c6f2a54dda69ab19c4d99b97476e06d5f37c9a7920e188",
+    "resolution": [
+      768,
+      432
+    ],
+    "fps": 12,
+    "source_fps": 12.0,
+    "source_frame_start": 1,
+    "source_frame_end": 96,
+    "engine": "EEVEE",
+    "samples": 8
+  },
+  "frames_requested": [
+    36,
+    63
+  ],
+  "new_frame_timings": [
+    {
+      "frame": 36,
+      "source_frame": 36.0,
+      "seconds": 2.297
+    },
+    {
+      "frame": 63,
+      "source_frame": 63.0,
+      "seconds": 0.5
+    }
+  ],
+  "heavy_render": false,
+  "status": "rendered for review"
+}

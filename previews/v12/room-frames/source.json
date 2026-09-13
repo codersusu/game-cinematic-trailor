@@ -1,0 +1,13 @@
+{
+  "scene": "observatory-v12-run-entry.blend",
+  "sha256": "f9b081ad2459c3171d968bfe839a83e3f8923d008049bd9fa1ebee9842f1b23d",
+  "resolution": [
+    960,
+    540
+  ],
+  "source_fps": 24,
+  "output_fps": 12,
+  "engine": "CYCLES",
+  "samples": 32,
+  "adaptive_threshold": 0.04
+}

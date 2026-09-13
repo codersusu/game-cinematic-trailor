@@ -1,0 +1,48 @@
+{
+  "scene_sha256": "f40b3f5d7a6f2d12dc6a08b76598cf0bfe7344cda6052b0259c0e3e817cdd1d4",
+  "native_final_frames_reviewed": [
+    345,
+    359,
+    385,
+    425,
+    455,
+    478,
+    481,
+    510
+  ],
+  "proof_sequence_frames_reviewed": [
+    345,
+    350,
+    355,
+    359,
+    365,
+    370,
+    377,
+    381,
+    387,
+    391,
+    398,
+    410,
+    424,
+    425,
+    440,
+    455,
+    470,
+    480
+  ],
+  "final_scene_preview_frames_reviewed": [
+    425,
+    478,
+    510
+  ],
+  "findings": [
+    "Full-body approach remains within cinematic crop",
+    "Sequential native steps and stopping transition accepted",
+    "Side-camera reach and wide ending frame accepted",
+    "Native 1080p side-camera opening inspected: face and galaxy remain within active frame.",
+    "Peak reach inspected at native 1080p: hand, wrist and face remain clear; the arm aims upward toward Astra.",
+    "Closing wide shot starts with the character beside the platform and her raised hand visible."
+  ],
+  "full_realtime_playback_performed": false,
+  "perceptual_listening_performed": false
+}

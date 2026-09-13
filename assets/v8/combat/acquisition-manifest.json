@@ -1,0 +1,187 @@
+{
+  "version": 8,
+  "purpose": "combat asset and native action inspection",
+  "selected": [
+    "forest-monster",
+    "quaternius UAL1 and UAL2",
+    "uplon sword"
+  ],
+  "status": "source assets acquired; final fight retarget and staging not yet complete",
+  "files": [
+    {
+      "path": "assets/v8/combat/forest-monster/Licenses.txt",
+      "bytes": 589,
+      "sha256": "ca2da5a49e55c4d0e0a809230b848bdfd9bb14140a4851682ca06504f88d14ea"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/forest-monster-final.blend",
+      "bytes": 21005156,
+      "sha256": "219394045298e14086b46cfcdb406e96073844891e3a601e91d3fc68c908a53b"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/forest-monster.7z",
+      "bytes": 24888014,
+      "sha256": "3378edfe2441d1cee93feeeb6e045b9ff0c700d85b398dfa6c29c83f7e696a5e"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/forest-monster-AO.png",
+      "bytes": 2563258,
+      "sha256": "c7dfa8616a5b044ab48c00ad0256b9538c1266dd6733d4b24d4a94fdff5eef83"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/forest-monster-norm.png",
+      "bytes": 7943971,
+      "sha256": "98a90aaf5e6c08db2eec60a520fa4960b97753ff4a4d3ff8987d8b8d7652e439"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/forest-monster-skin.png",
+      "bytes": 4782464,
+      "sha256": "c9ee5742126fc64a6fade4014adcd73724b9ab2a9ab491baecf73128c835e555"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/forest-monster-skin1.png",
+      "bytes": 5408013,
+      "sha256": "8ecf0c8f4b70feefa40fdc6d61fde2b8327ce8bf40053977a4e6d6c995eccf2f"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/forest-monster-spec.png",
+      "bytes": 2979357,
+      "sha256": "2cf0f13a2e1b505453d70637b2fcec51ba2650504efafbecf24f2050fd763538"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/tree-norm.png",
+      "bytes": 364692,
+      "sha256": "6a178f5479a7401c8bf8ca994abf3b515bc9fc525afadee049b7d66e699e5c29"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/tree-spec.png",
+      "bytes": 372487,
+      "sha256": "722067474adb7b2e96f1719449e54db3854828a3fc8a43dff82789d03917da46"
+    },
+    {
+      "path": "assets/v8/combat/forest-monster/texture/tree.png",
+      "bytes": 411676,
+      "sha256": "172dcdeb6ec402e0dfa12719aaee9e990cf815c91d2cf23873f9177134496940"
+    },
+    {
+      "path": "assets/v8/combat/quaternius/UAL1_Standard.glb",
+      "bytes": 8114364,
+      "sha256": "d867292451e432b735e2a910c2db6640fbea97b205d85a2e8ffed26da87972cf"
+    },
+    {
+      "path": "assets/v8/combat/quaternius/UAL1_Standard.glb.animations.json",
+      "bytes": 2591,
+      "sha256": "e46cb9cd5a2f2a63fdb4085fd9fd6cf8c183d2dd492465e7ed98c5b67c98a14a"
+    },
+    {
+      "path": "assets/v8/combat/quaternius/UAL2_Standard.glb",
+      "bytes": 8061600,
+      "sha256": "9a0ffda4931f934f13fb584002c51673723b03f9655a581167e7e5dae744f086"
+    },
+    {
+      "path": "assets/v8/combat/quaternius/UAL2_Standard.glb.animations.json",
+      "bytes": 2536,
+      "sha256": "fd9d5621da841177089d4ec9c0091fcb778fb2d8c0aa60b22ff23f786bd4ad60"
+    },
+    {
+      "path": "assets/v8/combat/quaternius/Wolf.blend",
+      "bytes": 2571200,
+      "sha256": "fe31c3829dd2a8b9dfedb2e5cb656939a1d525ebd535a62434d2d25a4399cb9e"
+    },
+    {
+      "path": "assets/v8/combat/quaternius/mirror-ASSET_LICENSES.md",
+      "bytes": 6766,
+      "sha256": "90d37e77a14485a1a599375f69207b8e44e8357f66b583efea343e832ab87613"
+    },
+    {
+      "path": "assets/v8/combat/uplon/preview/crossguard angle.jpg",
+      "bytes": 230907,
+      "sha256": "863cf6a7886e24cbbf8774fbb11001a724e633dcfc7dcfb2fa9865fc572f765a"
+    },
+    {
+      "path": "assets/v8/combat/uplon/preview/crossguard blade.jpg",
+      "bytes": 179589,
+      "sha256": "e338d844a7f23c8bd85d8de4b17321358920fd47f598eb87373c02548ccc9f4a"
+    },
+    {
+      "path": "assets/v8/combat/uplon/preview/crossguard.jpg",
+      "bytes": 183390,
+      "sha256": "8d6dfae840d9752b73047e49d0db986cfa9330ba2358cef8f2cf2cc9f96b4d84"
+    },
+    {
+      "path": "assets/v8/combat/uplon/preview/grip.jpg",
+      "bytes": 230681,
+      "sha256": "b9b4d9921d4c3c3a745c9cc46742015761ca28ff246a4e2640650a4577a9fb7d"
+    },
+    {
+      "path": "assets/v8/combat/uplon/preview/pommel.jpg",
+      "bytes": 234759,
+      "sha256": "eee216fded30a15d78b1014600373038edb300ec9fe6698867aebf3da5d4e549"
+    },
+    {
+      "path": "assets/v8/combat/uplon/preview/side.jpg",
+      "bytes": 139141,
+      "sha256": "86f31b044ed6cb5b358fceb8aae4e7efcf9b178f76791f8c864e2f107c82b43a"
+    },
+    {
+      "path": "assets/v8/combat/uplon/preview/sword closeup.jpg",
+      "bytes": 310482,
+      "sha256": "988e599945b106ae6973221e906a6d4bce0dc91625121229453bdf25c2d5e5b3"
+    },
+    {
+      "path": "assets/v8/combat/uplon/textures/BaseColor.png",
+      "bytes": 1094210,
+      "sha256": "03ebc3fbf77e58cd6885327a7a3db63737a86ac222b6074699a965a3455bd627"
+    },
+    {
+      "path": "assets/v8/combat/uplon/textures/Emissive.png",
+      "bytes": 84068,
+      "sha256": "dbdad8432227900c7a62421e5fbfcc7b277cfdf38cbb04b3898e8a80f4bf8d6b"
+    },
+    {
+      "path": "assets/v8/combat/uplon/textures/Metallic.png",
+      "bytes": 47468,
+      "sha256": "e9e6ea5e481c30f79d50f4cbd5cd017c444ec36f347be59d9f10babcec15ff36"
+    },
+    {
+      "path": "assets/v8/combat/uplon/textures/Normal.png",
+      "bytes": 14144242,
+      "sha256": "e44448dd87b788232305f1a2f82611eae16edbfe94c8c738900080db9890a736"
+    },
+    {
+      "path": "assets/v8/combat/uplon/textures/Roughness.png",
+      "bytes": 2120784,
+      "sha256": "7c1d4e003b9b936c49aa818409afb28c98c9da02b1763ffcf9140e6949bebcd3"
+    },
+    {
+      "path": "assets/v8/combat/uplon/uplon parts.blend",
+      "bytes": 915856,
+      "sha256": "10fa4c003e0648445880d9ed69a9328f8c7494360cbda752b965cec4b97276ff"
+    },
+    {
+      "path": "assets/v8/combat/uplon/uplon.blend",
+      "bytes": 1148420,
+      "sha256": "fe298a3c22ed590f97ea2b5692ca0c9575e947810b298d4c93d3c502c1b58d22"
+    },
+    {
+      "path": "assets/v8/combat/uplon/uplon.fbx",
+      "bytes": 231372,
+      "sha256": "cae64bcdfe65bfd6cce585227b5cf798bc0847fc7e343b56be9b8035d526191d"
+    },
+    {
+      "path": "assets/v8/combat/uplon/uplon.obj",
+      "bytes": 523482,
+      "sha256": "2afb2dd3df200d2b877e09842e35f1f2387ec7bc05a4e49e42be3b0772d362ad"
+    },
+    {
+      "path": "assets/v8/combat/uplon/uplon.zip",
+      "bytes": 19410362,
+      "sha256": "0ecd87fe6aa2ac76c25a808df6d2f2efe595e2e11d2a191329fc7fc35b0d4e11"
+    },
+    {
+      "path": "assets/v8/combat/tomek/wolf.blend",
+      "bytes": 2197528,
+      "sha256": "98cb707d20ba11da8f6a215177ebe7fa731db60083bed90a416fa27ff8499161"
+    }
+  ]
+}

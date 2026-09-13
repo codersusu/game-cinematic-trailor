@@ -1,0 +1,3831 @@
+{
+  "status": "CPU inspection complete; no rendered visual QA",
+  "scene_fps": 30,
+  "scene_fps_base": 1.0,
+  "objects": [
+    {
+      "name": "Bear_Animated",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        0.012000000104308128,
+        0.012000000104308128,
+        0.010999999940395355
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": null,
+      "modifiers": []
+    },
+    {
+      "name": "RigLBLegDigit11_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        -6.67572021484375e-06,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigLEyelid_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.06141853332519531,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigLFLegDigit11_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        -1.239776611328125e-05,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigRBLegDigit11_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        -1.621246337890625e-05,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigREyelid_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.061428070068359375,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigRFLegDigit11_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        -3.814697265625e-06,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigRigLEar1_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.06142234802246094,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigRigREar1_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.06142234802246094,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigRoot",
+      "type": "ARMATURE",
+      "location": [
+        -7.645478035556152e-06,
+        1.3729399142903276e-05,
+        -1.1544349460754222e-12
+      ],
+      "rotation_euler": [
+        -1.5707964897155762,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.7052395343780518,
+        2.439788818359375,
+        1.5555113554000854
+      ],
+      "parent": "Bear_Animated",
+      "modifiers": [],
+      "bones": [
+        {
+          "name": "RigPelvis",
+          "parent": null,
+          "head": [
+            -5.410255198512459e-06,
+            61.35889434814453,
+            102.5187759399414
+          ],
+          "tail": [
+            -2.8386320991558023e-06,
+            41.090484619140625,
+            102.5187759399414
+          ],
+          "length": 20.268409729003906
+        },
+        {
+          "name": "RigLBLeg1",
+          "parent": "RigPelvis",
+          "head": [
+            19.80976104736328,
+            64.64701843261719,
+            100.94876861572266
+          ],
+          "tail": [
+            25.802780151367188,
+            14.26083755493164,
+            119.38301086425781
+          ],
+          "length": 53.986167907714844
+        },
+        {
+          "name": "RigLBLeg2",
+          "parent": "RigLBLeg1",
+          "head": [
+            19.41251564025879,
+            43.04905700683594,
+            51.4727668762207
+          ],
+          "tail": [
+            22.15879249572754,
+            0.13836288452148438,
+            27.23092269897461
+          ],
+          "length": 49.36129379272461
+        },
+        {
+          "name": "RigLBLegAnkle",
+          "parent": "RigLBLeg2",
+          "head": [
+            14.677739143371582,
+            68.51419830322266,
+            12.719257354736328
+          ],
+          "tail": [
+            14.645615577697754,
+            55.95581817626953,
+            20.153648376464844
+          ],
+          "length": 14.593982696533203
+        },
+        {
+          "name": "RigLBLegDigit11",
+          "parent": "RigLBLegAnkle",
+          "head": [
+            14.694851875305176,
+            59.840518951416016,
+            1.328832745552063
+          ],
+          "tail": [
+            16.773738861083984,
+            59.84959030151367,
+            14.770682334899902
+          ],
+          "length": 13.601666450500488
+        },
+        {
+          "name": "RigRBLeg1",
+          "parent": "RigPelvis",
+          "head": [
+            -19.809770584106445,
+            64.64701080322266,
+            100.94874572753906
+          ],
+          "tail": [
+            -25.802785873413086,
+            14.260887145996094,
+            119.38314056396484
+          ],
+          "length": 53.98616409301758
+        },
+        {
+          "name": "RigRBLeg2",
+          "parent": "RigRBLeg1",
+          "head": [
+            -19.412548065185547,
+            43.048851013183594,
+            51.472835540771484
+          ],
+          "tail": [
+            -22.158832550048828,
+            0.13840484619140625,
+            27.230592727661133
+          ],
+          "length": 49.36128616333008
+        },
+        {
+          "name": "RigRBLegAnkle",
+          "parent": "RigRBLeg2",
+          "head": [
+            -14.67765998840332,
+            68.51429748535156,
+            12.719558715820312
+          ],
+          "tail": [
+            -14.645526885986328,
+            55.955936431884766,
+            20.15396499633789
+          ],
+          "length": 14.593975067138672
+        },
+        {
+          "name": "RigRBLegDigit11",
+          "parent": "RigRBLegAnkle",
+          "head": [
+            -14.694768905639648,
+            59.840641021728516,
+            1.3291051387786865
+          ],
+          "tail": [
+            -16.043582916259766,
+            59.8492431640625,
+            14.858226776123047
+          ],
+          "length": 13.596198081970215
+        },
+        {
+          "name": "RigSpine1",
+          "parent": "RigPelvis",
+          "head": [
+            -3.3018659451045096e-06,
+            46.234161376953125,
+            108.32734680175781
+          ],
+          "tail": [
+            -4.651924427889753e-06,
+            42.782169342041016,
+            82.5516357421875
+          ],
+          "length": 26.005840301513672
+        },
+        {
+          "name": "RigSpine2",
+          "parent": "RigSpine1",
+          "head": [
+            -3.926491132233423e-08,
+            20.391443252563477,
+            111.23551177978516
+          ],
+          "tail": [
+            -2.096115622407524e-06,
+            22.686552047729492,
+            85.44902038574219
+          ],
+          "length": 25.888425827026367
+        },
+        {
+          "name": "RigChest",
+          "parent": "RigSpine2",
+          "head": [
+            3.330662821099395e-06,
+            -5.642044544219971,
+            109.29241180419922
+          ],
+          "tail": [
+            1.071839506039396e-06,
+            -5.6676764488220215,
+            71.08306121826172
+          ],
+          "length": 38.20935821533203
+        },
+        {
+          "name": "RigLFLegCollarbone",
+          "parent": "RigChest",
+          "head": [
+            11.309781074523926,
+            -38.02192687988281,
+            116.15058135986328
+          ],
+          "tail": [
+            -14.250544548034668,
+            -31.191978454589844,
+            102.4667739868164
+          ],
+          "length": 29.78632164001465
+        },
+        {
+          "name": "RigLFLeg1",
+          "parent": "RigLFLegCollarbone",
+          "head": [
+            23.238140106201172,
+            -46.97456741333008,
+            90.4512710571289
+          ],
+          "tail": [
+            21.93191909790039,
+            -88.44434356689453,
+            66.82136535644531
+          ],
+          "length": 47.74748611450195
+        },
+        {
+          "name": "RigLFLeg2",
+          "parent": "RigLFLeg1",
+          "head": [
+            20.93565559387207,
+            -20.758867263793945,
+            52.435386657714844
+          ],
+          "tail": [
+            22.917795181274414,
+            -64.42054748535156,
+            57.60884094238281
+          ],
+          "length": 44.011775970458984
+        },
+        {
+          "name": "RigLFLegAnkle",
+          "parent": "RigLFLeg2",
+          "head": [
+            16.216636657714844,
+            -27.652183532714844,
+            13.014505386352539
+          ],
+          "tail": [
+            16.2276611328125,
+            -39.41501998901367,
+            19.028982162475586
+          ],
+          "length": 13.211302757263184
+        },
+        {
+          "name": "RigLFLegDigit11",
+          "parent": "RigLFLegAnkle",
+          "head": [
+            16.267107009887695,
+            -35.238807678222656,
+            2.5985405445098877
+          ],
+          "tail": [
+            16.816864013671875,
+            -35.10805130004883,
+            14.60205364227295
+          ],
+          "length": 12.016807556152344
+        },
+        {
+          "name": "RigNeck1",
+          "parent": "RigChest",
+          "head": [
+            8.778139999776613e-06,
+            -51.454193115234375,
+            109.26686096191406
+          ],
+          "tail": [
+            6.13968677498633e-06,
+            -51.82868576049805,
+            89.35054016113281
+          ],
+          "length": 19.91983985900879
+        },
+        {
+          "name": "RigNeck2",
+          "parent": "RigNeck1",
+          "head": [
+            1.2102992513973732e-05,
+            -71.58277130126953,
+            109.5558853149414
+          ],
+          "tail": [
+            1.079429785022512e-05,
+            -68.79341888427734,
+            89.84102630615234
+          ],
+          "length": 19.911205291748047
+        },
+        {
+          "name": "RigHead",
+          "parent": "RigNeck2",
+          "head": [
+            1.3753709936281666e-05,
+            -91.58379364013672,
+            107.2059326171875
+          ],
+          "tail": [
+            1.2040218280162662e-05,
+            -85.5114974975586,
+            89.58149719238281
+          ],
+          "length": 18.641178131103516
+        },
+        {
+          "name": "RigJaw",
+          "parent": "RigHead",
+          "head": [
+            2.2798609279561788e-05,
+            -102.31853485107422,
+            100.18558502197266
+          ],
+          "tail": [
+            2.2030933905625716e-05,
+            -96.66677856445312,
+            93.81547546386719
+          ],
+          "length": 8.515904426574707
+        },
+        {
+          "name": "RigTongue_1",
+          "parent": "RigJaw",
+          "head": [
+            2.3564636649098247e-05,
+            -106.86631774902344,
+            93.58815002441406
+          ],
+          "tail": [
+            2.2733918740414083e-05,
+            -102.74124145507812,
+            87.43692016601562
+          ],
+          "length": 7.406340599060059
+        },
+        {
+          "name": "RigTongue_2",
+          "parent": "RigTongue_1",
+          "head": [
+            2.4274735551443882e-05,
+            -113.30594635009766,
+            90.07776641845703
+          ],
+          "tail": [
+            2.351569310121704e-05,
+            -109.56644439697266,
+            84.50149536132812
+          ],
+          "length": 6.714064598083496
+        },
+        {
+          "name": "RigTongue_3",
+          "parent": "RigTongue_2",
+          "head": [
+            2.4910325009841472e-05,
+            -119.1436996459961,
+            86.89555358886719
+          ],
+          "tail": [
+            2.415164817648474e-05,
+            -115.4041976928711,
+            81.31929016113281
+          ],
+          "length": 6.7140583992004395
+        },
+        {
+          "name": "RigLEyelid",
+          "parent": "RigHead",
+          "head": [
+            5.825961112976074,
+            -111.93651580810547,
+            105.5779037475586
+          ],
+          "tail": [
+            10.636800765991211,
+            -120.77094268798828,
+            90.43107604980469
+          ],
+          "length": 18.182891845703125
+        },
+        {
+          "name": "RigREyelid",
+          "parent": "RigHead",
+          "head": [
+            -5.82592248916626,
+            -111.93651580810547,
+            105.57787322998047
+          ],
+          "tail": [
+            -10.636760711669922,
+            -120.77095031738281,
+            90.43104553222656
+          ],
+          "length": 18.18289566040039
+        },
+        {
+          "name": "RigRigLEar1",
+          "parent": "RigHead",
+          "head": [
+            13.948687553405762,
+            -96.83248901367188,
+            119.27730560302734
+          ],
+          "tail": [
+            15.083808898925781,
+            -114.64493560791016,
+            113.81060028076172
+          ],
+          "length": 18.666990280151367
+        },
+        {
+          "name": "RigRigREar1",
+          "parent": "RigHead",
+          "head": [
+            -13.94864559173584,
+            -96.83247375488281,
+            119.27729034423828
+          ],
+          "tail": [
+            -15.083761215209961,
+            -114.6449203491211,
+            113.81058502197266
+          ],
+          "length": 18.6669921875
+        },
+        {
+          "name": "RigRFLegCollarbone",
+          "parent": "RigChest",
+          "head": [
+            -11.309768676757812,
+            -38.021915435791016,
+            116.15058135986328
+          ],
+          "tail": [
+            14.250587463378906,
+            -31.191946029663086,
+            102.46675872802734
+          ],
+          "length": 29.786361694335938
+        },
+        {
+          "name": "RigRFLeg1",
+          "parent": "RigRFLegCollarbone",
+          "head": [
+            -23.238130569458008,
+            -46.974578857421875,
+            90.45123291015625
+          ],
+          "tail": [
+            -21.926868438720703,
+            -88.44232177734375,
+            66.81855773925781
+          ],
+          "length": 47.747215270996094
+        },
+        {
+          "name": "RigRFLeg2",
+          "parent": "RigRFLeg1",
+          "head": [
+            -20.921707153320312,
+            -20.755407333374023,
+            52.43793869018555
+          ],
+          "tail": [
+            -22.909339904785156,
+            -64.41597747802734,
+            57.61880874633789
+          ],
+          "length": 44.01177978515625
+        },
+        {
+          "name": "RigRFLegAnkle",
+          "parent": "RigRFLeg2",
+          "head": [
+            -16.207792282104492,
+            -27.65673828125,
+            13.017620086669922
+          ],
+          "tail": [
+            -16.218936920166016,
+            -39.41956329345703,
+            19.03247833251953
+          ],
+          "length": 13.211463928222656
+        },
+        {
+          "name": "RigRFLegDigit11",
+          "parent": "RigRFLegAnkle",
+          "head": [
+            -16.264497756958008,
+            -35.243263244628906,
+            2.6016969680786133
+          ],
+          "tail": [
+            -16.22425651550293,
+            -35.110538482666016,
+            14.620121955871582
+          ],
+          "length": 12.019230842590332
+        },
+        {
+          "name": "RigTail1",
+          "parent": "RigPelvis",
+          "head": [
+            -9.262870662496425e-06,
+            85.79113006591797,
+            99.75825500488281
+          ],
+          "tail": [
+            -1.067277480615303e-05,
+            98.29212951660156,
+            103.05560302734375
+          ],
+          "length": 12.928557395935059
+        },
+        {
+          "name": "RigTail2",
+          "parent": "RigTail1",
+          "head": [
+            -1.0281737559125759e-05,
+            89.66317749023438,
+            87.42315673828125
+          ],
+          "tail": [
+            -1.19623146019876e-05,
+            102.72045135498047,
+            86.06610107421875
+          ],
+          "length": 13.127606391906738
+        }
+      ]
+    },
+    {
+      "name": "RigTail2_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        -6.198883056640625e-05,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "RigTongue_3_end",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        -7.62939453125e-06,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": "RigRoot",
+      "modifiers": []
+    },
+    {
+      "name": "sm_3_0_0",
+      "type": "MESH",
+      "location": [
+        0.0,
+        10.866560935974121,
+        -0.0037523831706494093
+      ],
+      "rotation_euler": [
+        -0.0003453583631198853,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        82.2257308959961,
+        90.54850769042969,
+        82.22573852539062
+      ],
+      "dimensions": [
+        1.0830858945846558,
+        2.8543574810028076,
+        2.067147731781006
+      ],
+      "parent": "RigRoot",
+      "modifiers": [
+        {
+          "name": "RigRoot",
+          "type": "ARMATURE",
+          "object": "RigRoot"
+        }
+      ],
+      "vertices": 3769,
+      "triangles": 7508,
+      "bounds": {
+        "min": [
+          -0.5414812564849854,
+          -1.6655696630477905,
+          -0.0048143621534109116
+        ],
+        "max": [
+          0.5416046977043152,
+          1.1887879371643066,
+          2.062333345413208
+        ]
+      },
+      "materials": [
+        "Material_003",
+        "Material_001",
+        "Material_002"
+      ],
+      "unweighted_vertices": 0,
+      "weight_sum_range": [
+        0.9491769075393677,
+        1.000000137835741
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "name": "RigRoot|Attack_Run_01_AttackF|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        57.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Attack_Run_01_Turn|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        50.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Attack_StandAngry_01_High|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        92.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Attack_StandAngry_01_Low|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        121.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Attack_StandAngry_02_High|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        92.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|CanonBall|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        34.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_Lying_R01_DeathPose|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        31.999998092651367
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_Lying_R01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        24.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_Sitting_R01_poses|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        31.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_Sitting_R01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        31.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_Stand_R01_poses|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        31.999998092651367
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_Stand_R01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        42.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_StandHind_F01_poses|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        31.999998092651367
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Death_StandHind_F01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        61.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Hit_Lying_R01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        77.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Hit_Sitting_F01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        77.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Hit_Stand_F01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        88.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Hit_StandHind_F01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        58.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Hit_Walk_L01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        102.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Loco_RunL|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        18.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Lying_Breathing_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        126.99999237060547
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Lying_Idle_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        126.99999237060547
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Lying_Idle_02|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        252.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|RunR|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        18.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Run|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        18.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Sitting_Breathing_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Sitting_Idle_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Sitting_Idle_02|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|SittingSpec_Breathing01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|SneakL|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        162.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|SneakR|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        162.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Sneak|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        162.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|SprintL|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        16.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|SprintR|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        16.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Sprint|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        16.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Stand_Breathing_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        102.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Stand_Eating_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        222.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Stand_Idle_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        202.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Stand_Idle_02|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        202.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|StandAngry_Breathing_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        121.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|StandAngry_Breathing_02|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        121.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|StandHind_Breathing_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|StandHind_Idle_01|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|StandHind_Idle_02|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Lying_to_Sitting|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        162.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Lying_to_StandHind|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        142.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Lying_to_Stand|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        121.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Sitting_to_Lying|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        117.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Sitting_to_StandHind|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Sitting_to_Stand|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        152.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Lying|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        92.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Run_3f|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        39.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Run|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        36.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Sitting|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        121.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Sneak_3f|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        53.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Sneak|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        50.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Sprint_3f|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        35.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Sprint|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        31.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_StandAngry|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        72.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_StandHind|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        92.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Trot_3f|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        45.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Trot|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        42.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Walk_3f|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        45.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_WalkSlow_3f|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        45.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_WalkSlow|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        42.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_Stand_to_Walk|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        42.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_StandAngry_to_Stand|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        42.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_StandHind_to_Lying|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        118.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_StandHind_to_Sitting|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        132.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_StandHind_to_Stand|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        102.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_TurnL|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        82.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trans_TurnR|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        82.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|TrotL|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        22.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|TrotR|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        22.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Trot|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        22.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|WalkL|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        52.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|WalkR|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        52.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|WalkSlowL|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        82.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|WalkSlowR|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        82.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|WalkSlow|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        82.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    },
+    {
+      "name": "RigRoot|Walk|Animation Base Layer",
+      "frame_range": [
+        1.0,
+        52.0
+      ],
+      "fcurves": 359,
+      "groups": 36
+    }
+  ],
+  "images": [
+    {
+      "name": "DiffuseColor_Texture",
+      "source_basename": "a_c_bear_01_uppr_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "packed": true,
+      "size": [
+        1536,
+        1536
+      ],
+      "local_texture": "assets/v8/combat/bear/textures/a_c_bear_01_uppr_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "local_texture_exists": true
+    },
+    {
+      "name": "DiffuseColor_Texture_1",
+      "source_basename": "a_c_bear_01_head_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "packed": true,
+      "size": [
+        1536,
+        1536
+      ],
+      "local_texture": "assets/v8/combat/bear/textures/a_c_bear_01_head_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "local_texture_exists": true
+    },
+    {
+      "name": "DiffuseColor_Texture_2",
+      "source_basename": "a_c_bear_01_teef_001_c0_000_ab.png",
+      "packed": true,
+      "size": [
+        256,
+        256
+      ],
+      "local_texture": "assets/v8/combat/bear/textures/a_c_bear_01_teef_001_c0_000_ab.png",
+      "local_texture_exists": true
+    },
+    {
+      "name": "NormalMap_Texture",
+      "source_basename": "a_c_bear_01_uppr_000_c0_000_nm.png",
+      "packed": true,
+      "size": [
+        256,
+        256
+      ],
+      "local_texture": "assets/v8/combat/bear/textures/a_c_bear_01_uppr_000_c0_000_nm.png",
+      "local_texture_exists": true
+    },
+    {
+      "name": "NormalMap_Texture_1",
+      "source_basename": "a_c_bear_01_head_000_c0_000_nm.png",
+      "packed": true,
+      "size": [
+        256,
+        256
+      ],
+      "local_texture": "assets/v8/combat/bear/textures/a_c_bear_01_head_000_c0_000_nm.png",
+      "local_texture_exists": true
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material_001",
+      "diffuse_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "DiffuseColor_Texture_1"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "NormalMap_Texture_1"
+        }
+      ]
+    },
+    {
+      "name": "Material_002",
+      "diffuse_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "DiffuseColor_Texture_2"
+        }
+      ]
+    },
+    {
+      "name": "Material_003",
+      "diffuse_color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "DiffuseColor_Texture"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "NormalMap_Texture"
+        }
+      ]
+    }
+  ],
+  "sampled_actions": {
+    "RigRoot|Attack_Run_01_AttackF|Animation Base Layer": [
+      {
+        "frame": 1.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5710850954055786,
+              -1.5852971076965332,
+              0.02113162726163864
+            ],
+            "max": [
+              0.5574405193328857,
+              1.1724694967269897,
+              2.0520684719085693
+            ]
+          }
+        },
+        "rig_location": [
+          0.11039090156555176,
+          0.2168731540441513,
+          0.627685546875
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.03703024238348007,
+            0.7182376384735107,
+            1.04683256149292
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.17172685265541077,
+            0.6892807483673096,
+            0.0671769455075264
+          ],
+          "RigRBLegDigit11": [
+            -0.175694078207016,
+            0.15594273805618286,
+            0.09217802435159683
+          ],
+          "RigLFLegDigit11": [
+            0.14929088950157166,
+            -1.0247185230255127,
+            0.2879224419593811
+          ],
+          "RigHead": [
+            0.03608439490199089,
+            -0.9181570410728455,
+            1.370397686958313
+          ],
+          "RigRFLegDigit11": [
+            -0.14978709816932678,
+            -0.9489994645118713,
+            0.44301509857177734
+          ]
+        }
+      },
+      {
+        "frame": 15.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.670602560043335,
+              -4.879673480987549,
+              0.025293363258242607
+            ],
+            "max": [
+              0.6029946208000183,
+              -2.5169665813446045,
+              2.9621410369873047
+            ]
+          }
+        },
+        "rig_location": [
+          0.0002507123863324523,
+          -3.0705406970810145e-05,
+          302.4153747558594
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.020317474380135536,
+            -3.0392823219299316,
+            1.1236541271209717
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.21371954679489136,
+            -3.2786881923675537,
+            0.055622830986976624
+          ],
+          "RigRBLegDigit11": [
+            -0.18469558656215668,
+            -3.6747355461120605,
+            0.08074535429477692
+          ],
+          "RigLFLegDigit11": [
+            0.317828893661499,
+            -4.555088043212891,
+            1.7940692901611328
+          ],
+          "RigHead": [
+            0.0516301654279232,
+            -4.199261665344238,
+            2.3859593868255615
+          ],
+          "RigRFLegDigit11": [
+            -0.3288971483707428,
+            -4.334705352783203,
+            1.5700287818908691
+          ]
+        }
+      },
+      {
+        "frame": 29.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6473231315612793,
+              -6.961558818817139,
+              -0.003298187395557761
+            ],
+            "max": [
+              0.5654274225234985,
+              -4.383998870849609,
+              2.017700433731079
+            ]
+          }
+        },
+        "rig_location": [
+          0.0006213902379386127,
+          -6.220465002115816e-05,
+          487.2943115234375
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.011363912373781204,
+            -4.98576021194458,
+            1.2377915382385254
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.266853392124176,
+            -4.915639400482178,
+            0.46299904584884644
+          ],
+          "RigRBLegDigit11": [
+            -0.2595750689506531,
+            -4.571182727813721,
+            0.3735133111476898
+          ],
+          "RigLFLegDigit11": [
+            0.15608376264572144,
+            -5.748101711273193,
+            0.07695703953504562
+          ],
+          "RigHead": [
+            -0.06392906606197357,
+            -6.4180803298950195,
+            0.889911413192749
+          ],
+          "RigRFLegDigit11": [
+            -0.1585204303264618,
+            -5.947854995727539,
+            0.04802112653851509
+          ]
+        }
+      },
+      {
+        "frame": 43.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.594923198223114,
+              -9.245797157287598,
+              0.009376556612551212
+            ],
+            "max": [
+              0.5953565239906311,
+              -6.24379301071167,
+              1.876105546951294
+            ]
+          }
+        },
+        "rig_location": [
+          0.0009595346637070179,
+          -9.093927656067535e-05,
+          708.0806884765625
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.018498389050364494,
+            -6.962371826171875,
+            1.1627347469329834
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.2024764120578766,
+            -6.519506931304932,
+            0.015594392083585262
+          ],
+          "RigRBLegDigit11": [
+            -0.1868009865283966,
+            -7.104701519012451,
+            0.07990764081478119
+          ],
+          "RigLFLegDigit11": [
+            0.1528133898973465,
+            -7.641658306121826,
+            0.07710061222314835
+          ],
+          "RigHead": [
+            0.0067765554413199425,
+            -8.621652603149414,
+            1.175007939338684
+          ],
+          "RigRFLegDigit11": [
+            -0.14702701568603516,
+            -8.237381935119629,
+            0.07248103618621826
+          ]
+        }
+      },
+      {
+        "frame": 57.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5714033246040344,
+              -12.53536319732666,
+              0.02021714486181736
+            ],
+            "max": [
+              0.5560548901557922,
+              -9.77127742767334,
+              2.0460727214813232
+            ]
+          }
+        },
+        "rig_location": [
+          0.0011463165283203125,
+          -0.0001068115234375,
+          995.8994140625
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.035766612738370895,
+            -10.236634254455566,
+            1.0470402240753174
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.17036688327789307,
+            -10.264726638793945,
+            0.060629695653915405
+          ],
+          "RigRBLegDigit11": [
+            -0.17927539348602295,
+            -10.796194076538086,
+            0.09010064601898193
+          ],
+          "RigLFLegDigit11": [
+            0.1499163955450058,
+            -11.975861549377441,
+            0.2835164964199066
+          ],
+          "RigHead": [
+            0.035466812551021576,
+            -11.86677360534668,
+            1.3644211292266846
+          ],
+          "RigRFLegDigit11": [
+            -0.14937400817871094,
+            -11.899649620056152,
+            0.4386847913265228
+          ]
+        }
+      }
+    ],
+    "RigRoot|Attack_StandAngry_01_Low|Animation Base Layer": [
+      {
+        "frame": 1.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.4400102198123932,
+              -1.6368582248687744,
+              -0.005528617650270462
+            ],
+            "max": [
+              0.9729130864143372,
+              1.1752272844314575,
+              2.008434772491455
+            ]
+          }
+        },
+        "rig_location": [
+          -7.587429536215495e-06,
+          1.3729399142903276e-05,
+          3.7937197703286074e-06
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.11018998920917511,
+            0.6798794865608215,
+            1.255367636680603
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.4016253650188446,
+            0.6738919615745544,
+            0.05041320249438286
+          ],
+          "RigRBLegDigit11": [
+            -0.14587834477424622,
+            0.6345188617706299,
+            0.046838171780109406
+          ],
+          "RigLFLegDigit11": [
+            0.7902347445487976,
+            -0.36653509736061096,
+            0.04149563983082771
+          ],
+          "RigHead": [
+            0.19716157019138336,
+            -0.9768304228782654,
+            1.2096635103225708
+          ],
+          "RigRFLegDigit11": [
+            -0.13571132719516754,
+            -0.3630203306674957,
+            0.06031861528754234
+          ]
+        }
+      },
+      {
+        "frame": 31.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.3780680298805237,
+              -1.9506009817123413,
+              0.013255554251372814
+            ],
+            "max": [
+              1.815029501914978,
+              0.5346426367759705,
+              1.7442681789398193
+            ]
+          }
+        },
+        "rig_location": [
+          -8.562039511161856e-06,
+          1.3729399142903276e-05,
+          0.3844340145587921
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.4125996530056,
+            0.08607833832502365,
+            1.0132839679718018
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.9250956773757935,
+            0.13382650911808014,
+            0.06620461493730545
+          ],
+          "RigRBLegDigit11": [
+            -0.10470107942819595,
+            -0.21462894976139069,
+            0.09900146722793579
+          ],
+          "RigLFLegDigit11": [
+            1.5822815895080566,
+            -0.8610635995864868,
+            0.04371879622340202
+          ],
+          "RigHead": [
+            1.3318434953689575,
+            -1.3108962774276733,
+            1.0664052963256836
+          ],
+          "RigRFLegDigit11": [
+            1.2965494394302368,
+            -1.1869131326675415,
+            0.3474454879760742
+          ]
+        }
+      },
+      {
+        "frame": 61.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.4126255214214325,
+              -2.270451307296753,
+              0.014812341891229153
+            ],
+            "max": [
+              1.3502910137176514,
+              0.5124865770339966,
+              1.9933949708938599
+            ]
+          }
+        },
+        "rig_location": [
+          -8.562039511161856e-06,
+          1.3729399142903276e-05,
+          0.3844340145587921
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.5636294484138489,
+            0.013051222078502178,
+            1.178491234779358
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.927030086517334,
+            0.10719477385282516,
+            0.05261789262294769
+          ],
+          "RigRBLegDigit11": [
+            -0.13694730401039124,
+            -0.07197447866201401,
+            0.1725125014781952
+          ],
+          "RigLFLegDigit11": [
+            1.1626378297805786,
+            -1.0172172784805298,
+            0.32533055543899536
+          ],
+          "RigHead": [
+            0.8747217059135437,
+            -1.6387518644332886,
+            1.2690999507904053
+          ],
+          "RigRFLegDigit11": [
+            0.35493752360343933,
+            -1.1489766836166382,
+            0.07707636803388596
+          ]
+        }
+      },
+      {
+        "frame": 91.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.49990588426589966,
+              -1.6032737493515015,
+              0.009788929484784603
+            ],
+            "max": [
+              1.077755093574524,
+              0.9720593094825745,
+              1.8639198541641235
+            ]
+          }
+        },
+        "rig_location": [
+          -8.562039511161856e-06,
+          1.3729399142903276e-05,
+          0.3844340145587921
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.08719701319932938,
+            0.4678754210472107,
+            1.127719759941101
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.4115813970565796,
+            0.6481128931045532,
+            0.04441618174314499
+          ],
+          "RigRBLegDigit11": [
+            -0.19299949705600739,
+            0.4842380881309509,
+            0.17146648466587067
+          ],
+          "RigLFLegDigit11": [
+            0.7772781848907471,
+            -0.6532813310623169,
+            0.274379163980484
+          ],
+          "RigHead": [
+            0.5072932243347168,
+            -1.110493540763855,
+            1.114821434020996
+          ],
+          "RigRFLegDigit11": [
+            -0.20206812024116516,
+            -0.6521925330162048,
+            0.07099062204360962
+          ]
+        }
+      },
+      {
+        "frame": 121.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.4399959146976471,
+              -1.6368565559387207,
+              -0.005544558167457581
+            ],
+            "max": [
+              0.9729315638542175,
+              1.1752251386642456,
+              2.0084235668182373
+            ]
+          }
+        },
+        "rig_location": [
+          -8.150876965373755e-06,
+          1.3729399142903276e-05,
+          0.06047927215695381
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.11019034683704376,
+            0.6798790693283081,
+            1.2553622722625732
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.4016689956188202,
+            0.6738975048065186,
+            0.050424445420503616
+          ],
+          "RigRBLegDigit11": [
+            -0.1458398997783661,
+            0.6345219612121582,
+            0.04682512953877449
+          ],
+          "RigLFLegDigit11": [
+            0.7902570962905884,
+            -0.36653199791908264,
+            0.04156472161412239
+          ],
+          "RigHead": [
+            0.19718308746814728,
+            -0.9768296480178833,
+            1.2096508741378784
+          ],
+          "RigRFLegDigit11": [
+            -0.13564343750476837,
+            -0.36303335428237915,
+            0.06023404747247696
+          ]
+        }
+      }
+    ],
+    "RigRoot|Hit_Stand_F01|Animation Base Layer": [
+      {
+        "frame": 1.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5415417551994324,
+              -1.665569543838501,
+              -0.004816979635506868
+            ],
+            "max": [
+              0.5416042804718018,
+              1.1887879371643066,
+              2.062333106994629
+            ]
+          }
+        },
+        "rig_location": [
+          -7.645479854545556e-06,
+          1.3729399142903276e-05,
+          -1.1544353797562912e-12
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.00472225109115243,
+            0.688805878162384,
+            1.2348477840423584
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.24374261498451233,
+            0.34258174896240234,
+            0.05709056183695793
+          ],
+          "RigRBLegDigit11": [
+            -0.22438350319862366,
+            0.7942671775817871,
+            0.04424239695072174
+          ],
+          "RigLFLegDigit11": [
+            0.31139180064201355,
+            -0.591021716594696,
+            0.03582184389233589
+          ],
+          "RigHead": [
+            -0.011721130460500717,
+            -0.989164412021637,
+            1.4432963132858276
+          ],
+          "RigRFLegDigit11": [
+            -0.21766740083694458,
+            -0.33063825964927673,
+            0.05081232264637947
+          ]
+        }
+      },
+      {
+        "frame": 22.75,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6563188433647156,
+              -0.9595434665679932,
+              0.001174033503048122
+            ],
+            "max": [
+              1.1992113590240479,
+              1.2129788398742676,
+              2.1545612812042236
+            ]
+          }
+        },
+        "rig_location": [
+          -7.645479854545556e-06,
+          1.3729399142903276e-05,
+          -1.1544353797562912e-12
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.00471059326082468,
+            0.7180294394493103,
+            1.1322085857391357
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.20457477867603302,
+            0.6012664437294006,
+            0.41626763343811035
+          ],
+          "RigRBLegDigit11": [
+            -0.22731806337833405,
+            0.7895215749740601,
+            0.05611015483736992
+          ],
+          "RigLFLegDigit11": [
+            0.29097163677215576,
+            -0.5650637745857239,
+            0.036977335810661316
+          ],
+          "RigHead": [
+            0.5539488196372986,
+            -0.5729830265045166,
+            1.5219144821166992
+          ],
+          "RigRFLegDigit11": [
+            -0.21246817708015442,
+            -0.3640993535518646,
+            0.06677576899528503
+          ]
+        }
+      },
+      {
+        "frame": 44.5,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5950542092323303,
+              -1.0928956270217896,
+              -0.008774958550930023
+            ],
+            "max": [
+              1.084755301475525,
+              1.2057504653930664,
+              2.204057455062866
+            ]
+          }
+        },
+        "rig_location": [
+          -7.645479854545556e-06,
+          1.3729399142903276e-05,
+          -1.1544353797562912e-12
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.0046802693977952,
+            0.7068067193031311,
+            1.1920156478881836
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.22732283174991608,
+            0.4708845317363739,
+            0.11722920089960098
+          ],
+          "RigRBLegDigit11": [
+            -0.2245407998561859,
+            0.7967636585235596,
+            0.04650971293449402
+          ],
+          "RigLFLegDigit11": [
+            0.3058496117591858,
+            -0.5712529420852661,
+            0.025953538715839386
+          ],
+          "RigHead": [
+            0.4907384216785431,
+            -0.6956254243850708,
+            1.5705267190933228
+          ],
+          "RigRFLegDigit11": [
+            -0.20840400457382202,
+            -0.3427208960056305,
+            0.045419204980134964
+          ]
+        }
+      },
+      {
+        "frame": 66.25,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.549623429775238,
+              -1.5119389295578003,
+              -0.022374426946043968
+            ],
+            "max": [
+              0.5597890019416809,
+              1.1975523233413696,
+              2.187424659729004
+            ]
+          }
+        },
+        "rig_location": [
+          -7.645479854545556e-06,
+          1.3729399142903276e-05,
+          -1.1544353797562912e-12
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.004701754543930292,
+            0.6975945830345154,
+            1.2139357328414917
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.24451735615730286,
+            0.3505086898803711,
+            0.04007057100534439
+          ],
+          "RigRBLegDigit11": [
+            -0.22398222982883453,
+            0.805406928062439,
+            0.027200667187571526
+          ],
+          "RigLFLegDigit11": [
+            0.30808213353157043,
+            -0.5769578814506531,
+            0.01091846078634262
+          ],
+          "RigHead": [
+            0.17416515946388245,
+            -0.9296135306358337,
+            1.5302281379699707
+          ],
+          "RigRFLegDigit11": [
+            -0.21761304140090942,
+            -0.32666435837745667,
+            0.02872723527252674
+          ]
+        }
+      },
+      {
+        "frame": 88.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5415417551994324,
+              -1.665569543838501,
+              -0.004816979635506868
+            ],
+            "max": [
+              0.5416042804718018,
+              1.1887879371643066,
+              2.062333106994629
+            ]
+          }
+        },
+        "rig_location": [
+          -7.645479854545556e-06,
+          1.3729399142903276e-05,
+          -1.1544353797562912e-12
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.00472225109115243,
+            0.688805878162384,
+            1.2348477840423584
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.24374261498451233,
+            0.34258174896240234,
+            0.05709056183695793
+          ],
+          "RigRBLegDigit11": [
+            -0.22438350319862366,
+            0.7942671775817871,
+            0.04424239695072174
+          ],
+          "RigLFLegDigit11": [
+            0.3113464415073395,
+            -0.5910699963569641,
+            0.03572392463684082
+          ],
+          "RigHead": [
+            -0.011721130460500717,
+            -0.989164412021637,
+            1.4432963132858276
+          ],
+          "RigRFLegDigit11": [
+            -0.21761618554592133,
+            -0.3306346833705902,
+            0.05089055374264717
+          ]
+        }
+      }
+    ],
+    "RigRoot|Run|Animation Base Layer": [
+      {
+        "frame": 1.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5693922638893127,
+              -1.5718551874160767,
+              0.020083269104361534
+            ],
+            "max": [
+              0.5559684634208679,
+              1.1907246112823486,
+              2.0486114025115967
+            ]
+          }
+        },
+        "rig_location": [
+          -1.0913936421275139e-11,
+          0.0,
+          -0.0001220703125
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.035705842077732086,
+            0.7251428365707397,
+            1.0442304611206055
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.170521542429924,
+            0.6904484629631042,
+            0.061276283115148544
+          ],
+          "RigRBLegDigit11": [
+            -0.1789889633655548,
+            0.15894104540348053,
+            0.09002061188220978
+          ],
+          "RigLFLegDigit11": [
+            0.14953169226646423,
+            -1.0223103761672974,
+            0.2822785973548889
+          ],
+          "RigHead": [
+            0.03542120382189751,
+            -0.9033680558204651,
+            1.3670461177825928
+          ],
+          "RigRFLegDigit11": [
+            -0.14948202669620514,
+            -0.9443467855453491,
+            0.43809711933135986
+          ]
+        }
+      },
+      {
+        "frame": 5.25,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5497222542762756,
+              -2.8730177879333496,
+              -0.03765963762998581
+            ],
+            "max": [
+              0.5697024464607239,
+              0.21394900977611542,
+              1.899635672569275
+            ]
+          }
+        },
+        "rig_location": [
+          9.23757215787191e-06,
+          0.0,
+          105.66551208496094
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.005842437501996756,
+            -0.5549676418304443,
+            1.2065706253051758
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.2719639837741852,
+            0.03008863516151905,
+            0.40812522172927856
+          ],
+          "RigRBLegDigit11": [
+            -0.19882185757160187,
+            0.017986206337809563,
+            0.12533007562160492
+          ],
+          "RigLFLegDigit11": [
+            0.14583037793636322,
+            -1.374282956123352,
+            0.04623785614967346
+          ],
+          "RigHead": [
+            -0.008895061910152435,
+            -2.202763557434082,
+            1.1972029209136963
+          ],
+          "RigRFLegDigit11": [
+            -0.15817749500274658,
+            -2.2655937671661377,
+            0.06887387484312057
+          ]
+        }
+      },
+      {
+        "frame": 9.5,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6086564064025879,
+              -3.9864420890808105,
+              -0.0566927045583725
+            ],
+            "max": [
+              0.5747628211975098,
+              -1.231621265411377,
+              2.202934741973877
+            ]
+          }
+        },
+        "rig_location": [
+          1.847515522968024e-05,
+          0.0,
+          211.33114624023438
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.03164956346154213,
+            -1.6848725080490112,
+            1.3313480615615845
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.26478222012519836,
+            -1.8051890134811401,
+            0.43335017561912537
+          ],
+          "RigRBLegDigit11": [
+            -0.25597912073135376,
+            -1.47353196144104,
+            0.5052775740623474
+          ],
+          "RigLFLegDigit11": [
+            0.23529835045337677,
+            -2.320425033569336,
+            0.36427485942840576
+          ],
+          "RigHead": [
+            -0.03702497109770775,
+            -3.35311222076416,
+            1.5901060104370117
+          ],
+          "RigRFLegDigit11": [
+            -0.20122559368610382,
+            -2.459386110305786,
+            0.12774787843227386
+          ]
+        }
+      },
+      {
+        "frame": 13.75,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6414591073989868,
+              -5.001091957092285,
+              0.06809133291244507
+            ],
+            "max": [
+              0.5702286958694458,
+              -2.2579715251922607,
+              2.3000030517578125
+            ]
+          }
+        },
+        "rig_location": [
+          2.7712736482499167e-05,
+          0.0,
+          316.99676513671875
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.012517260387539864,
+            -2.736995220184326,
+            1.1481579542160034
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.19005954265594482,
+            -3.450618028640747,
+            0.16645506024360657
+          ],
+          "RigRBLegDigit11": [
+            -0.20213325321674347,
+            -3.397913694381714,
+            0.28425776958465576
+          ],
+          "RigLFLegDigit11": [
+            0.13135333359241486,
+            -4.13104248046875,
+            0.49820998311042786
+          ],
+          "RigHead": [
+            0.00419740891084075,
+            -4.325124263763428,
+            1.6717900037765503
+          ],
+          "RigRFLegDigit11": [
+            -0.21130359172821045,
+            -3.8844268321990967,
+            0.4938797056674957
+          ]
+        }
+      },
+      {
+        "frame": 18.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5691605806350708,
+              -5.947656154632568,
+              0.020052116364240646
+            ],
+            "max": [
+              0.5559686422348022,
+              -3.1850759983062744,
+              2.048611640930176
+            ]
+          }
+        },
+        "rig_location": [
+          3.477677091723308e-05,
+          0.0,
+          397.7999267578125
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.035706259310245514,
+            -3.6506576538085938,
+            1.0442308187484741
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.1705218106508255,
+            -3.685351848602295,
+            0.06127625331282616
+          ],
+          "RigRBLegDigit11": [
+            -0.17897632718086243,
+            -4.216857433319092,
+            0.09006688743829727
+          ],
+          "RigLFLegDigit11": [
+            0.14954449236392975,
+            -5.398106098175049,
+            0.2823042869567871
+          ],
+          "RigHead": [
+            0.03541978448629379,
+            -5.27916955947876,
+            1.367046594619751
+          ],
+          "RigRFLegDigit11": [
+            -0.14943359792232513,
+            -5.320017337799072,
+            0.4379456043243408
+          ]
+        }
+      }
+    ],
+    "RigRoot|Trans_Stand_to_Run_3f|Animation Base Layer": [
+      {
+        "frame": 1.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5409240126609802,
+              -1.6655715703964233,
+              -0.004817209672182798
+            ],
+            "max": [
+              0.541606605052948,
+              1.188787817955017,
+              2.0623362064361572
+            ]
+          }
+        },
+        "rig_location": [
+          -8.562039511161856e-06,
+          1.3729399142903276e-05,
+          0.3844340145587921
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.004720450844615698,
+            0.6888059377670288,
+            1.2348477840423584
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.243743896484375,
+            0.34258174896240234,
+            0.05709046870470047
+          ],
+          "RigRBLegDigit11": [
+            -0.22401611506938934,
+            0.7944614291191101,
+            0.04416415095329285
+          ],
+          "RigLFLegDigit11": [
+            0.3123112916946411,
+            -0.59152752161026,
+            0.03575979545712471
+          ],
+          "RigHead": [
+            -0.011767664924263954,
+            -0.9891659617424011,
+            1.4432941675186157
+          ],
+          "RigRFLegDigit11": [
+            -0.2167583853006363,
+            -0.32991454005241394,
+            0.05053173005580902
+          ]
+        }
+      },
+      {
+        "frame": 10.5,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5984125733375549,
+              -1.608709454536438,
+              0.00870033074170351
+            ],
+            "max": [
+              0.6158360242843628,
+              1.253139853477478,
+              1.899487018585205
+            ]
+          }
+        },
+        "rig_location": [
+          -8.562039511161856e-06,
+          1.3729399142903276e-05,
+          0.3844340145587921
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.07556461542844772,
+            0.7478853464126587,
+            1.0592751502990723
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.24830427765846252,
+            0.3447131812572479,
+            0.07201696932315826
+          ],
+          "RigRBLegDigit11": [
+            -0.22402527928352356,
+            0.5094329714775085,
+            0.1128430962562561
+          ],
+          "RigLFLegDigit11": [
+            0.3356553018093109,
+            -0.5896491408348083,
+            0.05552656948566437
+          ],
+          "RigHead": [
+            -0.03965532034635544,
+            -0.930966317653656,
+            1.1987885236740112
+          ],
+          "RigRFLegDigit11": [
+            -0.19609086215496063,
+            -0.5771874189376831,
+            0.05535971373319626
+          ]
+        }
+      },
+      {
+        "frame": 20.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6842102408409119,
+              -2.534512996673584,
+              0.002619141945615411
+            ],
+            "max": [
+              0.5941428542137146,
+              0.3358014225959778,
+              2.014618158340454
+            ]
+          }
+        },
+        "rig_location": [
+          -0.3378353416919708,
+          0.08254460990428925,
+          75.00106811523438
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.059817515313625336,
+            -0.16545867919921875,
+            1.2038302421569824
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.18775007128715515,
+            -0.08331728726625443,
+            0.27979475259780884
+          ],
+          "RigRBLegDigit11": [
+            -0.24586425721645355,
+            -0.02782164141535759,
+            0.040489278733730316
+          ],
+          "RigLFLegDigit11": [
+            0.1690077781677246,
+            -1.7315341234207153,
+            0.18441009521484375
+          ],
+          "RigHead": [
+            0.050067346543073654,
+            -1.8484705686569214,
+            1.3239750862121582
+          ],
+          "RigRFLegDigit11": [
+            -0.23876309394836426,
+            -1.2427740097045898,
+            0.375499427318573
+          ]
+        }
+      },
+      {
+        "frame": 29.5,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6165050864219666,
+              -3.8836686611175537,
+              -0.08228809386491776
+            ],
+            "max": [
+              0.5985681414604187,
+              -1.071097493171692,
+              2.0141372680664062
+            ]
+          }
+        },
+        "rig_location": [
+          -0.8582298755645752,
+          0.20967671275138855,
+          222.01324462890625
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.0393357016146183,
+            -1.5787410736083984,
+            1.3015185594558716
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.20497432351112366,
+            -1.9158759117126465,
+            0.25813576579093933
+          ],
+          "RigRBLegDigit11": [
+            -0.20088574290275574,
+            -1.5279040336608887,
+            0.42416873574256897
+          ],
+          "RigLFLegDigit11": [
+            0.19633758068084717,
+            -2.1983892917633057,
+            0.2124565839767456
+          ],
+          "RigHead": [
+            -0.0016939283814281225,
+            -3.2078299522399902,
+            1.2166731357574463
+          ],
+          "RigRFLegDigit11": [
+            -0.1844644844532013,
+            -2.77211332321167,
+            0.06522198766469955
+          ]
+        }
+      },
+      {
+        "frame": 39.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5574841499328613,
+              -5.885106563568115,
+              -0.009690595790743828
+            ],
+            "max": [
+              0.5561091303825378,
+              -2.758737325668335,
+              1.7976313829421997
+            ]
+          }
+        },
+        "rig_location": [
+          -1.5518730878829956,
+          -0.547454833984375,
+          378.77496337890625
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.003690442768856883,
+            -3.5317256450653076,
+            1.1172674894332886
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.24077782034873962,
+            -2.91707181930542,
+            0.2562294900417328
+          ],
+          "RigRBLegDigit11": [
+            -0.17807970941066742,
+            -3.247185230255127,
+            0.02114168368279934
+          ],
+          "RigLFLegDigit11": [
+            0.12503203749656677,
+            -4.676789283752441,
+            0.034833863377571106
+          ],
+          "RigHead": [
+            -0.02313881181180477,
+            -5.200347423553467,
+            1.186043381690979
+          ],
+          "RigRFLegDigit11": [
+            -0.1782384067773819,
+            -5.413815975189209,
+            0.22128693759441376
+          ]
+        }
+      }
+    ],
+    "RigRoot|Trans_Stand_to_Run|Animation Base Layer": [
+      {
+        "frame": 1.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5409240126609802,
+              -1.6655712127685547,
+              -0.004817209672182798
+            ],
+            "max": [
+              0.541606605052948,
+              1.188787817955017,
+              2.0623362064361572
+            ]
+          }
+        },
+        "rig_location": [
+          -8.562039511161856e-06,
+          1.3729399142903276e-05,
+          0.3844340145587921
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.004720450844615698,
+            0.6888059377670288,
+            1.2348477840423584
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.243743896484375,
+            0.34258174896240234,
+            0.05709046870470047
+          ],
+          "RigRBLegDigit11": [
+            -0.22401611506938934,
+            0.7944614291191101,
+            0.04416415095329285
+          ],
+          "RigLFLegDigit11": [
+            0.3123112916946411,
+            -0.5915274620056152,
+            0.03575988858938217
+          ],
+          "RigHead": [
+            -0.011767664924263954,
+            -0.9891657829284668,
+            1.4432941675186157
+          ],
+          "RigRFLegDigit11": [
+            -0.2167583853006363,
+            -0.32991456985473633,
+            0.050531912595033646
+          ]
+        }
+      },
+      {
+        "frame": 9.75,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5916473865509033,
+              -1.6105010509490967,
+              0.00978337973356247
+            ],
+            "max": [
+              0.6183388829231262,
+              1.2499018907546997,
+              1.9047479629516602
+            ]
+          }
+        },
+        "rig_location": [
+          -8.562039511161856e-06,
+          1.3729399142903276e-05,
+          0.3844340145587921
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.07054099440574646,
+            0.7453306317329407,
+            1.072930932044983
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.25065335631370544,
+            0.3317631483078003,
+            0.0729547068476677
+          ],
+          "RigRBLegDigit11": [
+            -0.22035156190395355,
+            0.6030573844909668,
+            0.12030254304409027
+          ],
+          "RigLFLegDigit11": [
+            0.3385913670063019,
+            -0.6000583171844482,
+            0.053744468837976456
+          ],
+          "RigHead": [
+            -0.03810971602797508,
+            -0.9336100816726685,
+            1.200846791267395
+          ],
+          "RigRFLegDigit11": [
+            -0.19788147509098053,
+            -0.5902602076530457,
+            0.056639887392520905
+          ]
+        }
+      },
+      {
+        "frame": 18.5,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6599556803703308,
+              -2.2442078590393066,
+              -0.001982772257179022
+            ],
+            "max": [
+              0.5924603939056396,
+              0.6091082692146301,
+              2.07173752784729
+            ]
+          }
+        },
+        "rig_location": [
+          -0.2556678056716919,
+          0.06247112900018692,
+          51.78862762451172
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.0672970712184906,
+            0.10446260124444962,
+            1.152358889579773
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.19511765241622925,
+            0.16595835983753204,
+            0.2118423879146576
+          ],
+          "RigRBLegDigit11": [
+            -0.24503780901432037,
+            0.03191360458731651,
+            0.06075354665517807
+          ],
+          "RigLFLegDigit11": [
+            0.17919234931468964,
+            -1.4346174001693726,
+            0.23159202933311462
+          ],
+          "RigHead": [
+            0.0573812760412693,
+            -1.5572572946548462,
+            1.457114815711975
+          ],
+          "RigRFLegDigit11": [
+            -0.239554300904274,
+            -0.8699360489845276,
+            0.34408196806907654
+          ]
+        }
+      },
+      {
+        "frame": 27.25,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.5975344181060791,
+              -3.567675828933716,
+              -0.04123133420944214
+            ],
+            "max": [
+              0.6299471259117126,
+              -0.7341720461845398,
+              2.0573108196258545
+            ]
+          }
+        },
+        "rig_location": [
+          -0.7349785566329956,
+          0.17956648766994476,
+          187.194580078125
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.03937668353319168,
+            -1.331493854522705,
+            1.3610286712646484
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.2114800661802292,
+            -1.4779791831970215,
+            0.3317165970802307
+          ],
+          "RigRBLegDigit11": [
+            -0.1882927566766739,
+            -0.9371145963668823,
+            0.37015509605407715
+          ],
+          "RigLFLegDigit11": [
+            0.19947735965251923,
+            -2.041846990585327,
+            0.03283287584781647
+          ],
+          "RigHead": [
+            0.03734881803393364,
+            -2.9035425186157227,
+            1.0262771844863892
+          ],
+          "RigRFLegDigit11": [
+            -0.16384170949459076,
+            -2.7684402465820312,
+            0.04832667484879494
+          ]
+        }
+      },
+      {
+        "frame": 36.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6148205399513245,
+              -4.948720932006836,
+              0.0037139221094548702
+            ],
+            "max": [
+              0.5814013481140137,
+              -2.148874282836914,
+              2.0597591400146484
+            ]
+          }
+        },
+        "rig_location": [
+          -1.1103551387786865,
+          0.271270751953125,
+          305.2685852050781
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.0428018793463707,
+            -2.624584197998047,
+            1.0397197008132935
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.1775512546300888,
+            -2.6688480377197266,
+            0.059236254543066025
+          ],
+          "RigRBLegDigit11": [
+            -0.1786431223154068,
+            -3.1878461837768555,
+            0.08697661757469177
+          ],
+          "RigLFLegDigit11": [
+            0.1308199018239975,
+            -4.347447872161865,
+            0.2790328562259674
+          ],
+          "RigHead": [
+            0.01731773279607296,
+            -4.2598958015441895,
+            1.3648858070373535
+          ],
+          "RigRFLegDigit11": [
+            -0.17074595391750336,
+            -4.262598991394043,
+            0.4348411560058594
+          ]
+        }
+      }
+    ],
+    "RigRoot|Walk|Animation Base Layer": [
+      {
+        "frame": 1.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6280501484870911,
+              -1.5970057249069214,
+              -0.022841406986117363
+            ],
+            "max": [
+              0.6131253242492676,
+              1.2078356742858887,
+              2.0345587730407715
+            ]
+          }
+        },
+        "rig_location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.04314713925123215,
+            0.6929237842559814,
+            1.1742894649505615
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.14284420013427734,
+            0.904509961605072,
+            0.025958551093935966
+          ],
+          "RigRBLegDigit11": [
+            -0.1639690101146698,
+            0.17636986076831818,
+            0.12793274223804474
+          ],
+          "RigLFLegDigit11": [
+            0.12774303555488586,
+            -0.4594033658504486,
+            0.05975419282913208
+          ],
+          "RigHead": [
+            -0.003930660896003246,
+            -0.9421469569206238,
+            1.2106701135635376
+          ],
+          "RigRFLegDigit11": [
+            -0.23545841872692108,
+            -0.40084201097488403,
+            0.30904337763786316
+          ]
+        }
+      },
+      {
+        "frame": 13.75,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6128600239753723,
+              -2.064023971557617,
+              -0.014163754880428314
+            ],
+            "max": [
+              0.6477171182632446,
+              0.7356207370758057,
+              2.0102131366729736
+            ]
+          }
+        },
+        "rig_location": [
+          3.547230789990863e-06,
+          0.0,
+          40.575599670410156
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.09584199637174606,
+            0.22159558534622192,
+            1.2083359956741333
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.2024049013853073,
+            0.5225105881690979,
+            0.23127147555351257
+          ],
+          "RigRBLegDigit11": [
+            -0.13748767971992493,
+            0.06712965667247772,
+            0.053598757833242416
+          ],
+          "RigLFLegDigit11": [
+            0.1745138019323349,
+            -0.4643709063529968,
+            0.018157370388507843
+          ],
+          "RigHead": [
+            0.09392090886831284,
+            -1.404507040977478,
+            1.1620522737503052
+          ],
+          "RigRFLegDigit11": [
+            -0.109279565513134,
+            -1.3121857643127441,
+            0.07675117999315262
+          ]
+        }
+      },
+      {
+        "frame": 26.5,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6080752015113831,
+              -2.4949731826782227,
+              -0.029119474813342094
+            ],
+            "max": [
+              0.6277391910552979,
+              0.33051633834838867,
+              2.032679319381714
+            ]
+          }
+        },
+        "rig_location": [
+          7.094461579981726e-06,
+          0.0,
+          81.15119934082031
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            -0.03342575207352638,
+            -0.2043815553188324,
+            1.1704134941101074
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.16861368715763092,
+            -0.7305940389633179,
+            0.10657818615436554
+          ],
+          "RigRBLegDigit11": [
+            -0.14001980423927307,
+            0.029661184176802635,
+            0.02393489144742489
+          ],
+          "RigLFLegDigit11": [
+            0.24466177821159363,
+            -1.3278864622116089,
+            0.3051173985004425
+          ],
+          "RigHead": [
+            0.004975914489477873,
+            -1.8393545150756836,
+            1.21021568775177
+          ],
+          "RigRFLegDigit11": [
+            -0.12285634130239487,
+            -1.3350986242294312,
+            0.05751175805926323
+          ]
+        }
+      },
+      {
+        "frame": 39.25,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6453282833099365,
+              -2.9562551975250244,
+              -0.02501440793275833
+            ],
+            "max": [
+              0.6152626872062683,
+              -0.15803690254688263,
+              1.9967749118804932
+            ]
+          }
+        },
+        "rig_location": [
+          1.0641691915225238e-05,
+          0.0,
+          121.72679901123047
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.10021742433309555,
+            -0.6711599230766296,
+            1.2114660739898682
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.14438602328300476,
+            -0.7972283959388733,
+            0.048981454223394394
+          ],
+          "RigRBLegDigit11": [
+            -0.20251548290252686,
+            -0.3908291459083557,
+            0.23444019258022308
+          ],
+          "RigLFLegDigit11": [
+            0.10285469144582748,
+            -2.172187328338623,
+            0.057097483426332474
+          ],
+          "RigHead": [
+            -0.09401953965425491,
+            -2.296435832977295,
+            1.1398630142211914
+          ],
+          "RigRFLegDigit11": [
+            -0.1781338006258011,
+            -1.322108268737793,
+            0.012094665318727493
+          ]
+        }
+      },
+      {
+        "frame": 52.0,
+        "meshes": {
+          "sm_3_0_0": {
+            "min": [
+              -0.6280109286308289,
+              -3.3473291397094727,
+              -0.02283569425344467
+            ],
+            "max": [
+              0.6131170392036438,
+              -0.5422223210334778,
+              2.0345726013183594
+            ]
+          }
+        },
+        "rig_location": [
+          1.3910708730691113e-05,
+          0.0,
+          159.1199951171875
+        ],
+        "root_pose_heads": {
+          "RigPelvis": [
+            0.04307828098535538,
+            -1.0574125051498413,
+            1.1742537021636963
+          ]
+        },
+        "selected_bones": {
+          "RigLBLegDigit11": [
+            0.14285704493522644,
+            -0.845501720905304,
+            0.026073861867189407
+          ],
+          "RigRBLegDigit11": [
+            -0.16398625075817108,
+            -1.5740599632263184,
+            0.12786301970481873
+          ],
+          "RigLFLegDigit11": [
+            0.12771472334861755,
+            -2.20937180519104,
+            0.05961091071367264
+          ],
+          "RigHead": [
+            -0.003876984352245927,
+            -2.692476511001587,
+            1.210700273513794
+          ],
+          "RigRFLegDigit11": [
+            -0.23549619317054749,
+            -2.151186943054199,
+            0.3090287744998932
+          ]
+        }
+      }
+    ]
+  },
+  "sample_metrics": {
+    "RigRoot|Attack_Run_01_AttackF|Animation Base Layer": {
+      "minimum_sampled_floor_z": -0.003298187395557761,
+      "maximum_sampled_height": 2.936847673729062,
+      "world_pelvis_travel": 10.954872230102543,
+      "all_bounds_finite": true
+    },
+    "RigRoot|Attack_StandAngry_01_Low|Animation Base Layer": {
+      "minimum_sampled_floor_z": -0.005544558167457581,
+      "maximum_sampled_height": 2.013968124985695,
+      "world_pelvis_travel": 5.392491211025021e-06,
+      "all_bounds_finite": true
+    },
+    "RigRoot|Hit_Stand_F01|Animation Base Layer": {
+      "minimum_sampled_floor_z": -0.022374426946043968,
+      "maximum_sampled_height": 2.2128324136137962,
+      "world_pelvis_travel": 0.0,
+      "all_bounds_finite": true
+    },
+    "RigRoot|Run|Animation Base Layer": {
+      "minimum_sampled_floor_z": -0.0566927045583725,
+      "maximum_sampled_height": 2.2596274465322495,
+      "world_pelvis_travel": 4.3758005772119715,
+      "all_bounds_finite": true
+    },
+    "RigRoot|Trans_Stand_to_Run_3f|Animation Base Layer": {
+      "minimum_sampled_floor_z": -0.08228809386491776,
+      "maximum_sampled_height": 2.096425361931324,
+      "world_pelvis_travel": 4.222177300107215,
+      "all_bounds_finite": true
+    },
+    "RigRoot|Trans_Stand_to_Run|Animation Base Layer": {
+      "minimum_sampled_floor_z": -0.04123133420944214,
+      "maximum_sampled_height": 2.0985421538352966,
+      "world_pelvis_travel": 3.3194710523947832,
+      "all_bounds_finite": true
+    },
+    "RigRoot|Walk|Animation Base Layer": {
+      "minimum_sampled_floor_z": -0.029119474813342094,
+      "maximum_sampled_height": 2.061798794195056,
+      "world_pelvis_travel": 1.750336275846862,
+      "all_bounds_finite": true
+    }
+  },
+  "integration": {
+    "container": "Bear_Animated",
+    "armature": "RigRoot",
+    "mesh": "sm_3_0_0",
+    "forward_world_axis": "-Y",
+    "root_motion_channel": "RigRoot object local location Z, transformed into world -Y by parent",
+    "action_binding": "Assign action and its first action_slot explicitly; mute NLA tracks.",
+    "texture_binding": "All five images are packed; rewrite their paths to local_texture for portable saving.",
+    "normalization": "Keep source hierarchy; place/scale/rotate its top Bear_Animated empty."
+  },
+  "limitations": [
+    "Five poses per selected action, not a full deformation or collision audit.",
+    "Native root-motion clips require staging or removal of object translation to avoid double movement.",
+    "Sampled floor penetration reaches about 8cm in the run transition; correct character elevation before preview.",
+    "Creator warns this older release has known rigging problems; sampled bounds are finite but visual QA remains required."
+  ]
+}

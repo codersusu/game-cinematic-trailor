@@ -22,6 +22,6 @@ Root crosses doorway Y=-5.8 at frame64.2647059 (2.636029412 seconds). Heel/sole 
 
 ## Verification
 
-Blender4.5.13, Cycles Metal, MetalRT OFF, kernel optimization OFF. Skin, face freckles, iris/sclera, clothing and hair rendered successfully with complete image maps. The full production scene is `observatory-v2.blend`. Temporary character-only proof scenes are omitted from this repository.
+Blender4.5.13, Cycles Metal, MetalRT OFF, kernel optimization OFF. Skin, face freckles, iris/sclera, clothing and hair rendered successfully with complete image maps. Four 720px full-body poses and a face proof are in `proof/`; these images precede final costume recoloring and ponytail gravity adjustment. The final revised rig is `proof/walk-proof.blend`.
 
-Deformed shoe sole vertices were measured after final rig adjustments, not just IK control positions. At planted contacts1,15,252, minimum sole Z is0.139988–0.139997 against floorZ0.14 (maximum numerical floor penetration0.012mm). Passing poses8,22,64 keep support sole grounded and swing sole raised approximately69mm. Final settle240 keeps support grounded and trailing sole32mm above floor. Production measurements are documented here; the rendered walking proof is `previews/v2/Arrival-motion-1080p.mp4`.
+Deformed shoe sole vertices were measured after final rig adjustments, not just IK control positions. At planted contacts1,15,252, minimum sole Z is0.139988–0.139997 against floorZ0.14 (maximum numerical floor penetration0.012mm). Passing poses8,22,64 keep support sole grounded and swing sole raised approximately69mm. Final settle240 keeps support grounded and trailing sole32mm above floor. Measurements in `proof/metrics.json`.

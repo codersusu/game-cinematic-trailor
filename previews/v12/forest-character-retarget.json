@@ -1,0 +1,3072 @@
+{
+  "source_room": "observatory-v11-single-reaction.blend",
+  "source_forest": "bear-bow-forest-v10.blend",
+  "character": "Microsoft Rocketbox FemaleAdult04",
+  "room_scale_m_per_unit": 0.009357154369354248,
+  "target_bones": 80,
+  "mapped_bones": 52,
+  "body_vertices": 5170,
+  "first_person_vertices": 1145,
+  "materials": [
+    "f004_body",
+    "f004_head",
+    "f004_opacity"
+  ],
+  "mesh_geometry_reused": true,
+  "old_blue_meshes_deleted": [
+    "HumanF_BodyMesh",
+    "V9 | First-person arms only"
+  ],
+  "cameras_bear_props_source_motion_edited": false,
+  "strategy": "anatomical rest calibration, native source motion, target limb lengths, two-bone palm contact IK, source vertical floor profile",
+  "frames": [
+    {
+      "frame": 1,
+      "source_floor_world_z": 0.1450000239835403,
+      "target_floor_world_z": 0.1450002535155933,
+      "target_height_m": 1.568416029845316,
+      "whole_body_vertical_correction_m": -0.09999702545475228,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.1161833868577062e-08,
+          "forearm_length_error_m": 2.0721929450129295e-09
+        },
+        "R": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.216485928130396e-08,
+          "forearm_length_error_m": 4.6624348215562605e-08
+        }
+      }
+    },
+    {
+      "frame": 2,
+      "source_floor_world_z": 0.14500001432109288,
+      "target_floor_world_z": 0.1449999609395024,
+      "target_height_m": 1.5672269677423096,
+      "whole_body_vertical_correction_m": -0.10005835160648535,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.974113598787966e-08,
+          "forearm_length_error_m": 3.522727742844012e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.42373995768186e-09,
+          "forearm_length_error_m": 3.1082895424194845e-09
+        }
+      }
+    },
+    {
+      "frame": 3,
+      "source_floor_world_z": 0.14500009522934976,
+      "target_floor_world_z": 0.1449997963757914,
+      "target_height_m": 1.56426130865054,
+      "whole_body_vertical_correction_m": -0.09999057174767367,
+      "hands": {
+        "L": {
+          "grip_error_m": 7.450580596923828e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.201539153230293e-08,
+          "forearm_length_error_m": 3.522727742844012e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2317230291269965e-08,
+          "forearm_length_error_m": 0.0
+        }
+      }
+    },
+    {
+      "frame": 4,
+      "source_floor_world_z": 0.14500009776978542,
+      "target_floor_world_z": 0.14499992401286543,
+      "target_height_m": 1.5600619690737776,
+      "whole_body_vertical_correction_m": -0.09984649022547029,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1276601594167879e-07,
+          "forearm_length_error_m": 7.252674166791095e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.269250658024305e-08,
+          "forearm_length_error_m": 6.00936061745383e-08
+        }
+      }
+    },
+    {
+      "frame": 5,
+      "source_floor_world_z": 0.14500002348158178,
+      "target_floor_world_z": 0.14499992354310476,
+      "target_height_m": 1.555674161441727,
+      "whole_body_vertical_correction_m": -0.09967501527902403,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.004586443533519e-08,
+          "forearm_length_error_m": 2.0721928561950875e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.931508257310924e-09,
+          "forearm_length_error_m": 8.288772307407655e-09
+        }
+      }
+    },
+    {
+      "frame": 6,
+      "source_floor_world_z": 0.145000027734379,
+      "target_floor_world_z": 0.14499988253060536,
+      "target_height_m": 1.5523743284997948,
+      "whole_body_vertical_correction_m": -0.09950099400871862,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.267425812194304e-08,
+          "forearm_length_error_m": 4.558824959199903e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.839936476740974e-09,
+          "forearm_length_error_m": 3.9371664289911124e-08
+        }
+      }
+    },
+    {
+      "frame": 7,
+      "source_floor_world_z": 0.1450000276070983,
+      "target_floor_world_z": 0.1449999192457373,
+      "target_height_m": 1.5508767927370557,
+      "whole_body_vertical_correction_m": -0.099356681453459,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0585146448249816e-07,
+          "forearm_length_error_m": 1.1189844734138532e-07
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2301844015683017e-08,
+          "forearm_length_error_m": 3.8335567970060325e-08
+        }
+      }
+    },
+    {
+      "frame": 8,
+      "source_floor_world_z": 0.14500002769436124,
+      "target_floor_world_z": 0.14500001352308944,
+      "target_height_m": 1.5512888524443205,
+      "whole_body_vertical_correction_m": -0.0992472642805268,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0390314117425525e-07,
+          "forearm_length_error_m": 1.1189839160818948e-07
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4389769643095036e-09,
+          "forearm_length_error_m": 1.1397061433493505e-08
+        }
+      }
+    },
+    {
+      "frame": 9,
+      "source_floor_world_z": 0.14500002011645624,
+      "target_floor_world_z": 0.14499980999166184,
+      "target_height_m": 1.5585381620042658,
+      "whole_body_vertical_correction_m": -0.09979762349755245,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.676567888495242e-08,
+          "forearm_length_error_m": 3.729947625763508e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.20124878827599e-08,
+          "forearm_length_error_m": 4.4552154770949315e-08
+        }
+      }
+    },
+    {
+      "frame": 10,
+      "source_floor_world_z": 0.1450000519876163,
+      "target_floor_world_z": 0.1449999932795344,
+      "target_height_m": 1.5730611254883304,
+      "whole_body_vertical_correction_m": -0.1002479565669461,
+      "hands": {
+        "L": {
+          "grip_error_m": 6.143906154658885e-08,
+          "shoulder_reach_m": 0.06372367646868826,
+          "upper_arm_length_error_m": 1.7222780562820006e-08,
+          "forearm_length_error_m": 1.6577544253992826e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4389769643095036e-09,
+          "forearm_length_error_m": 2.2017051237721574e-09
+        }
+      }
+    },
+    {
+      "frame": 11,
+      "source_floor_world_z": 0.14500005418497008,
+      "target_floor_world_z": 0.14500001548763486,
+      "target_height_m": 1.5734871775189885,
+      "whole_body_vertical_correction_m": -0.10024854769301494,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.06285337743642672,
+          "upper_arm_length_error_m": 4.442013895600283e-09,
+          "forearm_length_error_m": 7.252675210400739e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.439126788380321e-09,
+          "forearm_length_error_m": 1.0425720980977715e-08
+        }
+      }
+    },
+    {
+      "frame": 12,
+      "source_floor_world_z": 0.14500005365384944,
+      "target_floor_world_z": 0.14500007441162632,
+      "target_height_m": 1.573964844095884,
+      "whole_body_vertical_correction_m": -0.1002493924316949,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.06094668508044143,
+          "upper_arm_length_error_m": 9.365831082908116e-09,
+          "forearm_length_error_m": 2.0721929450129295e-09
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 8.362791958926863e-09,
+          "forearm_length_error_m": 4.468166281412778e-09
+        }
+      }
+    },
+    {
+      "frame": 13,
+      "source_floor_world_z": 0.14500004953204373,
+      "target_floor_world_z": 0.14500018047469365,
+      "target_height_m": 1.5743876836006458,
+      "whole_body_vertical_correction_m": -0.10025057345779706,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0.059089698892519915,
+          "upper_arm_length_error_m": 5.267425812194304e-08,
+          "forearm_length_error_m": 3.4191186326637535e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 6.4086526918583075e-09,
+          "forearm_length_error_m": 3.626337841122762e-09
+        }
+      }
+    },
+    {
+      "frame": 14,
+      "source_floor_world_z": 0.14500005423229778,
+      "target_floor_world_z": 0.14500039328148118,
+      "target_height_m": 1.5746734554269568,
+      "whole_body_vertical_correction_m": -0.10025178101614429,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.057509444918602104,
+          "upper_arm_length_error_m": 1.4877236387267345e-09,
+          "forearm_length_error_m": 6.216578779527637e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.1164711400123437e-08,
+          "forearm_length_error_m": 1.8878406310429696e-08
+        }
+      }
+    },
+    {
+      "frame": 15,
+      "source_floor_world_z": 0.1450000435912729,
+      "target_floor_world_z": 0.1450001181471261,
+      "target_height_m": 1.5748137356242193,
+      "whole_body_vertical_correction_m": -0.10025301570053474,
+      "hands": {
+        "L": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0.056321032271720695,
+          "upper_arm_length_error_m": 1.527441187421097e-08,
+          "forearm_length_error_m": 7.252675210400739e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.298186840305917e-08,
+          "forearm_length_error_m": 1.8058837841783415e-08
+        }
+      }
+    },
+    {
+      "frame": 16,
+      "source_floor_world_z": 0.1450000494665941,
+      "target_floor_world_z": 0.1449998915134303,
+      "target_height_m": 1.5748967615103397,
+      "whole_body_vertical_correction_m": -0.10025456792689955,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05557039869698066,
+          "upper_arm_length_error_m": 1.724393883240083e-08,
+          "forearm_length_error_m": 8.288771669029416e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.6159267247093396e-10,
+          "forearm_length_error_m": 7.123163447975145e-09
+        }
+      }
+    },
+    {
+      "frame": 17,
+      "source_floor_world_z": 0.1450000430601814,
+      "target_floor_world_z": 0.1449999719645526,
+      "target_height_m": 1.575059672152681,
+      "whole_body_vertical_correction_m": -0.10025508312092604,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0.05509620753439759,
+          "upper_arm_length_error_m": 4.81803208440823e-10,
+          "forearm_length_error_m": 8.288771974340747e-09
+        },
+        "R": {
+          "grip_error_m": 3.725290298461914e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.408502951054217e-09,
+          "forearm_length_error_m": 1.4116815522102755e-08
+        }
+      }
+    },
+    {
+      "frame": 18,
+      "source_floor_world_z": 0.14500004689462076,
+      "target_floor_world_z": 0.1449999477143179,
+      "target_height_m": 1.5754329674028065,
+      "whole_body_vertical_correction_m": -0.10025662560338788,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.054721210963714406,
+          "upper_arm_length_error_m": 2.0177070569893374e-08,
+          "forearm_length_error_m": 1.0360965002620404e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2317230291269965e-08,
+          "forearm_length_error_m": 6.2165791958612715e-09
+        }
+      }
+    },
+    {
+      "frame": 19,
+      "source_floor_world_z": 0.1450000492156998,
+      "target_floor_world_z": 0.14500007666609205,
+      "target_height_m": 1.5760877511185338,
+      "whole_body_vertical_correction_m": -0.10025689501291363,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05432433458012531,
+          "upper_arm_length_error_m": 2.5122046803938147e-08,
+          "forearm_length_error_m": 3.004679580143055e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.004296220132652e-08,
+          "forearm_length_error_m": 1.0360965141398282e-09
+        }
+      }
+    },
+    {
+      "frame": 20,
+      "source_floor_world_z": 0.1450000583215025,
+      "target_floor_world_z": 0.14500009321695306,
+      "target_height_m": 1.5827830788095605,
+      "whole_body_vertical_correction_m": -0.10025754496270925,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05224057457493836,
+          "upper_arm_length_error_m": 1.820754388925927e-08,
+          "forearm_length_error_m": 1.4505351142446443e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.413438504600407e-08,
+          "forearm_length_error_m": 4.040776790947831e-08
+        }
+      }
+    },
+    {
+      "frame": 21,
+      "source_floor_world_z": 0.14500005821237769,
+      "target_floor_world_z": 0.14500003157012475,
+      "target_height_m": 1.5826192401073444,
+      "whole_body_vertical_correction_m": -0.10025691230968362,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05242863027154565,
+          "upper_arm_length_error_m": 1.4289648381238251e-08,
+          "forearm_length_error_m": 2.6938506786367e-08
+        },
+        "R": {
+          "grip_error_m": 2.1073424255447017e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.4694510053203658e-09,
+          "forearm_length_error_m": 1.4505350809379536e-08
+        }
+      }
+    },
+    {
+      "frame": 22,
+      "source_floor_world_z": 0.14500004857537668,
+      "target_floor_world_z": 0.1449998049364185,
+      "target_height_m": 1.5821417163117022,
+      "whole_body_vertical_correction_m": -0.10024284576641634,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05270119699059095,
+          "upper_arm_length_error_m": 2.0177070569893374e-08,
+          "forearm_length_error_m": 3.004679982598901e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.366189462230331e-08,
+          "forearm_length_error_m": 5.180482542943565e-09
+        }
+      }
+    },
+    {
+      "frame": 23,
+      "source_floor_world_z": 0.14500005306097544,
+      "target_floor_world_z": 0.14499997264642206,
+      "target_height_m": 1.581369140061088,
+      "whole_body_vertical_correction_m": -0.10021766574840105,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.053141600407394574,
+          "upper_arm_length_error_m": 9.344673701505712e-09,
+          "forearm_length_error_m": 2.072192972768505e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1317080994555084e-08,
+          "forearm_length_error_m": 3.10828957017506e-09
+        }
+      }
+    },
+    {
+      "frame": 24,
+      "source_floor_world_z": 0.14500005441427927,
+      "target_floor_world_z": 0.14500015214114448,
+      "target_height_m": 1.5803586228878248,
+      "whole_body_vertical_correction_m": -0.1001837911387366,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05371878637650174,
+          "upper_arm_length_error_m": 4.8735205315786345e-08,
+          "forearm_length_error_m": 5.387702325942989e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.034770444330313e-08,
+          "forearm_length_error_m": 3.10828957017506e-09
+        }
+      }
+    },
+    {
+      "frame": 25,
+      "source_floor_world_z": 0.14500004465705016,
+      "target_floor_world_z": 0.14500018660332503,
+      "target_height_m": 1.579219390597858,
+      "whole_body_vertical_correction_m": -0.10014557063156251,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.054372781388466684,
+          "upper_arm_length_error_m": 5.405620201459627e-09,
+          "forearm_length_error_m": 0.0
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.4286756111481225e-08,
+          "forearm_length_error_m": 1.0360965141398282e-09
+        }
+      }
+    },
+    {
+      "frame": 26,
+      "source_floor_world_z": 0.14500005132873428,
+      "target_floor_world_z": 0.1450001474223801,
+      "target_height_m": 1.5780858694601805,
+      "whole_body_vertical_correction_m": -0.10010654615819703,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.055028111886097575,
+          "upper_arm_length_error_m": 3.10094669109251e-08,
+          "forearm_length_error_m": 2.1758027074492148e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.34755495229922e-09,
+          "forearm_length_error_m": 1.8649738142695327e-08
+        }
+      }
+    },
+    {
+      "frame": 27,
+      "source_floor_world_z": 0.14500005642254069,
+      "target_floor_world_z": 0.14500005037406982,
+      "target_height_m": 1.5770576477092524,
+      "whole_body_vertical_correction_m": -0.10007067791903099,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05561080864217749,
+          "upper_arm_length_error_m": 1.822870229761797e-08,
+          "forearm_length_error_m": 3.833556636023694e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.2677131406886346e-08,
+          "forearm_length_error_m": 2.6938507896590025e-08
+        }
+      }
+    },
+    {
+      "frame": 28,
+      "source_floor_world_z": 0.14500005015061665,
+      "target_floor_world_z": 0.14499999485407067,
+      "target_height_m": 1.5762876414728941,
+      "whole_body_vertical_correction_m": -0.10004407180847599,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05606490577350598,
+          "upper_arm_length_error_m": 1.2320121450803967e-08,
+          "forearm_length_error_m": 3.937166265233216e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.822580772414817e-08,
+          "forearm_length_error_m": 0.0
+        }
+      }
+    },
+    {
+      "frame": 29,
+      "source_floor_world_z": 0.14500004547579934,
+      "target_floor_world_z": 0.14500027066922783,
+      "target_height_m": 1.5758153290981451,
+      "whole_body_vertical_correction_m": -0.10002607660814192,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.056358383132865786,
+          "upper_arm_length_error_m": 2.413728331096543e-08,
+          "forearm_length_error_m": 3.4191181136344895e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.6103910782948603e-08,
+          "forearm_length_error_m": 5.387702547987594e-08
+        }
+      }
+    },
+    {
+      "frame": 30,
+      "source_floor_world_z": 0.14500006003496138,
+      "target_floor_world_z": 0.14500004607769734,
+      "target_height_m": 1.5756601285063612,
+      "whole_body_vertical_correction_m": -0.10001941241007514,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.056478174729902575,
+          "upper_arm_length_error_m": 5.029602012651679e-10,
+          "forearm_length_error_m": 8.288771669029416e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.413438504600407e-08,
+          "forearm_length_error_m": 1.0360964947109252e-08
+        }
+      }
+    },
+    {
+      "frame": 31,
+      "source_floor_world_z": 0.14500005686264386,
+      "target_floor_world_z": 0.14500002318887129,
+      "target_height_m": 1.5758193982894917,
+      "whole_body_vertical_correction_m": -0.10002360466906754,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05642174755756124,
+          "upper_arm_length_error_m": 4.678684514813902e-08,
+          "forearm_length_error_m": 6.216577999595962e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.3780289377989305e-09,
+          "forearm_length_error_m": 3.1082895424194845e-09
+        }
+      }
+    },
+    {
+      "frame": 32,
+      "source_floor_world_z": 0.14500005551662085,
+      "target_floor_world_z": 0.14500011610576913,
+      "target_height_m": 1.5827788668360783,
+      "whole_body_vertical_correction_m": -0.10026071179067877,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.05233628020122283,
+          "upper_arm_length_error_m": 2.5100887146578543e-08,
+          "forearm_length_error_m": 3.3155089701475404e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.282949969680594e-08,
+          "forearm_length_error_m": 2.0721929450129295e-08
+        }
+      }
+    },
+    {
+      "frame": 33,
+      "source_floor_world_z": 0.14500004595317084,
+      "target_floor_world_z": 0.14499997447724366,
+      "target_height_m": 1.5830637106034762,
+      "whole_body_vertical_correction_m": -0.10026721894122326,
+      "hands": {
+        "L": {
+          "grip_error_m": 6.143906154658885e-08,
+          "shoulder_reach_m": 0.05086115693235371,
+          "upper_arm_length_error_m": 1.466566618146814e-09,
+          "forearm_length_error_m": 2.279412134043035e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3103886614684868e-08,
+          "forearm_length_error_m": 1.5800471375726488e-08
+        }
+      }
+    },
+    {
+      "frame": 34,
+      "source_floor_world_z": 0.14500004466250407,
+      "target_floor_world_z": 0.1449999472926531,
+      "target_height_m": 1.5837241340905064,
+      "whole_body_vertical_correction_m": -0.10028325566573479,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.047420242034479476,
+          "upper_arm_length_error_m": 3.30001550807868e-08,
+          "forearm_length_error_m": 3.004679580143055e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.2258678589469625e-08,
+          "forearm_length_error_m": 1.2688134987115518e-09
+        }
+      }
+    },
+    {
+      "frame": 35,
+      "source_floor_world_z": 0.14500004446237638,
+      "target_floor_world_z": 0.1450000513135027,
+      "target_height_m": 1.5846393464035167,
+      "whole_body_vertical_correction_m": -0.10029706665444368,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.042609443881446274,
+          "upper_arm_length_error_m": 2.9061100914606897e-08,
+          "forearm_length_error_m": 4.558824034939235e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.034770444330313e-08,
+          "forearm_length_error_m": 1.2174134450537721e-08
+        }
+      }
+    },
+    {
+      "frame": 36,
+      "source_floor_world_z": 0.14500005546793232,
+      "target_floor_world_z": 0.1450001852892181,
+      "target_height_m": 1.5856239492287392,
+      "whole_body_vertical_correction_m": -0.10030518523911308,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0.03824629886533365,
+          "upper_arm_length_error_m": 6.390383583410042e-09,
+          "forearm_length_error_m": 7.770723703393045e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.822580772414817e-08,
+          "forearm_length_error_m": 1.0231453378972688e-08
+        }
+      }
+    },
+    {
+      "frame": 37,
+      "source_floor_world_z": 0.14500004723361315,
+      "target_floor_world_z": 0.14500011951075076,
+      "target_height_m": 1.586305004258369,
+      "whole_body_vertical_correction_m": -0.10028456754336768,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.03592859165062956,
+          "upper_arm_length_error_m": 5.42677733306185e-09,
+          "forearm_length_error_m": 6.734626994964188e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.4542139986927225e-09,
+          "forearm_length_error_m": 1.9426809882983065e-09
+        }
+      }
+    },
+    {
+      "frame": 38,
+      "source_floor_world_z": 0.14500006593433262,
+      "target_floor_world_z": 0.1450001027390425,
+      "target_height_m": 1.585218813732634,
+      "whole_body_vertical_correction_m": -0.1012450766533734,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.03726459623387213,
+          "upper_arm_length_error_m": 4.0857099509183925e-08,
+          "forearm_length_error_m": 3.004679982598901e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.775331552409057e-08,
+          "forearm_length_error_m": 8.418284069833248e-09
+        }
+      }
+    },
+    {
+      "frame": 39,
+      "source_floor_world_z": 0.14500006360682613,
+      "target_floor_world_z": 0.14499998000801662,
+      "target_height_m": 1.5840059789572807,
+      "whole_body_vertical_correction_m": -0.10119948119232816,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.04171495107078682,
+          "upper_arm_length_error_m": 2.313136052145559e-08,
+          "forearm_length_error_m": 2.538436510990394e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3040416274590072e-08,
+          "forearm_length_error_m": 4.856702484623554e-09
+        }
+      }
+    },
+    {
+      "frame": 40,
+      "source_floor_world_z": 0.14500002672284124,
+      "target_floor_world_z": 0.14499995345109395,
+      "target_height_m": 1.5631592701510084,
+      "whole_body_vertical_correction_m": -0.09993332885019385,
+      "hands": {
+        "L": {
+          "grip_error_m": 5.587935447692871e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.80177996531328e-08,
+          "forearm_length_error_m": 8.625501513037648e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.511914790059855e-08,
+          "forearm_length_error_m": 3.367313705648911e-09
+        }
+      }
+    },
+    {
+      "frame": 41,
+      "source_floor_world_z": 0.14500002652458288,
+      "target_floor_world_z": 0.14499997413631083,
+      "target_height_m": 1.5773195752911635,
+      "whole_body_vertical_correction_m": -0.10052488242858137,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0227499125381456e-08,
+          "forearm_length_error_m": 1.0879012746212169e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.722565917683383e-08,
+          "forearm_length_error_m": 2.816887390011402e-09
+        }
+      }
+    },
+    {
+      "frame": 42,
+      "source_floor_world_z": 0.1450000569260634,
+      "target_floor_world_z": 0.14500032536390806,
+      "target_height_m": 1.5952174725161543,
+      "whole_body_vertical_correction_m": -0.10087151330816393,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.3623742184675223e-08,
+          "forearm_length_error_m": 2.5902413408607217e-08
+        },
+        "R": {
+          "grip_error_m": 6.828569911354542e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.579916720870436e-08,
+          "forearm_length_error_m": 5.190196603055419e-08
+        }
+      }
+    },
+    {
+      "frame": 43,
+      "source_floor_world_z": 0.14500003531725458,
+      "target_floor_world_z": 0.1449999841359807,
+      "target_height_m": 1.598359677736354,
+      "whole_body_vertical_correction_m": -0.10113476341021554,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.2575091124531497e-08,
+          "forearm_length_error_m": 5.8021395188401215e-08
+        },
+        "R": {
+          "grip_error_m": 1.5396990297684495e-06,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.792106484379332e-08,
+          "forearm_length_error_m": 1.8603921958515457e-08
+        }
+      }
+    },
+    {
+      "frame": 44,
+      "source_floor_world_z": 0.14500002979114415,
+      "target_floor_world_z": 0.1450000637700133,
+      "target_height_m": 1.8508511894662507,
+      "whole_body_vertical_correction_m": -0.10092375006941043,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0.027501482466355365,
+          "upper_arm_length_error_m": 9.590864546993316e-09,
+          "forearm_length_error_m": 5.180482431921263e-10
+        },
+        "R": {
+          "grip_error_m": 6.16828095976499e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.4696008849023343e-09,
+          "forearm_length_error_m": 4.442263390469492e-08
+        }
+      }
+    },
+    {
+      "frame": 45,
+      "source_floor_world_z": 0.14500003588832744,
+      "target_floor_world_z": 0.14500006104689067,
+      "target_height_m": 1.6379185517117785,
+      "whole_body_vertical_correction_m": -0.100975213017513,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1827739732073184e-08,
+          "forearm_length_error_m": 5.284091408874758e-08
+        },
+        "R": {
+          "grip_error_m": 6.469682821216909e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.495139463960406e-08,
+          "forearm_length_error_m": 3.7040447514735675e-08
+        }
+      }
+    },
+    {
+      "frame": 46,
+      "source_floor_world_z": 0.14500001134996052,
+      "target_floor_world_z": 0.14500002139651202,
+      "target_height_m": 1.7818957963795827,
+      "whole_body_vertical_correction_m": -0.10102252908782408,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.9807784301661968e-08,
+          "forearm_length_error_m": 5.5042626012635765e-09
+        },
+        "R": {
+          "grip_error_m": 5.867066121879229e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.4696008849023343e-09,
+          "forearm_length_error_m": 3.173045604043523e-09
+        }
+      }
+    },
+    {
+      "frame": 47,
+      "source_floor_world_z": 0.14500001427483236,
+      "target_floor_world_z": 0.1450001553248944,
+      "target_height_m": 1.7305768726762132,
+      "whole_body_vertical_correction_m": -0.1011420945830783,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.9705847537077048e-08,
+          "forearm_length_error_m": 1.0147267576199326e-07
+        },
+        "R": {
+          "grip_error_m": 5.213410344640504e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.8890447140449425e-08,
+          "forearm_length_error_m": 4.215617319114351e-08
+        }
+      }
+    },
+    {
+      "frame": 48,
+      "source_floor_world_z": 0.14500002376653956,
+      "target_floor_world_z": 0.14499984495279383,
+      "target_height_m": 1.6052915900106774,
+      "whole_body_vertical_correction_m": -0.10126213727341268,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.029602012651679e-10,
+          "forearm_length_error_m": 0.0
+        },
+        "R": {
+          "grip_error_m": 4.046872544570911e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.3149622163654016e-08,
+          "forearm_length_error_m": 2.3571197049765402e-08
+        }
+      }
+    },
+    {
+      "frame": 49,
+      "source_floor_world_z": 0.14500000787198725,
+      "target_floor_world_z": 0.14500005095124258,
+      "target_height_m": 1.6107917875084767,
+      "whole_body_vertical_correction_m": -0.10142134339421599,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4360934098032203e-09,
+          "forearm_length_error_m": 2.849265492987918e-08
+        },
+        "R": {
+          "grip_error_m": 3.0547380447387695e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 8.978268822845692e-09,
+          "forearm_length_error_m": 1.0020995810933186e-08
+        }
+      }
+    },
+    {
+      "frame": 50,
+      "source_floor_world_z": 0.14500002037195375,
+      "target_floor_world_z": 0.1450002662227794,
+      "target_height_m": 1.6132011802729744,
+      "whole_body_vertical_correction_m": -0.10147937159215353,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.267425812194304e-08,
+          "forearm_length_error_m": 5.439507161364432e-08
+        },
+        "R": {
+          "grip_error_m": 2.5288109106536417e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.389118932190961e-08,
+          "forearm_length_error_m": 6.703869262492113e-08
+        }
+      }
+    },
+    {
+      "frame": 51,
+      "source_floor_world_z": 0.1450000618176914,
+      "target_floor_world_z": 0.1450000733333353,
+      "target_height_m": 1.575750578470298,
+      "whole_body_vertical_correction_m": -0.09901905800683011,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.5359765386647212e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.7923972878717294e-08,
+          "forearm_length_error_m": 2.188753700504975e-08
+        },
+        "R": {
+          "grip_error_m": 3.4313139139620823e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.761632029810393e-08,
+          "forearm_length_error_m": 5.7568120243045584e-08
+        }
+      }
+    },
+    {
+      "frame": 52,
+      "source_floor_world_z": 0.1450001406708426,
+      "target_floor_world_z": 0.14500016125350812,
+      "target_height_m": 1.5742556839071804,
+      "whole_body_vertical_correction_m": -0.13784798420646388,
+      "hands": {
+        "L": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.362165493907114e-08,
+          "forearm_length_error_m": 1.395492485456451e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.5271519021586855e-08,
+          "forearm_length_error_m": 5.180482709477019e-10
+        }
+      }
+    },
+    {
+      "frame": 53,
+      "source_floor_world_z": 0.38765634807003824,
+      "target_floor_world_z": 0.38765623617031353,
+      "target_height_m": 1.2714446996291973,
+      "whole_body_vertical_correction_m": -0.13912793532924772,
+      "hands": {
+        "L": {
+          "grip_error_m": 3.725290298461914e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3776108837015855e-08,
+          "forearm_length_error_m": 2.1758027074492148e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.4694510053203658e-09,
+          "forearm_length_error_m": 1.0360964947109252e-08
+        }
+      }
+    },
+    {
+      "frame": 54,
+      "source_floor_world_z": 0.89224607148678,
+      "target_floor_world_z": 0.9046744437331893,
+      "target_height_m": 0.7411464901491622,
+      "whole_body_vertical_correction_m": -0.012428372246409247,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.411612382013928e-08,
+          "forearm_length_error_m": 4.108770465527378e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.722565917683383e-08,
+          "forearm_length_error_m": 2.959350489661894e-08
+        }
+      }
+    },
+    {
+      "frame": 55,
+      "source_floor_world_z": 0.508981596459626,
+      "target_floor_world_z": 0.5089819036459065,
+      "target_height_m": 0.6658896259500267,
+      "whole_body_vertical_correction_m": -0.07081218206373552,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.780857088520051e-08,
+          "forearm_length_error_m": 2.5902412159606314e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.923964652154723e-10,
+          "forearm_length_error_m": 1.5769770267404226e-08
+        }
+      }
+    },
+    {
+      "frame": 56,
+      "source_floor_world_z": 0.1673630581069673,
+      "target_floor_world_z": 0.16736284910514,
+      "target_height_m": 0.9173140091663947,
+      "whole_body_vertical_correction_m": 0.02572053031347979,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.666000468656264e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.4268490527991062e-08,
+          "forearm_length_error_m": 1.7743152863625156e-08
+        },
+        "R": {
+          "grip_error_m": 1.5253517175241558e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.408502951054217e-09,
+          "forearm_length_error_m": 3.885361921085462e-09
+        }
+      }
+    },
+    {
+      "frame": 57,
+      "source_floor_world_z": 0.14500007246294022,
+      "target_floor_world_z": 0.1450000319452731,
+      "target_height_m": 0.9584929936193123,
+      "whole_body_vertical_correction_m": 0.0636664060633102,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3283727173796223e-08,
+          "forearm_length_error_m": 2.17580249650684e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.3849727748270766e-10,
+          "forearm_length_error_m": 4.354843152754029e-09
+        }
+      }
+    },
+    {
+      "frame": 58,
+      "source_floor_world_z": 0.1450000789100146,
+      "target_floor_world_z": 0.14500011500087384,
+      "target_height_m": 0.9225525632689592,
+      "whole_body_vertical_correction_m": 0.07411060090851945,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.1161833868577062e-08,
+          "forearm_length_error_m": 9.842916315339068e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.298186840305917e-08,
+          "forearm_length_error_m": 1.1397061433493505e-08
+        }
+      }
+    },
+    {
+      "frame": 59,
+      "source_floor_world_z": 0.14500004065348418,
+      "target_floor_world_z": 0.1450000551126589,
+      "target_height_m": 0.8565440537949671,
+      "whole_body_vertical_correction_m": -0.028623671900369158,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.4289648381238251e-08,
+          "forearm_length_error_m": 2.4456026620489624e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.279422554012477e-08,
+          "forearm_length_error_m": 1.1397061433493505e-08
+        }
+      }
+    },
+    {
+      "frame": 60,
+      "source_floor_world_z": 0.2306248766750677,
+      "target_floor_world_z": 0.23062479392713542,
+      "target_height_m": 0.8303193666457175,
+      "whole_body_vertical_correction_m": -0.052779325579897285,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.81803208440823e-10,
+          "forearm_length_error_m": 9.119976357441217e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.42373995768186e-09,
+          "forearm_length_error_m": 9.71340508026941e-11
+        }
+      }
+    },
+    {
+      "frame": 61,
+      "source_floor_world_z": 0.14500007368630993,
+      "target_floor_world_z": 0.14500009014956527,
+      "target_height_m": 1.1077247130499703,
+      "whole_body_vertical_correction_m": -0.08558650196699494,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.707041374394592e-08,
+          "forearm_length_error_m": 1.1745504013838115e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4389769643095036e-09,
+          "forearm_length_error_m": 2.9399240680794136e-08
+        }
+      }
+    },
+    {
+      "frame": 62,
+      "source_floor_world_z": 0.14500007399078965,
+      "target_floor_world_z": 0.14500003121834626,
+      "target_height_m": 1.273221725631211,
+      "whole_body_vertical_correction_m": -0.09870903087764846,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.865953633273243e-08,
+          "forearm_length_error_m": 1.217413325704797e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.2149474449006945e-08,
+          "forearm_length_error_m": 3.156856362429572e-08
+        }
+      }
+    },
+    {
+      "frame": 63,
+      "source_floor_world_z": 0.14500007212905222,
+      "target_floor_world_z": 0.14500009150245396,
+      "target_height_m": 1.4232737811501535,
+      "whole_body_vertical_correction_m": -0.10321526430463665,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1314200437650968e-08,
+          "forearm_length_error_m": 1.839071323006536e-08
+        },
+        "R": {
+          "grip_error_m": 1.666000468656264e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.1180096398953907e-08,
+          "forearm_length_error_m": 8.304961329752558e-09
+        }
+      }
+    },
+    {
+      "frame": 64,
+      "source_floor_world_z": 0.1450000656088833,
+      "target_floor_world_z": 0.14500019825229638,
+      "target_height_m": 1.5313550714790893,
+      "whole_body_vertical_correction_m": -0.10628169573924712,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 6.35278270544326e-08,
+          "forearm_length_error_m": 4.2997999660787656e-08
+        },
+        "R": {
+          "grip_error_m": 2.1073424255447017e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.775331552409057e-08,
+          "forearm_length_error_m": 2.9204968748919313e-08
+        }
+      }
+    },
+    {
+      "frame": 65,
+      "source_floor_world_z": 0.14500006560888593,
+      "target_floor_world_z": 0.1450001032988999,
+      "target_height_m": 1.5983501113926917,
+      "whole_body_vertical_correction_m": -0.10821075695464019,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.2826625995529e-08,
+          "forearm_length_error_m": 4.869653968953003e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.579916720870436e-08,
+          "forearm_length_error_m": 5.2063856142980924e-08
+        }
+      }
+    },
+    {
+      "frame": 66,
+      "source_floor_world_z": 0.14500007399169262,
+      "target_floor_world_z": 0.1450001746918499,
+      "target_height_m": 1.6303656227893915,
+      "whole_body_vertical_correction_m": -0.10932585124185729,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.5253253882185902e-08,
+          "forearm_length_error_m": 4.144386289706148e-08
+        },
+        "R": {
+          "grip_error_m": 7.450580596923828e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.170774383667087e-08,
+          "forearm_length_error_m": 9.998333638794321e-08
+        }
+      }
+    },
+    {
+      "frame": 67,
+      "source_floor_world_z": 0.1450000684028532,
+      "target_floor_world_z": 0.14500007905428192,
+      "target_height_m": 1.6388699583136002,
+      "whole_body_vertical_correction_m": -0.10986867769624328,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.344673701505712e-09,
+          "forearm_length_error_m": 1.0360965002620404e-08
+        },
+        "R": {
+          "grip_error_m": 7.450580596923828e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.4694510053203658e-09,
+          "forearm_length_error_m": 2.046290534241102e-08
+        }
+      }
+    },
+    {
+      "frame": 68,
+      "source_floor_world_z": 0.1450000665411148,
+      "target_floor_world_z": 0.145000043700809,
+      "target_height_m": 1.6377584965240277,
+      "whole_body_vertical_correction_m": -0.11001520667405423,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.275396417978804e-08,
+          "forearm_length_error_m": 4.351604779295748e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.237239607604806e-08,
+          "forearm_length_error_m": 7.511698513207321e-08
+        }
+      }
+    },
+    {
+      "frame": 69,
+      "source_floor_world_z": 0.14500008084716776,
+      "target_floor_world_z": 0.14500002958105274,
+      "target_height_m": 1.637798403227245,
+      "whole_body_vertical_correction_m": -0.1372495262789054,
+      "hands": {
+        "L": {
+          "grip_error_m": 3.04109265417898e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.1710663223625275e-08,
+          "forearm_length_error_m": 8.081551064464954e-08
+        },
+        "R": {
+          "grip_error_m": 6.006850114687196e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.4542139986927225e-09,
+          "forearm_length_error_m": 1.7095591914317865e-08
+        }
+      }
+    },
+    {
+      "frame": 70,
+      "source_floor_world_z": 0.1450001210921083,
+      "target_floor_world_z": 0.1450001571565701,
+      "target_height_m": 1.6179452208083722,
+      "whole_body_vertical_correction_m": -0.1586429510723148,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.8392187023374973e-08,
+          "forearm_length_error_m": 3.17628303658779e-08
+        },
+        "R": {
+          "grip_error_m": 6.828569911354542e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.4486786076295388e-08,
+          "forearm_length_error_m": 1.5541448322720086e-08
+        }
+      }
+    },
+    {
+      "frame": 71,
+      "source_floor_world_z": 0.14500001254573797,
+      "target_floor_world_z": 0.14499982472067607,
+      "target_height_m": 1.587189304634792,
+      "whole_body_vertical_correction_m": -0.10272111374193255,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.228781230931777e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.149374083217694e-08,
+          "forearm_length_error_m": 2.712063310039703e-08
+        },
+        "R": {
+          "grip_error_m": 6.664001874625056e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.706321405338997e-08,
+          "forearm_length_error_m": 1.398730345436583e-08
+        }
+      }
+    },
+    {
+      "frame": 72,
+      "source_floor_world_z": 0.14500005104238503,
+      "target_floor_world_z": 0.1449999432755238,
+      "target_height_m": 1.56237605694488,
+      "whole_body_vertical_correction_m": -0.09870796643141674,
+      "hands": {
+        "L": {
+          "grip_error_m": 3.0719530773294423e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0350594548125258e-08,
+          "forearm_length_error_m": 2.6938506786367e-08
+        },
+        "R": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.3780289377989305e-09,
+          "forearm_length_error_m": 1.0360964947109252e-08
+        }
+      }
+    },
+    {
+      "frame": 73,
+      "source_floor_world_z": 0.14500009389558596,
+      "target_floor_world_z": 0.14500017511671937,
+      "target_height_m": 1.547586811411378,
+      "whole_body_vertical_correction_m": -0.11413890614021441,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.858212829394475e-09,
+          "forearm_length_error_m": 1.512053243724054e-08
+        },
+        "R": {
+          "grip_error_m": 1.3657139822709083e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.285407583821566e-09,
+          "forearm_length_error_m": 3.19894823130884e-08
+        }
+      }
+    },
+    {
+      "frame": 74,
+      "source_floor_world_z": 0.1450001578672072,
+      "target_floor_world_z": 0.14500008971513823,
+      "target_height_m": 1.5316631880697174,
+      "whole_body_vertical_correction_m": -0.14587285103144143,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3283727173796223e-08,
+          "forearm_length_error_m": 1.7095592524940528e-08
+        },
+        "R": {
+          "grip_error_m": 1.3738191809196602e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.7984109630139216e-08,
+          "forearm_length_error_m": 7.615308128539056e-08
+        }
+      }
+    },
+    {
+      "frame": 75,
+      "source_floor_world_z": 0.14500004919282522,
+      "target_floor_world_z": 0.1450000329746861,
+      "target_height_m": 1.544745870228026,
+      "whole_body_vertical_correction_m": -0.11493794181545408,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.81803208440823e-10,
+          "forearm_length_error_m": 1.8674495172454897e-08
+        },
+        "R": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 8.84122905442375e-09,
+          "forearm_length_error_m": 3.2637037988836326e-08
+        }
+      }
+    },
+    {
+      "frame": 76,
+      "source_floor_world_z": 0.1450000842336108,
+      "target_floor_world_z": 0.14500017129089482,
+      "target_height_m": 1.5340198245515442,
+      "whole_body_vertical_correction_m": -0.10167296367164977,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.661331084483301e-08,
+          "forearm_length_error_m": 3.0888628349545755e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.3774292806931783e-09,
+          "forearm_length_error_m": 5.69853092491357e-09
+        }
+      }
+    },
+    {
+      "frame": 77,
+      "source_floor_world_z": 0.1450000643536666,
+      "target_floor_world_z": 0.14500001013277297,
+      "target_height_m": 1.527162371266337,
+      "whole_body_vertical_correction_m": -0.0978993920706416,
+      "hands": {
+        "L": {
+          "grip_error_m": 6.828569911354542e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.707041374394592e-08,
+          "forearm_length_error_m": 4.532922148747787e-09
+        },
+        "R": {
+          "grip_error_m": 3.332000937312528e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.9252462840911875e-08,
+          "forearm_length_error_m": 5.232286814926823e-08
+        }
+      }
+    },
+    {
+      "frame": 78,
+      "source_floor_world_z": 0.1450000805606672,
+      "target_floor_world_z": 0.14500011773270438,
+      "target_height_m": 1.5313747035910725,
+      "whole_body_vertical_correction_m": -0.10617915645696135,
+      "hands": {
+        "L": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.405620201459627e-09,
+          "forearm_length_error_m": 1.561429824326055e-08
+        },
+        "R": {
+          "grip_error_m": 3.332000937312528e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.5103763678924196e-08,
+          "forearm_length_error_m": 4.0262059575191245e-08
+        }
+      }
+    },
+    {
+      "frame": 79,
+      "source_floor_world_z": 0.14500012779872348,
+      "target_floor_world_z": 0.14500005508763336,
+      "target_height_m": 1.5491973565394133,
+      "whole_body_vertical_correction_m": -0.11868761435946454,
+      "hands": {
+        "L": {
+          "grip_error_m": 8.560065398421926e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0821818774431335e-08,
+          "forearm_length_error_m": 7.349809261203433e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.439126788380321e-09,
+          "forearm_length_error_m": 9.842917148006336e-09
+        }
+      }
+    },
+    {
+      "frame": 80,
+      "source_floor_world_z": 0.14500017441529287,
+      "target_floor_world_z": 0.14500017919995778,
+      "target_height_m": 1.5232967768555519,
+      "whole_body_vertical_correction_m": -0.15155416502463306,
+      "hands": {
+        "L": {
+          "grip_error_m": 7.450580596923828e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.843997314374349e-09,
+          "forearm_length_error_m": 3.108289214903692e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.2234101226814573e-09,
+          "forearm_length_error_m": 2.5902413547385095e-10
+        }
+      }
+    },
+    {
+      "frame": 81,
+      "source_floor_world_z": 0.14500005226188756,
+      "target_floor_world_z": 0.14500006950662192,
+      "target_height_m": 1.5477998380487938,
+      "whole_body_vertical_correction_m": -0.1128195657696594,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.546026027314355e-09,
+          "forearm_length_error_m": 3.1082894036416064e-09
+        },
+        "R": {
+          "grip_error_m": 1.1920928955078125e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.2149474449006945e-08,
+          "forearm_length_error_m": 1.3274986665479105e-09
+        }
+      }
+    },
+    {
+      "frame": 82,
+      "source_floor_world_z": 0.1450000726194944,
+      "target_floor_world_z": 0.14500003041137322,
+      "target_height_m": 1.5320012174710456,
+      "whole_body_vertical_correction_m": -0.0998279891368841,
+      "hands": {
+        "L": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.0075133860819605e-08,
+          "forearm_length_error_m": 1.761363940810945e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3286607036810949e-08,
+          "forearm_length_error_m": 7.770723786659772e-10
+        }
+      }
+    },
+    {
+      "frame": 83,
+      "source_floor_world_z": 0.14500005242372704,
+      "target_floor_world_z": 0.14500012792984873,
+      "target_height_m": 1.5276458204069192,
+      "whole_body_vertical_correction_m": -0.09751409034462422,
+      "hands": {
+        "L": {
+          "grip_error_m": 9.424321830774485e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3991525826817508e-08,
+          "forearm_length_error_m": 7.848432181933873e-08
+        },
+        "R": {
+          "grip_error_m": 3.332000937312528e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.844422635790323e-08,
+          "forearm_length_error_m": 3.768801407066924e-08
+        }
+      }
+    },
+    {
+      "frame": 84,
+      "source_floor_world_z": 0.14500007440240764,
+      "target_floor_world_z": 0.14500016051350129,
+      "target_height_m": 1.539010301294443,
+      "whole_body_vertical_correction_m": -0.10141845946002831,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.761924506964e-08,
+          "forearm_length_error_m": 9.415524759859295e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.9195185274600846e-08,
+          "forearm_length_error_m": 1.6253763557294576e-08
+        }
+      }
+    },
+    {
+      "frame": 85,
+      "source_floor_world_z": 0.1450001232708759,
+      "target_floor_world_z": 0.1450001322016684,
+      "target_height_m": 1.5514326305578372,
+      "whole_body_vertical_correction_m": -0.11908711977977265,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0350594548125258e-08,
+          "forearm_length_error_m": 3.69109365294662e-09
+        },
+        "R": {
+          "grip_error_m": 2.1503671541306096e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.6596292196368054e-08,
+          "forearm_length_error_m": 5.219335610928688e-08
+        }
+      }
+    },
+    {
+      "frame": 86,
+      "source_floor_world_z": 0.14500017356052758,
+      "target_floor_world_z": 0.1450001034729833,
+      "target_height_m": 1.5169084244659794,
+      "whole_body_vertical_correction_m": -0.1571925689491353,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.9952038410320228e-08,
+          "forearm_length_error_m": 1.0879012746212169e-08
+        },
+        "R": {
+          "grip_error_m": 9.424321830774485e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.8202782775821333e-08,
+          "forearm_length_error_m": 3.781751978237935e-08
+        }
+      }
+    },
+    {
+      "frame": 87,
+      "source_floor_world_z": 0.14500005708222502,
+      "target_floor_world_z": 0.14499999225354188,
+      "target_height_m": 1.5425033858541917,
+      "whole_body_vertical_correction_m": -0.11048940457130368,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 6.390383583410042e-09,
+          "forearm_length_error_m": 1.304833963100549e-08
+        },
+        "R": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.5779288459194518e-08,
+          "forearm_length_error_m": 2.6938511116236796e-08
+        }
+      }
+    },
+    {
+      "frame": 88,
+      "source_floor_world_z": 0.14500008794872213,
+      "target_floor_world_z": 0.14500008498215433,
+      "target_height_m": 1.5310075481060896,
+      "whole_body_vertical_correction_m": -0.09943331630141969,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2320121450803967e-08,
+          "forearm_length_error_m": 2.6873752112521743e-09
+        },
+        "R": {
+          "grip_error_m": 4.2146848510894035e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.6700804884624034e-09,
+          "forearm_length_error_m": 3.0564845265868e-08
+        }
+      }
+    },
+    {
+      "frame": 89,
+      "source_floor_world_z": 0.14500007169130624,
+      "target_floor_world_z": 0.14500004207840034,
+      "target_height_m": 1.527445358835867,
+      "whole_body_vertical_correction_m": -0.09751598412922391,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.620063662723716e-08,
+          "forearm_length_error_m": 1.5023398414193423e-08
+        },
+        "R": {
+          "grip_error_m": 3.332000937312528e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.313423752564603e-08,
+          "forearm_length_error_m": 6.387245768402217e-08
+        }
+      }
+    },
+    {
+      "frame": 90,
+      "source_floor_world_z": 0.14500009163022679,
+      "target_floor_world_z": 0.14500028266893872,
+      "target_height_m": 1.536458272437655,
+      "whole_body_vertical_correction_m": -0.11164574062955154,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.2167756297264418e-08,
+          "forearm_length_error_m": 2.0139124368157013e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.4696008849023343e-09,
+          "forearm_length_error_m": 9.357246505414807e-09
+        }
+      }
+    },
+    {
+      "frame": 91,
+      "source_floor_world_z": 0.14500015388332058,
+      "target_floor_world_z": 0.14500017579174485,
+      "target_height_m": 1.5500096252583777,
+      "whole_body_vertical_correction_m": -0.12190087517078449,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.1950781140709273e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.9061100914606897e-08,
+          "forearm_length_error_m": 3.1600944777609996e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.6103910782948603e-08,
+          "forearm_length_error_m": 2.2794124587832698e-08
+        }
+      }
+    },
+    {
+      "frame": 92,
+      "source_floor_world_z": 0.15240378149775632,
+      "target_floor_world_z": 0.15240369672413911,
+      "target_height_m": 1.5284196107672205,
+      "whole_body_vertical_correction_m": -0.12824036273280395,
+      "hands": {
+        "L": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.089322155371612e-08,
+          "forearm_length_error_m": 6.682821279690998e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.924564225993748e-10,
+          "forearm_length_error_m": 2.9787775024381347e-09
+        }
+      }
+    },
+    {
+      "frame": 93,
+      "source_floor_world_z": 0.14500006048341876,
+      "target_floor_world_z": 0.1450000817450221,
+      "target_height_m": 1.5396005494763834,
+      "whole_body_vertical_correction_m": -0.1080169896531917,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.9546206542209177e-08,
+          "forearm_length_error_m": 2.952874764150515e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.792106484379332e-08,
+          "forearm_length_error_m": 4.04725206126777e-09
+        }
+      }
+    },
+    {
+      "frame": 94,
+      "source_floor_world_z": 0.14500008587327204,
+      "target_floor_world_z": 0.14500006427016887,
+      "target_height_m": 1.5307025011564277,
+      "whole_body_vertical_correction_m": -0.09891415383705407,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.586061945142326e-08,
+          "forearm_length_error_m": 2.2794123644143127e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.595153919011551e-08,
+          "forearm_length_error_m": 2.7327047374958724e-08
+        }
+      }
+    },
+    {
+      "frame": 95,
+      "source_floor_world_z": 0.14500006118068973,
+      "target_floor_world_z": 0.14500006393488463,
+      "target_height_m": 1.5269080821165026,
+      "whole_body_vertical_correction_m": -0.0971096679446182,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.228781230931777e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2791345482821015e-08,
+          "forearm_length_error_m": 9.26658977606909e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.7718040701275584e-08,
+          "forearm_length_error_m": 2.8492656095613356e-08
+        }
+      }
+    },
+    {
+      "frame": 96,
+      "source_floor_world_z": 0.14500008298978553,
+      "target_floor_world_z": 0.1450000025406234,
+      "target_height_m": 1.5433343581546701,
+      "whole_body_vertical_correction_m": -0.10949086519946857,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.22157827876191e-09,
+          "forearm_length_error_m": 4.298181421891201e-09
+        },
+        "R": {
+          "grip_error_m": 6.705522537231445e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 8.608982693392164e-09,
+          "forearm_length_error_m": 6.961273391059564e-09
+        }
+      }
+    },
+    {
+      "frame": 97,
+      "source_floor_world_z": 0.1450001406689519,
+      "target_floor_world_z": 0.1450001411587375,
+      "target_height_m": 1.5467711872558407,
+      "whole_body_vertical_correction_m": -0.12653802461030622,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.396304207984983e-09,
+          "forearm_length_error_m": 4.66243410546241e-09
+        },
+        "R": {
+          "grip_error_m": 1.698993779866603e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.478213334018321e-08,
+          "forearm_length_error_m": 8.547794660973551e-08
+        }
+      }
+    },
+    {
+      "frame": 98,
+      "source_floor_world_z": 0.15854301792865588,
+      "target_floor_world_z": 0.15854311510372054,
+      "target_height_m": 1.5327578740969603,
+      "whole_body_vertical_correction_m": -0.1155294451247395,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.724393883240083e-08,
+          "forearm_length_error_m": 2.9463991607636686e-08
+        },
+        "R": {
+          "grip_error_m": 8.024520884654677e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.8744094498757136e-08,
+          "forearm_length_error_m": 4.662434383018166e-09
+        }
+      }
+    },
+    {
+      "frame": 99,
+      "source_floor_world_z": 0.14500007532343034,
+      "target_floor_world_z": 0.14500027604344534,
+      "target_height_m": 1.5379378185160877,
+      "whole_body_vertical_correction_m": -0.10612356487161473,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.029602012651679e-10,
+          "forearm_length_error_m": 2.1239976777387426e-08
+        },
+        "R": {
+          "grip_error_m": 3.332000937312528e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.809162204721389e-09,
+          "forearm_length_error_m": 6.734627272519944e-09
+        }
+      }
+    },
+    {
+      "frame": 100,
+      "source_floor_world_z": 0.1450000878832192,
+      "target_floor_world_z": 0.1450000476481743,
+      "target_height_m": 1.527237401624821,
+      "whole_body_vertical_correction_m": -0.09853170210752069,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 6.390383583410042e-09,
+          "forearm_length_error_m": 2.9860622252630975e-08
+        },
+        "R": {
+          "grip_error_m": 6.664001874625056e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 8.978268822845692e-09,
+          "forearm_length_error_m": 5.5949205102212574e-08
+        }
+      }
+    },
+    {
+      "frame": 101,
+      "source_floor_world_z": 0.14500005863195578,
+      "target_floor_world_z": 0.14500003987188892,
+      "target_height_m": 1.5291254373469525,
+      "whole_body_vertical_correction_m": -0.10187553240424527,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.004586443533519e-08,
+          "forearm_length_error_m": 9.583892207620792e-09
+        },
+        "R": {
+          "grip_error_m": 3.25296990509573e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.846880397035846e-10,
+          "forearm_length_error_m": 1.2951206856959274e-08
+        }
+      }
+    },
+    {
+      "frame": 102,
+      "source_floor_world_z": 0.1450000952689028,
+      "target_floor_world_z": 0.1450001447395901,
+      "target_height_m": 1.5421369434214727,
+      "whole_body_vertical_correction_m": -0.11409297099575108,
+      "hands": {
+        "L": {
+          "grip_error_m": 8.447870962655967e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 6.763997612013739e-09,
+          "forearm_length_error_m": 1.4505350198756872e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.58577200484833e-08,
+          "forearm_length_error_m": 3.4968257733858366e-09
+        }
+      }
+    },
+    {
+      "frame": 103,
+      "source_floor_world_z": 0.14500016492122436,
+      "target_floor_world_z": 0.1450000641755994,
+      "target_height_m": 1.536591342129805,
+      "whole_body_vertical_correction_m": -0.137691234501075,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.6924465733171325e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.242134171190571e-09,
+          "forearm_length_error_m": 3.626337702344884e-09
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.004296220132652e-08,
+          "forearm_length_error_m": 3.8335574492620594e-08
+        }
+      }
+    },
+    {
+      "frame": 104,
+      "source_floor_world_z": 0.14720728560658292,
+      "target_floor_world_z": 0.14720718980361125,
+      "target_height_m": 1.541212808151704,
+      "whole_body_vertical_correction_m": -0.11670553554207708,
+      "hands": {
+        "L": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.6012263209796984e-08,
+          "forearm_length_error_m": 1.4505351142446443e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4389769643095036e-09,
+          "forearm_length_error_m": 2.039815011345425e-09
+        }
+      }
+    },
+    {
+      "frame": 105,
+      "source_floor_world_z": 0.14500006962047574,
+      "target_floor_world_z": 0.14500020440760097,
+      "target_height_m": 1.5387440905969254,
+      "whole_body_vertical_correction_m": -0.10424916984085886,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.8392187023374973e-08,
+          "forearm_length_error_m": 2.279412134043035e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.34755495229922e-09,
+          "forearm_length_error_m": 4.105532083742425e-08
+        }
+      }
+    },
+    {
+      "frame": 106,
+      "source_floor_world_z": 0.14500005098788193,
+      "target_floor_world_z": 0.14499984599501192,
+      "target_height_m": 1.5235506380740669,
+      "whole_body_vertical_correction_m": -0.09794764332221706,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.303681910318048e-09,
+          "forearm_length_error_m": 2.279412134043035e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.0859973404749894e-08,
+          "forearm_length_error_m": 1.3420688144138992e-08
+        }
+      }
+    },
+    {
+      "frame": 107,
+      "source_floor_world_z": 0.14500006856777267,
+      "target_floor_world_z": 0.145000023465523,
+      "target_height_m": 1.538103727098389,
+      "whole_body_vertical_correction_m": -0.09730279984588933,
+      "hands": {
+        "L": {
+          "grip_error_m": 3.725290298461914e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.004586443533519e-08,
+          "forearm_length_error_m": 4.0407758944427385e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.3982013536437705e-08,
+          "forearm_length_error_m": 9.324868877058634e-09
+        }
+      }
+    },
+    {
+      "frame": 108,
+      "source_floor_world_z": 0.14500009613933276,
+      "target_floor_world_z": 0.14500018360847444,
+      "target_height_m": 1.5463160798281363,
+      "whole_body_vertical_correction_m": -0.1131775825222214,
+      "hands": {
+        "L": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.8322528267121783e-08,
+          "forearm_length_error_m": 2.9204967527673986e-08
+        },
+        "R": {
+          "grip_error_m": 1.0921916490504088e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.854423863414169e-09,
+          "forearm_length_error_m": 5.737385211368462e-08
+        }
+      }
+    },
+    {
+      "frame": 109,
+      "source_floor_world_z": 0.1450001569996763,
+      "target_floor_world_z": 0.14500019248197005,
+      "target_height_m": 1.533716918774883,
+      "whole_body_vertical_correction_m": -0.14393558871425602,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.430377084641002e-08,
+          "forearm_length_error_m": 6.11297004404765e-08
+        },
+        "R": {
+          "grip_error_m": 1.8189185285171422e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.1844729153917015e-08,
+          "forearm_length_error_m": 4.507019407684609e-08
+        }
+      }
+    },
+    {
+      "frame": 110,
+      "source_floor_world_z": 0.14500006013302605,
+      "target_floor_world_z": 0.14500009107020884,
+      "target_height_m": 1.5442674897668502,
+      "whole_body_vertical_correction_m": -0.1156254690398085,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2298963819601383e-08,
+          "forearm_length_error_m": 5.471834593762104e-08
+        },
+        "R": {
+          "grip_error_m": 6.664001874625056e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.3062053938472928e-09,
+          "forearm_length_error_m": 2.745655944269565e-08
+        }
+      }
+    },
+    {
+      "frame": 111,
+      "source_floor_world_z": 0.14500007364869275,
+      "target_floor_world_z": 0.1450000664377601,
+      "target_height_m": 1.5350298420096036,
+      "whole_body_vertical_correction_m": -0.10233179370635845,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.1161833868577062e-08,
+          "forearm_length_error_m": 6.352567422096556e-08
+        },
+        "R": {
+          "grip_error_m": 4.2146848510894035e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.5151419414125584e-08,
+          "forearm_length_error_m": 3.2637037988836326e-08
+        }
+      }
+    },
+    {
+      "frame": 112,
+      "source_floor_world_z": 0.1450000677198926,
+      "target_floor_world_z": 0.14500004745021433,
+      "target_height_m": 1.526443765424299,
+      "whole_body_vertical_correction_m": -0.09795082640085007,
+      "hands": {
+        "L": {
+          "grip_error_m": 6.143906154658885e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 6.411540770523416e-09,
+          "forearm_length_error_m": 1.6707056321729752e-08
+        },
+        "R": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.416796120653714e-09,
+          "forearm_length_error_m": 2.1758027962670567e-08
+        }
+      }
+    },
+    {
+      "frame": 113,
+      "source_floor_world_z": 0.14500007736396378,
+      "target_floor_world_z": 0.14500009954873871,
+      "target_height_m": 1.5316718263490365,
+      "whole_body_vertical_correction_m": -0.10565714206525814,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.822870229761797e-08,
+          "forearm_length_error_m": 1.8066931589677537e-08
+        },
+        "R": {
+          "grip_error_m": 6.143906154658885e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4389769643095036e-09,
+          "forearm_length_error_m": 2.2340832322997883e-08
+        }
+      }
+    },
+    {
+      "frame": 114,
+      "source_floor_world_z": 0.14500011857308093,
+      "target_floor_world_z": 0.14499995091780793,
+      "target_height_m": 1.5482368833554605,
+      "whole_body_vertical_correction_m": -0.11800517938414823,
+      "hands": {
+        "L": {
+          "grip_error_m": 6.143906154658885e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.279940539284269e-10,
+          "forearm_length_error_m": 6.216578779527637e-09
+        },
+        "R": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.034770444330313e-08,
+          "forearm_length_error_m": 1.8649738142695327e-08
+        }
+      }
+    },
+    {
+      "frame": 115,
+      "source_floor_world_z": 0.14500016766477858,
+      "target_floor_world_z": 0.1450001323078579,
+      "target_height_m": 1.5253341593850984,
+      "whole_body_vertical_correction_m": -0.15006308555575582,
+      "hands": {
+        "L": {
+          "grip_error_m": 8.024520884654677e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.7886343128825644e-08,
+          "forearm_length_error_m": 5.18048232089896e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 8.378178567580719e-09,
+          "forearm_length_error_m": 2.7974607769154503e-08
+        }
+      }
+    },
+    {
+      "frame": 116,
+      "source_floor_world_z": 0.14500004716009476,
+      "target_floor_world_z": 0.14500007193916198,
+      "target_height_m": 1.5479297667949188,
+      "whole_body_vertical_correction_m": -0.11354374753247262,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.727236714239467e-08,
+          "forearm_length_error_m": 2.072192972768505e-09
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.18601160678822e-08,
+          "forearm_length_error_m": 3.959174055268022e-08
+        }
+      }
+    },
+    {
+      "frame": 117,
+      "source_floor_world_z": 0.14500007791584102,
+      "target_floor_world_z": 0.14500005777303648,
+      "target_height_m": 1.5329335632455852,
+      "whole_body_vertical_correction_m": -0.1003348046611896,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1929677551369977e-08,
+          "forearm_length_error_m": 1.3987301983320322e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.408502951054217e-09,
+          "forearm_length_error_m": 4.0148740443335384e-09
+        }
+      }
+    },
+    {
+      "frame": 118,
+      "source_floor_world_z": 0.14500006274948096,
+      "target_floor_world_z": 0.14500014775597359,
+      "target_height_m": 1.5275706473649837,
+      "whole_body_vertical_correction_m": -0.09758691704856848,
+      "hands": {
+        "L": {
+          "grip_error_m": 9.06402249678704e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1607513838995942e-09,
+          "forearm_length_error_m": 5.698530702868965e-09
+        },
+        "R": {
+          "grip_error_m": 6.143906154658885e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.9969032661634216e-08,
+          "forearm_length_error_m": 1.4311083623708143e-08
+        }
+      }
+    },
+    {
+      "frame": 119,
+      "source_floor_world_z": 0.1450000677594382,
+      "target_floor_world_z": 0.14500006042659674,
+      "target_height_m": 1.5392536677306445,
+      "whole_body_vertical_correction_m": -0.09832370625363251,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.9039940341313297e-08,
+          "forearm_length_error_m": 5.3358974877459886e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.3780289377989305e-09,
+          "forearm_length_error_m": 1.3728278458469134e-08
+        }
+      }
+    },
+    {
+      "frame": 120,
+      "source_floor_world_z": 0.1450001177370359,
+      "target_floor_world_z": 0.14500017128215492,
+      "target_height_m": 1.5512249587531624,
+      "whole_body_vertical_correction_m": -0.11836541740573794,
+      "hands": {
+        "L": {
+          "grip_error_m": 6.664001874625056e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2298963819601383e-08,
+          "forearm_length_error_m": 6.087066711790712e-09
+        },
+        "R": {
+          "grip_error_m": 2.1503671541306096e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4389769643095036e-09,
+          "forearm_length_error_m": 1.0101941283480187e-08
+        }
+      }
+    },
+    {
+      "frame": 121,
+      "source_floor_world_z": 0.1450001634400878,
+      "target_floor_world_z": 0.14500026806804356,
+      "target_height_m": 1.5197980530415018,
+      "whole_body_vertical_correction_m": -0.15591544424665718,
+      "hands": {
+        "L": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1273810274214924e-08,
+          "forearm_length_error_m": 5.180482459676838e-09
+        },
+        "R": {
+          "grip_error_m": 1.043081283569336e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.193448123659735e-08,
+          "forearm_length_error_m": 9.842917148006336e-09
+        }
+      }
+    },
+    {
+      "frame": 122,
+      "source_floor_world_z": 0.14500006549573088,
+      "target_floor_world_z": 0.1449999283411847,
+      "target_height_m": 1.543479850286718,
+      "whole_body_vertical_correction_m": -0.11129174927305505,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.494851999463755e-08,
+          "forearm_length_error_m": 1.7289859294278287e-08
+        },
+        "R": {
+          "grip_error_m": 5.3726900748371916e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1999875676460547e-08,
+          "forearm_length_error_m": 3.3932163578942465e-08
+        }
+      }
+    },
+    {
+      "frame": 123,
+      "source_floor_world_z": 0.14500008254353486,
+      "target_floor_world_z": 0.14500008009040932,
+      "target_height_m": 1.5310832208983465,
+      "whole_body_vertical_correction_m": -0.09957866566434809,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.201539153230293e-08,
+          "forearm_length_error_m": 2.395973114355243e-09
+        },
+        "R": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2232602708550644e-09,
+          "forearm_length_error_m": 5.180482709477019e-10
+        }
+      }
+    },
+    {
+      "frame": 124,
+      "source_floor_world_z": 0.1450000584783423,
+      "target_floor_world_z": 0.1450000972569484,
+      "target_height_m": 1.5278811912284245,
+      "whole_body_vertical_correction_m": -0.09758979778670795,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.462966505745179e-08,
+          "forearm_length_error_m": 3.1082894591527577e-09
+        },
+        "R": {
+          "grip_error_m": 3.332000937312528e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.0195333516603853e-08,
+          "forearm_length_error_m": 1.635089760809727e-08
+        }
+      }
+    },
+    {
+      "frame": 125,
+      "source_floor_world_z": 0.14500008499096098,
+      "target_floor_world_z": 0.1450001194576339,
+      "target_height_m": 1.5349213297263682,
+      "whole_body_vertical_correction_m": -0.11103549011463074,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.233424436006494e-08,
+          "forearm_length_error_m": 5.640250902438915e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.916121454368039e-09,
+          "forearm_length_error_m": 1.1380872411148601e-08
+        }
+      }
+    },
+    {
+      "frame": 126,
+      "source_floor_world_z": 0.1450001478706028,
+      "target_floor_world_z": 0.14500016044804276,
+      "target_height_m": 1.5504780112212844,
+      "whole_body_vertical_correction_m": -0.12145225475425522,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.9880628681371114e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.6607303476856572e-08,
+          "forearm_length_error_m": 7.770723509104016e-10
+        },
+        "R": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.1164711400123437e-08,
+          "forearm_length_error_m": 4.04077606375175e-08
+        }
+      }
+    },
+    {
+      "frame": 127,
+      "source_floor_world_z": 0.14500019570239112,
+      "target_floor_world_z": 0.14500019900405126,
+      "target_height_m": 1.5261691308402472,
+      "whole_body_vertical_correction_m": -0.13889796244522298,
+      "hands": {
+        "L": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.6237715017882763e-08,
+          "forearm_length_error_m": 4.6106288481562174e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.051996064207252e-08,
+          "forearm_length_error_m": 2.888118863508815e-08
+        }
+      }
+    },
+    {
+      "frame": 128,
+      "source_floor_world_z": 0.14500005606380856,
+      "target_floor_world_z": 0.14500013281149526,
+      "target_height_m": 1.5418812271364453,
+      "whole_body_vertical_correction_m": -0.10887878677097723,
+      "hands": {
+        "L": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.5445172358029566e-08,
+          "forearm_length_error_m": 1.7095592524940528e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.034770444330313e-08,
+          "forearm_length_error_m": 1.5379557904982022e-09
+        }
+      }
+    },
+    {
+      "frame": 129,
+      "source_floor_world_z": 0.14500007779084617,
+      "target_floor_world_z": 0.14500004238050967,
+      "target_height_m": 1.531335011387815,
+      "whole_body_vertical_correction_m": -0.09907340981528406,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.2644054553268208e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.0198229283563407e-08,
+          "forearm_length_error_m": 3.2118993076313274e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.6103910782948603e-08,
+          "forearm_length_error_m": 1.0684745310740595e-09
+        }
+      }
+    },
+    {
+      "frame": 130,
+      "source_floor_world_z": 0.14500005105389857,
+      "target_floor_world_z": 0.14500001075433466,
+      "target_height_m": 1.525405120768462,
+      "whole_body_vertical_correction_m": -0.09710162927634947,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.3657139822709083e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.7468971380552034e-08,
+          "forearm_length_error_m": 4.760579958018596e-09
+        },
+        "R": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0101513708837828e-08,
+          "forearm_length_error_m": 8.288772307407655e-09
+        }
+      }
+    },
+    {
+      "frame": 131,
+      "source_floor_world_z": 0.1450000812061732,
+      "target_floor_world_z": 0.14500000637943666,
+      "target_height_m": 1.5427116996848667,
+      "whole_body_vertical_correction_m": -0.10857266016271466,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.835781780039184e-08,
+          "forearm_length_error_m": 6.098398278031603e-08
+        },
+        "R": {
+          "grip_error_m": 6.006850114687196e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.0840085912233732e-08,
+          "forearm_length_error_m": 2.922520880854762e-08
+        }
+      }
+    },
+    {
+      "frame": 132,
+      "source_floor_world_z": 0.1450001343298164,
+      "target_floor_world_z": 0.14500004734326588,
+      "target_height_m": 1.5490403712164347,
+      "whole_body_vertical_correction_m": -0.12346019666292829,
+      "hands": {
+        "L": {
+          "grip_error_m": 5.960464477539063e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.5954445726238404e-08,
+          "forearm_length_error_m": 3.056484398911152e-08
+        },
+        "R": {
+          "grip_error_m": 1.8431718463976653e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.095079451065352e-08,
+          "forearm_length_error_m": 8.133359152839859e-08
+        }
+      }
+    },
+    {
+      "frame": 133,
+      "source_floor_world_z": 0.1621962588411725,
+      "target_floor_world_z": 0.1621963256484974,
+      "target_height_m": 1.5301812159334678,
+      "whole_body_vertical_correction_m": -0.11517039738761614,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.5253253882185902e-08,
+          "forearm_length_error_m": 3.704045209440565e-08
+        },
+        "R": {
+          "grip_error_m": 7.450580596923828e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2331895948847205e-08,
+          "forearm_length_error_m": 1.2951206135314308e-08
+        }
+      }
+    },
+    {
+      "frame": 134,
+      "source_floor_world_z": 0.14500007135101706,
+      "target_floor_world_z": 0.1450000733940977,
+      "target_height_m": 1.5379039085548583,
+      "whole_body_vertical_correction_m": -0.1067413129732418,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.1314200437650968e-08,
+          "forearm_length_error_m": 2.97230196566467e-08
+        },
+        "R": {
+          "grip_error_m": 2.9802322387695312e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.6105413908638084e-08,
+          "forearm_length_error_m": 1.0619989582183464e-08
+        }
+      }
+    },
+    {
+      "frame": 135,
+      "source_floor_world_z": 0.14500009447492151,
+      "target_floor_world_z": 0.14500008900044536,
+      "target_height_m": 1.5282694070239704,
+      "whole_body_vertical_correction_m": -0.0986884366346032,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.442013895600283e-09,
+          "forearm_length_error_m": 1.492626536259145e-08
+        },
+        "R": {
+          "grip_error_m": 6.664001874625056e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.290343145694429e-08,
+          "forearm_length_error_m": 1.6059496621423364e-08
+        }
+      }
+    },
+    {
+      "frame": 136,
+      "source_floor_world_z": 0.1450000652544126,
+      "target_floor_world_z": 0.14500007829309947,
+      "target_height_m": 1.5279557931785943,
+      "whole_body_vertical_correction_m": -0.10114289463410159,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.8076337393878603e-08,
+          "forearm_length_error_m": 3.185996438892502e-08
+        },
+        "R": {
+          "grip_error_m": 3.122362236350814e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.000749536687721e-10,
+          "forearm_length_error_m": 4.6624348215562605e-08
+        }
+      }
+    },
+    {
+      "frame": 137,
+      "source_floor_world_z": 0.14500010160268142,
+      "target_floor_world_z": 0.14500011507653732,
+      "target_height_m": 1.5416991835374252,
+      "whole_body_vertical_correction_m": -0.11372406589022885,
+      "hands": {
+        "L": {
+          "grip_error_m": 3.0321666218526114e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.320829514679268e-08,
+          "forearm_length_error_m": 2.020388220613789e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.1487834817035534e-08,
+          "forearm_length_error_m": 9.324868877058634e-09
+        }
+      }
+    },
+    {
+      "frame": 138,
+      "source_floor_world_z": 0.14500016133481472,
+      "target_floor_world_z": 0.14500017440094426,
+      "target_height_m": 1.5391540079629058,
+      "whole_body_vertical_correction_m": -0.13426351414931229,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.228781230931777e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.981308252138277e-09,
+          "forearm_length_error_m": 4.610629794621346e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.4389769643095036e-09,
+          "forearm_length_error_m": 2.486631783815696e-08
+        }
+      }
+    },
+    {
+      "frame": 139,
+      "source_floor_world_z": 0.1501053987870751,
+      "target_floor_world_z": 0.1501054572835897,
+      "target_height_m": 1.5391238110821175,
+      "whole_body_vertical_correction_m": -0.11659332290193133,
+      "hands": {
+        "L": {
+          "grip_error_m": 4.470348358154297e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 3.409118459751781e-08,
+          "forearm_length_error_m": 1.2433158058655636e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.722565917683383e-08,
+          "forearm_length_error_m": 5.05097047520664e-09
+        }
+      }
+    },
+    {
+      "frame": 140,
+      "source_floor_world_z": 0.14500006320243491,
+      "target_floor_world_z": 0.1450000445294618,
+      "target_height_m": 1.5391374462859062,
+      "whole_body_vertical_correction_m": -0.10488609552261369,
+      "hands": {
+        "L": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.2658633891104998e-08,
+          "forearm_length_error_m": 4.4034104584866895e-08
+        },
+        "R": {
+          "grip_error_m": 1.4901161193847656e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 7.3780289377989305e-09,
+          "forearm_length_error_m": 2.5384366164615813e-08
+        }
+      }
+    },
+    {
+      "frame": 141,
+      "source_floor_world_z": 0.14500007832876058,
+      "target_floor_world_z": 0.1450001314455095,
+      "target_height_m": 1.5251593985590919,
+      "whole_body_vertical_correction_m": -0.09810245951589161,
+      "hands": {
+        "L": {
+          "grip_error_m": 7.300048299977713e-08,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 6.288445320024039e-09,
+          "forearm_length_error_m": 1.036096458628677e-09
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 4.676855233642918e-08,
+          "forearm_length_error_m": 2.5092963984452155e-08
+        }
+      }
+    },
+    {
+      "frame": 142,
+      "source_floor_world_z": 0.14500007237201687,
+      "target_floor_world_z": 0.1450000807587669,
+      "target_height_m": 1.53691209499029,
+      "whole_body_vertical_correction_m": -0.09729200214376829,
+      "hands": {
+        "L": {
+          "grip_error_m": 3.725290298461914e-09,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.4724870484327255e-09,
+          "forearm_length_error_m": 1.1915109149329695e-08
+        },
+        "R": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 9.34755495229922e-09,
+          "forearm_length_error_m": 2.797460429970755e-08
+        }
+      }
+    },
+    {
+      "frame": 143,
+      "source_floor_world_z": 0.14500009811363496,
+      "target_floor_world_z": 0.14500026609597416,
+      "target_height_m": 1.5448900048772116,
+      "whole_body_vertical_correction_m": -0.11221733262123118,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 1.241532765483555e-09,
+          "forearm_length_error_m": 3.0071081458249438e-09
+        },
+        "R": {
+          "grip_error_m": 1.0921916490504088e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 5.196932661988285e-09,
+          "forearm_length_error_m": 3.6392893199010956e-08
+        }
+      }
+    },
+    {
+      "frame": 144,
+      "source_floor_world_z": 0.14500014310734102,
+      "target_floor_world_z": 0.14500030790312712,
+      "target_height_m": 1.5355813247507561,
+      "whole_body_vertical_correction_m": -0.14188948321791658,
+      "hands": {
+        "L": {
+          "grip_error_m": 0.0,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.0690611030049766e-08,
+          "forearm_length_error_m": 2.4866314063398676e-08
+        },
+        "R": {
+          "grip_error_m": 1.4136482746161726e-07,
+          "shoulder_reach_m": 0,
+          "upper_arm_length_error_m": 2.410361119031812e-08,
+          "forearm_length_error_m": 6.371992691822648e-08
+        }
+      }
+    }
+  ],
+  "max_grip_error_m": 1.5396990297684495e-06,
+  "max_shoulder_reach_m": 0.06372367646868826,
+  "max_floor_profile_error_m": 0.012428372246409247,
+  "rendered": false,
+  "visual_review_pending": false,
+  "character_visual_review": {
+    "first_person_frames": [
+      20,
+      35,
+      59,
+      96
+    ],
+    "third_person_frames": [
+      20,
+      59
+    ],
+    "findings": [
+      "Original jacket, skin and opacity hair present; no blue proxy surfaces.",
+      "Palms contact the existing bow/string anchors; visible fingers and sleeve deform cleanly.",
+      "Full-body shooting and rolling poses read correctly; original room facial action removed."
+    ],
+    "first_camera_height_adjusted_after_these_stills": true,
+    "complete_movie_review": false
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a",
+  "method": "all integer frames35..144 at12fps; evaluated full heroine at render subdivision2, complete actual arrow mesh; exact triangle-BVH overlap after bounding-box rejection; no scene mutation or rendering",
+  "samples": [
+    {
+      "frame": 35,
+      "aabb_separation_m": 0.9491233825683594,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 36,
+      "aabb_separation_m": 0.9762134552001953,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 37,
+      "aabb_separation_m": 1.2144775390625,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 38,
+      "aabb_separation_m": 1.7715110778808594,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 39,
+      "aabb_separation_m": 2.1923046112060547,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 40,
+      "aabb_separation_m": 2.702228546142578,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 41,
+      "aabb_separation_m": 2.885446548461914,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 42,
+      "aabb_separation_m": 2.990631103515625,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 43,
+      "aabb_separation_m": 3.0759334564208984,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 44,
+      "aabb_separation_m": 2.8302440643310547,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 45,
+      "aabb_separation_m": 2.2220401763916016,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 46,
+      "aabb_separation_m": 1.7188777923583984,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 47,
+      "aabb_separation_m": 1.5856437683105469,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 48,
+      "aabb_separation_m": 1.4244441986083984,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 49,
+      "aabb_separation_m": 1.1333637237548828,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 50,
+      "aabb_separation_m": 0.9502773284912109,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 51,
+      "aabb_separation_m": 0.8197059631347656,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 52,
+      "aabb_separation_m": 0.990324854850769,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 53,
+      "aabb_separation_m": 0.815179705619812,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 54,
+      "aabb_separation_m": 1.0901002883911133,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 55,
+      "aabb_separation_m": 2.2123844623565674,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 56,
+      "aabb_separation_m": 3.0629801750183105,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 57,
+      "aabb_separation_m": 3.8385567665100098,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 58,
+      "aabb_separation_m": 4.4251861572265625,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 59,
+      "aabb_separation_m": 4.900379180908203,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 60,
+      "aabb_separation_m": 5.599508047103882,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 61,
+      "aabb_separation_m": 6.017760515213013,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 62,
+      "aabb_separation_m": 6.076766014099121,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 63,
+      "aabb_separation_m": 6.031114339828491,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 64,
+      "aabb_separation_m": 5.968110799789429,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 65,
+      "aabb_separation_m": 5.879892826080322,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 66,
+      "aabb_separation_m": 5.81303334236145,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 67,
+      "aabb_separation_m": 5.759350538253784,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 68,
+      "aabb_separation_m": 5.7059853076934814,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 69,
+      "aabb_separation_m": 5.637441396713257,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 70,
+      "aabb_separation_m": 5.588174104690552,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 71,
+      "aabb_separation_m": 5.6618492603302,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 72,
+      "aabb_separation_m": 5.895320892333984,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 73,
+      "aabb_separation_m": 6.053730487823486,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 74,
+      "aabb_separation_m": 6.156773567199707,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 75,
+      "aabb_separation_m": 6.197478771209717,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 76,
+      "aabb_separation_m": 6.11719822883606,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 77,
+      "aabb_separation_m": 5.966262340545654,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 78,
+      "aabb_separation_m": 5.8708882331848145,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 79,
+      "aabb_separation_m": 5.822591781616211,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 80,
+      "aabb_separation_m": 5.776838779449463,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 81,
+      "aabb_separation_m": 5.6663596630096436,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 82,
+      "aabb_separation_m": 5.499458312988281,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 83,
+      "aabb_separation_m": 5.345475912094116,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 84,
+      "aabb_separation_m": 5.281528949737549,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 85,
+      "aabb_separation_m": 5.188511610031128,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 86,
+      "aabb_separation_m": 5.116760492324829,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 87,
+      "aabb_separation_m": 5.116373062133789,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 88,
+      "aabb_separation_m": 5.140233993530273,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 89,
+      "aabb_separation_m": 5.034729719161987,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 90,
+      "aabb_separation_m": 4.8837268352508545,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 91,
+      "aabb_separation_m": 4.637232542037964,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 92,
+      "aabb_separation_m": 3.842611312866211,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 93,
+      "aabb_separation_m": 3.1960935592651367,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 94,
+      "aabb_separation_m": 2.7996110916137695,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 95,
+      "aabb_separation_m": 2.5133285522460938,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 96,
+      "aabb_separation_m": 1.7680234909057617,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 97,
+      "aabb_separation_m": 2.2352356910705566,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 98,
+      "aabb_separation_m": 2.12503719329834,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 99,
+      "aabb_separation_m": 1.907160758972168,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 100,
+      "aabb_separation_m": 1.5819087028503418,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 101,
+      "aabb_separation_m": 1.1709842681884766,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 102,
+      "aabb_separation_m": 0.9776582717895508,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 103,
+      "aabb_separation_m": 0.8229894638061523,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 104,
+      "aabb_separation_m": 0.6532382965087891,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 105,
+      "aabb_separation_m": 0.6072158813476562,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 106,
+      "aabb_separation_m": 0.6180038452148438,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 107,
+      "aabb_separation_m": 0.869929313659668,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 108,
+      "aabb_separation_m": 0.6863546371459961,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 109,
+      "aabb_separation_m": 0.6246271133422852,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 110,
+      "aabb_separation_m": 0.6757965087890625,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 111,
+      "aabb_separation_m": 0.7774581909179688,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 112,
+      "aabb_separation_m": 0.8844785690307617,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 113,
+      "aabb_separation_m": 1.0320711135864258,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 114,
+      "aabb_separation_m": 0.8612861633300781,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 115,
+      "aabb_separation_m": 0.6807022094726562,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 116,
+      "aabb_separation_m": 0.5101346969604492,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 117,
+      "aabb_separation_m": 0.33437633514404297,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 118,
+      "aabb_separation_m": 0.2935628890991211,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 119,
+      "aabb_separation_m": 0.22286605834960938,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 120,
+      "aabb_separation_m": 0.104888916015625,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 121,
+      "aabb_separation_m": -0.1529693603515625,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": 0.3666597604751587
+    },
+    {
+      "frame": 122,
+      "aabb_separation_m": -0.21743321418762207,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": 0.24338877201080322
+    },
+    {
+      "frame": 123,
+      "aabb_separation_m": -0.25662660598754883,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": 0.24411238729953766
+    },
+    {
+      "frame": 124,
+      "aabb_separation_m": -0.12196636199951172,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": 0.14579880237579346
+    },
+    {
+      "frame": 125,
+      "aabb_separation_m": -0.21321392059326172,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": 0.05706273391842842
+    },
+    {
+      "frame": 126,
+      "aabb_separation_m": -0.15763092041015625,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": 0.12082081288099289
+    },
+    {
+      "frame": 127,
+      "aabb_separation_m": -0.03896832466125488,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": 0.3091040849685669
+    },
+    {
+      "frame": 128,
+      "aabb_separation_m": 0.1266847848892212,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 129,
+      "aabb_separation_m": 0.33564090728759766,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 130,
+      "aabb_separation_m": 0.39258038997650146,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 131,
+      "aabb_separation_m": 0.4248107671737671,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 132,
+      "aabb_separation_m": 0.3938816785812378,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 133,
+      "aabb_separation_m": 0.31057846546173096,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 134,
+      "aabb_separation_m": 0.20192062854766846,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 135,
+      "aabb_separation_m": 0.04912614822387695,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 136,
+      "aabb_separation_m": 0.24590682983398438,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 137,
+      "aabb_separation_m": 0.14659881591796875,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 138,
+      "aabb_separation_m": 0.039315223693847656,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 139,
+      "aabb_separation_m": 0.08987188339233398,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 140,
+      "aabb_separation_m": 0.18779730796813965,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 141,
+      "aabb_separation_m": 0.27661752700805664,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 142,
+      "aabb_separation_m": 0.7262997627258301,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 143,
+      "aabb_separation_m": 0.6380472183227539,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    },
+    {
+      "frame": 144,
+      "aabb_separation_m": 0.726872444152832,
+      "arrow_heroine_triangle_intersections": 0,
+      "nearest_arrow_vertex_to_skin_m": null
+    }
+  ],
+  "intersection_samples": []
+}

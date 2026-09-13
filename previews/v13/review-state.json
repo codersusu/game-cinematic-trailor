@@ -1,0 +1,50 @@
+{
+  "status": "Complete: native1080p scored movie rendered, encoded, decode-verified and representative images reviewed",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 12,
+  "duration_seconds": 32.75,
+  "active_render_jobs": 0,
+  "room_scene": "observatory-v12-run-entry.blend",
+  "room_log": "/private/tmp/v13-room-final-motion.log",
+  "forest_scene_candidate": "bear-bow-forest-v13.blend",
+  "forest_full_render_ready": true,
+  "forest_pending_issue": null,
+  "music": "audio/v13/forest_to_astra_music_final.wav",
+  "music_ready": true,
+  "music_qa": "audio/v13/final-edit-qa.json",
+  "encoder": "scripts/encode_review_v13.py",
+  "previous_versions_preserved": true,
+  "forest_scene_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a",
+  "visual_bow_pose_review": "Accepted native1080p first-person frames20 and32; extended arm and clear arrow above grip",
+  "driver": "scripts/finish_render_v13.py",
+  "driver_log": "/private/tmp/v13-finish.log",
+  "forest_log": "/private/tmp/v13-forest-final-motion.log",
+  "forest_source_start": 10,
+  "room_cut_seconds": 10.25,
+  "opening_edit": "Start on clean raise10, omitting0.75 seconds of obstructed idle. Accepted shot, roll and run preserved.",
+  "visual_review_frames": {
+    "forest": [
+      10,
+      20,
+      32,
+      43,
+      49,
+      59,
+      132
+    ],
+    "room": [
+      79,
+      477
+    ]
+  },
+  "forest_complete": true,
+  "forest_rendered_frames": 123,
+  "room_complete": true,
+  "room_rendered_frames": 270,
+  "movie": "previews/v13/Forest-to-Astra-V13-1080p.mp4",
+  "movie_sha256": "53389d92f5c4258d50bf51bcf7fd6ce14e38de7653a2b21a91818c66b335ddca",
+  "qa": "previews/v13/combined-movie-qa.json"
+}

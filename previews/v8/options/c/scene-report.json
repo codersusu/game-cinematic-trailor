@@ -1,0 +1,48 @@
+{
+  "option": "C \u2014 Bow versus realistic bear",
+  "scene": "option-c-bow-bear.blend",
+  "frames": 96,
+  "fps": 12,
+  "duration": 8,
+  "actor": "Same licensed feminine bow proxy as A; final Rocketbox heroine retarget pending",
+  "bear": "User-provided Bear Animated.fbx; native textured mesh and native animation",
+  "timeline": [
+    "1\u201342 two native walk cycles toward archer",
+    "43\u201362 native low threat/attack anticipation",
+    "60 bow release",
+    "63 arrow contact; native standing hit reaction through96"
+  ],
+  "transitions": "Five-frame walk/threat blend, three-frame threat/hit blend",
+  "source_jaw_correction": "Positive local Z opening capped at12degrees to prevent exaggerated box-shaped mouth deformation",
+  "native_walk_world_displacement": [
+    3.355262947479787e-07,
+    -3.5181431770324707,
+    2.656124422628636e-07
+  ],
+  "sampled_bear_floor_range": [
+    0.145,
+    0.2182484120130539
+  ],
+  "impact": {
+    "triangle": [
+      1389,
+      1971,
+      1973
+    ],
+    "impact_point": [
+      -3.483431577682495,
+      -17.69341278076172,
+      1.4425435066223145
+    ],
+    "arrow_flight_metres": 2.455512523651123
+  },
+  "licensed_source_scene_local_only": true,
+  "heavy_render": false,
+  "limitations": [
+    "Source mannequin instead of final heroine",
+    "Draft low-resolution textured bear, no groomed fur",
+    "Original uploader rig/provenance notes in asset README",
+    "No production lighting or audio"
+  ],
+  "frame_handlers": 0
+}

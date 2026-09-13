@@ -1,0 +1,32 @@
+{
+  "source": {
+    "scene": "bear-bow-forest-v10.blend",
+    "sha256": "2f438e256ab943120b68d1f9ff219d714c781396679bf6ddf30b4f117499b461",
+    "view": "first",
+    "frames": 144,
+    "fps": 12,
+    "seconds": 12,
+    "resolution": [
+      960,
+      540
+    ],
+    "engine": "EEVEE",
+    "samples": 16,
+    "heavy_render": false
+  },
+  "timings": [
+    {
+      "frame": 20,
+      "seconds": 9.899728458000027
+    },
+    {
+      "frame": 59,
+      "seconds": 8.971646415999203
+    },
+    {
+      "frame": 96,
+      "seconds": 6.153781166000044
+    }
+  ],
+  "status": "rendered for review"
+}

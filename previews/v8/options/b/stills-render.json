@@ -1,0 +1,46 @@
+{
+  "source": {
+    "scene": "option-b-sword-guardian.blend",
+    "sha256": "a2dd54eadfffb451ef1ab3f6800396342a785ea2ffad78d5926a9e95d09f834a",
+    "resolution": [
+      768,
+      432
+    ],
+    "fps": 12,
+    "source_fps": 24.0,
+    "source_frame_start": 1,
+    "source_frame_end": 192,
+    "engine": "EEVEE",
+    "samples": 8
+  },
+  "frames_requested": [
+    1,
+    36,
+    58,
+    88
+  ],
+  "new_frame_timings": [
+    {
+      "frame": 1,
+      "source_frame": 1.0,
+      "seconds": 2.824
+    },
+    {
+      "frame": 36,
+      "source_frame": 71.0,
+      "seconds": 0.655
+    },
+    {
+      "frame": 58,
+      "source_frame": 115.0,
+      "seconds": 0.599
+    },
+    {
+      "frame": 88,
+      "source_frame": 175.0,
+      "seconds": 0.598
+    }
+  ],
+  "heavy_render": false,
+  "status": "rendered for review"
+}

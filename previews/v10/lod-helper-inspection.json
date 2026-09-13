@@ -1,0 +1,60 @@
+{
+  "gpu_rendered": false,
+  "elapsed_seconds": 3.5864492079999764,
+  "distance_method": "Minimum XY distance to both cameras, human hips and bear spine at every integer frame",
+  "sapling_distance_m": 8.0,
+  "tree_distance_m": 45.0,
+  "eligible_instances": {
+    "sapling": 246,
+    "far_tree": 265
+  },
+  "reassigned_instances": {
+    "sapling": 185,
+    "far_tree": 211
+  },
+  "modified_instance_triangles_before": 38135034,
+  "modified_instance_triangles_after": 8167192,
+  "triangle_reduction_fraction": 0.7858349359279448,
+  "source_variants": [
+    {
+      "source_collection": "V10 source | far fir 0",
+      "lod_collection": "V10 source | far fir 0 | preview LOD",
+      "ratio": 0.2,
+      "original_triangles": 70661,
+      "lod_triangles": 14131
+    },
+    {
+      "source_collection": "V10 source | far fir 1",
+      "lod_collection": "V10 source | far fir 1 | preview LOD",
+      "ratio": 0.2,
+      "original_triangles": 31512,
+      "lod_triangles": 6302
+    },
+    {
+      "source_collection": "V10 source | fir_sapling_a",
+      "lod_collection": "V10 source | fir_sapling_a | preview LOD",
+      "ratio": 0.22,
+      "original_triangles": 157402,
+      "lod_triangles": 34628
+    },
+    {
+      "source_collection": "V10 source | fir_sapling_b",
+      "lod_collection": "V10 source | fir_sapling_b | preview LOD",
+      "ratio": 0.22,
+      "original_triangles": 150876,
+      "lod_triangles": 33192
+    },
+    {
+      "source_collection": "V10 source | fir_sapling_c",
+      "lod_collection": "V10 source | fir_sapling_c | preview LOD",
+      "ratio": 0.22,
+      "original_triangles": 124743,
+      "lod_triangles": 27443
+    }
+  ],
+  "full_source_meshes_unchanged": true,
+  "limitations": [
+    "Distant alpha foliage silhouettes require a preview image check.",
+    "Reduced instance triangle counts are not a GPU memory or render-time benchmark."
+  ]
+}

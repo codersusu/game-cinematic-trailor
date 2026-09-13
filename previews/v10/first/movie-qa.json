@@ -1,0 +1,26 @@
+{
+  "view": "first",
+  "technical_checks": "passed",
+  "frames": 144,
+  "fps": 12,
+  "duration_seconds": 12,
+  "source": {
+    "scene": "bear-bow-forest-v10.blend",
+    "sha256": "2f438e256ab943120b68d1f9ff219d714c781396679bf6ddf30b4f117499b461",
+    "view": "first",
+    "frames": 144,
+    "fps": 12,
+    "seconds": 12,
+    "resolution": [
+      960,
+      540
+    ],
+    "engine": "EEVEE",
+    "samples": 16,
+    "heavy_render": false
+  },
+  "sha256": "11264619b67c6e7a41303255de03c92bfa2b7745f57729162b2b9af49c1e0ef1",
+  "visual_review": "Contact sheet frames 20,35,55,64,96,140 and native frames 20,35,59,96,144 reviewed: continuous wooded background, readable bow and bear, clear low roll view and doorway approach. Temporary arms and simple vestibule remain preview limitations.",
+  "full_realtime_playback": false,
+  "heavy_render": false
+}

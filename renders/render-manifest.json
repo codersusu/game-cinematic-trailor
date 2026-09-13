@@ -1,0 +1,37 @@
+{
+  "scene": "observatory.blend",
+  "blender": "4.5.13 LTS",
+  "backend": "Cycles Metal, MetalRT OFF, kernel optimization OFF",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frame_range": [
+    1,
+    576
+  ],
+  "samples": 48,
+  "adaptive_threshold": 0.03,
+  "denoising": true,
+  "seed": 0,
+  "texture_limit": "2048",
+  "status": "Complete; final movie, hero still, motion proof and editable scene delivered",
+  "started_utc": "2026-09-10T23:12:42.684878+00:00",
+  "scene_sha256": "9376b1b6ca4bcfa9990207393f1e3bb3d20de103e4badcd2493028f7c64ffc29",
+  "hero_verified": true,
+  "motion_test_verified": true,
+  "macro_character_collection_excluded_frames": [
+    1,
+    144
+  ],
+  "retained_frames": [
+    1,
+    144
+  ],
+  "eye_repair_verified": true,
+  "eye_blink_proofs_verified": true,
+  "completed_utc": "2026-09-11T02:27:01.142524+00:00",
+  "final_frame_count": 576,
+  "final_movie_verified": true
+}

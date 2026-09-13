@@ -7,7 +7,6 @@ from pathlib import Path
 import argparse,hashlib,json,subprocess,sys,wave
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools/python'))
-import imageio_ffmpeg
 import numpy as np
 from scipy.signal import find_peaks
 from audio_mix import read_wav,write_wav,fade,level,filter_fft,rms,SR,N,DURATION
@@ -76,7 +75,7 @@ def meter(ff,path):
     return json.loads(p.stderr[p.stderr.rfind('{'):p.stderr.rfind('}')+1])
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--ffmpeg',default=imageio_ffmpeg.get_ffmpeg_exe())
+    p=argparse.ArgumentParser();p.add_argument('--ffmpeg',default=str(ROOT/'tools/python/imageio_ffmpeg/binaries/ffmpeg-macos-aarch64-v7.1'))
     p.add_argument('--sync',type=Path,default=OUT/'walk_sync.json');args=p.parse_args()
     sync=json.loads(args.sync.read_text())
     events=sync['foot_contacts'];arrival=sync['doorway_crossing_seconds']

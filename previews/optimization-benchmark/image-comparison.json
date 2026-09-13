@@ -1,0 +1,6 @@
+{
+  "mean_absolute_error_8bit": 0.00016991383744855966,
+  "psnr_db": 85.25219329680723,
+  "max_channel_difference": 7.0,
+  "exactly_equal": false
+}

@@ -1,0 +1,1858 @@
+{
+  "objects": [
+    {
+      "name": "big_tank_mat",
+      "type": "MESH",
+      "vertices": 1490,
+      "dimensions": [
+        16.923444747924805,
+        4.49169921875,
+        17.662864685058594
+      ]
+    },
+    {
+      "name": "chimney2_mat",
+      "type": "MESH",
+      "vertices": 156,
+      "dimensions": [
+        1.251577615737915,
+        1.2498732805252075,
+        1.2208454608917236
+      ]
+    },
+    {
+      "name": "concrete_path_1",
+      "type": "MESH",
+      "vertices": 86,
+      "dimensions": [
+        4.399999618530273,
+        2.0,
+        2.074647903442383
+      ]
+    },
+    {
+      "name": "concrete_path_2",
+      "type": "MESH",
+      "vertices": 46,
+      "dimensions": [
+        2.3999991416931152,
+        2.0,
+        1.0746479034423828
+      ]
+    },
+    {
+      "name": "concrete_path_3",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        1.0,
+        2.0,
+        0.2746477723121643
+      ]
+    },
+    {
+      "name": "concrete_path_4",
+      "type": "MESH",
+      "vertices": 86,
+      "dimensions": [
+        3.299999952316284,
+        2.0,
+        2.074647903442383
+      ]
+    },
+    {
+      "name": "concrete_path_5",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        2.0,
+        2.0,
+        0.2746477723121643
+      ]
+    },
+    {
+      "name": "concrete_path_6",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        4.0,
+        2.0,
+        0.2746477723121643
+      ]
+    },
+    {
+      "name": "concrete_path_railing_01",
+      "type": "MESH",
+      "vertices": 48,
+      "dimensions": [
+        2.0000009536743164,
+        1.8650939464569092,
+        1.6577551364898682
+      ]
+    },
+    {
+      "name": "concrete_path_railing_02",
+      "type": "MESH",
+      "vertices": 80,
+      "dimensions": [
+        4.000001907348633,
+        1.8650939464569092,
+        2.6577553749084473
+      ]
+    },
+    {
+      "name": "concrete_path_railing_03",
+      "type": "MESH",
+      "vertices": 32,
+      "dimensions": [
+        0.9999997615814209,
+        1.8650939464569092,
+        0.8577573895454407
+      ]
+    },
+    {
+      "name": "concrete_path_railing_04",
+      "type": "MESH",
+      "vertices": 64,
+      "dimensions": [
+        2.999999523162842,
+        1.8650939464569092,
+        2.6577553749084473
+      ]
+    },
+    {
+      "name": "concrete_path_railing_05",
+      "type": "MESH",
+      "vertices": 48,
+      "dimensions": [
+        1.9999994039535522,
+        1.8650939464569092,
+        0.8577596545219421
+      ]
+    },
+    {
+      "name": "concrete_path_railing_06",
+      "type": "MESH",
+      "vertices": 80,
+      "dimensions": [
+        3.999999523162842,
+        1.8650939464569092,
+        0.8577596545219421
+      ]
+    },
+    {
+      "name": "concrete_path_railing_07",
+      "type": "MESH",
+      "vertices": 24,
+      "dimensions": [
+        2.0000009536743164,
+        0.06509381532669067,
+        1.6577551364898682
+      ]
+    },
+    {
+      "name": "concrete_path_railing_08",
+      "type": "MESH",
+      "vertices": 40,
+      "dimensions": [
+        4.000001907348633,
+        0.06509381532669067,
+        2.6577553749084473
+      ]
+    },
+    {
+      "name": "concrete_path_railing_09",
+      "type": "MESH",
+      "vertices": 32,
+      "dimensions": [
+        2.999999523162842,
+        0.06509377062320709,
+        2.6577553749084473
+      ]
+    },
+    {
+      "name": "concrete_path_railing_10",
+      "type": "MESH",
+      "vertices": 40,
+      "dimensions": [
+        3.999999523162842,
+        0.06509377062320709,
+        0.8577596545219421
+      ]
+    },
+    {
+      "name": "concrete_path_railing_11",
+      "type": "MESH",
+      "vertices": 24,
+      "dimensions": [
+        1.9999994039535522,
+        0.06509377062320709,
+        0.8577596545219421
+      ]
+    },
+    {
+      "name": "concrete_path_railing_12",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        0.13254444301128387,
+        0.13254401087760925,
+        0.04109501838684082
+      ]
+    },
+    {
+      "name": "concrete_path_railing_13",
+      "type": "MESH",
+      "vertices": 56,
+      "dimensions": [
+        1.9325448274612427,
+        1.9325504302978516,
+        0.8577596545219421
+      ]
+    },
+    {
+      "name": "concrete_path_railing_14",
+      "type": "MESH",
+      "vertices": 48,
+      "dimensions": [
+        1.9325435161590576,
+        1.9325495958328247,
+        0.8577596545219421
+      ]
+    },
+    {
+      "name": "concrete_path_railing_15",
+      "type": "MESH",
+      "vertices": 40,
+      "dimensions": [
+        2.000000476837158,
+        1.9325450658798218,
+        0.8577596545219421
+      ]
+    },
+    {
+      "name": "container_mat",
+      "type": "MESH",
+      "vertices": 852,
+      "dimensions": [
+        13.993904113769531,
+        5.146291732788086,
+        5.875978469848633
+      ]
+    },
+    {
+      "name": "control_terminal_mat",
+      "type": "MESH",
+      "vertices": 103,
+      "dimensions": [
+        3.0034260749816895,
+        3.258765935897827,
+        6.295230865478516
+      ]
+    },
+    {
+      "name": "garage_2_door_mat",
+      "type": "MESH",
+      "vertices": 16,
+      "dimensions": [
+        5.182186603546143,
+        0.10997256636619568,
+        4.180257797241211
+      ]
+    },
+    {
+      "name": "garage_2_mat",
+      "type": "MESH",
+      "vertices": 371,
+      "dimensions": [
+        15.850528717041016,
+        28.61110496520996,
+        6.859818935394287
+      ]
+    },
+    {
+      "name": "garage_door_mat",
+      "type": "MESH",
+      "vertices": 16,
+      "dimensions": [
+        5.182186603546143,
+        0.10997256636619568,
+        5.312682628631592
+      ]
+    },
+    {
+      "name": "garage_mat",
+      "type": "MESH",
+      "vertices": 371,
+      "dimensions": [
+        15.850528717041016,
+        28.61110496520996,
+        6.859818458557129
+      ]
+    },
+    {
+      "name": "ladder_base_mat",
+      "type": "MESH",
+      "vertices": 180,
+      "dimensions": [
+        0.5210309028625488,
+        0.5132566690444946,
+        0.8000001311302185
+      ]
+    },
+    {
+      "name": "ladder_mat",
+      "type": "MESH",
+      "vertices": 196,
+      "dimensions": [
+        0.5210309028625488,
+        0.5132566690444946,
+        0.8000001311302185
+      ]
+    },
+    {
+      "name": "pipe_01",
+      "type": "MESH",
+      "vertices": 144,
+      "dimensions": [
+        3.1202621459960938,
+        13.05263614654541,
+        5.967438220977783
+      ]
+    },
+    {
+      "name": "pipe_02",
+      "type": "MESH",
+      "vertices": 108,
+      "dimensions": [
+        2.06791353225708,
+        7.3939313888549805,
+        0.3113655149936676
+      ]
+    },
+    {
+      "name": "pipe_03",
+      "type": "MESH",
+      "vertices": 176,
+      "dimensions": [
+        2.321767807006836,
+        8.578182220458984,
+        0.44335654377937317
+      ]
+    },
+    {
+      "name": "pipe_04",
+      "type": "MESH",
+      "vertices": 342,
+      "dimensions": [
+        3.087509870529175,
+        8.892341613769531,
+        2.4058454036712646
+      ]
+    },
+    {
+      "name": "pipe_05",
+      "type": "MESH",
+      "vertices": 696,
+      "dimensions": [
+        3.6049203872680664,
+        3.7735722064971924,
+        0.6444665789604187
+      ]
+    },
+    {
+      "name": "pipe_06",
+      "type": "MESH",
+      "vertices": 48,
+      "dimensions": [
+        0.6676268577575684,
+        2.200000047683716,
+        0.16762682795524597
+      ]
+    },
+    {
+      "name": "pipe_07",
+      "type": "MESH",
+      "vertices": 312,
+      "dimensions": [
+        3.5316386222839355,
+        1.4708479642868042,
+        0.19970884919166565
+      ]
+    },
+    {
+      "name": "pipe_08",
+      "type": "MESH",
+      "vertices": 48,
+      "dimensions": [
+        0.039583444595336914,
+        0.6996843814849854,
+        0.19970837235450745
+      ]
+    },
+    {
+      "name": "pipe_09",
+      "type": "MESH",
+      "vertices": 91,
+      "dimensions": [
+        4.411667346954346,
+        2.9391238689422607,
+        0.9728694558143616
+      ]
+    },
+    {
+      "name": "pipe_10",
+      "type": "MESH",
+      "vertices": 112,
+      "dimensions": [
+        6.851507186889648,
+        6.953793525695801,
+        8.021075248718262
+      ]
+    },
+    {
+      "name": "pipe_11",
+      "type": "MESH",
+      "vertices": 280,
+      "dimensions": [
+        3.3720130920410156,
+        4.96405029296875,
+        3.2546355724334717
+      ]
+    },
+    {
+      "name": "chimney_mat",
+      "type": "MESH",
+      "vertices": 231,
+      "dimensions": [
+        0.48340657353401184,
+        0.4958382844924927,
+        1.1002705097198486
+      ]
+    },
+    {
+      "name": "roof_thing_mat",
+      "type": "MESH",
+      "vertices": 57,
+      "dimensions": [
+        1.018752098083496,
+        1.018752098083496,
+        0.2548399269580841
+      ]
+    },
+    {
+      "name": "smokestack_mat",
+      "type": "MESH",
+      "vertices": 385,
+      "dimensions": [
+        4.820799827575684,
+        5.12278938293457,
+        31.130640029907227
+      ]
+    },
+    {
+      "name": "station _mat",
+      "type": "MESH",
+      "vertices": 71,
+      "dimensions": [
+        4.891802787780762,
+        1.8170799016952515,
+        5.156902313232422
+      ]
+    },
+    {
+      "name": "Sun",
+      "type": "LIGHT",
+      "vertices": null,
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Sun.001",
+      "type": "LIGHT",
+      "vertices": null,
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Sun.002",
+      "type": "LIGHT",
+      "vertices": null,
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "tank_2_mat",
+      "type": "MESH",
+      "vertices": 876,
+      "dimensions": [
+        3.112919569015503,
+        2.277871608734131,
+        7.122375011444092
+      ]
+    },
+    {
+      "name": "tank_capsule_mat",
+      "type": "MESH",
+      "vertices": 475,
+      "dimensions": [
+        4.722218036651611,
+        4.600625514984131,
+        8.775064468383789
+      ]
+    },
+    {
+      "name": "tank_control_panel_mat",
+      "type": "MESH",
+      "vertices": 198,
+      "dimensions": [
+        2.7562789916992188,
+        1.1106181144714355,
+        3.4796292781829834
+      ]
+    },
+    {
+      "name": "tank_mat",
+      "type": "MESH",
+      "vertices": 404,
+      "dimensions": [
+        8.317314147949219,
+        3.5809178352355957,
+        4.156792640686035
+      ]
+    },
+    {
+      "name": "tank_sphere_holder_mat",
+      "type": "MESH",
+      "vertices": 224,
+      "dimensions": [
+        3.2799997329711914,
+        3.2800002098083496,
+        4.348193645477295
+      ]
+    },
+    {
+      "name": "tank_sphere_mat",
+      "type": "MESH",
+      "vertices": 207,
+      "dimensions": [
+        4.600625991821289,
+        4.600625514984131,
+        4.775064468383789
+      ]
+    },
+    {
+      "name": "tower_2_mat",
+      "type": "MESH",
+      "vertices": 408,
+      "dimensions": [
+        12.492568969726562,
+        12.492568016052246,
+        25.681774139404297
+      ]
+    },
+    {
+      "name": "tower_mat",
+      "type": "MESH",
+      "vertices": 710,
+      "dimensions": [
+        17.92498779296875,
+        17.92498779296875,
+        39.866943359375
+      ]
+    },
+    {
+      "name": "tower_part_mat",
+      "type": "MESH",
+      "vertices": 63,
+      "dimensions": [
+        1.2238882780075073,
+        1.7746719121932983,
+        1.177170991897583
+      ]
+    },
+    {
+      "name": "vent_2_mat",
+      "type": "MESH",
+      "vertices": 80,
+      "dimensions": [
+        0.9539105296134949,
+        0.9132118821144104,
+        1.4574496746063232
+      ]
+    },
+    {
+      "name": "vent_3_mat",
+      "type": "MESH",
+      "vertices": 80,
+      "dimensions": [
+        1.2050135135650635,
+        1.2215756177902222,
+        1.0342949628829956
+      ]
+    },
+    {
+      "name": "vent_mat",
+      "type": "MESH",
+      "vertices": 100,
+      "dimensions": [
+        1.230283498764038,
+        0.4972494840621948,
+        1.0113959312438965
+      ]
+    },
+    {
+      "name": "wall_thing_mat",
+      "type": "MESH",
+      "vertices": 50,
+      "dimensions": [
+        0.323941707611084,
+        0.26790639758110046,
+        3.0782997608184814
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "brickwall.JPG.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brickwall.JPG",
+      "source_relative_path": "brickwall/brickwall.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "brickwall_norm.JPG.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brickwall_norm.JPG",
+      "source_relative_path": "brickwall/brickwall_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "brickwall_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brickwall_roughness.png",
+      "source_relative_path": "brickwall/brickwall_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "brushed_metal.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brushed_metal.jpg",
+      "source_relative_path": "brushed_metal/brushed_metal.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "brushed_metal_2.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brushed_metal_2.jpg",
+      "source_relative_path": "brushed_metal/brushed_metal_2.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "brushed_metal_metallic.bmp",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brushed_metal_metallic.bmp",
+      "source_relative_path": "brushed_metal/brushed_metal_metallic.bmp",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "brushed_metal_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brushed_metal_norm.jpg",
+      "source_relative_path": "brushed_metal/brushed_metal_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "brushed_metal_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "brushed_metal_roughness.png",
+      "source_relative_path": "brushed_metal/brushed_metal_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "concrete.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "concrete.png",
+      "source_relative_path": "concrete/concrete.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "concrete_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "concrete_norm.jpg",
+      "source_relative_path": "concrete/concrete_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "concrete_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "concrete_roughness.png",
+      "source_relative_path": "concrete/concrete_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "concrete_wall.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "concrete_wall.jpg",
+      "source_relative_path": "concrete_wall/concrete_wall.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "concrete_wall_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "concrete_wall_metallic.png",
+      "source_relative_path": "concrete_wall/concrete_wall_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "concrete_wall_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "concrete_wall_norm.jpg",
+      "source_relative_path": "concrete_wall/concrete_wall_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "concrete_wall_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "concrete_wall_roughness.png",
+      "source_relative_path": "concrete_wall/concrete_wall_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_1.JPG",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_norm.png",
+      "source_relative_path": "baked_textures/PNGs/wall_thing_norm.png",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "container_1.JPG.002",
+      "dimensions": [
+        1596,
+        1656
+      ],
+      "packed": false,
+      "source_filename": "container_1.JPG",
+      "source_relative_path": "container_1/container_1.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_1_norm.JPG.001",
+      "dimensions": [
+        1596,
+        1656
+      ],
+      "packed": false,
+      "source_filename": "container_1_norm.JPG",
+      "source_relative_path": "container_1/container_1_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_1_roughness.png",
+      "dimensions": [
+        1596,
+        1656
+      ],
+      "packed": false,
+      "source_filename": "container_1_roughness.png",
+      "source_relative_path": "container_1/container_1_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_2.JPG.001",
+      "dimensions": [
+        2680,
+        1160
+      ],
+      "packed": false,
+      "source_filename": "container_2.JPG",
+      "source_relative_path": "container_2/container_2.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_2_norm.JPG.001",
+      "dimensions": [
+        2680,
+        1160
+      ],
+      "packed": false,
+      "source_filename": "container_2_norm.JPG",
+      "source_relative_path": "container_2/container_2_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_2_roughness.png",
+      "dimensions": [
+        2680,
+        1160
+      ],
+      "packed": false,
+      "source_filename": "container_2_roughness.png",
+      "source_relative_path": "container_2/container_2_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_3.JPG.001",
+      "dimensions": [
+        1172,
+        1280
+      ],
+      "packed": false,
+      "source_filename": "container_3.JPG",
+      "source_relative_path": "container_3/container_3.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_3_norm.JPG.001",
+      "dimensions": [
+        1172,
+        1280
+      ],
+      "packed": false,
+      "source_filename": "container_3_norm.JPG",
+      "source_relative_path": "container_3/container_3_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "container_3_roughness.png",
+      "dimensions": [
+        1172,
+        1280
+      ],
+      "packed": false,
+      "source_filename": "container_3_roughness.png",
+      "source_relative_path": "container_3/container_3_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "dirty_metal.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "dirty_metal.jpg",
+      "source_relative_path": "dirty_metal/dirty_metal.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "dirty_metal_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "dirty_metal_metallic.png",
+      "source_relative_path": "dirty_metal/dirty_metal_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "dirty_metal_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "dirty_metal_norm.jpg",
+      "source_relative_path": "dirty_metal/dirty_metal_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "dirty_metal_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "dirty_metal_roughness.png",
+      "source_relative_path": "dirty_metal/dirty_metal_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "gauge.JPG",
+      "dimensions": [
+        512,
+        512
+      ],
+      "packed": false,
+      "source_filename": "gauge.JPG",
+      "source_relative_path": "gauge/gauge.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "IMGP6438.JPG",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "IMGP6438.JPG",
+      "source_relative_path": "../../textures/tex-res/part-2-tex/metal-2/IMGP6438.JPG",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "metal1.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal1.jpg",
+      "source_relative_path": "metal1/metal1.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal1_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal1_metallic.png",
+      "source_relative_path": "metal1/metal1_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal1_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal1_norm.jpg",
+      "source_relative_path": "metal1/metal1_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal1_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal1_roughness.png",
+      "source_relative_path": "metal1/metal1_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal2.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "metal2.jpg",
+      "source_had_absolute_author_path": true,
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "metal2.jpg.002",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal2.jpg",
+      "source_relative_path": "metal2 and metal_orange/metal2.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal2_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal2_metallic.png",
+      "source_relative_path": "metal2 and metal_orange/metal2_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal2_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal2_roughness.png",
+      "source_relative_path": "metal2 and metal_orange/metal2_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_duct.jpg",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "packed": false,
+      "source_filename": "metal_duct.jpg",
+      "source_relative_path": "metal_duct/metal_duct.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_duct_lighter.jpg",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "packed": false,
+      "source_filename": "metal_duct_lighter.jpg",
+      "source_relative_path": "metal_duct/metal_duct_lighter.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_duct_metallic.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "packed": false,
+      "source_filename": "metal_duct_metallic.png",
+      "source_relative_path": "metal_duct/metal_duct_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_duct_norm.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_duct_norm.jpg",
+      "source_relative_path": "metal_duct/metal_duct_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_duct_roughness.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "packed": false,
+      "source_filename": "metal_duct_roughness.png",
+      "source_relative_path": "metal_duct/metal_duct_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_ground.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_ground.jpg",
+      "source_relative_path": "metal_ground/metal_ground.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_ground_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_ground_metallic.png",
+      "source_relative_path": "metal_ground/metal_ground_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_ground_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_ground_norm.jpg",
+      "source_relative_path": "metal_ground/metal_ground_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_ground_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_ground_roughness.png",
+      "source_relative_path": "metal_ground/metal_ground_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_orange.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_orange.jpg",
+      "source_relative_path": "metal2 and metal_orange/metal_orange.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_orange_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_orange_roughness.png",
+      "source_relative_path": "metal2 and metal_orange/metal_orange_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_pipe.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_pipe.jpg",
+      "source_relative_path": "metal_pipe/metal_pipe.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_pipe_2.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_pipe_2.jpg",
+      "source_relative_path": "metal_pipe/metal_pipe_2.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_pipe_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_pipe_metallic.png",
+      "source_relative_path": "metal_pipe/metal_pipe_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_pipe_norm.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_pipe_norm.jpg",
+      "source_relative_path": "metal_pipe/metal_pipe_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_pipe_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_pipe_roughness.png",
+      "source_relative_path": "metal_pipe/metal_pipe_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_planks.png.001",
+      "dimensions": [
+        1024,
+        128
+      ],
+      "packed": false,
+      "source_filename": "metal_planks.png",
+      "source_relative_path": "metal_planks/metal_planks.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_planks_metallic.png",
+      "dimensions": [
+        1024,
+        128
+      ],
+      "packed": false,
+      "source_filename": "metal_planks_metallic.png",
+      "source_relative_path": "metal_planks/metal_planks_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_planks_roughness.png",
+      "dimensions": [
+        1024,
+        128
+      ],
+      "packed": false,
+      "source_filename": "metal_planks_roughness.png",
+      "source_relative_path": "metal_planks/metal_planks_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_plates.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_plates.jpg",
+      "source_relative_path": "metal_plates/metal_plates.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_plates_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_plates_metallic.png",
+      "source_relative_path": "metal_plates/metal_plates_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_plates_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_plates_norm.jpg",
+      "source_relative_path": "metal_plates/metal_plates_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_plates_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_plates_roughness.png",
+      "source_relative_path": "metal_plates/metal_plates_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_rust.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_rust.jpg",
+      "source_relative_path": "metal_rust/metal_rust.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_rust_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_rust_metallic.png",
+      "source_relative_path": "metal_rust/metal_rust_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metal_rust_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metal_rust_roughness.png",
+      "source_relative_path": "metal_rust/metal_rust_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "metals_norm.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "metals_norm.jpg",
+      "source_relative_path": "metal2 and metal_orange/metals_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "radiator.JPG",
+      "dimensions": [
+        2148,
+        1772
+      ],
+      "packed": false,
+      "source_filename": "radiator.JPG",
+      "source_relative_path": "radiator/radiator.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "radiator_norm.JPG",
+      "dimensions": [
+        2148,
+        1772
+      ],
+      "packed": false,
+      "source_filename": "radiator_norm.JPG",
+      "source_relative_path": "radiator/radiator_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "red_metal.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "red_metal.jpg",
+      "source_relative_path": "red_metal/red_metal.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "red_metal_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "red_metal_metallic.png",
+      "source_relative_path": "red_metal/red_metal_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "red_metal_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "red_metal_norm.jpg",
+      "source_relative_path": "red_metal/red_metal_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "red_metal_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "red_metal_roughness.png",
+      "source_relative_path": "red_metal/red_metal_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "scratchy_metal.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "scratchy_metal.jpg",
+      "source_relative_path": "scratchy_metal/scratchy_metal.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "scratchy_metal_dark.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "scratchy_metal_dark.jpg",
+      "source_relative_path": "scratchy_metal/scratchy_metal_dark.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "scratchy_metal_metallic.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "scratchy_metal_metallic.png",
+      "source_relative_path": "scratchy_metal/scratchy_metal_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "scratchy_metal_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "scratchy_metal_norm.jpg",
+      "source_relative_path": "scratchy_metal/scratchy_metal_norm.jpg",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "scratchy_metal_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "scratchy_metal_roughness.png",
+      "source_relative_path": "scratchy_metal/scratchy_metal_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "stripes.JPG.001",
+      "dimensions": [
+        2500,
+        1875
+      ],
+      "packed": false,
+      "source_filename": "stripes.JPG",
+      "source_relative_path": "stripes/stripes.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "structwall.JPG.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "structwall.JPG",
+      "source_relative_path": "structwall/structwall.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "structwall_norm.JPG",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "structwall_norm.JPG",
+      "source_relative_path": "structwall/structwall_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "structwall_roughness.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "structwall_roughness.png",
+      "source_relative_path": "structwall/structwall_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "tank_2_ao.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_2_ao.jpg",
+      "source_relative_path": "baked_textures/tank_2_ao.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_2_diff_edited.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_2_diff_edited.jpg",
+      "source_relative_path": "baked_textures/tank_2_diff_edited.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_2_norm.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_2_norm.jpg",
+      "source_relative_path": "baked_textures/tank_2_norm.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_2_spec.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_2_spec.jpg",
+      "source_relative_path": "baked_textures/tank_2_spec.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_ao.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_ao.jpg",
+      "source_relative_path": "baked_textures/tank_ao.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_diff.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_diff.jpg",
+      "source_relative_path": "baked_textures/tank_diff.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_norm.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_norm.jpg",
+      "source_relative_path": "baked_textures/tank_norm.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_spec.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_spec.jpg",
+      "source_relative_path": "baked_textures/tank_spec.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_sphere_holder_ao.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_sphere_holder_ao.jpg",
+      "source_relative_path": "baked_textures/tank_sphere_holder_ao.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_sphere_holder_diff.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_sphere_holder_diff.jpg",
+      "source_relative_path": "baked_textures/tank_sphere_holder_diff.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_sphere_holder_norm.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_sphere_holder_norm.jpg",
+      "source_relative_path": "baked_textures/tank_sphere_holder_norm.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "tank_sphere_holder_spec.jpg",
+      "dimensions": [
+        0,
+        0
+      ],
+      "packed": false,
+      "source_filename": "tank_sphere_holder_spec.jpg",
+      "source_relative_path": "baked_textures/tank_sphere_holder_spec.jpg",
+      "file_exists_relative_to_blend": false
+    },
+    {
+      "name": "vent.JPG.001",
+      "dimensions": [
+        272,
+        262
+      ],
+      "packed": false,
+      "source_filename": "vent.JPG",
+      "source_relative_path": "vent/vent.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "vent_metallic.png",
+      "dimensions": [
+        272,
+        262
+      ],
+      "packed": false,
+      "source_filename": "vent_metallic.png",
+      "source_relative_path": "vent/vent_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "vent_norm.JPG.001",
+      "dimensions": [
+        272,
+        262
+      ],
+      "packed": false,
+      "source_filename": "vent_norm.JPG",
+      "source_relative_path": "vent/vent_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "vent_roughness.png",
+      "dimensions": [
+        272,
+        262
+      ],
+      "packed": false,
+      "source_filename": "vent_roughness.png",
+      "source_relative_path": "vent/vent_roughness.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_1.JPG.001",
+      "dimensions": [
+        1304,
+        1688
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_1.JPG",
+      "source_relative_path": "wall_thing_1/wall_thing_1.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_1_norm.JPG.001",
+      "dimensions": [
+        1304,
+        1688
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_1_norm.JPG",
+      "source_relative_path": "wall_thing_1/wall_thing_1_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_2.JPG",
+      "dimensions": [
+        624,
+        1224
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_2.JPG",
+      "source_relative_path": "wall_thing_2/wall_thing_2.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_2_metallic.png",
+      "dimensions": [
+        624,
+        1224
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_2_metallic.png",
+      "source_relative_path": "wall_thing_2/wall_thing_2_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_2_norm.JPG",
+      "dimensions": [
+        624,
+        1224
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_2_norm.JPG",
+      "source_relative_path": "wall_thing_2/wall_thing_2_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_3.JPG",
+      "dimensions": [
+        1384,
+        1276
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_3.JPG",
+      "source_relative_path": "wall_thing_3/wall_thing_3.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_3_metallic.png",
+      "dimensions": [
+        1384,
+        1276
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_3_metallic.png",
+      "source_relative_path": "wall_thing_3/wall_thing_3_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_3_norm.JPG.001",
+      "dimensions": [
+        1384,
+        1276
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_3_norm.JPG",
+      "source_relative_path": "wall_thing_3/wall_thing_3_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_4.JPG.001",
+      "dimensions": [
+        2304,
+        744
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_4.JPG",
+      "source_relative_path": "wall_thing_4/wall_thing_4.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_4_metallic.png",
+      "dimensions": [
+        2304,
+        744
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_4_metallic.png",
+      "source_relative_path": "wall_thing_4/wall_thing_4_metallic.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_4_norm.JPG.001",
+      "dimensions": [
+        2304,
+        744
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_4_norm.JPG",
+      "source_relative_path": "wall_thing_4/wall_thing_4_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_5.JPG",
+      "dimensions": [
+        912,
+        1536
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_5.JPG",
+      "source_relative_path": "wall_thing_5/wall_thing_5.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wall_thing_5_norm.JPG.001",
+      "dimensions": [
+        912,
+        1536
+      ],
+      "packed": false,
+      "source_filename": "wall_thing_5_norm.JPG",
+      "source_relative_path": "wall_thing_5/wall_thing_5_norm.JPG",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wire.png.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "wire.png",
+      "source_relative_path": "wire/wire.png",
+      "file_exists_relative_to_blend": true
+    },
+    {
+      "name": "wire_norm.jpg.001",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "packed": false,
+      "source_filename": "wire_norm.jpg",
+      "source_relative_path": "wire/wire_norm.jpg",
+      "file_exists_relative_to_blend": true
+    }
+  ]
+}

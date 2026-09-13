@@ -1,0 +1,14 @@
+{
+  "scene": "option-c-bow-bear.blend",
+  "sha256": "4b0782f808ecf53dc7d8490dce458bf4e50bc151f9d12bffa42b1994184518a5",
+  "resolution": [
+    768,
+    432
+  ],
+  "fps": 12,
+  "source_fps": 12.0,
+  "source_frame_start": 1,
+  "source_frame_end": 96,
+  "engine": "EEVEE",
+  "samples": 8
+}

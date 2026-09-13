@@ -1,0 +1,112 @@
+{
+  "status": "asset and camera staging study, not a finished cinematic",
+  "scene": "forest-v8-layout.blend",
+  "source_scene_unchanged": true,
+  "source_sha256": "f40b3f5d7a6f2d12dc6a08b76598cf0bfe7344cda6052b0259c0e3e817cdd1d4",
+  "fps": 24,
+  "frames": 288,
+  "native_motion": "Original V7 entrance action, static forest translation only; native scale and timing unchanged",
+  "assets": [
+    {
+      "asset": "fern",
+      "path": "assets/v8/forest/fern_02/fern_02_2k.gltf",
+      "bounds_m": [
+        [
+          -0.5281425714492798,
+          -1.3021531105041504,
+          -0.030510280281305313
+        ],
+        [
+          1.4443871974945068,
+          0.421874463558197,
+          0.39718443155288696
+        ]
+      ],
+      "mesh_vertices": 4337
+    },
+    {
+      "asset": "moss",
+      "path": "assets/v8/forest/rock_moss_set_01/rock_moss_set_01_2k.gltf",
+      "bounds_m": [
+        [
+          -3.9140210151672363,
+          -3.124943256378174,
+          -0.6609705686569214
+        ],
+        [
+          4.090582847595215,
+          3.823821544647217,
+          1.1073492765426636
+        ]
+      ],
+      "mesh_vertices": 33988
+    },
+    {
+      "asset": "trunk",
+      "path": "assets/v8/forest/dead_tree_trunk/dead_tree_trunk_2k.gltf",
+      "bounds_m": [
+        [
+          -1.5391005277633667,
+          -0.10672463476657867,
+          -0.02773353084921837
+        ],
+        [
+          1.5119144916534424,
+          0.17080287635326385,
+          0.2626980245113373
+        ]
+      ],
+      "mesh_vertices": 52593
+    },
+    {
+      "asset": "roots",
+      "path": "assets/v8/forest/root_cluster_01/root_cluster_01_2k.gltf",
+      "bounds_m": [
+        [
+          -2.0644140243530273,
+          -1.6890140771865845,
+          -0.04539387673139572
+        ],
+        [
+          2.0582945346832275,
+          0.9937626123428345,
+          1.4638862609863281
+        ]
+      ],
+      "mesh_vertices": 117551
+    },
+    {
+      "asset": "cliff",
+      "path": "assets/model/rock_face_01/rock_face_01_2k.gltf",
+      "bounds_m": [
+        [
+          -2.133601427078247,
+          -0.36125504970550537,
+          -0.03435921296477318
+        ],
+        [
+          2.8199098110198975,
+          3.466048240661621,
+          3.5296897888183594
+        ]
+      ],
+      "mesh_vertices": 11106
+    },
+    {
+      "asset": "fir",
+      "path": "assets/v8/forest/fir_tree_01/fir_tree_01_2k.blend",
+      "source_objects": [
+        "fir_tree_01_b_LOD1",
+        "fir_tree_01_c_LOD1"
+      ],
+      "instances": 72
+    }
+  ],
+  "heavy_render_started": false,
+  "pending_actions": [
+    "Combat selection and retargeting",
+    "Forest-to-airlock final crossing",
+    "Forest-specific gaze and reaction",
+    "Wind and sound"
+  ]
+}

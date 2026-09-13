@@ -1,0 +1,1115 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        
+
+        <title>Realistic Animated Bear 3D Model - Download Free 3D model by WildMesh 3D [bffc3c8] - Sketchfab</title>
+
+        
+
+    
+    
+    
+
+    <meta property="og:site_name" content="Sketchfab">
+    
+        <meta property="fb:app_id" content="1418631828415333">
+    
+
+    <meta property="twitter:site" content="@sketchfab">
+    <meta property="twitter:domain" content="https://sketchfab.com/">
+
+
+    <meta name="p:domain_verify" content="af528e3df5f766ca012f5e065c7cb812">
+
+    
+        <meta property="twitter:card" content="player">
+    
+
+    
+        
+    
+
+    
+        <meta property="twitter:title" content="Realistic Animated Bear 3D Model - Download Free 3D model by WildMesh 3D - Sketchfab">
+        <meta property="og:title" content="Realistic Animated Bear 3D Model - Download Free 3D model by WildMesh 3D - Sketchfab">
+    
+
+    
+        <meta property="og:type" content="video.other">
+    
+
+    
+        <meta property="twitter:description" content="🔗DOWNLOAD THE ULTIMATE 3D ANIMAL PACK +100 ANIMALS 80% OFF
+This model is now free because it is an older, outdated version and contains known rigging problems.
+
+Feel free to download it, modify it, use it in personal or commercial projects, or do whatever you want with it. No worries — enjoy it! ❤️
+
+If you find it useful and would like a cleaner, updated version, consider checking out the 2.0 models on Patreon.
+
+Get 100+ Updated Game-Ready Animal Models on Patreon
+
+The Patreon collection includes:
+
+✅ Updated 2.0 versions
+✅ Improved rigs &amp;amp; cleaner files
+✅ Game-ready FBX / OBJ / BLEND formats
+✅ Optimized for Unity &amp;amp; Unreal
+✅ Realistic &amp;amp; stylized animals
+✅ 100+ high-quality animal models
+
+If this free model helps your project, supporting the project through Patreon would mean a lot. Thanks and have fun creating! 🙏">
+        <meta property="og:description" content="🔗DOWNLOAD THE ULTIMATE 3D ANIMAL PACK +100 ANIMALS 80% OFF
+This model is now free because it is an older, outdated version and contains known rigging problems.
+
+Feel free to download it, modify it, use it in personal or commercial projects, or do whatever you want with it. No worries — enjoy it! ❤️
+
+If you find it useful and would like a cleaner, updated version, consider checking out the 2.0 models on Patreon.
+
+Get 100+ Updated Game-Ready Animal Models on Patreon
+
+The Patreon collection includes:
+
+✅ Updated 2.0 versions
+✅ Improved rigs &amp;amp; cleaner files
+✅ Game-ready FBX / OBJ / BLEND formats
+✅ Optimized for Unity &amp;amp; Unreal
+✅ Realistic &amp;amp; stylized animals
+✅ 100+ high-quality animal models
+
+If this free model helps your project, supporting the project through Patreon would mean a lot. Thanks and have fun creating! 🙏">
+    
+
+    
+        <meta property="twitter:image" content="https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/4a1f31e4a26748368333b9b1b738848d.jpeg">
+        <meta property="og:image" content="https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/4a1f31e4a26748368333b9b1b738848d.jpeg">
+        <meta property="og:image:width" content="1024">
+        <meta property="og:image:height" content="768">
+    
+
+    
+        <link rel="alternate" type="application/json+oembed" href="https://sketchfab.com/oembed?url=https%3A%2F%2Fsketchfab.com%2F3d-models%2Frealistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1" title="Realistic Animated Bear 3D Model - Download Free 3D model by WildMesh 3D - Sketchfab">
+    
+
+    
+        <meta property="og:url" content="https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/embed?autostart=1">
+        <meta property="og:video:type" content="text/html">
+        <meta property="og:video:url" content="https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/embed?autostart=1">
+        <meta property="og:video:secure_url" content="https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/embed?autostart=1">
+        <meta property="og:video:width" content="800">
+        <meta property="og:video:height" content="600">
+
+        <meta name="twitter:player" content="https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/embed?autostart=1">
+        <meta name="twitter:player:stream:content_type" content="text/html">
+        <meta name="twitter:player:width" content="800">
+        <meta name="twitter:player:height" content="600">
+
+    
+
+
+        
+
+    
+
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    
+         <meta name="theme-color" content="#1CAAD9">
+    
+
+
+        
+
+    <meta name="description" content="🔗DOWNLOAD THE ULTIMATE 3D ANIMAL PACK +100 ANIMALS 80% OFF
+This model is now free because it is an older, outdated version and contains known rigging problems.
+
+Feel free to download it, modify it, use it in personal or commercial projects, or do whatever you want with it. No worries — enjoy it! ❤️
+
+If you find it useful and would like a cleaner, updated version, consider checking out the 2.0 models on Patreon.
+
+Get 100+ Updated Game-Ready Animal Models on Patreon
+
+The Patreon collection includes:
+
+✅ Updated 2.0 versions
+✅ Improved rigs &amp;amp; cleaner files
+✅ Game-ready FBX / OBJ / BLEND formats
+✅ Optimized for Unity &amp;amp; Unreal
+✅ Realistic &amp;amp; stylized animals
+✅ 100+ high-quality animal models
+
+If this free model helps your project, supporting the project through Patreon would mean a lot. Thanks and have fun creating! 🙏">
+
+    
+        
+            
+            
+            
+            
+            
+            <link rel="canonical" href="https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1">
+        
+    
+        
+    
+        
+    
+
+    
+
+
+        
+
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+
+    
+        
+            <link rel="dns-prefetch" href="https://static.sketchfab.com">
+        
+            <link rel="dns-prefetch" href="https://media.sketchfab.com">
+        
+    
+
+
+
+        
+        
+    
+        <link rel="preload" crossorigin="anonymous"  href="https://static.sketchfab.com/static/builds/web/dist/c0ce17f68a339056fd523c6b919ef05b-v2.css" as="style">
+        <link rel="stylesheet" crossorigin="anonymous"  href="https://static.sketchfab.com/static/builds/web/dist/c0ce17f68a339056fd523c6b919ef05b-v2.css" />
+    
+        <link rel="preload" crossorigin="anonymous"  href="https://static.sketchfab.com/static/builds/web/dist/6e6f5b3f04f4bd4524f97a28b6151ecb-v2.css" as="style">
+        <link rel="stylesheet" crossorigin="anonymous"  href="https://static.sketchfab.com/static/builds/web/dist/6e6f5b3f04f4bd4524f97a28b6151ecb-v2.css" />
+    
+    
+    <script>/**/</script>
+
+        
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/e59d7f2ff579bbf9d20771b3d4d8c6a7-v2.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/2f53b6d625305dad5f61e53c5b3d8125-v2.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/78e139226ad8cbdeabd312db4c051db9-v2.png">
+    <link rel="shortcut icon" type="image/png" sizes="192x192" href="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/23f3318c19afda98ef952231b4b450c7-v2.png">
+    <link rel="mask-icon" href="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/c0cf7f7fd54262d82d0319488e936800-v2.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+
+
+    </head>
+
+    <body class="page-embed">
+        
+        
+    
+    
+    <div class="dom-data-container" style="display:none;" id="js-dom-data-webpack-public-path"><!--https://static.sketchfab.com/static/builds/web/dist/--></div>
+
+    
+    
+    <div class="dom-data-container" style="display:none;" id="js-dom-data-sketchfab-runtime"><!--{"version": "0.13.0", "buildMode": "dist", "staticHost": "https://static.sketchfab.com", "env": "prod", "readOnlyMode": false, "facebookAppId": "1418631828415333", "useSentry": true, "publicPath": "https://static.sketchfab.com/static/builds/web/dist/", "singleDomainPublicPath": "https://sketchfab.com/static/builds/web/dist/", "apple": {"clientId": "com.sketchfab.sketchfab-login", "scopes": ["email", "name"], "callback": "https://sketchfab.com/social/complete/apple-id/"}, "getstream": {"apiKey": "q7jc6dskhpfg", "appId": "24012", "location:": "dublin"}, "paypal": {"clientId": "AftiRr46AHDq3zcm1Sp8t9ZXbIOXrsq_9Z1ueU_18QAWn9PUrUQ2O-MkYl0RviauC5cVoNTGPfqq5vQ9", "environment": "production", "subscrUrl": "https://www.paypal.com/cgi-bin/webscr"}, "routes": {}, "userPasswordMinLength": 10, "hosts": {"discord": "https://discord.gg/VzNxX6D", "communityBlog": "https://sketchfab.com/blogs/community", "enterpriseBlog": "https://sketchfab.com/blogs/enterprise", "fab": "https://www.fab.com"}, "reportContentUrl": "https://safety.epicgames.com/policies/reporting-misconduct/submit-report", "sentryDSN": "https://ba5fe81e595a4e73a5e37be93623537d@sentry.io/132069"}--></div>
+
+    
+    
+    
+    <div class="dom-data-container" style="display:none;" id="js-dom-data-help-center"><!--{"migrated": true}--></div>
+
+
+
+        
+        
+
+    
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+            
+        
+    
+        
+        
+        
+    
+    
+
+    
+    <div class="dom-data-container" style="display:none;" id="js-dom-data-prefetched-data"><!--{&#34;/i/users/me&#34;:{&#34;isAnonymous&#34;: true, &#34;features&#34;: [&#34;ff_analytics_package&#34;, &#34;ff_validate_forbidden_words&#34;, &#34;ff_process_texture_with_protection&#34;, &#34;ff_editor_console&#34;, &#34;ff_elasticsearch_browse&#34;, &#34;ff_display_inspector_watermarking&#34;, &#34;ff_useonevieweratatime&#34;, &#34;ff_collection_thumbnails&#34;, &#34;ff_ue_plugin&#34;, &#34;ff_process_model_with_protection&#34;, &#34;ff_glb_archive&#34;, &#34;ff_backfill_from_replica&#34;, &#34;ff_debug_deleted_modelversion&#34;, &#34;ff_onetrust&#34;, &#34;ff_elasticsearch_other&#34;, &#34;ff_paypal_shipping_address&#34;, &#34;ff_eg_analytics&#34;, &#34;ff_fab_public_release&#34;, &#34;ff_display_texture_with_protection&#34;, &#34;ff_newsfeed_v2&#34;, &#34;ff_eg_log_events&#34;, &#34;ff_data_handling&#34;, &#34;ff_epic_auth_lockdown&#34;, &#34;ff_epic_only_auth_new_users&#34;, &#34;ff_artstation_pro_offer&#34;, &#34;ff_plan_renewal_email_monthly&#34;, &#34;ff_settings_notifications&#34;, &#34;ff_moderation_delete_objects&#34;, &#34;ff_promotional_content&#34;, &#34;ff_fab_disconnected&#34;, &#34;ff_dsa_sanction_email&#34;, &#34;ff_help_center_migration&#34;, &#34;ff_diplay_model_with_protection&#34;, &#34;ff_protection_use_derived_bytecode&#34;], &#34;allowsRestricted&#34;: false},&#34;/i/categories&#34;:{&#34;results&#34;: [{&#34;uid&#34;: &#34;ed9e048550b2478eb1ab2faaba192832&#34;, &#34;name&#34;: &#34;Animals &amp; Pets&#34;, &#34;slug&#34;: &#34;animals-pets&#34;}, {&#34;uid&#34;: &#34;f825c721edb541dbbc8cd210123616c7&#34;, &#34;name&#34;: &#34;Architecture&#34;, &#34;slug&#34;: &#34;architecture&#34;}, {&#34;uid&#34;: &#34;e56c5de1e9344241909de76c5886f551&#34;, &#34;name&#34;: &#34;Art &amp; Abstract&#34;, &#34;slug&#34;: &#34;art-abstract&#34;}, {&#34;uid&#34;: &#34;22a2f677efad4d7bbca5ad45f9b5868e&#34;, &#34;name&#34;: &#34;Cars &amp; Vehicles&#34;, &#34;slug&#34;: &#34;cars-vehicles&#34;}, {&#34;uid&#34;: &#34;2d643ff5ed03405b9c34ecdffff9d8d8&#34;, &#34;name&#34;: &#34;Characters &amp; Creatures&#34;, &#34;slug&#34;: &#34;characters-creatures&#34;}, {&#34;uid&#34;: &#34;86f23935367b4a1f9647c8a20e03d716&#34;, &#34;name&#34;: &#34;Cultural Heritage &amp; History&#34;, &#34;slug&#34;: &#34;cultural-heritage-history&#34;}, {&#34;uid&#34;: &#34;d7cebaeca8604ebab1480e413404b679&#34;, &#34;name&#34;: &#34;Electronics &amp; Gadgets&#34;, &#34;slug&#34;: &#34;electronics-gadgets&#34;}, {&#34;uid&#34;: &#34;81bfbbfa2c9b4f218eed8609e3cf7aa6&#34;, &#34;name&#34;: &#34;Fashion &amp; Style&#34;, &#34;slug&#34;: &#34;fashion-style&#34;}, {&#34;uid&#34;: &#34;b3631aefd82b4eeba37aa5fc0b73b05a&#34;, &#34;name&#34;: &#34;Food &amp; Drink&#34;, &#34;slug&#34;: &#34;food-drink&#34;}, {&#34;uid&#34;: &#34;606f202e5a3c4e62bf9aab1cd9f63e1b&#34;, &#34;name&#34;: &#34;Furniture &amp; Home&#34;, &#34;slug&#34;: &#34;furniture-home&#34;}, {&#34;uid&#34;: &#34;357487fbb30a44ee8a0adf9b24829919&#34;, &#34;name&#34;: &#34;Music&#34;, &#34;slug&#34;: &#34;music&#34;}, {&#34;uid&#34;: &#34;1a99e2b67fc84de0b3ea0d3925208a04&#34;, &#34;name&#34;: &#34;Nature &amp; Plants&#34;, &#34;slug&#34;: &#34;nature-plants&#34;}, {&#34;uid&#34;: &#34;34edc263260f43e693ed527495b6d9a4&#34;, &#34;name&#34;: &#34;News &amp; Politics&#34;, &#34;slug&#34;: &#34;news-politics&#34;}, {&#34;uid&#34;: &#34;93e6d27da62149c6b963039835f45997&#34;, &#34;name&#34;: &#34;People&#34;, &#34;slug&#34;: &#34;people&#34;}, {&#34;uid&#34;: &#34;c51b29706d4e4e93a82e5eea7cbe6f91&#34;, &#34;name&#34;: &#34;Places &amp; Travel&#34;, &#34;slug&#34;: &#34;places-travel&#34;}, {&#34;uid&#34;: &#34;17d20ca7b35243d4a45171838b50704c&#34;, &#34;name&#34;: &#34;Science &amp; Technology&#34;, &#34;slug&#34;: &#34;science-technology&#34;}, {&#34;uid&#34;: &#34;ac8a0065d9e34fca8a3ffa9c6db39bff&#34;, &#34;name&#34;: &#34;Sports &amp; Fitness&#34;, &#34;slug&#34;: &#34;sports-fitness&#34;}, {&#34;uid&#34;: &#34;3badf36bd9f549bdba295334d75e04d3&#34;, &#34;name&#34;: &#34;Weapons &amp; Military&#34;, &#34;slug&#34;: &#34;weapons-military&#34;}], &#34;count&#34;: 18},&#34;displayStatus&#34;:&#34;ok&#34;,&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1&#34;:{&#34;uid&#34;: &#34;bffc3c87d2d148ff8533e1cc8a11c9f1&#34;, &#34;user&#34;: {&#34;account&#34;: &#34;basic&#34;, &#34;avatars&#34;: {&#34;uid&#34;: &#34;cd07f6548e064ceaab7879210f0ba8e8&#34;, &#34;images&#34;: [{&#34;width&#34;: 32, &#34;height&#34;: 32, &#34;size&#34;: 2174, &#34;url&#34;: &#34;https://media.sketchfab.com/avatars/cd07f6548e064ceaab7879210f0ba8e8/d4a2a4e28c7d4e2c8c50892b3e12342e.png&#34;}, {&#34;width&#34;: 48, &#34;height&#34;: 48, &#34;size&#34;: 4289, &#34;url&#34;: &#34;https://media.sketchfab.com/avatars/cd07f6548e064ceaab7879210f0ba8e8/3d0431c99b884d709b4896bf6725fa96.png&#34;}, {&#34;width&#34;: 90, &#34;height&#34;: 90, &#34;size&#34;: 12363, &#34;url&#34;: &#34;https://media.sketchfab.com/avatars/cd07f6548e064ceaab7879210f0ba8e8/c832ee79a70e403ba2373f4d83eecf4a.png&#34;}, {&#34;width&#34;: 100, &#34;height&#34;: 100, &#34;size&#34;: 14739, &#34;url&#34;: &#34;https://media.sketchfab.com/avatars/cd07f6548e064ceaab7879210f0ba8e8/32416b0ac2804edf90a1da80ab9a8427.png&#34;}]}, &#34;displayName&#34;: &#34;WildMesh 3D&#34;, &#34;isAiRestricted&#34;: false, &#34;traderSettings&#34;: {&#34;isTrader&#34;: null, &#34;isVerifiedTrader&#34;: false}, &#34;planDetail&#34;: null, &#34;profileUrl&#34;: &#34;https://sketchfab.com/WildMesh_3D&#34;, &#34;uid&#34;: &#34;1dd1873cac4a4be2bf72479d61ba97d0&#34;, &#34;username&#34;: &#34;WildMesh_3D&#34;}, &#34;name&#34;: &#34;Realistic Animated Bear 3D Model&#34;, &#34;description&#34;: &#34;# [\ud83d\udd17DOWNLOAD THE ULTIMATE 3D ANIMAL PACK +100 ANIMALS 80% OFF](https://www.patreon.com/wildmesh/shop)\n\nThis model is now **free** because it is an older, outdated version and contains known rigging problems.\n\nFeel free to **download it, modify it, use it in personal or commercial projects, or do whatever you want with it.** No worries \u2014 enjoy it! \u2764\ufe0f\n\nIf you find it useful and would like a cleaner, updated version, consider checking out the **2.0 models on [Patreon](http://www.patreon.com/wildmesh/shop)**.\n\n[Get 100+ Updated Game-Ready Animal Models on Patreon](http://www.patreon.com/wildmesh/shop)\n\nThe Patreon collection includes:\n\n\u2705 Updated 2.0 versions\n\u2705 Improved rigs &amp; cleaner files\n\u2705 Game-ready FBX / OBJ / BLEND formats\n\u2705 Optimized for Unity &amp; Unreal\n\u2705 Realistic &amp; stylized animals\n\u2705 100+ high-quality animal models\n\nIf this free model helps your project, supporting the project through Patreon would mean a lot. Thanks and have fun creating! \ud83d\ude4f&#34;, &#34;thumbnails&#34;: {&#34;uid&#34;: &#34;08fd72b0a9c44407b47e25522214c803&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;b6df613404bb44488fd29ae505cce558&#34;, &#34;width&#34;: 1920, &#34;height&#34;: 1080, &#34;size&#34;: 169958, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/87b3ffc411ab4046abe45261598d4a03.jpeg&#34;}, {&#34;uid&#34;: &#34;f4ac9d92667d419598bc397b48f5a82a&#34;, &#34;width&#34;: 1024, &#34;height&#34;: 576, &#34;size&#34;: 51675, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/0c0a6471b5f94aa59ba50a303ad6db9e.jpeg&#34;}, {&#34;uid&#34;: &#34;bdefcef80a7144408c90876ef84b921d&#34;, &#34;width&#34;: 720, &#34;height&#34;: 405, &#34;size&#34;: 27711, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/4a1f31e4a26748368333b9b1b738848d.jpeg&#34;}, {&#34;uid&#34;: &#34;df8f1edfb99a4c7d829246a112638b20&#34;, &#34;width&#34;: 256, &#34;height&#34;: 144, &#34;size&#34;: 4561, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/28df41648a4a48838cb55565ab046cc3.jpeg&#34;}, {&#34;uid&#34;: &#34;b4c7b1fa180e4d0e9719dc6a411b67c4&#34;, &#34;width&#34;: 64, &#34;height&#34;: 36, &#34;size&#34;: 1053, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/1a6ae9e274374852b07b508ec87e6126.jpeg&#34;}]}, &#34;viewCount&#34;: 22102, &#34;likeCount&#34;: 407, &#34;animationCount&#34;: 81, &#34;vertexCount&#34;: 3799, &#34;faceCount&#34;: 7508, &#34;staffpickedAt&#34;: null, &#34;publishedAt&#34;: &#34;2025-03-10T21:20:39.906805&#34;, &#34;viewerUrl&#34;: &#34;https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1&#34;, &#34;embedUrl&#34;: &#34;https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/embed&#34;, &#34;editorUrl&#34;: &#34;https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/edit&#34;, &#34;license&#34;: {&#34;uid&#34;: &#34;322a749bcfa841b29dff1e8a1bb74b0b&#34;, &#34;label&#34;: &#34;CC Attribution&#34;, &#34;fullname&#34;: &#34;Creative Commons Attribution&#34;, &#34;slug&#34;: &#34;by&#34;, &#34;summary&#34;: &#34;Share &amp; adapt with credit&#34;, &#34;requirements&#34;: &#34;Author must be credited. Commercial use is allowed.&#34;, &#34;url&#34;: &#34;http://creativecommons.org/licenses/by/4.0/&#34;, &#34;free&#34;: true, &#34;isCc&#34;: true, &#34;needsAttribution&#34;: true, &#34;ccClauses&#34;: [&#34;Attribution&#34;]}, &#34;isPublished&#34;: true, &#34;downloadType&#34;: &#34;free&#34;, &#34;isInspectable&#34;: true, &#34;isDeleted&#34;: false, &#34;processingStatus&#34;: 2, &#34;processedAt&#34;: &#34;2025-03-10T21:14:50.586247&#34;, &#34;status&#34;: {&#34;processing&#34;: &#34;SUCCEEDED&#34;}, &#34;isRestricted&#34;: false, &#34;files&#34;: [{&#34;uid&#34;: &#34;02da88082fcf445ab550e8a76e63f112&#34;, &#34;flag&#34;: 0, &#34;osgjsUrl&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/files/02da88082fcf445ab550e8a76e63f112/file.binz&#34;, &#34;modelSize&#34;: 105919, &#34;osgjsSize&#34;: 488851, &#34;wireframeSize&#34;: 34997, &#34;p&#34;: [{&#34;v&#34;: 1, &#34;b&#34;: &#34;mXriPxKUIn+ubsU/WVCY8J9w3hhibVVHMh3ixcKIMJfEKcu2ASpqbrsjmrQzRl6oUXBzxaoZMKq+0XFA8ZtbbvXeUkqZAi4AKwAzABt3tOp0g5ttOt6w3cQD7p/fkNUFbD9nusTvjM+AY6KhVVoytJbwSIFoloGTlw78nyi69Pf/7FxIvstL3lHq/OFlKLt+glfq6KQlYQtZXW7Ywo3MDmVbo70IoJiCjorAnJUKpDkrEZMnVzDakyYkHGKJTgnNEkWk1qEjq3PbJzWi0J/UBoy26UH+VdUx+QCp8VKzQnMGzfMEGo3vQjKtjWpavMzU1LIrHW/ZqvsQaGGr7Ub1pocCAeg0KhYokCggSx5wCJEGthnEO+uw4VkgDKOn4e41N7NO+VRiky0y8c+XWv52YaRoIbcdmNW3eMED&#34;, &#34;d&#34;: true}]}], &#34;options&#34;: {&#34;scene&#34;: {&#34;postProcess&#34;: {&#34;dof&#34;: {&#34;enable&#34;: false, &#34;blurFar&#34;: 0.5, &#34;blurNear&#34;: 0.5, &#34;focusPoint&#34;: [0, 0, 0]}, &#34;ssr&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;taa&#34;: {&#34;enable&#34;: true, &#34;transparent&#34;: true}, &#34;ssao&#34;: {&#34;bias&#34;: 0.010071171745216368, &#34;enable&#34;: true, &#34;radius&#34;: 0.09054757488807531, &#34;intensity&#34;: 0.6380027739251041}, &#34;bloom&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.5, &#34;radius&#34;: 0.7, &#34;threshold&#34;: 0}, &#34;grain&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.15, &#34;animated&#34;: false}, &#34;enable&#34;: true, &#34;sharpen&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 0.13850388868904145}, &#34;vignette&#34;: {&#34;amount&#34;: 0.475, &#34;enable&#34;: false, &#34;hardness&#34;: 0.725}, &#34;toneMapping&#34;: {&#34;enable&#34;: false, &#34;method&#34;: &#34;default&#34;, &#34;contrast&#34;: 0, &#34;exposure&#34;: 1, &#34;brightness&#34;: 0, &#34;saturation&#34;: 1}, &#34;colorBalance&#34;: {&#34;low&#34;: [0, 0, 0], &#34;mid&#34;: [0, 0, 0], &#34;high&#34;: [0, 0, 0], &#34;enable&#34;: false}, &#34;chromaticAberration&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.05}}, &#34;sssProfiles&#34;: [{&#34;falloff&#34;: [1, 0.37, 0.3], &#34;strength&#34;: [0.48, 0.41, 0.28]}, {&#34;falloff&#34;: [0.5, 0.67, 0.6], &#34;strength&#34;: [0.38, 0.61, 0.68]}, {&#34;falloff&#34;: [0.7, 0.77, 0.3], &#34;strength&#34;: [0.88, 0.61, 0.28]}]}, &#34;lighting&#34;: {&#34;enable&#34;: false, &#34;lights&#34;: [{&#34;type&#34;: &#34;DIRECTION&#34;, &#34;angle&#34;: 45, &#34;color&#34;: [0.7806122448979592, 0.7985214493960848, 1], &#34;enable&#34;: true, &#34;ground&#34;: [0.3, 0.2, 0.2], &#34;matrix&#34;: [-0.9815804500275482, 0.1909922167095499, -0.004668327333101102, 0, 0.13548347102422797, 0.7131126062169096, 0.6878332937084056, 0, 0.13469984856318096, 0.6745312327912614, -0.7258536813891331, 0, 0.2225843652144462, 0.951100008287477, -0.36315988349307804, 1], &#34;falloff&#34;: 0.9630469497954948, &#34;hardness&#34;: 0.5, &#34;intensity&#34;: 0.96, &#34;shadowBias&#34;: 0.005, &#34;castShadows&#34;: false, &#34;intensityGround&#34;: 1, &#34;attachedToCamera&#34;: false}, {&#34;type&#34;: &#34;DIRECTION&#34;, &#34;angle&#34;: 45, &#34;color&#34;: [1, 0.8783319450229073, 0.7091836734693877], &#34;enable&#34;: true, &#34;ground&#34;: [0.3, 0.2, 0.2], &#34;matrix&#34;: [0.7755211495104662, -0.0666602860002539, 0.6277924441503967, 0, 0.2690483737361956, 0.9344846523281437, -0.233133882464682, 0, -0.5711216326246741, 0.3497067926613838, 0.7426474533145686, 0, -0.9147675321464964, 0.42768197251279716, 2.003164458210297, 1], &#34;falloff&#34;: 0.9630469497954948, &#34;hardness&#34;: 0.5, &#34;intensity&#34;: 0.6005382338046572, &#34;shadowBias&#34;: 0.005, &#34;castShadows&#34;: false, &#34;intensityGround&#34;: 1, &#34;attachedToCamera&#34;: false}, {&#34;type&#34;: &#34;DIRECTION&#34;, &#34;angle&#34;: 45, &#34;color&#34;: [0.423469387755102, 0.7352665556018328, 1], &#34;enable&#34;: true, &#34;ground&#34;: [0.9642857142857143, 0.6484128636877489, 0.2607507288629738], &#34;matrix&#34;: [0.6903299131022926, -0.7076363669144057, -0.15064986988498263, 0, -0.011089698239978026, 0.19785137301620165, -0.9801692980238416, 0, 0.7234097246160907, 0.6783108479272498, 0.12873524736872857, 0, 1.1712240883878693, 0.9571904327939345, 1.0139140161998659, 1], &#34;falloff&#34;: 0.9630469497954948, &#34;hardness&#34;: 0.5, &#34;intensity&#34;: 0.12, &#34;shadowBias&#34;: 0.005, &#34;castShadows&#34;: false, &#34;intensityGround&#34;: 0.06, &#34;attachedToCamera&#34;: false}]}, &#34;shading&#34;: {&#34;type&#34;: &#34;lit&#34;, &#34;renderer&#34;: &#34;pbr&#34;, &#34;pointSize&#34;: 2, &#34;vertexColor&#34;: {&#34;enable&#34;: false, &#34;useAlpha&#34;: false, &#34;colorSpace&#34;: &#34;srgb&#34;}}, &#34;orientation&#34;: {&#34;matrix&#34;: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]}, &#34;camera&#34;: {&#34;up&#34;: 1.555089, &#34;fov&#34;: 45, &#34;down&#34;: -1.555089, &#34;left&#34;: -3.141593, &#34;right&#34;: 3.141593, &#34;target&#34;: [0.0644852496772143, -0.25548710115384493, 0.9356475206706416], &#34;zoomIn&#34;: 0, &#34;zoomOut&#34;: 271.9216371208419, &#34;position&#34;: [-2.6865349706937067, -1.2982313724646137, 1.1637438089144339], &#34;nearFarRatio&#34;: 0.005, &#34;usePanConstraints&#34;: true, &#34;useYawConstraints&#34;: false, &#34;useZoomConstraints&#34;: false, &#34;usePitchConstraints&#34;: false, &#34;useCameraConstraints&#34;: false}, &#34;wireframe&#34;: {&#34;color&#34;: &#34;000000FF&#34;, &#34;enable&#34;: false}, &#34;materials&#34;: {&#34;updatedAt&#34;: 17416416083, &#34;13f4bc67-26af-4db4-a610-ee0c3461fdcc&#34;: {&#34;id&#34;: &#34;13f4bc67-26af-4db4-a610-ee0c3461fdcc&#34;, &#34;name&#34;: &#34;Material_002&#34;, &#34;version&#34;: 3, &#34;channels&#34;: {&#34;AOPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;occludeSpecular&#34;: false}, &#34;Sheen&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;colorFactor&#34;: [1, 1, 1]}, &#34;Matcap&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;35c4d334eded44d8a657f390954a32dd&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}, &#34;curvature&#34;: 0, &#34;UVTransforms&#34;: {&#34;scale&#34;: [1, 1], &#34;offset&#34;: [0, 0], &#34;rotation&#34;: 0}}, &#34;BumpMap&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;Opacity&#34;: {&#34;ior&#34;: 1.05, &#34;type&#34;: &#34;alphaBlend&#34;, &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;invert&#34;: false, &#34;thinLayer&#34;: false, &#34;useAlbedoTint&#34;: false, &#34;refractionColor&#34;: [1, 1, 1], &#34;roughnessFactor&#34;: 0, &#34;useNormalOffset&#34;: false, &#34;useMicrosurfaceTexture&#34;: true}, &#34;AlbedoPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;dd8911cdd8cf4fb58f603d62bd1cd0b0&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}, &#34;UVTransforms&#34;: {&#34;scale&#34;: [1, 1], &#34;offset&#34;: [0, 0], &#34;rotation&#34;: 0}}, &#34;AlphaMask&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;invert&#34;: false}, &#34;CavityPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;ClearCoat&#34;: {&#34;tint&#34;: [0.914, 0.914, 0.914], &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;thickness&#34;: 5, &#34;reflectivity&#34;: 0}, &#34;EmitColor&#34;: {&#34;type&#34;: &#34;additive&#34;, &#34;color&#34;: [0, 0, 0], &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;NormalMap&#34;: {&#34;flipY&#34;: true, &#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;Anisotropy&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;flipXY&#34;: true, &#34;direction&#34;: 0}, &#34;DiffusePBR&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;dd8911cdd8cf4fb58f603d62bd1cd0b0&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}, &#34;UVTransforms&#34;: {&#34;scale&#34;: [1, 1], &#34;offset&#34;: [0, 0], &#34;rotation&#34;: 0}}, &#34;SpecularF0&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.5}, &#34;SpecularPBR&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 0}, &#34;DiffuseColor&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;dd8911cdd8cf4fb58f603d62bd1cd0b0&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}, &#34;UVTransforms&#34;: {&#34;scale&#34;: [1, 1], &#34;offset&#34;: [0, 0], &#34;rotation&#34;: 0}}, &#34;Displacement&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0}, &#34;MetalnessPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0}, &#34;RoughnessPBR&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 0.6}, &#34;GlossinessPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.4}, &#34;SpecularColor&#34;: {&#34;color&#34;: [0.5, 0.5, 0.5], &#34;enable&#34;: true, &#34;factor&#34;: 0}, &#34;SheenRoughness&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;DiffuseIntensity&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;SpecularHardness&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 12.5}, &#34;ClearCoatNormalMap&#34;: {&#34;flipY&#34;: true, &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;ClearCoatRoughness&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 0.04}, &#34;SubsurfaceScattering&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.10071171745216367, &#34;profile&#34;: 1}, &#34;SubsurfaceTranslucency&#34;: {&#34;color&#34;: [1, 0.36999999999999983, 0.2999999999999998], &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;thicknessFactor&#34;: 0.10071171745216367}}, &#34;cullFace&#34;: &#34;DISABLE&#34;, &#34;shadeless&#34;: false, &#34;reflection&#34;: 0.1, &#34;stateSetID&#34;: 3}, &#34;17ed464c-72b3-492e-bf5f-500d62bf105f&#34;: {&#34;id&#34;: &#34;17ed464c-72b3-492e-bf5f-500d62bf105f&#34;, &#34;name&#34;: &#34;Material_001&#34;, &#34;version&#34;: 3, &#34;channels&#34;: {&#34;AOPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;occludeSpecular&#34;: false}, &#34;Sheen&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;colorFactor&#34;: [1, 1, 1]}, &#34;Matcap&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;35c4d334eded44d8a657f390954a32dd&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}, &#34;curvature&#34;: 0, &#34;UVTransforms&#34;: {&#34;scale&#34;: [1, 1], &#34;offset&#34;: [0, 0], &#34;rotation&#34;: 0}}, &#34;BumpMap&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;Opacity&#34;: {&#34;ior&#34;: 1.05, &#34;type&#34;: &#34;alphaBlend&#34;, &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;invert&#34;: false, &#34;thinLayer&#34;: false, &#34;useAlbedoTint&#34;: false, &#34;refractionColor&#34;: [1, 1, 1], &#34;roughnessFactor&#34;: 0, &#34;useNormalOffset&#34;: false, &#34;useMicrosurfaceTexture&#34;: true}, &#34;AlbedoPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;b98ec2af3bec46b99b9fb79d78dc3cd6&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;AlphaMask&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;invert&#34;: false}, &#34;CavityPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;ClearCoat&#34;: {&#34;tint&#34;: [0.914, 0.914, 0.914], &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;thickness&#34;: 5, &#34;reflectivity&#34;: 0}, &#34;EmitColor&#34;: {&#34;type&#34;: &#34;additive&#34;, &#34;color&#34;: [0, 0, 0], &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;NormalMap&#34;: {&#34;flipY&#34;: true, &#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;c405cc5f67d2487083c72089e75f5c9b&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;Anisotropy&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;flipXY&#34;: true, &#34;direction&#34;: 0}, &#34;DiffusePBR&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;b98ec2af3bec46b99b9fb79d78dc3cd6&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;SpecularF0&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.5}, &#34;SpecularPBR&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 0}, &#34;DiffuseColor&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;b98ec2af3bec46b99b9fb79d78dc3cd6&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;Displacement&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0}, &#34;MetalnessPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0}, &#34;RoughnessPBR&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 0.6}, &#34;GlossinessPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.4}, &#34;SpecularColor&#34;: {&#34;color&#34;: [0.5, 0.5, 0.5], &#34;enable&#34;: true, &#34;factor&#34;: 0}, &#34;SheenRoughness&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;DiffuseIntensity&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;SpecularHardness&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 12.5}, &#34;ClearCoatNormalMap&#34;: {&#34;flipY&#34;: true, &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;ClearCoatRoughness&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 0.04}, &#34;SubsurfaceScattering&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.10071171745216367, &#34;profile&#34;: 1}, &#34;SubsurfaceTranslucency&#34;: {&#34;color&#34;: [1, 0.37, 0.3], &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;thicknessFactor&#34;: 0.10071171745216367}}, &#34;cullFace&#34;: &#34;DISABLE&#34;, &#34;shadeless&#34;: false, &#34;reflection&#34;: 0.1, &#34;stateSetID&#34;: 2}, &#34;7c90d2d5-d89e-4f30-9cbe-f425d483611f&#34;: {&#34;id&#34;: &#34;7c90d2d5-d89e-4f30-9cbe-f425d483611f&#34;, &#34;name&#34;: &#34;Material_003&#34;, &#34;version&#34;: 3, &#34;channels&#34;: {&#34;AOPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;occludeSpecular&#34;: false}, &#34;Sheen&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;colorFactor&#34;: [1, 1, 1]}, &#34;Matcap&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;35c4d334eded44d8a657f390954a32dd&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}, &#34;curvature&#34;: 0, &#34;UVTransforms&#34;: {&#34;scale&#34;: [1, 1], &#34;offset&#34;: [0, 0], &#34;rotation&#34;: 0}}, &#34;BumpMap&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;Opacity&#34;: {&#34;ior&#34;: 1.05, &#34;type&#34;: &#34;alphaBlend&#34;, &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;invert&#34;: false, &#34;thinLayer&#34;: false, &#34;useAlbedoTint&#34;: false, &#34;refractionColor&#34;: [1, 1, 1], &#34;roughnessFactor&#34;: 0, &#34;useNormalOffset&#34;: false, &#34;useMicrosurfaceTexture&#34;: true}, &#34;AlbedoPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;9f4d0899308a4714b1022f83dc9574cf&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;AlphaMask&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;invert&#34;: false}, &#34;CavityPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;ClearCoat&#34;: {&#34;tint&#34;: [0.914, 0.914, 0.914], &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;thickness&#34;: 5, &#34;reflectivity&#34;: 0}, &#34;EmitColor&#34;: {&#34;type&#34;: &#34;additive&#34;, &#34;color&#34;: [0, 0, 0], &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;NormalMap&#34;: {&#34;flipY&#34;: true, &#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;faec14f76f314b46ae09f28efa68e00b&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;Anisotropy&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;flipXY&#34;: true, &#34;direction&#34;: 0}, &#34;DiffusePBR&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;9f4d0899308a4714b1022f83dc9574cf&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;SpecularF0&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.5}, &#34;SpecularPBR&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 0}, &#34;DiffuseColor&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 1, &#34;texture&#34;: {&#34;uid&#34;: &#34;9f4d0899308a4714b1022f83dc9574cf&#34;, &#34;wrapS&#34;: &#34;REPEAT&#34;, &#34;wrapT&#34;: &#34;REPEAT&#34;, &#34;magFilter&#34;: &#34;LINEAR&#34;, &#34;minFilter&#34;: &#34;LINEAR_MIPMAP_LINEAR&#34;, &#34;texCoordUnit&#34;: 0, &#34;textureTarget&#34;: &#34;TEXTURE_2D&#34;, &#34;internalFormat&#34;: &#34;RGB&#34;}}, &#34;Displacement&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0}, &#34;MetalnessPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0}, &#34;RoughnessPBR&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 0.6}, &#34;GlossinessPBR&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.4}, &#34;SpecularColor&#34;: {&#34;color&#34;: [0.5, 0.5, 0.5], &#34;enable&#34;: true, &#34;factor&#34;: 0}, &#34;SheenRoughness&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 1}, &#34;DiffuseIntensity&#34;: {&#34;color&#34;: [1, 1, 1], &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;SpecularHardness&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 12.5}, &#34;ClearCoatNormalMap&#34;: {&#34;flipY&#34;: true, &#34;enable&#34;: true, &#34;factor&#34;: 1}, &#34;ClearCoatRoughness&#34;: {&#34;enable&#34;: true, &#34;factor&#34;: 0.04}, &#34;SubsurfaceScattering&#34;: {&#34;enable&#34;: false, &#34;factor&#34;: 0.10071171745216367, &#34;profile&#34;: 1}, &#34;SubsurfaceTranslucency&#34;: {&#34;color&#34;: [1, 0.37, 0.3], &#34;enable&#34;: false, &#34;factor&#34;: 1, &#34;thicknessFactor&#34;: 0.10071171745216367}}, &#34;cullFace&#34;: &#34;DISABLE&#34;, &#34;shadeless&#34;: false, &#34;reflection&#34;: 0.1, &#34;stateSetID&#34;: 1}}, &#34;environment&#34;: {&#34;uid&#34;: &#34;df380da788ee444885722735039b0c09&#34;, &#34;blur&#34;: 0.1, &#34;enable&#34;: true, &#34;exposure&#34;: 0.4173724739662895, &#34;rotation&#34;: 2.5542476702870154, &#34;shadowBias&#34;: 0.04283061554654581, &#34;shadowEnable&#34;: true, &#34;lightIntensity&#34;: 3, &#34;backgroundExposure&#34;: 1}, &#34;background&#34;: {&#34;uid&#34;: &#34;ac8475e46ec94c169ab5774bb1287624&#34;, &#34;color&#34;: [0.12549019607843137, 0.12549019607843137, 0.12549019607843137], &#34;enable&#34;: &#34;color&#34;}, &#34;version&#34;: 9, &#34;animation&#34;: {&#34;order&#34;: [&#34;362885bc07c147d28a06e3a59298896d&#34;, &#34;3b729b5cbb604da6915c4543a2ef4c87&#34;, &#34;2c42c501b56f4951b1d227b007414085&#34;, &#34;012bf2c5919e476998a52ad69284ecdd&#34;, &#34;c59f3bec92a6405db2c47e6fb7d53b89&#34;, &#34;71b12dae30dd4d2188e5afd4820b2706&#34;, &#34;4d1307e7c5bf413ca3bfb590bb396f46&#34;, &#34;0ad6407533d64148a39d72ebed1c6ae3&#34;, &#34;4e423bee7c074b4fb1765926bde42f16&#34;, &#34;5569c82b55e444e690a967cc5fc16d1a&#34;, &#34;4b89033e07044bf39dae265fc1317141&#34;, &#34;4357d4beafe343aab1f26cdff6fae899&#34;, &#34;d5372417afa54d8d8e574edeea23b6a1&#34;, &#34;3cc049e645b04ad9b4de1dc6d2c8a4ac&#34;, &#34;d8333a7b0e8542168ef85898eacc96e6&#34;, &#34;d929d092ce954732806ab7fa568bd164&#34;, &#34;31a012f77cfc45f6a001f849767dc3c1&#34;, &#34;7d7ba7c867664a65bd5f4c7920d7cc8a&#34;, &#34;150f7dc451a5484c9d162f901f9aebd8&#34;, &#34;12aaf09c420e4b979cca1c69bffbe187&#34;, &#34;bbf1cf10b7f742f1bcd17d4ee16fe58e&#34;, &#34;e7a3ee6d79374c9cb29f612ed8039a64&#34;, &#34;e2d7989936d84403bb425d34c1bcbc52&#34;, &#34;89ab2b7acbed4931a323fe5dd8e05d86&#34;, &#34;42cbb05190274494a846809fa2c031f4&#34;, &#34;81e1de8bfe744fa693c8d810fb083772&#34;, &#34;39555f5e545345f783520984a93cdbc7&#34;, &#34;4693ab02292a4243a0c114d293e3ab7e&#34;, &#34;4064b74854e343f19c48d470a1975696&#34;, &#34;8307229aecbe4c94a0d0f475e0017d56&#34;, &#34;8bc8c9e721e6438db6eac47fb23df836&#34;, &#34;0e9cb4dbd2f74cf1afd827f8c2fdde7a&#34;, &#34;48bee2cef6d146de848a9ed8ed8e40e1&#34;, &#34;3430de795c6a435fa528005274105490&#34;, &#34;94d13fef0951459f81307609aa5e19f6&#34;, &#34;15ed624af3dc4a4b82a2ba24ffec1e04&#34;, &#34;4dbab589324e4325a3e9e75339372670&#34;, &#34;496133f54ea947e391a6b733c0aaf9d4&#34;, &#34;0f357515505a4527b162bf11ccdbe29f&#34;, &#34;aa034548590746b193e396622202ba0e&#34;, &#34;719b7eab4b164d168fa6b9b46ea48939&#34;, &#34;4d816bf657fb4fe1abe7af7f9e57ff8c&#34;, &#34;824a24f292004f0ba12fa4e621e01f72&#34;, &#34;6b56adb5c03744d8b9ff9d16a4e9b8c1&#34;, &#34;22356864742a448a97e116cda86b6ea1&#34;, &#34;2ed72117e7a7467d8973897ec19c117d&#34;, &#34;5e86d21ef13a4f73ae5cd64db9b6b723&#34;, &#34;02e274cf758348a68292616046577925&#34;, &#34;1072f5b14f31440696ae5346f5161034&#34;, &#34;322262439af5461abf13c39705a9a386&#34;, &#34;ca3e61cc1b554799a59ed44bcf360772&#34;, &#34;025fd7fb0c604335aeffdd8f2369dc81&#34;, &#34;aad9c33a4390488d9b7411155eea44c9&#34;, &#34;248a1571ad314b27977d386ac2aeaae3&#34;, &#34;1629a29bd919451d8d10e444b9403242&#34;, &#34;7f52c89fb38b4f9fbece6d37cdcffd93&#34;, &#34;077a23b3c09847dea316fc25ca6612d9&#34;, &#34;6cfd3a48d0f746a8bc2fbb04544caceb&#34;, &#34;05f5be2cff184c45afb8fc499ad25e7d&#34;, &#34;1832568c6abf4045af82ef757efdeaf1&#34;, &#34;4ecd9bbe671545ed8a1f1af687eb1278&#34;, &#34;125f9386c52247888b880334089ab4ec&#34;, &#34;4e68a40252dc4345960eaa8100ae102d&#34;, &#34;ad5386fecacb4ab2810025afa39aee2f&#34;, &#34;bd0f849fb6c84410ad4700666d004025&#34;, &#34;facfee34e8384d708aef764ff665286f&#34;, &#34;248ce14489264f8c981dea8d4b4d5066&#34;, &#34;70954ccd6d8e42debf7128392d07ad8a&#34;, &#34;50ee1dd5b38b443b88ec824794500a88&#34;, &#34;f39be53952c24aa38a1bcda040e5f3f2&#34;, &#34;f0f1ef348f4f4ce89fdbd6944fa7aef7&#34;, &#34;759f6ce9ce164a86961a7ef8f7000676&#34;, &#34;83c5d6b00dd34d06a57ad3f43b2fbae7&#34;, &#34;0757cd889fc844509dbfdf546cc2b040&#34;, &#34;9b1c6da02413425a95c0c05efd90ca54&#34;, &#34;4fa5279758fe46a89c3e239725b3eac2&#34;, &#34;b706ab917f504d37b6ff2eeb375b47a7&#34;, &#34;53814d811694477ba3b04378daa7185f&#34;, &#34;56636b975cb24a268e7e29b15a8560d3&#34;, &#34;501e85cd35c3479f88be0d964cb63030&#34;, &#34;41c1d994261d4fa5b6f80ddae65d1426&#34;], &#34;speed&#34;: 1, &#34;cycleMode&#34;: &#34;one&#34;, &#34;initializeWithRestPose&#34;: false}, &#34;hotspot&#34;: {&#34;visible&#34;: true, &#34;hotspots&#34;: []}, &#34;vr&#34;: {&#34;floorHeight&#34;: -0.3138234898708211, &#34;worldFactor&#34;: 1.0071171745216367, &#34;displayFloor&#34;: true, &#34;initialCamera&#34;: {&#34;position&#34;: [0.005530715784937135, -2.5529123934369817, -0.3138234898708211], &#34;rotation&#34;: [0, 0, 0, 1]}}, &#34;sound&#34;: [], &#34;ground&#34;: {&#34;fade&#34;: 0.25, &#34;scale&#34;: 3.02135152356491, &#34;enable&#34;: true, &#34;opacity&#34;: 1, &#34;position&#34;: [0.005436258335547728, -0.13555697756642093, 0.00962887093813386], &#34;shadowMode&#34;: &#34;ShadowCatcher&#34;, &#34;samplingRange&#34;: 0.6}, &#34;createdAt&#34;: &#34;2025-03-10T21:13:01.628322&#34;, &#34;updatedAt&#34;: &#34;2025-06-06T00:20:12.351462&#34;}, &#34;preferOriginalNormalMap&#34;: false, &#34;inStore&#34;: false, &#34;isDisabled&#34;: false, &#34;displayStatus&#34;: &#34;ok&#34;, &#34;visibility&#34;: &#34;public&#34;, &#34;org&#34;: null, &#34;isArEnabled&#34;: false, &#34;version&#34;: {&#34;uid&#34;: &#34;5d05c09394ab466eb8f04b9a998dad09&#34;, &#34;status&#34;: {&#34;processing&#34;: &#34;SUCCEEDED&#34;}, &#34;isCurrentVersion&#34;: true, &#34;isCandidateVersion&#34;: false, &#34;createdAt&#34;: &#34;2025-03-10T21:13:01.628322&#34;, &#34;processedAt&#34;: &#34;2025-03-10T21:14:50.537631&#34;, &#34;reason&#34;: &#34;upload&#34;}, &#34;soundCount&#34;: 0},&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1/textures?optimized=1&#34;:{&#34;results&#34;: [{&#34;uid&#34;: &#34;9f4d0899308a4714b1022f83dc9574cf&#34;, &#34;name&#34;: &#34;a_c_bear_01_uppr_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;ffd238685c2c4a8fbbd1ceb0a65a49e7&#34;, &#34;size&#34;: 3423, &#34;width&#34;: 64, &#34;height&#34;: 64, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/ffd238685c2c4a8fbbd1ceb0a65a49e7.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:16.833741&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:16.803372&#34;, &#34;pk&#34;: 163308, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;78f1382437c44ef88e452cebefba15b8&#34;, &#34;size&#34;: 11142, &#34;width&#34;: 128, &#34;height&#34;: 128, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/78f1382437c44ef88e452cebefba15b8.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:16.764095&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:16.725908&#34;, &#34;pk&#34;: 163308, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;a410160a4ad641fe89103684a54a75d1&#34;, &#34;size&#34;: 40850, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/a410160a4ad641fe89103684a54a75d1.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:16.676510&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:16.650105&#34;, &#34;pk&#34;: 163308, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;ec9865abb9db40d993062bd4faa0ae15&#34;, &#34;size&#34;: 151101, &#34;width&#34;: 512, &#34;height&#34;: 512, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/ec9865abb9db40d993062bd4faa0ae15.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:16.602073&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:16.541115&#34;, &#34;pk&#34;: 163308, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;726964a858914a689fa3ae9c54e0175a&#34;, &#34;size&#34;: 385521, &#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/726964a858914a689fa3ae9c54e0175a.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 92}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:16.472359&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:16.404895&#34;, &#34;pk&#34;: 163308, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;98814364792449bbabbcaad6b2bea8ed&#34;, &#34;size&#34;: 3566780, &#34;width&#34;: 1536, &#34;height&#34;: 1536, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/98814364792449bbabbcaad6b2bea8ed.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:48.582411&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:48.498330&#34;, &#34;pk&#34;: 163308, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;4a0e09268c424b1e8eaeea34625331e0&#34;, &#34;size&#34;: 1788327, &#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/4a0e09268c424b1e8eaeea34625331e0.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:48.398694&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:48.325228&#34;, &#34;pk&#34;: 163308, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;a3e651cc4f8d46b1b8afd46939d556d1&#34;, &#34;size&#34;: 2395, &#34;width&#34;: 32, &#34;height&#34;: 32, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/9f4d0899308a4714b1022f83dc9574cf/a3e651cc4f8d46b1b8afd46939d556d1.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:48.200124&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:48.142255&#34;, &#34;pk&#34;: null, &#34;pv&#34;: null}], &#34;colorSpace&#34;: &#34;unknown&#34;, &#34;createdAt&#34;: &#34;2025-03-10T21:14:41.969743&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:48.589774&#34;}, {&#34;uid&#34;: &#34;b98ec2af3bec46b99b9fb79d78dc3cd6&#34;, &#34;name&#34;: &#34;a_c_bear_01_head_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;4304573840fa4b0283a23732d11661f8&#34;, &#34;size&#34;: 3537, &#34;width&#34;: 64, &#34;height&#34;: 64, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/4304573840fa4b0283a23732d11661f8.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:17.912537&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:17.885187&#34;, &#34;pk&#34;: 81493, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;a3835491d7044ca7a858b44eb1422578&#34;, &#34;size&#34;: 11034, &#34;width&#34;: 128, &#34;height&#34;: 128, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/a3835491d7044ca7a858b44eb1422578.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:17.847526&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:17.802680&#34;, &#34;pk&#34;: 81493, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;31fca00473274111a071f528352ad99d&#34;, &#34;size&#34;: 37880, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/31fca00473274111a071f528352ad99d.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:17.740840&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:17.697019&#34;, &#34;pk&#34;: 81493, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;2853fac1389647799ff2836d8aa075fe&#34;, &#34;size&#34;: 134661, &#34;width&#34;: 512, &#34;height&#34;: 512, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/2853fac1389647799ff2836d8aa075fe.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:17.656237&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:17.583436&#34;, &#34;pk&#34;: 81493, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;46773a1b8d9b4a17ae91060c19559e2e&#34;, &#34;size&#34;: 352302, &#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/46773a1b8d9b4a17ae91060c19559e2e.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 92}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:17.539708&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:17.454085&#34;, &#34;pk&#34;: 81493, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;b7dd728cef9746f185132aa403802059&#34;, &#34;size&#34;: 3362945, &#34;width&#34;: 1536, &#34;height&#34;: 1536, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/b7dd728cef9746f185132aa403802059.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:38.727634&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:38.640463&#34;, &#34;pk&#34;: 81493, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;2ab75dac00844375b87f716c74d8482d&#34;, &#34;size&#34;: 1662094, &#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/2ab75dac00844375b87f716c74d8482d.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:38.555310&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:38.481891&#34;, &#34;pk&#34;: 81493, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;6bc7fbba87bd405aa0359861cbab8172&#34;, &#34;size&#34;: 2381, &#34;width&#34;: 32, &#34;height&#34;: 32, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/b98ec2af3bec46b99b9fb79d78dc3cd6/6bc7fbba87bd405aa0359861cbab8172.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:38.402236&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:38.368393&#34;, &#34;pk&#34;: null, &#34;pv&#34;: null}], &#34;colorSpace&#34;: &#34;unknown&#34;, &#34;createdAt&#34;: &#34;2025-03-10T21:14:32.782355&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:38.735138&#34;}, {&#34;uid&#34;: &#34;c405cc5f67d2487083c72089e75f5c9b&#34;, &#34;name&#34;: &#34;a_c_bear_01_head_000_c0_000_nm.png&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;1fe564f5c46146328bceeeb5b52d7ccd&#34;, &#34;size&#34;: 3410, &#34;width&#34;: 64, &#34;height&#34;: 64, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/c405cc5f67d2487083c72089e75f5c9b/1fe564f5c46146328bceeeb5b52d7ccd.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;N&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:12.346865&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:12.320832&#34;, &#34;pk&#34;: 57216, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;9a3357601d4f4191a45879d4eb5064d2&#34;, &#34;size&#34;: 11901, &#34;width&#34;: 128, &#34;height&#34;: 128, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/c405cc5f67d2487083c72089e75f5c9b/9a3357601d4f4191a45879d4eb5064d2.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;N&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:12.280522&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:12.255158&#34;, &#34;pk&#34;: 57216, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;84782a1052e9463cb1ad7a27932390a5&#34;, &#34;size&#34;: 47000, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/c405cc5f67d2487083c72089e75f5c9b/84782a1052e9463cb1ad7a27932390a5.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;N&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:12.207454&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:12.174508&#34;, &#34;pk&#34;: 57216, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;281850c4cc104be9a331960a2aed8d1a&#34;, &#34;size&#34;: 84367, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/c405cc5f67d2487083c72089e75f5c9b/281850c4cc104be9a331960a2aed8d1a.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:40.318057&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:40.288354&#34;, &#34;pk&#34;: 57216, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;ce534ef8f2c8445b97ef413aff4857c3&#34;, &#34;size&#34;: 1786, &#34;width&#34;: 32, &#34;height&#34;: 32, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/c405cc5f67d2487083c72089e75f5c9b/ce534ef8f2c8445b97ef413aff4857c3.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:40.245384&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:40.212621&#34;, &#34;pk&#34;: null, &#34;pv&#34;: null}], &#34;colorSpace&#34;: &#34;unknown&#34;, &#34;createdAt&#34;: &#34;2025-03-10T21:14:38.743906&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:40.325182&#34;}, {&#34;uid&#34;: &#34;dd8911cdd8cf4fb58f603d62bd1cd0b0&#34;, &#34;name&#34;: &#34;a_c_bear_01_teef_001_c0_000_ab.png&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;2fce5e90dadc4bf7a86f2729475c627e&#34;, &#34;size&#34;: 3950, &#34;width&#34;: 64, &#34;height&#34;: 64, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/dd8911cdd8cf4fb58f603d62bd1cd0b0/2fce5e90dadc4bf7a86f2729475c627e.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:13.012082&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:12.969677&#34;, &#34;pk&#34;: 122501, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;48ece8996ca843f0a88a5be54e9687a3&#34;, &#34;size&#34;: 12155, &#34;width&#34;: 128, &#34;height&#34;: 128, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/dd8911cdd8cf4fb58f603d62bd1cd0b0/48ece8996ca843f0a88a5be54e9687a3.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:12.922753&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:12.881513&#34;, &#34;pk&#34;: 122501, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;3fb77b3a655f43fd8f5237f3c412315e&#34;, &#34;size&#34;: 36128, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/dd8911cdd8cf4fb58f603d62bd1cd0b0/3fb77b3a655f43fd8f5237f3c412315e.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;RGB&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:12.843515&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:12.812086&#34;, &#34;pk&#34;: 122501, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;298dc6227b4044ea8bcdc730ae6685d6&#34;, &#34;size&#34;: 67030, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/dd8911cdd8cf4fb58f603d62bd1cd0b0/298dc6227b4044ea8bcdc730ae6685d6.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:41.954931&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:41.915002&#34;, &#34;pk&#34;: 122501, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;8bb07e8d484e4c19a471c2fd782ff4b7&#34;, &#34;size&#34;: 2373, &#34;width&#34;: 32, &#34;height&#34;: 32, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/dd8911cdd8cf4fb58f603d62bd1cd0b0/8bb07e8d484e4c19a471c2fd782ff4b7.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:41.868795&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:41.839737&#34;, &#34;pk&#34;: null, &#34;pv&#34;: null}], &#34;colorSpace&#34;: &#34;unknown&#34;, &#34;createdAt&#34;: &#34;2025-03-10T21:14:40.334177&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:41.961549&#34;}, {&#34;uid&#34;: &#34;faec14f76f314b46ae09f28efa68e00b&#34;, &#34;name&#34;: &#34;a_c_bear_01_uppr_000_c0_000_nm.png&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;24695f3fc46040ea8ee7ecfc0a886486&#34;, &#34;size&#34;: 3592, &#34;width&#34;: 64, &#34;height&#34;: 64, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/faec14f76f314b46ae09f28efa68e00b/24695f3fc46040ea8ee7ecfc0a886486.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;N&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:13.549225&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:13.517281&#34;, &#34;pk&#34;: 31974, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;583d73cbe9574fc59e9ca5e71f00698e&#34;, &#34;size&#34;: 13331, &#34;width&#34;: 128, &#34;height&#34;: 128, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/faec14f76f314b46ae09f28efa68e00b/583d73cbe9574fc59e9ca5e71f00698e.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;N&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:13.475919&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:13.426456&#34;, &#34;pk&#34;: 31974, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;80054640e46a4042ad36a7122536d782&#34;, &#34;size&#34;: 53473, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/faec14f76f314b46ae09f28efa68e00b/80054640e46a4042ad36a7122536d782.jpeg&#34;, &#34;options&#34;: {&#34;format&#34;: &#34;N&#34;, &#34;quality&#34;: 95}, &#34;createdAt&#34;: &#34;2025-03-10T21:21:13.369926&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:21:13.328777&#34;, &#34;pk&#34;: 31974, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;e6483bb3ee30495a8489f7d42fbd4a5a&#34;, &#34;size&#34;: 86976, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/faec14f76f314b46ae09f28efa68e00b/e6483bb3ee30495a8489f7d42fbd4a5a.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.178378&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.146776&#34;, &#34;pk&#34;: 31974, &#34;pv&#34;: 1}, {&#34;uid&#34;: &#34;7021ab16f5c949f0845a0b9216ad868c&#34;, &#34;size&#34;: 1844, &#34;width&#34;: 32, &#34;height&#34;: 32, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/textures/faec14f76f314b46ae09f28efa68e00b/7021ab16f5c949f0845a0b9216ad868c.png&#34;, &#34;options&#34;: {}, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.081849&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.045327&#34;, &#34;pk&#34;: null, &#34;pv&#34;: null}], &#34;colorSpace&#34;: &#34;unknown&#34;, &#34;createdAt&#34;: &#34;2025-03-10T21:14:48.598749&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.186064&#34;}], &#34;count&#34;: 5},&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1/animations?optimized=1&#34;:{&#34;results&#34;: [{&#34;uid&#34;: &#34;41c1d994261d4fa5b6f80ddae65d1426&#34;, &#34;name&#34;: &#34;Trans_TurnR&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/41c1d994261d4fa5b6f80ddae65d1426.bin.gz&#34;, &#34;size&#34;: 171104, &#34;duration&#34;: 2.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.533501&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.533510&#34;}, {&#34;uid&#34;: &#34;501e85cd35c3479f88be0d964cb63030&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Walk&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/501e85cd35c3479f88be0d964cb63030.bin.gz&#34;, &#34;size&#34;: 85028, &#34;duration&#34;: 1.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.531159&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.531168&#34;}, {&#34;uid&#34;: &#34;56636b975cb24a268e7e29b15a8560d3&#34;, &#34;name&#34;: &#34;Trans_StandHind_to_Lying&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/56636b975cb24a268e7e29b15a8560d3.bin.gz&#34;, &#34;size&#34;: 253412, &#34;duration&#34;: 3.867, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.527860&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.527868&#34;}, {&#34;uid&#34;: &#34;53814d811694477ba3b04378daa7185f&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Walk_3f&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/53814d811694477ba3b04378daa7185f.bin.gz&#34;, &#34;size&#34;: 93652, &#34;duration&#34;: 1.433, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.523792&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.523804&#34;}, {&#34;uid&#34;: &#34;b706ab917f504d37b6ff2eeb375b47a7&#34;, &#34;name&#34;: &#34;Trans_StandHind_to_Sitting&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/b706ab917f504d37b6ff2eeb375b47a7.bin.gz&#34;, &#34;size&#34;: 280040, &#34;duration&#34;: 4.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.520439&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.520447&#34;}, {&#34;uid&#34;: &#34;4fa5279758fe46a89c3e239725b3eac2&#34;, &#34;name&#34;: &#34;Trans_Stand_to_WalkSlow&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4fa5279758fe46a89c3e239725b3eac2.bin.gz&#34;, &#34;size&#34;: 87024, &#34;duration&#34;: 1.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.516761&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.516769&#34;}, {&#34;uid&#34;: &#34;9b1c6da02413425a95c0c05efd90ca54&#34;, &#34;name&#34;: &#34;Trans_StandHind_to_Stand&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/9b1c6da02413425a95c0c05efd90ca54.bin.gz&#34;, &#34;size&#34;: 210008, &#34;duration&#34;: 3.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.513292&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.513301&#34;}, {&#34;uid&#34;: &#34;0757cd889fc844509dbfdf546cc2b040&#34;, &#34;name&#34;: &#34;Trans_Stand_to_WalkSlow_3f&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/0757cd889fc844509dbfdf546cc2b040.bin.gz&#34;, &#34;size&#34;: 94640, &#34;duration&#34;: 1.433, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.509881&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.509893&#34;}, {&#34;uid&#34;: &#34;83c5d6b00dd34d06a57ad3f43b2fbae7&#34;, &#34;name&#34;: &#34;Trans_TurnL&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/83c5d6b00dd34d06a57ad3f43b2fbae7.bin.gz&#34;, &#34;size&#34;: 173524, &#34;duration&#34;: 2.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.506500&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.506508&#34;}, {&#34;uid&#34;: &#34;759f6ce9ce164a86961a7ef8f7000676&#34;, &#34;name&#34;: &#34;Trans_StandAngry_to_Stand&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/759f6ce9ce164a86961a7ef8f7000676.bin.gz&#34;, &#34;size&#34;: 84228, &#34;duration&#34;: 1.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.501611&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.501620&#34;}, {&#34;uid&#34;: &#34;f0f1ef348f4f4ce89fdbd6944fa7aef7&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Trot_3f&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/f0f1ef348f4f4ce89fdbd6944fa7aef7.bin.gz&#34;, &#34;size&#34;: 88508, &#34;duration&#34;: 1.433, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.498047&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.498056&#34;}, {&#34;uid&#34;: &#34;f39be53952c24aa38a1bcda040e5f3f2&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Trot&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/f39be53952c24aa38a1bcda040e5f3f2.bin.gz&#34;, &#34;size&#34;: 82248, &#34;duration&#34;: 1.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.493989&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.493998&#34;}, {&#34;uid&#34;: &#34;50ee1dd5b38b443b88ec824794500a88&#34;, &#34;name&#34;: &#34;Trans_Stand_to_StandHind&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/50ee1dd5b38b443b88ec824794500a88.bin.gz&#34;, &#34;size&#34;: 192060, &#34;duration&#34;: 3.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.490848&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.490856&#34;}, {&#34;uid&#34;: &#34;70954ccd6d8e42debf7128392d07ad8a&#34;, &#34;name&#34;: &#34;Trans_Stand_to_StandAngry&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/70954ccd6d8e42debf7128392d07ad8a.bin.gz&#34;, &#34;size&#34;: 151164, &#34;duration&#34;: 2.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.488462&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.488471&#34;}, {&#34;uid&#34;: &#34;248ce14489264f8c981dea8d4b4d5066&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Sprint_3f&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/248ce14489264f8c981dea8d4b4d5066.bin.gz&#34;, &#34;size&#34;: 68136, &#34;duration&#34;: 1.1, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.486283&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.486292&#34;}, {&#34;uid&#34;: &#34;facfee34e8384d708aef764ff665286f&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Sitting&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/facfee34e8384d708aef764ff665286f.bin.gz&#34;, &#34;size&#34;: 260512, &#34;duration&#34;: 4.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.482104&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.482112&#34;}, {&#34;uid&#34;: &#34;bd0f849fb6c84410ad4700666d004025&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Sneak&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/bd0f849fb6c84410ad4700666d004025.bin.gz&#34;, &#34;size&#34;: 103428, &#34;duration&#34;: 1.6, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.478463&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.478472&#34;}, {&#34;uid&#34;: &#34;ad5386fecacb4ab2810025afa39aee2f&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Sneak_3f&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/ad5386fecacb4ab2810025afa39aee2f.bin.gz&#34;, &#34;size&#34;: 108968, &#34;duration&#34;: 1.7, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.475210&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.475218&#34;}, {&#34;uid&#34;: &#34;4e68a40252dc4345960eaa8100ae102d&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Sprint&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4e68a40252dc4345960eaa8100ae102d.bin.gz&#34;, &#34;size&#34;: 64816, &#34;duration&#34;: 1.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.472863&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.472872&#34;}, {&#34;uid&#34;: &#34;125f9386c52247888b880334089ab4ec&#34;, &#34;name&#34;: &#34;Trans_Sitting_to_Stand&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/125f9386c52247888b880334089ab4ec.bin.gz&#34;, &#34;size&#34;: 316420, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.469693&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.469701&#34;}, {&#34;uid&#34;: &#34;4ecd9bbe671545ed8a1f1af687eb1278&#34;, &#34;name&#34;: &#34;Trans_Sitting_to_StandHind&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4ecd9bbe671545ed8a1f1af687eb1278.bin.gz&#34;, &#34;size&#34;: 323004, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.466976&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.466984&#34;}, {&#34;uid&#34;: &#34;1832568c6abf4045af82ef757efdeaf1&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Lying&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/1832568c6abf4045af82ef757efdeaf1.bin.gz&#34;, &#34;size&#34;: 193860, &#34;duration&#34;: 3.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.463676&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.463684&#34;}, {&#34;uid&#34;: &#34;05f5be2cff184c45afb8fc499ad25e7d&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Run&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/05f5be2cff184c45afb8fc499ad25e7d.bin.gz&#34;, &#34;size&#34;: 74260, &#34;duration&#34;: 1.133, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.460421&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.460429&#34;}, {&#34;uid&#34;: &#34;6cfd3a48d0f746a8bc2fbb04544caceb&#34;, &#34;name&#34;: &#34;Trans_Stand_to_Run_3f&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/6cfd3a48d0f746a8bc2fbb04544caceb.bin.gz&#34;, &#34;size&#34;: 79068, &#34;duration&#34;: 1.233, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.456721&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.456729&#34;}, {&#34;uid&#34;: &#34;077a23b3c09847dea316fc25ca6612d9&#34;, &#34;name&#34;: &#34;Trans_Sitting_to_Lying&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/077a23b3c09847dea316fc25ca6612d9.bin.gz&#34;, &#34;size&#34;: 253524, &#34;duration&#34;: 3.833, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.453052&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.453060&#34;}, {&#34;uid&#34;: &#34;7f52c89fb38b4f9fbece6d37cdcffd93&#34;, &#34;name&#34;: &#34;Trans_Lying_to_StandHind&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/7f52c89fb38b4f9fbece6d37cdcffd93.bin.gz&#34;, &#34;size&#34;: 301920, &#34;duration&#34;: 4.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.450116&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.450125&#34;}, {&#34;uid&#34;: &#34;1629a29bd919451d8d10e444b9403242&#34;, &#34;name&#34;: &#34;Trans_Lying_to_Stand&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/1629a29bd919451d8d10e444b9403242.bin.gz&#34;, &#34;size&#34;: 261020, &#34;duration&#34;: 4.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.447551&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.447560&#34;}, {&#34;uid&#34;: &#34;248a1571ad314b27977d386ac2aeaae3&#34;, &#34;name&#34;: &#34;Trans_Lying_to_Sitting&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/248a1571ad314b27977d386ac2aeaae3.bin.gz&#34;, &#34;size&#34;: 350580, &#34;duration&#34;: 5.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.443559&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.443567&#34;}, {&#34;uid&#34;: &#34;aad9c33a4390488d9b7411155eea44c9&#34;, &#34;name&#34;: &#34;StandHind_Idle_02&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/aad9c33a4390488d9b7411155eea44c9.bin.gz&#34;, &#34;size&#34;: 319744, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.440389&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.440397&#34;}, {&#34;uid&#34;: &#34;025fd7fb0c604335aeffdd8f2369dc81&#34;, &#34;name&#34;: &#34;StandAngry_Breathing_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/025fd7fb0c604335aeffdd8f2369dc81.bin.gz&#34;, &#34;size&#34;: 262000, &#34;duration&#34;: 4.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.437858&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.437867&#34;}, {&#34;uid&#34;: &#34;ca3e61cc1b554799a59ed44bcf360772&#34;, &#34;name&#34;: &#34;StandAngry_Breathing_02&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/ca3e61cc1b554799a59ed44bcf360772.bin.gz&#34;, &#34;size&#34;: 262112, &#34;duration&#34;: 4.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.434497&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.434505&#34;}, {&#34;uid&#34;: &#34;322262439af5461abf13c39705a9a386&#34;, &#34;name&#34;: &#34;StandHind_Breathing_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/322262439af5461abf13c39705a9a386.bin.gz&#34;, &#34;size&#34;: 242684, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.431005&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.431013&#34;}, {&#34;uid&#34;: &#34;1072f5b14f31440696ae5346f5161034&#34;, &#34;name&#34;: &#34;StandHind_Idle_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/1072f5b14f31440696ae5346f5161034.bin.gz&#34;, &#34;size&#34;: 309820, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.427671&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.427679&#34;}, {&#34;uid&#34;: &#34;02e274cf758348a68292616046577925&#34;, &#34;name&#34;: &#34;SittingSpec_Breathing01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/02e274cf758348a68292616046577925.bin.gz&#34;, &#34;size&#34;: 199268, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.423876&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.423885&#34;}, {&#34;uid&#34;: &#34;5e86d21ef13a4f73ae5cd64db9b6b723&#34;, &#34;name&#34;: &#34;Lying_Idle_02&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/5e86d21ef13a4f73ae5cd64db9b6b723.bin.gz&#34;, &#34;size&#34;: 383564, &#34;duration&#34;: 8.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.419934&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.419942&#34;}, {&#34;uid&#34;: &#34;2ed72117e7a7467d8973897ec19c117d&#34;, &#34;name&#34;: &#34;Sitting_Breathing_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/2ed72117e7a7467d8973897ec19c117d.bin.gz&#34;, &#34;size&#34;: 205732, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.416690&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.416699&#34;}, {&#34;uid&#34;: &#34;22356864742a448a97e116cda86b6ea1&#34;, &#34;name&#34;: &#34;Sitting_Idle_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/22356864742a448a97e116cda86b6ea1.bin.gz&#34;, &#34;size&#34;: 214160, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.413428&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.413436&#34;}, {&#34;uid&#34;: &#34;6b56adb5c03744d8b9ff9d16a4e9b8c1&#34;, &#34;name&#34;: &#34;Sitting_Idle_02&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/6b56adb5c03744d8b9ff9d16a4e9b8c1.bin.gz&#34;, &#34;size&#34;: 286676, &#34;duration&#34;: 5.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.410811&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.410820&#34;}, {&#34;uid&#34;: &#34;824a24f292004f0ba12fa4e621e01f72&#34;, &#34;name&#34;: &#34;WalkSlow&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/824a24f292004f0ba12fa4e621e01f72.bin.gz&#34;, &#34;size&#34;: 172280, &#34;duration&#34;: 2.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.408553&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.408561&#34;}, {&#34;uid&#34;: &#34;4d816bf657fb4fe1abe7af7f9e57ff8c&#34;, &#34;name&#34;: &#34;WalkSlowL&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4d816bf657fb4fe1abe7af7f9e57ff8c.bin.gz&#34;, &#34;size&#34;: 171760, &#34;duration&#34;: 2.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.406303&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.406312&#34;}, {&#34;uid&#34;: &#34;719b7eab4b164d168fa6b9b46ea48939&#34;, &#34;name&#34;: &#34;WalkSlowR&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/719b7eab4b164d168fa6b9b46ea48939.bin.gz&#34;, &#34;size&#34;: 174848, &#34;duration&#34;: 2.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.403603&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.403612&#34;}, {&#34;uid&#34;: &#34;aa034548590746b193e396622202ba0e&#34;, &#34;name&#34;: &#34;Lying_Breathing_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/aa034548590746b193e396622202ba0e.bin.gz&#34;, &#34;size&#34;: 191832, &#34;duration&#34;: 4.167, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.400325&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.400333&#34;}, {&#34;uid&#34;: &#34;0f357515505a4527b162bf11ccdbe29f&#34;, &#34;name&#34;: &#34;Lying_Idle_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/0f357515505a4527b162bf11ccdbe29f.bin.gz&#34;, &#34;size&#34;: 192696, &#34;duration&#34;: 4.167, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.397870&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.397879&#34;}, {&#34;uid&#34;: &#34;496133f54ea947e391a6b733c0aaf9d4&#34;, &#34;name&#34;: &#34;WalkR&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/496133f54ea947e391a6b733c0aaf9d4.bin.gz&#34;, &#34;size&#34;: 112000, &#34;duration&#34;: 1.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.395304&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.395312&#34;}, {&#34;uid&#34;: &#34;4dbab589324e4325a3e9e75339372670&#34;, &#34;name&#34;: &#34;WalkL&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4dbab589324e4325a3e9e75339372670.bin.gz&#34;, &#34;size&#34;: 111752, &#34;duration&#34;: 1.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.392798&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.392806&#34;}, {&#34;uid&#34;: &#34;15ed624af3dc4a4b82a2ba24ffec1e04&#34;, &#34;name&#34;: &#34;Walk&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/15ed624af3dc4a4b82a2ba24ffec1e04.bin.gz&#34;, &#34;size&#34;: 110128, &#34;duration&#34;: 1.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.389349&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.389358&#34;}, {&#34;uid&#34;: &#34;94d13fef0951459f81307609aa5e19f6&#34;, &#34;name&#34;: &#34;TrotR&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/94d13fef0951459f81307609aa5e19f6.bin.gz&#34;, &#34;size&#34;: 44024, &#34;duration&#34;: 0.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.386194&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.386202&#34;}, {&#34;uid&#34;: &#34;3430de795c6a435fa528005274105490&#34;, &#34;name&#34;: &#34;TrotL&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/3430de795c6a435fa528005274105490.bin.gz&#34;, &#34;size&#34;: 44100, &#34;duration&#34;: 0.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.383019&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.383027&#34;}, {&#34;uid&#34;: &#34;48bee2cef6d146de848a9ed8ed8e40e1&#34;, &#34;name&#34;: &#34;Sprint&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/48bee2cef6d146de848a9ed8ed8e40e1.bin.gz&#34;, &#34;size&#34;: 31164, &#34;duration&#34;: 0.467, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.379767&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.379775&#34;}, {&#34;uid&#34;: &#34;0e9cb4dbd2f74cf1afd827f8c2fdde7a&#34;, &#34;name&#34;: &#34;SprintL&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/0e9cb4dbd2f74cf1afd827f8c2fdde7a.bin.gz&#34;, &#34;size&#34;: 30772, &#34;duration&#34;: 0.467, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.377415&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.377423&#34;}, {&#34;uid&#34;: &#34;8bc8c9e721e6438db6eac47fb23df836&#34;, &#34;name&#34;: &#34;SprintR&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/8bc8c9e721e6438db6eac47fb23df836.bin.gz&#34;, &#34;size&#34;: 30696, &#34;duration&#34;: 0.467, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.374171&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.374180&#34;}, {&#34;uid&#34;: &#34;8307229aecbe4c94a0d0f475e0017d56&#34;, &#34;name&#34;: &#34;Trot&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/8307229aecbe4c94a0d0f475e0017d56.bin.gz&#34;, &#34;size&#34;: 41940, &#34;duration&#34;: 0.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.370609&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.370617&#34;}, {&#34;uid&#34;: &#34;4064b74854e343f19c48d470a1975696&#34;, &#34;name&#34;: &#34;SneakR&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4064b74854e343f19c48d470a1975696.bin.gz&#34;, &#34;size&#34;: 353524, &#34;duration&#34;: 5.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.367385&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.367393&#34;}, {&#34;uid&#34;: &#34;4693ab02292a4243a0c114d293e3ab7e&#34;, &#34;name&#34;: &#34;SneakL&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4693ab02292a4243a0c114d293e3ab7e.bin.gz&#34;, &#34;size&#34;: 344352, &#34;duration&#34;: 5.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.364367&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.364375&#34;}, {&#34;uid&#34;: &#34;39555f5e545345f783520984a93cdbc7&#34;, &#34;name&#34;: &#34;Sneak&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/39555f5e545345f783520984a93cdbc7.bin.gz&#34;, &#34;size&#34;: 341748, &#34;duration&#34;: 5.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.360802&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.360810&#34;}, {&#34;uid&#34;: &#34;81e1de8bfe744fa693c8d810fb083772&#34;, &#34;name&#34;: &#34;RunR&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/81e1de8bfe744fa693c8d810fb083772.bin.gz&#34;, &#34;size&#34;: 34168, &#34;duration&#34;: 0.533, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.357419&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.357428&#34;}, {&#34;uid&#34;: &#34;42cbb05190274494a846809fa2c031f4&#34;, &#34;name&#34;: &#34;Loco_RunL&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/42cbb05190274494a846809fa2c031f4.bin.gz&#34;, &#34;size&#34;: 33932, &#34;duration&#34;: 0.533, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.354965&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.354974&#34;}, {&#34;uid&#34;: &#34;89ab2b7acbed4931a323fe5dd8e05d86&#34;, &#34;name&#34;: &#34;Hit_Stand_F01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/89ab2b7acbed4931a323fe5dd8e05d86.bin.gz&#34;, &#34;size&#34;: 181060, &#34;duration&#34;: 2.867, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.351187&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.351196&#34;}, {&#34;uid&#34;: &#34;e2d7989936d84403bb425d34c1bcbc52&#34;, &#34;name&#34;: &#34;Hit_StandHind_F01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/e2d7989936d84403bb425d34c1bcbc52.bin.gz&#34;, &#34;size&#34;: 122100, &#34;duration&#34;: 1.867, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.347364&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.347372&#34;}, {&#34;uid&#34;: &#34;e7a3ee6d79374c9cb29f612ed8039a64&#34;, &#34;name&#34;: &#34;Hit_Walk_L01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/e7a3ee6d79374c9cb29f612ed8039a64.bin.gz&#34;, &#34;size&#34;: 215652, &#34;duration&#34;: 3.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.344205&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.344213&#34;}, {&#34;uid&#34;: &#34;bbf1cf10b7f742f1bcd17d4ee16fe58e&#34;, &#34;name&#34;: &#34;Run&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/bbf1cf10b7f742f1bcd17d4ee16fe58e.bin.gz&#34;, &#34;size&#34;: 33216, &#34;duration&#34;: 0.533, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.340962&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.340970&#34;}, {&#34;uid&#34;: &#34;12aaf09c420e4b979cca1c69bffbe187&#34;, &#34;name&#34;: &#34;Hit_Sitting_F01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/12aaf09c420e4b979cca1c69bffbe187.bin.gz&#34;, &#34;size&#34;: 157820, &#34;duration&#34;: 2.5, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.337483&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.337497&#34;}, {&#34;uid&#34;: &#34;150f7dc451a5484c9d162f901f9aebd8&#34;, &#34;name&#34;: &#34;Hit_Lying_R01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/150f7dc451a5484c9d162f901f9aebd8.bin.gz&#34;, &#34;size&#34;: 149844, &#34;duration&#34;: 2.5, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.334104&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.334126&#34;}, {&#34;uid&#34;: &#34;7d7ba7c867664a65bd5f4c7920d7cc8a&#34;, &#34;name&#34;: &#34;Death_StandHind_F01_poses&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/7d7ba7c867664a65bd5f4c7920d7cc8a.bin.gz&#34;, &#34;size&#34;: 2068, &#34;duration&#34;: 1.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.330985&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.330994&#34;}, {&#34;uid&#34;: &#34;31a012f77cfc45f6a001f849767dc3c1&#34;, &#34;name&#34;: &#34;Death_StandHind_F01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/31a012f77cfc45f6a001f849767dc3c1.bin.gz&#34;, &#34;size&#34;: 127280, &#34;duration&#34;: 2.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.327468&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.327476&#34;}, {&#34;uid&#34;: &#34;d929d092ce954732806ab7fa568bd164&#34;, &#34;name&#34;: &#34;Death_Stand_R01_poses&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/d929d092ce954732806ab7fa568bd164.bin.gz&#34;, &#34;size&#34;: 1580, &#34;duration&#34;: 1.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.323775&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.323783&#34;}, {&#34;uid&#34;: &#34;d8333a7b0e8542168ef85898eacc96e6&#34;, &#34;name&#34;: &#34;Death_Lying_R01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/d8333a7b0e8542168ef85898eacc96e6.bin.gz&#34;, &#34;size&#34;: 39500, &#34;duration&#34;: 0.733, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.320630&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.320638&#34;}, {&#34;uid&#34;: &#34;3cc049e645b04ad9b4de1dc6d2c8a4ac&#34;, &#34;name&#34;: &#34;Death_Lying_R01_DeathPose&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/3cc049e645b04ad9b4de1dc6d2c8a4ac.bin.gz&#34;, &#34;size&#34;: 1316, &#34;duration&#34;: 0.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.317273&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.317282&#34;}, {&#34;uid&#34;: &#34;d5372417afa54d8d8e574edeea23b6a1&#34;, &#34;name&#34;: &#34;Death_Sitting_R01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/d5372417afa54d8d8e574edeea23b6a1.bin.gz&#34;, &#34;size&#34;: 64344, &#34;duration&#34;: 1.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.313906&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.313936&#34;}, {&#34;uid&#34;: &#34;4357d4beafe343aab1f26cdff6fae899&#34;, &#34;name&#34;: &#34;Death_Sitting_R01_poses&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4357d4beafe343aab1f26cdff6fae899.bin.gz&#34;, &#34;size&#34;: 1408, &#34;duration&#34;: 1.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.310777&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.310786&#34;}, {&#34;uid&#34;: &#34;4b89033e07044bf39dae265fc1317141&#34;, &#34;name&#34;: &#34;Death_Stand_R01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4b89033e07044bf39dae265fc1317141.bin.gz&#34;, &#34;size&#34;: 84972, &#34;duration&#34;: 1.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.307799&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.307807&#34;}, {&#34;uid&#34;: &#34;5569c82b55e444e690a967cc5fc16d1a&#34;, &#34;name&#34;: &#34;CanonBall&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/5569c82b55e444e690a967cc5fc16d1a.bin.gz&#34;, &#34;size&#34;: 64696, &#34;duration&#34;: 1.067, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.303582&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.303590&#34;}, {&#34;uid&#34;: &#34;4e423bee7c074b4fb1765926bde42f16&#34;, &#34;name&#34;: &#34;Attack_StandAngry_02_High&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4e423bee7c074b4fb1765926bde42f16.bin.gz&#34;, &#34;size&#34;: 198024, &#34;duration&#34;: 3.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.300230&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.300238&#34;}, {&#34;uid&#34;: &#34;0ad6407533d64148a39d72ebed1c6ae3&#34;, &#34;name&#34;: &#34;Attack_StandAngry_01_Low&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/0ad6407533d64148a39d72ebed1c6ae3.bin.gz&#34;, &#34;size&#34;: 262248, &#34;duration&#34;: 4.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.296610&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.296619&#34;}, {&#34;uid&#34;: &#34;4d1307e7c5bf413ca3bfb590bb396f46&#34;, &#34;name&#34;: &#34;Attack_StandAngry_01_High&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/4d1307e7c5bf413ca3bfb590bb396f46.bin.gz&#34;, &#34;size&#34;: 198024, &#34;duration&#34;: 3.0, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.292640&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.292648&#34;}, {&#34;uid&#34;: &#34;71b12dae30dd4d2188e5afd4820b2706&#34;, &#34;name&#34;: &#34;Attack_Run_01_Turn&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/71b12dae30dd4d2188e5afd4820b2706.bin.gz&#34;, &#34;size&#34;: 106876, &#34;duration&#34;: 1.6, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.289386&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.289394&#34;}, {&#34;uid&#34;: &#34;c59f3bec92a6405db2c47e6fb7d53b89&#34;, &#34;name&#34;: &#34;Attack_Run_01_AttackF&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/c59f3bec92a6405db2c47e6fb7d53b89.bin.gz&#34;, &#34;size&#34;: 112792, &#34;duration&#34;: 1.833, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.286268&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.286277&#34;}, {&#34;uid&#34;: &#34;012bf2c5919e476998a52ad69284ecdd&#34;, &#34;name&#34;: &#34;Stand_Idle_02&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/012bf2c5919e476998a52ad69284ecdd.bin.gz&#34;, &#34;size&#34;: 424676, &#34;duration&#34;: 6.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.282395&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.282403&#34;}, {&#34;uid&#34;: &#34;2c42c501b56f4951b1d227b007414085&#34;, &#34;name&#34;: &#34;Stand_Idle_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/2c42c501b56f4951b1d227b007414085.bin.gz&#34;, &#34;size&#34;: 423536, &#34;duration&#34;: 6.667, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.279000&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.279009&#34;}, {&#34;uid&#34;: &#34;3b729b5cbb604da6915c4543a2ef4c87&#34;, &#34;name&#34;: &#34;Stand_Breathing_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/3b729b5cbb604da6915c4543a2ef4c87.bin.gz&#34;, &#34;size&#34;: 209492, &#34;duration&#34;: 3.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.275777&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.275788&#34;}, {&#34;uid&#34;: &#34;362885bc07c147d28a06e3a59298896d&#34;, &#34;name&#34;: &#34;Stand_Eating_01&#34;, &#34;url&#34;: &#34;https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/5d05c09394ab466eb8f04b9a998dad09/animations/362885bc07c147d28a06e3a59298896d.bin.gz&#34;, &#34;size&#34;: 448620, &#34;duration&#34;: 7.333, &#34;isLoop&#34;: false, &#34;isEnabled&#34;: true, &#34;createdAt&#34;: &#34;2025-03-10T21:14:50.271517&#34;, &#34;updatedAt&#34;: &#34;2025-03-10T21:14:50.271531&#34;}], &#34;count&#34;: 81},&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1/hotspots?optimized=1&#34;:{&#34;results&#34;: [], &#34;count&#34;: 0},&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1/sounds?optimized=1&#34;:{&#34;results&#34;: [], &#34;count&#34;: 0},&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1/backgrounds?optimized=1&#34;:{&#34;results&#34;: [{&#34;uid&#34;: &#34;ac8475e46ec94c169ab5774bb1287624&#34;, &#34;name&#34;: &#34;clean_light&#34;, &#34;images&#34;: [{&#34;width&#34;: 1920, &#34;height&#34;: 1080, &#34;size&#34;: 285606, &#34;url&#34;: &#34;https://media.sketchfab.com/backgrounds/ac8475e46ec94c169ab5774bb1287624/c83e0d6cbeb34c18b39622647d5bd2ab.jpeg&#34;, &#34;createdAt&#34;: &#34;2014-04-06T15:11:31&#34;, &#34;updatedAt&#34;: &#34;2014-04-06T15:11:31&#34;}, {&#34;width&#34;: 1366, &#34;height&#34;: 768, &#34;size&#34;: 108087, &#34;url&#34;: &#34;https://media.sketchfab.com/backgrounds/ac8475e46ec94c169ab5774bb1287624/0b14c4b3e705423381d2b868d6d12975.jpeg&#34;, &#34;createdAt&#34;: &#34;2014-04-06T15:11:32&#34;, &#34;updatedAt&#34;: &#34;2014-04-06T15:11:32&#34;}, {&#34;width&#34;: 1280, &#34;height&#34;: 720, &#34;size&#34;: 89526, &#34;url&#34;: &#34;https://media.sketchfab.com/backgrounds/ac8475e46ec94c169ab5774bb1287624/1fadb04acb214f8ea59d7de846871282.jpeg&#34;, &#34;createdAt&#34;: &#34;2014-04-06T15:11:32&#34;, &#34;updatedAt&#34;: &#34;2014-04-06T15:11:32&#34;}, {&#34;width&#34;: 1024, &#34;height&#34;: 576, &#34;size&#34;: 47705, &#34;url&#34;: &#34;https://media.sketchfab.com/backgrounds/ac8475e46ec94c169ab5774bb1287624/4c32a9b9a9a3440c95f3f7028e0c7b18.jpeg&#34;, &#34;createdAt&#34;: &#34;2014-04-06T15:11:32&#34;, &#34;updatedAt&#34;: &#34;2014-04-06T15:11:32&#34;}, {&#34;width&#34;: 1600, &#34;height&#34;: 900, &#34;size&#34;: 171483, &#34;url&#34;: &#34;https://media.sketchfab.com/backgrounds/ac8475e46ec94c169ab5774bb1287624/fab6dd8d608d414f8bcdc711edd88781.jpeg&#34;, &#34;createdAt&#34;: &#34;2014-04-06T15:11:31&#34;, &#34;updatedAt&#34;: &#34;2014-04-06T15:11:32&#34;}, {&#34;width&#34;: 640, &#34;height&#34;: 360, &#34;size&#34;: 13057, &#34;url&#34;: &#34;https://media.sketchfab.com/backgrounds/ac8475e46ec94c169ab5774bb1287624/81e7617580104fe0ac8aa15d0e3919c0.jpeg&#34;, &#34;createdAt&#34;: &#34;2014-04-06T15:11:32&#34;, &#34;updatedAt&#34;: &#34;2014-04-06T15:11:32&#34;}, {&#34;width&#34;: 480, &#34;height&#34;: 270, &#34;size&#34;: 6357, &#34;url&#34;: &#34;https://media.sketchfab.com/backgrounds/ac8475e46ec94c169ab5774bb1287624/3f199b4f5d1745f494b61625e54075ec.jpeg&#34;, &#34;createdAt&#34;: &#34;2014-04-06T15:11:33&#34;, &#34;updatedAt&#34;: &#34;2014-04-06T15:11:33&#34;}], &#34;createdAt&#34;: &#34;2014-04-06T15:11:31&#34;, &#34;updatedAt&#34;: &#34;2020-10-01T15:27:32.191538&#34;, &#34;isDefault&#34;: true}], &#34;count&#34;: 1},&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1/environments?optimized=1&#34;:{&#34;results&#34;: [{&#34;uid&#34;: &#34;df380da788ee444885722735039b0c09&#34;, &#34;name&#34;: &#34;Studio&#34;, &#34;isDefault&#34;: true, &#34;diffuseSPH&#34;: [1.01193, 1.01375, 1.01879, -0.694768, -0.694859, -0.695153, 0.202904, 0.202937, 0.203051, -0.254005, -0.253968, -0.25386, 0.144697, 0.144685, 0.144648, -0.123928, -0.123908, -0.123857, -0.126223, -0.12619, -0.1261, -0.0929714, -0.09296, -0.0929254, -0.213489, -0.213415, -0.21321, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0177606, 0.0177593, 0.0177556, 0.010893, 0.0108891, 0.010878, -0.00790218, -0.00790106, -0.00789738, -0.0097911, -0.00979368, -0.00979967, 0.00153139, 0.00153227, 0.00153387, -0.00908768, -0.00908694, -0.00908524, -0.00956135, -0.00955923, -0.00955261, -0.0264342, -0.0264322, -0.0264265, -0.00164072, -0.00164002, -0.00163813], &#34;textures&#34;: [{&#34;type&#34;: &#34;thumbnail&#34;, &#34;format&#34;: &#34;panorama&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;584af7796bd84d06a5becce21d4fa92a&#34;, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/8236c08eba9d4a3d83ffe09a437d657b.jpg&#34;, &#34;name&#34;: &#34;thumbnail_256.jpg&#34;, &#34;width&#34;: 256, &#34;height&#34;: 128}], &#34;encoding&#34;: &#34;srgb&#34;}, {&#34;type&#34;: &#34;background&#34;, &#34;format&#34;: &#34;cubemap&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;1d148270f2764fc6bd850625a62c41ac&#34;, &#34;blur&#34;: 0.15, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/a532d546417d4c45ad38bca4ef1d6cf7.bin.gz&#34;, &#34;name&#34;: &#34;background_cubemap_64_0.15_luv.bin.gz&#34;, &#34;width&#34;: 64, &#34;height&#34;: 64, &#34;samples&#34;: 512, &#34;sizeCompressed&#34;: 24877, &#34;sizeUncompressed&#34;: 98304}, {&#34;uid&#34;: &#34;6bb03947b156436585cb384e17d96c2c&#34;, &#34;blur&#34;: 0.1, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/49f7bb43297345a4be2932c563a322e2.bin.gz&#34;, &#34;name&#34;: &#34;background_cubemap_128_0.1_luv.bin.gz&#34;, &#34;width&#34;: 128, &#34;height&#34;: 128, &#34;samples&#34;: 512, &#34;sizeCompressed&#34;: 68611, &#34;sizeUncompressed&#34;: 393216}, {&#34;uid&#34;: &#34;e6b2bb8067534a589462ae2bb31af24b&#34;, &#34;blur&#34;: 0.055, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/d84537c8bc0c46b8a88e79b26f3992ad.bin.gz&#34;, &#34;name&#34;: &#34;background_cubemap_256_0.055_luv.bin.gz&#34;, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;samples&#34;: 512, &#34;sizeCompressed&#34;: 168284, &#34;sizeUncompressed&#34;: 1572864}, {&#34;uid&#34;: &#34;099fb15d444a499a91dd3f4061794888&#34;, &#34;blur&#34;: 0.02, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/9f4176f010624a2eaace71099f571feb.bin.gz&#34;, &#34;name&#34;: &#34;background_cubemap_512_0.02_luv.bin.gz&#34;, &#34;width&#34;: 512, &#34;height&#34;: 512, &#34;samples&#34;: 512, &#34;sizeCompressed&#34;: 477706, &#34;sizeUncompressed&#34;: 6291456}, {&#34;uid&#34;: &#34;146183ed68484234817c18c86b891b2a&#34;, &#34;blur&#34;: 0.0, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/ba6bf54702c44599abd3b2f5ebaf62f1.bin.gz&#34;, &#34;name&#34;: &#34;background_cubemap_512_0.0_luv.bin.gz&#34;, &#34;width&#34;: 512, &#34;height&#34;: 512, &#34;samples&#34;: 512, &#34;sizeCompressed&#34;: 922530, &#34;sizeUncompressed&#34;: 6291456}], &#34;encoding&#34;: &#34;luv&#34;}, {&#34;type&#34;: &#34;specular_ue4&#34;, &#34;format&#34;: &#34;panorama&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;9a950a2f61cc4f66ba23b1155c4dd418&#34;, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/b7fda8fd059e460a88cf9cb07a76f265.bin.gz&#34;, &#34;name&#34;: &#34;specular_panorama_ue4_1024_luv.bin.gz&#34;, &#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;samples&#34;: 1024, &#34;sizeCompressed&#34;: 372862, &#34;sizeUncompressed&#34;: 4194304}, {&#34;uid&#34;: &#34;b3ccb91117434570bf890462d85cdd16&#34;, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/e3a0ea10706f4dbeb70073455d1a5068.bin.gz&#34;, &#34;name&#34;: &#34;specular_panorama_ue4_256_luv.bin.gz&#34;, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;samples&#34;: 1024, &#34;sizeCompressed&#34;: 40207, &#34;sizeUncompressed&#34;: 262144}], &#34;encoding&#34;: &#34;luv&#34;, &#34;limitSize&#34;: 32}, {&#34;type&#34;: &#34;specular_ue4&#34;, &#34;format&#34;: &#34;cubemap&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;dfc81b6c20f845fea7718d2bd12cac8c&#34;, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/d3a1904a13734f7bac54b7db2a5a4e1c.bin.gz&#34;, &#34;name&#34;: &#34;specular_cubemap_ue4_256_luv.bin.gz&#34;, &#34;width&#34;: 256, &#34;height&#34;: 256, &#34;samples&#34;: 1024, &#34;sizeCompressed&#34;: 366456, &#34;sizeUncompressed&#34;: 2097144}, {&#34;uid&#34;: &#34;11c4dbd6928a4507a5b522b2a7c6553a&#34;, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/3f9f73ed422344e9a2ebf79356638943.bin.gz&#34;, &#34;name&#34;: &#34;specular_cubemap_ue4_64_luv.bin.gz&#34;, &#34;width&#34;: 64, &#34;height&#34;: 64, &#34;samples&#34;: 1024, &#34;sizeCompressed&#34;: 34442, &#34;sizeUncompressed&#34;: 131064}], &#34;encoding&#34;: &#34;luv&#34;, &#34;limitSize&#34;: 8}, {&#34;type&#34;: &#34;brdf_ue4&#34;, &#34;format&#34;: &#34;lut&#34;, &#34;images&#34;: [{&#34;uid&#34;: &#34;a824d69f04a9477da077e02612fb43dd&#34;, &#34;file&#34;: &#34;https://media.sketchfab.com/environments/df380da788ee444885722735039b0c09/d36eda1ec05942668dacc01452f26f7e.bin.gz&#34;, &#34;name&#34;: &#34;brdf_ue4.bin.gz&#34;, &#34;width&#34;: 128, &#34;height&#34;: 128, &#34;samples&#34;: 1024, &#34;sizeCompressed&#34;: 59987, &#34;sizeUncompressed&#34;: 65536}], &#34;encoding&#34;: &#34;rg16&#34;}], &#34;processing&#34;: &#34;Succeeded&#34;, &#34;brightness&#34;: 1.1574, &#34;lights&#34;: [{&#34;sum&#34;: 0.379558, &#34;area&#34;: {&#34;h&#34;: 0.078125, &#34;w&#34;: 0.0761719, &#34;x&#34;: 0.863281, &#34;y&#34;: 0.178711}, &#34;color&#34;: [7.05825, 7.05838, 7.05876], &#34;error&#34;: 0, &#34;variance&#34;: 1.01425e-05, &#34;direction&#34;: [-0.40314, -0.846491, -0.347751], &#34;lum_ratio&#34;: 0.105288, &#34;luminosity&#34;: 79.6947}]}], &#34;count&#34;: 1},&#34;/i/models/bffc3c87d2d148ff8533e1cc8a11c9f1/matcaps?optimized=1&#34;:{&#34;results&#34;: [{&#34;uid&#34;: &#34;35c4d334eded44d8a657f390954a32dd&#34;, &#34;name&#34;: &#34;skin_soft.png&#34;, &#34;images&#34;: [{&#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;size&#34;: 27120, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/a77379e6fc3145a998102df4cccf2332.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:27.152098&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:27.152111&#34;}, {&#34;width&#34;: 512, &#34;height&#34;: 512, &#34;size&#34;: 9631, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/a3e162e6e0524a5097410bdc03154d3c.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:26.895368&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:26.895382&#34;}, {&#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;size&#34;: 27120, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/e7035fc0cfc84ae0bfe9df4a7703bfae.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:26.628241&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:26.628273&#34;}, {&#34;width&#34;: 256, &#34;height&#34;: 256, &#34;size&#34;: 3800, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/57290d088562432f896dd6bf10519bbb.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:26.609339&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:26.609353&#34;}, {&#34;width&#34;: 512, &#34;height&#34;: 512, &#34;size&#34;: 11313, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/e895d660f71249d2a4ea1114dcf6348d.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:26.445156&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:26.445170&#34;}, {&#34;width&#34;: 256, &#34;height&#34;: 256, &#34;size&#34;: 4424, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/23a7755128a74912b9fb9317ebedcbe6.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:26.274657&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:26.274671&#34;}, {&#34;width&#34;: 128, &#34;height&#34;: 128, &#34;size&#34;: 1608, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/f69430ab5cfa40ecab7a1ca115206ac8.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:26.147615&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:26.147628&#34;}, {&#34;width&#34;: 128, &#34;height&#34;: 128, &#34;size&#34;: 2002, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/e3f7ee638dbb4c0295b9b82aa63e3186.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:26.109007&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:26.109022&#34;}, {&#34;width&#34;: 64, &#34;height&#34;: 64, &#34;size&#34;: 1141, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/cc47a38e76914f42ba20fe208e7520ea.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:25.943279&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:25.943292&#34;}, {&#34;width&#34;: 64, &#34;height&#34;: 64, &#34;size&#34;: 1141, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/1bda0b59fe6c456988f3a9465379e6de.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:25.858227&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:25.858241&#34;}, {&#34;width&#34;: 32, &#34;height&#34;: 32, &#34;size&#34;: 815, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/48f1c7b4b72b44639d1c5b4f76c24b1b.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:25.775409&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:25.775423&#34;}, {&#34;width&#34;: 32, &#34;height&#34;: 32, &#34;size&#34;: 815, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/24aa2c3128f24b90b3d3e71a49b825e2.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:25.593726&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:25.593739&#34;}], &#34;createdAt&#34;: &#34;2017-06-13T10:42:24.132261&#34;, &#34;updatedAt&#34;: &#34;2020-10-01T14:52:54.748044&#34;, &#34;isDefault&#34;: true}, {&#34;uid&#34;: &#34;43a40dd3e9c34fc0b7da9cbf07b82ac8&#34;, &#34;name&#34;: &#34;metal.png&#34;, &#34;images&#34;: [{&#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;size&#34;: 37249, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/2c08715b53aa4d0184bd40589b88bb7a.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:18.575615&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:18.575629&#34;}, {&#34;width&#34;: 1024, &#34;height&#34;: 1024, &#34;size&#34;: 37249, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/e6f59dec94594d51ab1edd74ed75bac5.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:18.211446&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:18.211458&#34;}, {&#34;width&#34;: 512, &#34;height&#34;: 512, &#34;size&#34;: 13185, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/06976fbe40944f1aa0a4f1146e02d064.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:18.132783&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:18.132795&#34;}, {&#34;width&#34;: 512, &#34;height&#34;: 512, &#34;size&#34;: 13185, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/3d9326e3e9bd47419353550cd0e22175.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:18.018176&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:18.018188&#34;}, {&#34;width&#34;: 256, &#34;height&#34;: 256, &#34;size&#34;: 5182, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/be9d6e4a392a4b1a93431c895d59edec.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:17.907488&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:17.907503&#34;}, {&#34;width&#34;: 256, &#34;height&#34;: 256, &#34;size&#34;: 5802, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/7a9b1337041041a1aa378c07b1503a91.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:17.756153&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:17.756171&#34;}, {&#34;width&#34;: 128, &#34;height&#34;: 128, &#34;size&#34;: 2090, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/d374d6bc98f24284b584368426f6ec73.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:17.693979&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:17.693992&#34;}, {&#34;width&#34;: 64, &#34;height&#34;: 64, &#34;size&#34;: 956, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/39e5f04d945b4970baa87988e00c683e.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:17.497738&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:17.497753&#34;}, {&#34;width&#34;: 128, &#34;height&#34;: 128, &#34;size&#34;: 2468, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/2b1e83688e1145a1a337abd439a54dde.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:17.450627&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:17.450639&#34;}, {&#34;width&#34;: 64, &#34;height&#34;: 64, &#34;size&#34;: 1278, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/928f27d223574a18bc3122b6f88f4d54.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:17.236928&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:17.236940&#34;}, {&#34;width&#34;: 32, &#34;height&#34;: 32, &#34;size&#34;: 856, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/23bde41abc30449d89f6803d1ce8693a.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:16.958799&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:16.958825&#34;}, {&#34;width&#34;: 32, &#34;height&#34;: 32, &#34;size&#34;: 856, &#34;url&#34;: &#34;https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/d0c3a4aaf8744d608f0f425abd3474a3.jpeg&#34;, &#34;createdAt&#34;: &#34;2017-06-13T10:42:16.929709&#34;, &#34;updatedAt&#34;: &#34;2017-06-13T10:42:16.929721&#34;}], &#34;createdAt&#34;: &#34;2017-06-13T10:42:15.630044&#34;, &#34;updatedAt&#34;: &#34;2020-10-01T14:52:44.793250&#34;, &#34;isDefault&#34;: true}], &#34;count&#34;: 2},&#34;embedOptions&#34;:{&#34;allowSwiftShader&#34;: false, &#34;animationAutoplay&#34;: true, &#34;anisotropy&#34;: true, &#34;annotation&#34;: 0, &#34;annotationCycle&#34;: null, &#34;annotationsVisible&#34;: null, &#34;annotationTooltipVisible&#34;: true, &#34;apiHookEnv&#34;: null, &#34;apiLog&#34;: null, &#34;apiVersion&#34;: null, &#34;arkit&#34;: false, &#34;arkitDebug&#34;: false, &#34;asyncImage&#34;: false, &#34;asyncShader&#34;: 1, &#34;autoMaterial&#34;: 0, &#34;autospin&#34;: 0, &#34;autostart&#34;: false, &#34;camera&#34;: true, &#34;cameraConstraints&#34;: true, &#34;cameraEasing&#34;: null, &#34;cameraEye&#34;: null, &#34;cameraFollowBones&#34;: 0, &#34;cameraTarget&#34;: null, &#34;cardboard&#34;: 0, &#34;carmel&#34;: false, &#34;cleanShader&#34;: false, &#34;continuousRender&#34;: false, &#34;convertVertexColor8Bit&#34;: true, &#34;debug3D&#34;: false, &#34;debugDecals&#34;: false, &#34;depthMipmap&#34;: 0, &#34;dnt&#34;: false, &#34;dofAttenuateDistance&#34;: true, &#34;dofAttenuateSpeed&#34;: false, &#34;dofCircle&#34;: true, &#34;dofRes&#34;: 2, &#34;dofSticky&#34;: false, &#34;dofTransition&#34;: true, &#34;doubleClick&#34;: true, &#34;downloadPicture&#34;: false, &#34;drs&#34;: true, &#34;drsRatio&#34;: 1.0, &#34;drsFps&#34;: 15, &#34;drsMin&#34;: null, &#34;drsTest&#34;: false, &#34;epsilonAlpha&#34;: 1e-05, &#34;floatRtt&#34;: 2, &#34;forceController&#34;: &#34;&#34;, &#34;forceControllerOrientation&#34;: -0.5, &#34;forceControllerRayOrientation&#34;: -0.075, &#34;forceFallback&#34;: false, &#34;forceMs&#34;: 0, &#34;forceTriangles&#34;: null, &#34;fpsSpeed&#34;: 5, &#34;fxaa&#34;: null, &#34;grainSpeed&#34;: 64, &#34;graphOptimizer&#34;: null, &#34;imageCompression&#34;: null, &#34;internal&#34;: false, &#34;isApp&#34;: false, &#34;keepEmptyGeometries&#34;: false, &#34;materialAo&#34;: null, &#34;materialCavity&#34;: null, &#34;materialDiffuse&#34;: null, &#34;materialDisplacement&#34;: null, &#34;materialDisplacementFactor&#34;: null, &#34;materialEmissive&#34;: null, &#34;materialF0&#34;: null, &#34;materialGlossiness&#34;: null, &#34;materialMetalness&#34;: null, &#34;materialNames&#34;: &#34;main_material&#34;, &#34;materialNormal&#34;: null, &#34;materialPacking&#34;: null, &#34;materialRoughness&#34;: null, &#34;materialShowcase&#34;: false, &#34;materialSpecular&#34;: null, &#34;materialTransparency&#34;: null, &#34;maxTextureUnits&#34;: 32, &#34;maxDevicePixelRatio&#34;: 1.5, &#34;maxTextureSize&#34;: 8192, &#34;maxVertexUniforms&#34;: 8192, &#34;mergeMaterials&#34;: null, &#34;messaging&#34;: null, &#34;model&#34;: null, &#34;modelOptimization&#34;: null, &#34;morphEpsilon&#34;: 0.05, &#34;morphGpu&#34;: 4, &#34;navigation&#34;: &#34;orbit&#34;, &#34;orbitConstraintPan&#34;: null, &#34;orbitConstraintPitchDown&#34;: null, &#34;orbitConstraintPitchUp&#34;: null, &#34;orbitConstraintYawLeft&#34;: null, &#34;orbitConstraintYawRight&#34;: null, &#34;orbitConstraintZoomIn&#34;: null, &#34;orbitConstraintZoomOut&#34;: null, &#34;orbitPanFactor&#34;: 1.0, &#34;orbitRotationFactor&#34;: 1.0, &#34;orbitZoomFactor&#34;: 1.0, &#34;panorama&#34;: false, &#34;pixelBudget&#34;: null, &#34;pratio&#34;: null, &#34;postProcess&#34;: null, &#34;postProcessAscii&#34;: null, &#34;powerPreference&#34;: &#34;high-performance&#34;, &#34;preload&#34;: false, &#34;preserveDrawingBuffer&#34;: false, &#34;preventUserLightRotation&#34;: null, &#34;processMaterial&#34;: false, &#34;processOptions&#34;: false, &#34;quality&#34;: null, &#34;refractionRes&#34;: 1, &#34;resizeTimeout&#34;: 1000, &#34;rgbm&#34;: true, &#34;scale&#34;: 1.0, &#34;scaleEpsilon&#34;: 1e-05, &#34;scrollwheel&#34;: true, &#34;shadow&#34;: true, &#34;shadowAtlas&#34;: true, &#34;shadowJitterOffset&#34;: &#34;default&#34;, &#34;shadowNormalOffset&#34;: false, &#34;shadowPCF&#34;: &#34;1Tap(4texFetch)&#34;, &#34;shadowTextureSize&#34;: 1024, &#34;share&#34;: false, &#34;singleSided&#34;: null, &#34;snapKeyframe&#34;: false, &#34;soundEnable&#34;: true, &#34;soundMute&#34;: false, &#34;soundPreload&#34;: false, &#34;splitLimit&#34;: 65535, &#34;ssaoNormal&#34;: false, &#34;ssr&#34;: null, &#34;ssrTransparent&#34;: false, &#34;sssJitter&#34;: 1.0, &#34;sssKernel&#34;: 17, &#34;stats&#34;: false, &#34;svgSize&#34;: 2048, &#34;substanceDisplacement&#34;: false, &#34;supersample&#34;: true, &#34;tracking&#34;: true, &#34;taa&#34;: null, &#34;taaAnimation&#34;: false, &#34;taaFeedbackMax&#34;: 0.97, &#34;taaFeedbackMin&#34;: 0.88, &#34;taaJitter&#34;: null, &#34;taaTransparent&#34;: null, &#34;tab&#34;: null, &#34;textureFrameBudget&#34;: 512, &#34;transparent&#34;: false, &#34;uiAnimations&#34;: true, &#34;uiAnnotations&#34;: true, &#34;uiAr&#34;: false, &#34;uiArHelp&#34;: true, &#34;uiArQrcode&#34;: true, &#34;uiColor&#34;: &#34;&#34;, &#34;uiControls&#34;: true, &#34;uiFadeout&#34;: true, &#34;uiFullscreen&#34;: true, &#34;uiGeneralControls&#34;: true, &#34;uiHelp&#34;: true, &#34;uiHint&#34;: 1, &#34;uiInfos&#34;: true, &#34;uiInspector&#34;: true, &#34;uiInspectorOpen&#34;: false, &#34;uiLoading&#34;: true, &#34;uiSettings&#34;: true, &#34;uiSnapshots&#34;: false, &#34;uiSound&#34;: true, &#34;uiStart&#34;: true, &#34;uiStop&#34;: true, &#34;uiTheatre&#34;: false, &#34;uiTheme&#34;: null, &#34;uiVr&#34;: true, &#34;uiWatermark&#34;: true, &#34;uiWatermarkLink&#34;: true, &#34;unitRenderLocal&#34;: false, &#34;unitRenderReporter&#34;: &#34;html&#34;, &#34;unitRenderTask&#34;: null, &#34;useVao&#34;: true, &#34;varyingSorting&#34;: true, &#34;vrAr&#34;: false, &#34;vrBrowserEnv&#34;: &#34;c0022acc4f3242e2bcae8043e08df8cc&#34;, &#34;vrFade&#34;: 200, &#34;vrLauncherAlphaCardFactor&#34;: 1, &#34;vrMirror&#34;: false, &#34;vrMobileMaxFaces&#34;: 50000, &#34;vrQuality&#34;: null, &#34;vrGenerateUiTextures&#34;: true, &#34;vrForceRaf&#34;: false, &#34;vrLinkNavigation&#34;: 0, &#34;vrInNavigation&#34;: 0, &#34;vrScaleRtt&#34;: 0, &#34;vrMaxRttSize&#34;: null, &#34;vrStereo&#34;: true, &#34;webgl2&#34;: true, &#34;webglExt&#34;: true, &#34;webglRenderTexture&#34;: null, &#34;webglRestore&#34;: 3, &#34;webglTimerGpu&#34;: false, &#34;webglUniforms&#34;: false, &#34;wireframePreload&#34;: null, &#34;zoct&#34;: false, &#34;zq&#34;: true, &#34;zw&#34;: true, &#34;zratio&#34;: 50, &#34;zz&#34;: null, &#34;allowDownload&#34;: false, &#34;inStore&#34;: false, &#34;displayStatus&#34;: &#34;ok&#34;}}--></div>
+
+
+
+
+        
+
+        
+    
+    
+        
+
+    
+
+    
+    <main class="viewer has-model " aria-label="sketchfab-viewer">
+
+        
+
+    <div class="titlebar">
+
+        <div class="summary">
+           
+                <div class="avatar">
+                    
+                        <a target="_blank" aria-label="Visit WildMesh 3D's Profile" href="https://sketchfab.com/WildMesh_3D">
+  
+  <div
+                class="image-container --cover "
+                style="width:32px;"
+                >
+                    <img class="image-container__image" src="https://media.sketchfab.com/avatars/cd07f6548e064ceaab7879210f0ba8e8/d4a2a4e28c7d4e2c8c50892b3e12342e.png" alt="" />
+                    <div style="padding-top:100.0%;"></div>
+            </div>
+            
+</a>
+                    
+                </div>
+                <div class="model-info">
+                    <h1 class="title"><span class="model-name">
+
+        
+            
+        
+
+        
+            <a class="model-name__label" data-route href="https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1" target="_blank" title="Realistic Animated Bear 3D Model 3D Model">Realistic Animated Bear 3D Model</a>
+        
+
+        
+    
+    
+
+    
+
+    
+
+
+    </span></h1>
+                    <h2>by
+                        
+                            <a target="_blank" href="https://sketchfab.com/WildMesh_3D">WildMesh 3D</a>
+                        
+                    </h2>
+                </div>
+            
+        </div>
+
+        <div class="actions">
+
+            
+
+            
+                <a class="help tooltip tooltip-down share" data-tooltip="Share" data-action="open-share-overlay">
+                    <i class="viewer-icon-share"></i>
+                </a>
+            
+
+            
+                <a class="help tooltip tooltip-down close hidden" data-tooltip="Stop" data-action="stop">
+                    <i class="viewer-icon-close"></i>
+                </a>
+            
+
+        </div>
+
+    </div>
+
+
+
+        <div class="landing" data-action="start">
+
+            
+                <div class="preview">
+                    <div
+                class="image-container --cover "
+                style="width:100%;"
+                >
+                    <img class="image-container__image" src="https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/87b3ffc411ab4046abe45261598d4a03.jpeg" alt="" />
+                    <div style="padding-top:75.0%;"></div>
+            </div>
+            
+                </div>
+            
+
+            
+                <div class="start-button">
+                    <button class="play-button ">
+                        <i class="viewer-icon-play"></i>
+                        <span class="label">3D</span>
+                    </button>
+                </div>
+            
+
+            
+    
+        <div class="watermark"
+            
+        >
+            <a
+                
+                
+                    title="View on Sketchfab"
+                    data-action="watermark" href="https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1" target="_blank"
+                
+            ></a>
+        </div>
+    
+
+
+        </div>
+
+        <div class="overlays">
+            
+            <div class="overlay help hidden">
+                <a class="close viewer-icon-close" aria-label="close"></a>
+                <div class="inner">
+                    <ul class="tabs">
+                        <li class="active"><a data-target="basic">Navigation basics</a></li>
+                        <li><a data-target="all">All controls</a></li>
+                    </ul>
+                    <div class="tabs-container" aria-hidden="true">
+                        <div class="tab active" data-tab="basic">
+                            <div class="tip">
+                                <div>
+                                    <i class="viewer-icon-refresh"></i>
+                                </div>
+                                <div>
+                                    <b>Orbit around</b>
+                                    <div>
+                                        Left click + drag or<br>
+                                        One finger drag (touch)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tip">
+                                <div>
+                                    <i class="viewer-icon-search-plus"></i>
+                                </div>
+                                <div>
+                                    <b>Zoom</b>
+                                    <div>
+                                        Double click on model<br>
+                                        or scroll anywhere or<br>
+                                        Pinch (touch)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tip">
+                                <div>
+                                    <i class="viewer-icon-arrows"></i>
+                                </div>
+                                <div>
+                                    <b>Pan</b>
+                                    <div>
+                                        Right click + drag or<br />
+                                        Two fingers drag (touch)
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab" data-tab="all">
+                            <div>
+                                <div class="section">
+                                    <span class="title">Orbit navigation</span>
+                                    <b>Move camera:</b> 1-finger drag or Left Mouse Button<br>
+                                    <b>Pan:</b> 2-finger drag or Right Mouse Button or <kbd>SHIFT</kbd>+ Left Mouse Button<br>
+                                    <b>Zoom on object:</b> Double-tap or Double-click on object<br>
+                                    <b>Zoom out:</b> Double-tap or Double-click on background<br>
+                                    <b>Zoom:</b> Pinch in/out or Mousewheel or <kbd>CTRL</kbd> + Left Mouse Button<br>
+                                </div>
+                                <div class="section rendering-shortcuts"></div>
+                                <div class="section inspector-shortcuts"></div>
+                                <div class="section general-shortcuts"></div>
+                                <div class="section">
+                                    <span class="title">Lighting</span>
+                                    <b>Rotate lighting:</b> 3-finger drag or <kbd>ALT</kbd> + Left Mouse Button<br>
+                                    <b>Rotate env. only:</b> <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + Left Mouse Button<br>
+                                </div>
+                                <div class="section annotation-shortcuts"></div>
+                                <div class="section animation-shortcuts"></div>
+                                <div class="section sound-shortcuts"></div>
+                                <div class="section">
+                                   <span class="title">First-person navigation</span>
+                                   <b>Move:</b> <kbd>↑</kbd>,<kbd>←</kbd>,<kbd>↓</kbd>,<kbd>→</kbd> (or <kbd>W</kbd>,<kbd>A</kbd>,<kbd>S</kbd>,<kbd>D</kbd>)<br>
+                                   <b>Look around:</b> 1-finger drag or Left Mouse Button<br>
+                                   <b>Adjust speed:</b> Mousewheel<br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="action">
+                        <button class="button" data-action="reset-camera">Reset camera view</button>
+                    </div>
+
+                </div>
+            </div>
+            <div class="overlay share hidden">
+                <a class="close viewer-icon-close" aria-label="close"></a>
+                <div class="inner">
+                    <div class="share-link">
+                        <div class="text-field">
+                            <label for="copy-link-field">Link</label>
+                            <input id="copy-link-field" type="text" class="text" value="" readonly>
+                            <button data-clipboard-target=".text-field .text">copy</button>
+                        </div>
+                    </div>
+                    <div class="share-social">
+                        <a data-action="share-on-facebook" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                        <a data-action="share-on-twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                        <a data-action="share-on-reddit" target="_blank"><i class="fa-brands fa-reddit"></i></a>
+                        <a data-action="share-on-tumblr" target="_blank"><i class="fa-brands fa-tumblr"></i></a>
+                        <a data-action="share-on-linkedin" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                        <a data-action="share-on-pinterest" target="_blank"><i class="fa-brands fa-pinterest"></i></a>
+                        <a class="share-mail" target="_blank"><i class="viewer-icon-envelope"></i></a>
+                    </div>
+                    <div class="share-embed">
+                        <a class="button" href="" target="_blank">
+                            <i class="viewer-icon-code"></i> Embed
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay hotspots-overlay hidden">
+                <a class="close viewer-icon-close" aria-label="close"></a>
+                <div class="inner">
+                    <span class="hotspot-title"></span>
+                    <div class="hotspot-content js-scrollable markdown-rendered-content"></div>
+                </div>
+            </div>
+            <div class="overlay ar ar-overlay-mobile hidden">
+                <i class="viewer-icon-close close"></i>
+                <div class="inner custom-scrollbar">
+                     <div class="header-helper">
+                        <p class='title'>
+                        Your device is not compatible
+                        </p>
+                    </div>
+                    <div class="content-helper">
+                        <div class="row-helper">
+                            <div class="content-row">
+                                <div class="info">
+                                    <p>
+                                        Your version of
+                                        <span class='mobilePlatform'> </span>
+                                        is too old to display models in AR.
+                                    </p>
+                                    <p>
+                                        <span class='mobilePlatform'> </span>
+                                        <span class='minVersion'> </span>
+                                        or newer is required.
+                                    </p>
+                                    <p>
+                                        <strong>
+                                            Update your device or try on another device.
+                                        </strong>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay ar ar-overlay-desktop hidden">
+                <i class="viewer-icon-close close"></i>
+                <div class="inner custom-scrollbar">
+                    <div class="header-helper">
+                        <p class="title">
+                            Augmented Reality is only available on mobile or tablet devices
+                        </p>
+                        <p class="subtitle">
+                            Supported devices: iPhone 6S+ & iPad 5+ on iOS 12+ and Android 8.0+ with ARCore 1.9 support <br/>
+                            Open this page with such a device to experience AR.
+                        </p>
+                    </div>
+                    <div class="content-helper">
+                        
+                        <div class="row-helper">
+                            <div class="content-row">
+                                <canvas id="qrCode" ></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="row-helper ">
+                            <div class="content-row">
+                                <div class="text">
+                                    
+                                    <p class="title">Open with QR Code:</p>
+                                    <p>Scan this code to open the model on your device, then, tap on the AR icon.</p>
+                                    
+                                    
+                                    <p class="title">Open this link with your mobile:</p>
+                                    <a class="url overlay-link" target="_blank" aria-label="Open AR on Mobile"></a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay ar ar-overlay-loading hidden">
+                <i class="viewer-icon-close close"></i>
+                <div class="inner">
+                    <div class='sketchfab-spinner'>
+                        
+<svg viewBox="0 0 13 16" xmlns="http://www.w3.org/2000/svg">
+    <g fill-rule="nonzero">
+        <path class="shape1" d="M5.3029 8.1731L0 4.9864v5.8286l5.3029 3.1867z"/>
+        <path class="shape2" d="M5.9987 6.9902l5.8157-3.495L5.9987 0 .1829 3.4953z"/>
+        <path class="shape3" d="M6.6944 8.1731v5.8286l5.303-3.1867V4.9864z"/>
+    </g>
+</svg>
+
+                    </div>
+                    <div class='text'>
+                        LOADING...
+                    </div>
+                    
+                        <div class='subText'>
+                        If the loading takes too long, you can learn more
+                        <a class="overlay-link" href="https://help.sketchfab.com/en/articles/16152684" target="_blank" rel="noopener noreferrer">here</a>
+                        </div>
+                    
+                </div>
+            </div>
+            <div class="overlay ar ar-overlay-error hidden">
+                <i class="viewer-icon-close close"></i>
+                <div class="inner">
+                    <div class="content-helper">
+                        <div class="row-helper">
+                            <div class="content-row">
+                                <div class="info">
+                                    <p>
+                                        AR is not available for this model yet.
+                                    </p>
+                                    <p>
+                                        Please try again later or contact us if the problem persists.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay helper-vr-overlay hidden">
+                <i class="viewer-icon-close close"></i>
+                <div class="inner custom-scrollbar">
+                     <div class="header-helper">
+                        To view this model in virtual reality:
+                    </div>
+                    <div class="content-helper">
+                        <div class="row-helper">
+                            <div class="content-row">
+                                <div class="image"><i class="viewer-icon-mobile"></i></div>
+                                <div class="text">
+                                    <div class="title">on mobile phone</div>
+                                    <div>with Cardboard or similar</div>
+                                </div>
+                            </div>
+                            <ul class="info">
+                                <li>On your mobile, open this <a class="url overlay-link" target="_blank" href="#">link</a></li>
+                            </ul>
+                        </div>
+                        <div class="row-helper">
+                            <div class="content-row">
+                                <div class="image"><i class="viewer-icon-desktop"></i></div>
+                                <div class="text">
+                                    <div class="title">on desktop PC </div>
+                                    <div>with a VR headset</div>
+                                </div>
+                            </div>
+                            <ul class="info">
+                                <li><a href="https://immersiveweb.dev/" target="_blank" rel="noopener noreferrer nofollow" class='overlay-link'>Learn more on the immersive web</a></li>
+                                <li>On Chrome, follow the instructions <a href="https://immersiveweb.dev/chrome-support.html" target="_blank" rel="noopener noreferrer nofollow" class='overlay-link'>here</a></li>
+                                <li>Open this model</li>
+                                <li>Click on the VR icon</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer-helper">
+                        <a class="overlay-link" href="https://help.sketchfab.com/en/articles/16152690" target="_blank" rel="noopener noreferrer">
+                        More info on Virtual Reality.
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="webgl">
+
+            <canvas class="canvas" data-modelUid="bffc3c87d2d148ff8533e1cc8a11c9f1" data-action="create-hotspot" aria-label="3D view of Realistic Animated Bear 3D Model">
+            </canvas>
+
+            <div class="loading-container">
+                <div class="secondary-progress ">
+                    
+                    <div class="secondary-progress-percentage"></div>
+                    <div class="secondary-progress-display"></div>
+                    
+                </div>
+                <div class="main-progress ">
+                    <img alt="Loading 3D Model" src="https://media.sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/thumbnails/08fd72b0a9c44407b47e25522214c803/1a6ae9e274374852b07b508ec87e6126.jpeg" class="loading-thumbnail" />
+                    
+                    <div class="main-progress-wrapper">
+                        <div class="main-progress-percentage loading-percentage">0%</div>
+                        <p>Loading 3D model</p>
+                        <div class="main-progress-display">
+                            <div class="main-progress-display__progress"></div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="hotspots"></div>
+
+            <div class="gui">
+
+                <div class="animation-not-supported hidden">
+                    <a class="close" aria-label="close"></a>
+                    <p>Model is too heavy for your device and can not be rendered properly</p>
+                </div>
+
+                
+                    <div class="hotspot-controls-responsive">
+                        <div data-title="Previous Annotation" data-action="prev-annotation">
+                            <div class="icon viewer-icon-caret-left"></div>
+                        </div>
+                        <div data-title="Next Annotation" data-action="next-annotation">
+                            <div class="icon viewer-icon-caret-right"></div>
+                        </div>
+                    </div>
+                
+
+                
+                    <div class="model-inspector">
+                        <div class="model-inspector__menu">
+                            <div class="model-inspector__minimize"><i class="viewer-icon-caret-down" aria-hidden="true"></i>Model Inspector</div>
+                            <div class="model-inspector__content">
+                                <div class="model-inspector__modes custom-scrollbar js-scrollable">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="model-inspector__2D-options">
+                            <div class="model-inspector__UV-options"></div>
+                            <div class="model-inspector__material-options"></div>
+                        </div>
+                        <div class="model-inspector__empty-2d-view">
+                        </div>
+                    </div>
+                
+
+
+                <div class="controls">
+                    
+    
+        <div class="watermark"
+            
+        >
+            <a
+                
+                
+                    title="View on Sketchfab"
+                    data-action="watermark" href="https://sketchfab.com/3d-models/realistic-animated-bear-3d-model-bffc3c87d2d148ff8533e1cc8a11c9f1" target="_blank"
+                
+            ></a>
+        </div>
+    
+
+
+                    
+
+                        
+                            <div class="animation-controls widget ">
+                                <div class="timeline ">
+                                    <div class="timeline-wrapper">
+                                        <div class="track">
+                                            <div class="bar">
+                                            </div>
+                                            <div class="knob">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="animation-controls__buttons">
+                                    <a class="control play fa" aria-label="Play Animation"></a>
+                                    <a class="control next fa" aria-label="Next Animation"></a>
+                                    <div class="animation-timer control progress help" data-unit="time">00:00.00</div>
+                                    <div class="animation-list control has-menu">
+                                        <p class="animation-name"></p>
+                                        <div class="control-menu list">
+                                            <div class="animation__options">
+                                                <div class="toggle-button">
+                                                    <span class="toggle-button__option tooltip" data-tooltip="Repeat one">
+                                                        <input type="radio" name="animation-cycle" data-value="one" id="animation-cycle-one">
+                                                        <label for="animation-cycle-one"><i class="viewer-icon-cycle-repeat-one"></i></label>
+                                                    </span>
+                                                    <span class="toggle-button__option tooltip" data-tooltip="Repeat all">
+                                                        <input type="radio" name="animation-cycle" data-value="all" id="animation-cycle-all">
+                                                        <label for="animation-cycle-all"><i class="viewer-icon-cycle-repeat-all"></i></label>
+                                                    </span>
+                                                    <span class="toggle-button__option tooltip" data-tooltip="No repeat">
+                                                        <input type="radio" name="animation-cycle" data-value="none" id="animation-cycle-none">
+                                                        <label for="animation-cycle-none"><i class="viewer-icon-cycle-no-repeat"></i></label>
+                                                    </span>
+                                                </div>
+                                                <div class="toggle-button">
+                                                    <span class="toggle-button__option tooltip" data-tooltip="Speed x0.1">
+                                                        <input type="radio" name="animation-speed" data-value="0.1" id="animation-speed-point-one">
+                                                        <label for="animation-speed-point-one">x0.1</label>
+                                                    </span>
+                                                    <span class="toggle-button__option tooltip" data-tooltip="Speed x0.5">
+                                                        <input type="radio" name="animation-speed" data-value="0.5" id="animation-speed-point-five">
+                                                        <label for="animation-speed-point-five">x0.5</label>
+                                                    </span>
+                                                    <span class="toggle-button__option tooltip" data-tooltip="Speed x1">
+                                                        <input type="radio" name="animation-speed" data-value="1" id="animation-speed-one">
+                                                        <label for="animation-speed-one">x1</label>
+                                                    </span>
+                                                    <span class="toggle-button__option tooltip" data-tooltip="Speed x2">
+                                                        <input type="radio" name="animation-speed" data-value="2" id="animation-speed-two">
+                                                        <label for="animation-speed-two">x2</label>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <ul class="js-scrollable"></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+
+                        
+                            <div class="hotspot-controls widget has-menu ">
+
+                                <div data-title="Previous Annotation" data-action="prev-annotation">
+                                    <div class="icon viewer-icon-caret-left"></div>
+                                </div>
+
+                                <div class="hotspot-name default" data-action="toggle-annotation-list">
+                                    Select an annotation
+                                </div>
+
+                                <div data-title="Next Annotation" data-action="next-annotation">
+                                    <div class="icon viewer-icon-caret-right"></div>
+                                </div>
+
+                                <div class="list hotspots-list"></div>
+
+                            </div>
+                        
+
+                            <div class="general-controls widget ">
+                            
+
+                                
+                                    <a class="control tooltip help" data-tooltip="Help">
+                                        <i class="viewer-icon-question"></i>
+                                    </a>
+                                
+                                
+                                    <a class="control volume" title="Volume (M)" draggable="false">
+                                        <i class="viewer-icon-volume-up"></i>
+                                        <div class="volume-menu">
+                                        </div>
+                                    </a>
+                                
+                                
+                                    <a class="control tooltip settings has-menu " data-tooltip="Settings">
+                                        <i class="viewer-icon-gear"></i>
+                                        <div class="control-menu settings-menu">
+                                            <div class="control-menu-wrapper">
+                                                <div class="control-menu-list"></div>
+                                                <div class="control-menu-pane"></div>
+                                            </div>
+                                        </div>
+                                        <span class="control-badge"></span>
+                                    </a>
+                                
+                                
+                                    <a class="control tooltip inspector" data-tooltip="Model Inspector (i)" data-action="inspector">
+                                        <i class="viewer-icon-inspector"></i>
+                                    </a>
+                                
+                                
+                                
+                                    <a class="control tooltip vr " data-tooltip="View in VR">
+                                        <i class="viewer-icon-vr"></i>
+                                    </a>
+                                
+                                
+                                
+                                    <a class="control tooltip tooltip-right-bound fullscreen --always-visible" data-tooltip="Fullscreen (f)">
+                                        <i class="viewer-icon-fullscreen"></i>
+                                    </a>
+                                
+                            
+                            </div>
+                    
+                </div>
+
+                
+
+                <div class="viewer-hint widget disabled">
+                    <div class="viewer-movehint">
+                        <i class="icon"></i>
+                        <span class="label"></span>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="osd widget">
+            <div class="osd-content">
+            </div>
+        </div>
+
+        <div class="fallback" style="display: none">
+
+            <div class="fallback-viewport">
+                <img src="" alt="Realistic Animated Bear 3D Model 3D Model" class="fallback-sprite">
+            </div>
+
+            <div class="fallback-warning">
+                <div class="inner">
+                    <h3>Realistic Animated Bear 3D Model 3D Model</h3>
+                    <p data-nosnippet>
+                        Something went wrong with the 3D viewer.<br>
+                        <a href="https://help.sketchfab.com/en/articles/16152700" target="_blank" rel="noopener noreferrer">Learn how to fix it here</a>.
+                    </p>
+                </div>
+            </div>
+
+            <div data-nosnippet class="fallback-error fallback-error-loading">
+                <div class="inner">
+                    <p>Connection error. Please try again.</p>
+                </div>
+            </div>
+
+            <div data-nosnippet class="fallback-error fallback-error-nofallback">
+                <div class="inner">
+                    <p>Sorry, the model can't be displayed.</p>
+                    <p>Please check out <a href="https://help.sketchfab.com/en/articles/16152700" target="_blank" rel="noopener noreferrer">our FAQ</a> to learn how to fix this issue.</p>
+                </div>
+            </div>
+
+            <div class="progress-bar">
+                <div class="progress-bar-percentage"></div>
+                <div class="progress-bar-display"></div>
+            </div>
+
+            <div class="progress-circle">
+                <div class="progress-circle-percentage loading-percentage"></div>
+                <svg class="progress-circle-display" version="1.1">
+                    <path class="progress-circle-path" fill="none" stroke="#1caad9" stroke-width="6" />
+                </svg>
+            </div>
+
+            
+                <div class="controls">
+                    <div class="control control-fullscreen fullscreen tooltip tooltip-left" data-tooltip="Fullscreen (f)" data-action="fullscreen">
+                        <div class="icon viewer-icon-fullscreen"></div>
+                    </div>
+                </div>
+            
+
+        </div>
+
+        <div data-nosnippet class="embed-sandboxed-message">
+            <p>It looks like your browser or this site is blocking some scripts or cookies necessary to properly display the viewer.</p>
+            <p>View this model on Sketchfab :<br /><a href="https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/embed">https://sketchfab.com/models/bffc3c87d2d148ff8533e1cc8a11c9f1/embed</a></p>
+            <p>Or visit the Help Center for more information:<br /><a href="https://help.sketchfab.com/en/articles/16152700" target="_blank" rel="noopener noreferrer">https://help.sketchfab.com/en/articles/16152700</a></p>
+        </div>
+    </main>
+
+
+
+    
+
+
+
+        
+        
+<script type="text/javascript">
+    var displayMessage = function (s) {
+        s = s || 'regular';
+        var notSeenSince = Date.now() - parseInt(window.localStorage.getItem('browser_support_last_seen'), 10);
+        if ( s === 'modern' || s === 'regular') return;
+        if ( notSeenSince < (1000 * 60 * 60 * 24) && !true ) return;
+        try {
+            window.localStorage.setItem('browser_support_last_seen', Date.now());
+        } catch (e) {}
+        var message = '', title = '', popup = document.createElement('div');
+        var popupTemplate = function (title, message) { return '<div class="popup-overlay"></div><div class="popup"><div class="popup-header"><p class="popup-title">' + title + '</p></div><div class="popup-content"><p>' + message + '</p><p>Please update your browser for the best and most secure experience on our site.</p></div><div class="popup-footer"><div class="actions "><button class="button btn-medium btn-tertiary cancel" type="reset" tabindex="0">Ignore</button><button class="button btn-medium  btn-primary  submit loading" type="submit" onclick="window.open(\'http://browser-update.org/update.html\')" tabindex="0">Update</div></button></div></div></div>'}
+        if (s === 'pre_deprecation') {
+            title = 'Impending deprecation';
+            message = 'Your browser is out of date. We will stop supporting this browser shortly.';
+        } else if (s === 'deprecated') {
+            title = 'Unsupported browser';
+            message = 'Your browser is out of date, so some Sketchfab features may not work as intended.';
+        }
+        popup.className = 'popup-container browser-support-popup';
+        popup.innerHTML = popupTemplate(title, message);
+        popup.addEventListener('click', function() { popup.parentElement.removeChild(popup); })
+        document.body.appendChild(popup);
+    }
+    var checkSupport = function (done) {
+        var v = window.localStorage.getItem('browser_support');
+        if ( !v ) {
+            var r = new XMLHttpRequest();
+            r.addEventListener('load', function () {
+                v = JSON.parse(this.responseText).support;
+                try {
+                    window.localStorage.setItem('browser_support', v);
+                } catch (e) {}
+                done(v);
+            });
+            r.open('GET', '/i/browser-support');
+            r.send();
+        } else { done(v) }
+    }
+    checkSupport(displayMessage);
+</script>
+
+
+        
+        
+            
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/8e278d4f01965be1bbcbcfd4bbb0946a-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/b5497c98e11dc4541571a7cf300c113b-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/8a687a5156dadc24ce93a0f36ac87374-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/bc8e3f5f2b678b1def38df63f34ce14d-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/fd3570ce9497bf551397979b128ca7d9-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/5a298722f218e773c03d1e7f7a71bca1-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/3c905eafd0ec2a202c76cebacdf4e6c9-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/15a77b981b95819e390e8fb965adabd4-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/5bcaa88525fab96faffe19e1ce66716c-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/c4a8ac20a8d72e119523d2bac9bd3af7-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/c5202f8dd644ff29d0e0afb06dd83c4d-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/42a55b72e6274c0747303ec29e7d9a84-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/4c16da970ee1b11a2582c8bd143f06bb-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/d723d800d69662aec6e17b82aeec4232-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/54328e1192e93c93f8b19d9807f8ba3d-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/67287858341582c6af5bd522d7a3ee9e-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/d682ebeceddf938b5b48c885c086a5ff-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/6708e035029f50bb0de545b39531140c-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/9f22128e904ef304c5b15735484fb5eb-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/aadb102731aa2eb341d7798cc779aeca-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/9fe58db2e96ab9ca6a3ab4d139db844f-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/2b5a2346934cf652f5aad6dca09f4f35-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/57542ae98812479d8666218f607e49a2-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/dfab4659f610c3ce4984f93d90ba8fd2-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/41809ff37bea3d52f52c194f27dde545-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/4b8a3e863a324fe3e24ad05731067530-v2.js"  crossorigin="anonymous"></script>
+    
+        <script src="https://static.sketchfab.com/static/builds/web/dist/4978f6604289fd7e686bd9ca66fc3153-v2.js"  crossorigin="anonymous"></script>
+    
+
+        
+    </body>
+
+</html>

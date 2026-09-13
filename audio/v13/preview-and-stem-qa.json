@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "master_sha256": "3f6d515c1147259351a5ef501c6ac0ab32d75b643d4704a28a8c60ea56fb64b3",
+  "decoded_preview_duration_seconds": 33.5,
+  "decoded_preview_sample_rate": 48000,
+  "decoded_preview_channels": 2,
+  "preview_integrated_loudness_lufs": -18.0,
+  "preview_true_peak_dbtp": -3.4,
+  "preview_clipped_sample_count": 0,
+  "stem_sum_maximum_absolute_error": 5.960464477539062e-07,
+  "all_stems_aligned": true,
+  "stereo_correlation": 0.6886148899457922,
+  "dc_offset_per_channel": [
+    -4.925063593470635e-08,
+    -4.766681301060008e-08
+  ],
+  "perceptual_listening_performed": false,
+  "no_old_timed_sound_effects": true
+}

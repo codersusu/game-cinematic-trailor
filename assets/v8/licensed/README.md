@@ -1,0 +1,1 @@
+User-supplied Kevin Iglesias Human Archer Animations FREE assets. Standard Asset Store EULA. Local production use only. Do not publish raw or extractable motion/model assets to the public repository. Rendered end-product footage may be published. https://www.keviniglesias.com/#license

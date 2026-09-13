@@ -25,7 +25,6 @@ previews/v4/acting-frames/
 previews/v4/acting-prior/
 previews/v4/native-walk-probe/
 previews/v4/rocketbox-native-motion/
-assets/character/candidates_v4/
 observatory-v4-environment.blend
 
 renders/v5/frames/
@@ -40,3 +39,16 @@ renders/v7/frames/
 renders/v7/motion-test/
 previews/v7/acting-frames/
 observatory-v7-camera-study.blend
+
+# Locally licensed animation sources; do not redistribute publicly.
+assets/v8/licensed/
+
+# Raw/extractable licensed archer data and derived source scenes.
+bear-bow-*.blend*
+option-a-bow-guardian.blend*
+option-c-bow-bear.blend*
+renders/v8/combat/archer-locomotion-inspection.json
+previews/v12/forest-character-inspection.json
+# Generated frame caches and current render logs.
+**/__pycache__/
+renders/v13/logs/

@@ -1,0 +1,116 @@
+{
+  "objects": [
+    "V10 | grass colony 0",
+    "V10 | grass colony 1",
+    "V10 | grass colony 2",
+    "V10 | grass colony 3",
+    "V10 | grass colony 4",
+    "V10 | grass colony 5",
+    "V10 | grass colony 6",
+    "V10 | grass colony 7",
+    "V10 | grass colony 8",
+    "V10 | grass colony 9"
+  ],
+  "materials": [
+    {
+      "name": "grass_bermuda_01",
+      "textures": {
+        "Diffuse": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_diff_2k.jpg",
+        "Alpha": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_alpha_2k.png",
+        "Roughness": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_rough_2k.exr",
+        "Normal": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_nor_gl_2k.exr"
+      },
+      "alpha_polarity": "white visible / black transparent",
+      "normal_strength": 0.55,
+      "translucency": 0.25,
+      "albedo_gamma": 0.8,
+      "albedo_value": 1.3,
+      "surface_method": "DITHERED"
+    }
+  ],
+  "geometry_changed": false,
+  "textures_changed": false,
+  "rendered": false,
+  "uv_checks": [
+    {
+      "object": "V10 | grass colony 0",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 9899,
+      "uv_count": 9899
+    },
+    {
+      "object": "V10 | grass colony 1",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 7781,
+      "uv_count": 7781
+    },
+    {
+      "object": "V10 | grass colony 2",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 6502,
+      "uv_count": 6502
+    },
+    {
+      "object": "V10 | grass colony 3",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 6920,
+      "uv_count": 6920
+    },
+    {
+      "object": "V10 | grass colony 4",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 7338,
+      "uv_count": 7338
+    },
+    {
+      "object": "V10 | grass colony 5",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 5979,
+      "uv_count": 5979
+    },
+    {
+      "object": "V10 | grass colony 6",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 8433,
+      "uv_count": 8433
+    },
+    {
+      "object": "V10 | grass colony 7",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 7086,
+      "uv_count": 7086
+    },
+    {
+      "object": "V10 | grass colony 8",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 8681,
+      "uv_count": 8681
+    },
+    {
+      "object": "V10 | grass colony 9",
+      "uv_layers": [
+        "UVMap"
+      ],
+      "loop_count": 7209,
+      "uv_count": 7209
+    }
+  ]
+}

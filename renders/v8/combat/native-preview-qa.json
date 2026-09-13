@@ -1,0 +1,73 @@
+{
+  "guardian-attack": {
+    "path": "previews/v8/combat/guardian-attack-native.mp4",
+    "frames": 31,
+    "fps": 24.0,
+    "dimensions": [
+      480,
+      480
+    ],
+    "duration": 1.2916666666666667,
+    "sha256": "ceafbb809081a00c17247c921faf78da26079b955bb6336e73107a7b8f1a15ee",
+    "decode_passed": true,
+    "type": "native source performance preview, not final heroine combat",
+    "full_realtime_playback": false
+  },
+  "sword-combo": {
+    "path": "previews/v8/combat/sword-combo-native.mp4",
+    "frames": 72,
+    "fps": 24.0,
+    "dimensions": [
+      480,
+      480
+    ],
+    "duration": 3.0,
+    "sha256": "52be6de5f84d40446f3ed6a7f6ecca983f41058c909ebfae61c750cf2b4b7456",
+    "decode_passed": true,
+    "type": "native source performance preview, not final heroine combat",
+    "full_realtime_playback": false
+  },
+  "bow-shot": {
+    "path": "previews/v8/combat/bow-shot-native.mp4",
+    "frames": 92,
+    "fps": 30.0,
+    "dimensions": [
+      640,
+      640
+    ],
+    "duration": 3.066666666666667,
+    "sha256": "7f6a5594844478c11a54dbb01e9d35be65d5038d0c2244215b87a2a469bb13ed",
+    "decode_passed": true,
+    "type": "native source performance preview, not final heroine combat",
+    "full_realtime_playback": false
+  },
+  "review": {
+    "guardian_frames": [
+      0,
+      5,
+      10,
+      15,
+      22,
+      30
+    ],
+    "sword_frames": [
+      1,
+      12,
+      24,
+      36,
+      52,
+      72
+    ],
+    "bow_frames": [
+      0,
+      12,
+      25,
+      40,
+      66,
+      69,
+      73,
+      91
+    ],
+    "scope": "representative sequential stage contact sheets and stills inspected; final sword framing reviewed after widening"
+  }
+}

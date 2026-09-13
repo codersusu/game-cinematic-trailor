@@ -1,0 +1,448 @@
+{
+  "source": "bear-bow-forest-v13.blend",
+  "source_sha256": "9b39cf38ebb29f738b8e074e6cdb548d23054572633cc4746e859447c4bfb93a",
+  "destination": "forest-environment-v13.blend",
+  "sha256": "969beed816213ee4e9a9d44c5d343e5e4745e5be1b286b165e1f69e179775deb",
+  "bytes": 110186700,
+  "removed_objects": [
+    "A | archer placement",
+    "A | working bowstring",
+    "CS-HandProp",
+    "CS-PoleGuide.001",
+    "Human_Arrow",
+    "Human_Bow",
+    "Human_BowMesh",
+    "Rig",
+    "V12 | FemaleAdult04 first-person arms",
+    "V12 | FemaleAdult04 forest rig",
+    "V12 | FemaleAdult04 full body",
+    "V13 | Physical arrow rest",
+    "WGT-CircleChest",
+    "WGT-CircleHead.001",
+    "WGT-Finger.001",
+    "WGT-Foot.001",
+    "WGT-Hand.001",
+    "WGT-Jaw.001",
+    "WGT-Neck.001",
+    "WGT-Palm.L.001",
+    "WGT-Palm.R.001",
+    "WGT-Roll.001",
+    "WGT-Shoulder.001",
+    "WGT-Spine",
+    "WGT-Toe.001",
+    "WGT-elbow_target.ik.L.001",
+    "WGT-knee_target.ik.L.001",
+    "WGT-root.001",
+    "WGT-torso"
+  ],
+  "remaining_armatures": [
+    "RigRoot"
+  ],
+  "remaining_object_count": 5542,
+  "remaining_action_count": 2512,
+  "retained_animation_classes": [
+    "CC-BY bear performance/path",
+    "project camera animation",
+    "project vegetation wind",
+    "project airlock door"
+  ],
+  "source_unchanged": true,
+  "bear_and_camera_evaluation_identical_all144": true,
+  "retained_action_curves_identical": true,
+  "known_licensed_datablock_or_bone_markers": [],
+  "missing_external_images": [],
+  "images": [
+    {
+      "name": "dead_tree_trunk_diff",
+      "path": "//assets/v8/forest/dead_tree_trunk/textures/dead_tree_trunk_diff_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "dead_tree_trunk_nor_gl",
+      "path": "//assets/v8/forest/dead_tree_trunk/textures/dead_tree_trunk_nor_gl_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "dead_tree_trunk_rough",
+      "path": "//assets/v8/forest/dead_tree_trunk/textures/dead_tree_trunk_arm_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "DiffuseColor_Texture",
+      "path": "//assets/v8/combat/bear/textures/a_c_bear_01_uppr_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "packed": true
+    },
+    {
+      "name": "DiffuseColor_Texture_1",
+      "path": "//assets/v8/combat/bear/textures/a_c_bear_01_head_000_c0_000_ab_upscayl_3x_realesrgan-x4plus.png",
+      "packed": true
+    },
+    {
+      "name": "DiffuseColor_Texture_2",
+      "path": "//assets/v8/combat/bear/textures/a_c_bear_01_teef_001_c0_000_ab.png",
+      "packed": true
+    },
+    {
+      "name": "fern_02_alpha_2k.png",
+      "path": "//assets/v8/forest/fern_02/textures/fern_02_alpha_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fern_02_diff-fern_02_alpha",
+      "path": "//assets/v8/forest/fern_02/textures/fern_02_diff_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fern_02_nor_gl",
+      "path": "//assets/v8/forest/fern_02/textures/fern_02_nor_gl_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fern_02_rough",
+      "path": "//assets/v8/forest/fern_02/textures/fern_02_arm_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_branches_diff",
+      "path": "//assets/v10/downloads/fir_sapling/textures/fir_sapling_branches_diff_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_branches_nor_gl",
+      "path": "//assets/v10/downloads/fir_sapling/textures/fir_sapling_branches_nor_gl_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_branches_rough",
+      "path": "//assets/v10/downloads/fir_sapling/textures/fir_sapling_branches_arm_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_twigs_alpha_2k.png",
+      "path": "//assets/v10/downloads/fir_sapling/textures/fir_sapling_twigs_alpha_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_sapling_twigs_diff",
+      "path": "//assets/v10/downloads/fir_sapling/textures/fir_sapling_twigs_diff_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_twigs_nor_gl",
+      "path": "//assets/v10/downloads/fir_sapling/textures/fir_sapling_twigs_nor_gl_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_twigs_rough",
+      "path": "//assets/v10/downloads/fir_sapling/textures/fir_sapling_twigs_arm_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_bark_diff.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_bark_diff.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_bark_disp.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_disp_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_bark_disp.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_disp_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_bark_nor_gl.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_bark_nor_gl.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_bark_rough.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_bark_rough.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_bark_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_a_diff.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_a_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_a_nor_gl.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_a_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_a_rough.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_a_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_b_diff.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_b_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_b_nor_gl.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_b_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_b_rough.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_b_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_c_diff.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_c_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_c_diff.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_c_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_c_nor_gl.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_c_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_c_nor_gl.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_c_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_c_rough.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_c_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_trunk_c_rough.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_trunk_c_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_alpha.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_alpha_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_alpha.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_alpha_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_diff.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_diff.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_diff_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_mask.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_mask_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_mask.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_mask_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_nor_gl.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_nor_gl.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_nor_gl_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_rough.png",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "fir_tree_01_twig_rough.png.001",
+      "path": "//assets/v8/forest/fir_tree_01/textures/fir_tree_01_twig_rough_2k.png",
+      "packed": false
+    },
+    {
+      "name": "forest_floor_diff_2k.jpg",
+      "path": "//assets/v8/forest/forest_floor/forest_floor_diff_2k.jpg",
+      "packed": false
+    },
+    {
+      "name": "forest_floor_nor_gl_2k.jpg",
+      "path": "//assets/v8/forest/forest_floor/forest_floor_nor_gl_2k.jpg",
+      "packed": false
+    },
+    {
+      "name": "forest_floor_rough_2k.jpg",
+      "path": "//assets/v8/forest/forest_floor/forest_floor_rough_2k.jpg",
+      "packed": false
+    },
+    {
+      "name": "grass_bermuda_01_alpha.png",
+      "path": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_alpha_2k.png",
+      "packed": false
+    },
+    {
+      "name": "grass_bermuda_01_diff.png",
+      "path": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_diff_2k.jpg",
+      "packed": false
+    },
+    {
+      "name": "grass_bermuda_01_nor_gl.png",
+      "path": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_nor_gl_2k.exr",
+      "packed": false
+    },
+    {
+      "name": "grass_bermuda_01_rough.png",
+      "path": "//assets/v10/downloads/grass_bermuda_01/textures/grass_bermuda_01_rough_2k.exr",
+      "packed": false
+    },
+    {
+      "name": "grass_medium_01_alpha.png",
+      "path": "//assets/v10/downloads/grass_medium_01/textures/grass_medium_01_alpha_2k.png",
+      "packed": false
+    },
+    {
+      "name": "grass_medium_01_diff.png",
+      "path": "//assets/v10/downloads/grass_medium_01/textures/grass_medium_01_diff_2k.jpg",
+      "packed": false
+    },
+    {
+      "name": "grass_medium_01_nor_gl.png",
+      "path": "//assets/v10/downloads/grass_medium_01/textures/grass_medium_01_nor_gl_2k.exr",
+      "packed": false
+    },
+    {
+      "name": "Metal032_2K-JPG_Color.jpg",
+      "path": "//assets/v5/materials/Metal032/Metal032_2K-JPG_Color.jpg",
+      "packed": false
+    },
+    {
+      "name": "Metal032_2K-JPG_Displacement.jpg",
+      "path": "//assets/v5/materials/Metal032/Metal032_2K-JPG_Displacement.jpg",
+      "packed": false
+    },
+    {
+      "name": "Metal032_2K-JPG_Roughness.jpg",
+      "path": "//assets/v5/materials/Metal032/Metal032_2K-JPG_Roughness.jpg",
+      "packed": false
+    },
+    {
+      "name": "Metal050A_4K-JPG_Color.jpg",
+      "path": "//assets/v5/materials/Metal050A/Metal050A_4K-JPG_Color.jpg",
+      "packed": false
+    },
+    {
+      "name": "Metal050A_4K-JPG_Displacement.jpg",
+      "path": "//assets/v5/materials/Metal050A/Metal050A_4K-JPG_Displacement.jpg",
+      "packed": false
+    },
+    {
+      "name": "Metal050A_4K-JPG_Roughness.jpg",
+      "path": "//assets/v5/materials/Metal050A/Metal050A_4K-JPG_Roughness.jpg",
+      "packed": false
+    },
+    {
+      "name": "NormalMap_Texture",
+      "path": "//assets/v8/combat/bear/textures/a_c_bear_01_uppr_000_c0_000_nm.png",
+      "packed": true
+    },
+    {
+      "name": "NormalMap_Texture_1",
+      "path": "//assets/v8/combat/bear/textures/a_c_bear_01_head_000_c0_000_nm.png",
+      "packed": true
+    },
+    {
+      "name": "Plastic010_2K-JPG_Color.jpg",
+      "path": "//assets/v5/materials/Plastic010/Plastic010_2K-JPG_Color.jpg",
+      "packed": false
+    },
+    {
+      "name": "Plastic010_2K-JPG_Displacement.jpg",
+      "path": "//assets/v5/materials/Plastic010/Plastic010_2K-JPG_Displacement.jpg",
+      "packed": false
+    },
+    {
+      "name": "Plastic010_2K-JPG_Roughness.jpg",
+      "path": "//assets/v5/materials/Plastic010/Plastic010_2K-JPG_Roughness.jpg",
+      "packed": false
+    },
+    {
+      "name": "Render Result",
+      "path": "",
+      "packed": false
+    },
+    {
+      "name": "rock_face_01_diff",
+      "path": "//assets/model/rock_face_01/textures/rock_face_01_diff_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "rock_face_01_nor_gl",
+      "path": "//assets/model/rock_face_01/textures/rock_face_01_nor_gl_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "rock_face_01_rough",
+      "path": "//assets/model/rock_face_01/textures/rock_face_01_arm_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_01_diff",
+      "path": "//assets/v8/forest/rock_moss_set_01/textures/rock_moss_set_01_diff_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_01_nor_gl",
+      "path": "//assets/v8/forest/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_01_rough",
+      "path": "//assets/v8/forest/rock_moss_set_01/textures/rock_moss_set_01_rough_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "root_cluster_01_diff",
+      "path": "//assets/v8/forest/root_cluster_01/textures/root_cluster_01_diff_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "root_cluster_01_nor_gl",
+      "path": "//assets/v8/forest/root_cluster_01/textures/root_cluster_01_nor_gl_2k.jpg",
+      "packed": true
+    },
+    {
+      "name": "root_cluster_01_rough",
+      "path": "//assets/v8/forest/root_cluster_01/textures/root_cluster_01_arm_2k.jpg",
+      "packed": true
+    }
+  ],
+  "texture_portability": "External image paths are relative to repository root; ship assets with this scene.",
+  "no_gpu_render": true
+}

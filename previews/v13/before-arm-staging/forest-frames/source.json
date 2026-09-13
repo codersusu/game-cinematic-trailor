@@ -1,0 +1,14 @@
+{
+  "scene": "bear-bow-forest-v13.blend",
+  "sha256": "7ab3f13a441a8f644528cfdf07046f3ccae6583548af21da5458a293ebacaf84",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "source_fps": 12,
+  "output_fps": 12,
+  "engine": "EEVEE",
+  "samples": 16,
+  "view": "first",
+  "camera": "V9 | First-person escape"
+}

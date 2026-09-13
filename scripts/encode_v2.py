@@ -5,7 +5,6 @@ Use --dry-run to validate frame completeness and print the planned output.
 """
 from pathlib import Path
 import argparse
-import os
 import json
 import subprocess
 import sys
@@ -27,8 +26,8 @@ CREDIT = ('Character: Rain Rig (CC-BY 4.0), Blender Foundation, '
 def make_overlays(w=1920, h=1080):
     title = Image.new('RGBA', (w, h), (0, 0, 0, 0))
     credits = Image.new('RGBA', (w, h), (0, 0, 0, 0))
-    serif = os.environ.get('OBS_SERIF_FONT') or next((f for f in ['/System/Library/Fonts/Supplemental/Baskerville.ttc','/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf'] if Path(f).exists()), 'DejaVuSerif.ttf')
-    sans = os.environ.get('OBS_SANS_FONT') or next((f for f in ['/System/Library/Fonts/Supplemental/Arial.ttf','/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'] if Path(f).exists()), 'DejaVuSans.ttf')
+    serif = '/System/Library/Fonts/Supplemental/Baskerville.ttc'
+    sans = '/System/Library/Fonts/Supplemental/Arial.ttf'
 
     def tracked(image, text, y, path, size, spacing, fill):
         draw = ImageDraw.Draw(image)

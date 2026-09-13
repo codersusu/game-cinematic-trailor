@@ -1,0 +1,893 @@
+{
+  "forest_guardian": {
+    "file": "assets/v8/combat/forest-monster/forest-monster-final.blend",
+    "fps": 24,
+    "frames": [
+      0,
+      40
+    ],
+    "objects": [
+      {
+        "name": "Camera",
+        "type": "CAMERA",
+        "dimensions": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": null,
+        "bones": null,
+        "materials": [],
+        "nla": []
+      },
+      {
+        "name": "Armature",
+        "type": "ARMATURE",
+        "dimensions": [
+          22.821260452270508,
+          25.414936065673828,
+          27.932579040527344
+        ],
+        "vertices": null,
+        "bones": 76,
+        "materials": [],
+        "nla": [
+          {
+            "name": "[Action Stash]",
+            "strips": [
+              {
+                "name": "Idle",
+                "action": "Idle",
+                "frames": [
+                  0.0,
+                  191.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tree",
+        "type": "MESH",
+        "dimensions": [
+          17.988576889038086,
+          21.842185974121094,
+          16.992021560668945
+        ],
+        "vertices": 920,
+        "bones": null,
+        "materials": [
+          "Tree"
+        ],
+        "nla": []
+      },
+      {
+        "name": "Monster",
+        "type": "MESH",
+        "dimensions": [
+          22.50238800048828,
+          19.21525001525879,
+          24.087766647338867
+        ],
+        "vertices": 2803,
+        "bones": null,
+        "materials": [
+          "Monster"
+        ],
+        "nla": []
+      },
+      {
+        "name": "Hemi.001",
+        "type": "LIGHT",
+        "dimensions": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": null,
+        "bones": null,
+        "materials": [],
+        "nla": []
+      },
+      {
+        "name": "Hemi",
+        "type": "LIGHT",
+        "dimensions": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": null,
+        "bones": null,
+        "materials": [],
+        "nla": []
+      },
+      {
+        "name": "Lamp",
+        "type": "LIGHT",
+        "dimensions": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": null,
+        "bones": null,
+        "materials": [],
+        "nla": []
+      },
+      {
+        "name": "Root",
+        "type": "MESH",
+        "dimensions": [
+          29.893234252929688,
+          1.7817756088334136e-06,
+          38.3909912109375
+        ],
+        "vertices": 16,
+        "bones": null,
+        "materials": [],
+        "nla": []
+      }
+    ],
+    "actions": [
+      {
+        "name": "Attack",
+        "frames": [
+          0.0,
+          30.0
+        ],
+        "fcurves": 371
+      },
+      {
+        "name": "Dying",
+        "frames": [
+          0.0,
+          35.0
+        ],
+        "fcurves": 371
+      },
+      {
+        "name": "Idle",
+        "frames": [
+          0.0,
+          191.0
+        ],
+        "fcurves": 371
+      },
+      {
+        "name": "Melee_Hold",
+        "frames": [
+          0.0,
+          50.0
+        ],
+        "fcurves": 371
+      },
+      {
+        "name": "Stand",
+        "frames": [
+          0.0,
+          0.0
+        ],
+        "fcurves": 371
+      },
+      {
+        "name": "Walk",
+        "frames": [
+          0.0,
+          40.0
+        ],
+        "fcurves": 371
+      }
+    ],
+    "images": [
+      {
+        "name": "AO-2048",
+        "size": [
+          2048,
+          2048
+        ],
+        "path": "//texture/forest-monster-AO.png",
+        "packed": false
+      },
+      {
+        "name": "forest-monster-norm.png",
+        "size": [
+          2048,
+          2048
+        ],
+        "path": "//texture/forest-monster-norm.png",
+        "packed": true
+      },
+      {
+        "name": "forest-monster-skin1.png",
+        "size": [
+          2048,
+          2048
+        ],
+        "path": "//texture/forest-monster-skin1.png",
+        "packed": true
+      },
+      {
+        "name": "forest-monster-spec.png",
+        "size": [
+          2048,
+          2048
+        ],
+        "path": "//texture/forest-monster-spec.png",
+        "packed": true
+      },
+      {
+        "name": "monster-skin",
+        "size": [
+          2048,
+          2048
+        ],
+        "path": "//texture/forest-monster-skin.png",
+        "packed": false
+      },
+      {
+        "name": "Render Result",
+        "size": [
+          0,
+          0
+        ],
+        "path": "",
+        "packed": false
+      },
+      {
+        "name": "skin_dieing.png",
+        "size": [
+          512,
+          512
+        ],
+        "path": "//texture/tree.png",
+        "packed": true
+      },
+      {
+        "name": "tree-norm.png",
+        "size": [
+          512,
+          512
+        ],
+        "path": "//texture/tree-norm.png",
+        "packed": true
+      },
+      {
+        "name": "tree-spec.png",
+        "size": [
+          512,
+          512
+        ],
+        "path": "//texture/tree-spec.png",
+        "packed": true
+      }
+    ],
+    "embedded_texts": [
+      "Lic.txt"
+    ]
+  },
+  "tomek_wolf": {
+    "file": "assets/v8/combat/tomek/wolf.blend",
+    "fps": 24,
+    "frames": [
+      0,
+      312
+    ],
+    "objects": [
+      {
+        "name": "Hemi",
+        "type": "LIGHT",
+        "dimensions": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "vertices": null,
+        "bones": null,
+        "materials": [],
+        "nla": []
+      },
+      {
+        "name": "wolf_armature",
+        "type": "ARMATURE",
+        "dimensions": [
+          0.27691906690597534,
+          1.4694297313690186,
+          0.4851588010787964
+        ],
+        "vertices": null,
+        "bones": 26,
+        "materials": [],
+        "nla": [
+          {
+            "name": "NlaTrack",
+            "strips": [
+              {
+                "name": "wolf_idle",
+                "action": "wolf_idle",
+                "frames": [
+                  0.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.001",
+            "strips": [
+              {
+                "name": "wolf_walk",
+                "action": "wolf_walk",
+                "frames": [
+                  0.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.003",
+            "strips": [
+              {
+                "name": "wolf_fly",
+                "action": "wolf_fly",
+                "frames": [
+                  0.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.004",
+            "strips": [
+              {
+                "name": "wolf_land",
+                "action": "wolf_land",
+                "frames": [
+                  0.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.005",
+            "strips": [
+              {
+                "name": "wolf_attack01",
+                "action": "wolf_attack01",
+                "frames": [
+                  0.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.006",
+            "strips": [
+              {
+                "name": "wolf_die",
+                "action": "wolf_die",
+                "frames": [
+                  0.0,
+                  99.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.007",
+            "strips": [
+              {
+                "name": "wolf_cry",
+                "action": "wolf_cry",
+                "frames": [
+                  0.0,
+                  36.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.002",
+            "strips": [
+              {
+                "name": "wolf_jump",
+                "action": "wolf_jump",
+                "frames": [
+                  0.0,
+                  24.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.010",
+            "strips": [
+              {
+                "name": "wolf_run",
+                "action": "wolf_run",
+                "frames": [
+                  0.0,
+                  24.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "wolf_female",
+        "type": "MESH",
+        "dimensions": [
+          0.3585709035396576,
+          1.4786715507507324,
+          0.7332284450531006
+        ],
+        "vertices": 692,
+        "bones": null,
+        "materials": [
+          "wolf_female"
+        ],
+        "nla": []
+      },
+      {
+        "name": "wolf_male2",
+        "type": "MESH",
+        "dimensions": [
+          0.3585708737373352,
+          1.462179183959961,
+          0.8488303422927856
+        ],
+        "vertices": 692,
+        "bones": null,
+        "materials": [
+          "wolf_male"
+        ],
+        "nla": []
+      }
+    ],
+    "actions": [
+      {
+        "name": "wolf_attack01",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_cry",
+        "frames": [
+          0.0,
+          36.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_die",
+        "frames": [
+          0.0,
+          99.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_fly",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_idle",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_jump",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_land",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_run",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "fcurves": 197
+      },
+      {
+        "name": "wolf_walk",
+        "frames": [
+          0.0,
+          24.0
+        ],
+        "fcurves": 197
+      }
+    ],
+    "images": [
+      {
+        "name": "Render Result",
+        "size": [
+          0,
+          0
+        ],
+        "path": "",
+        "packed": false
+      },
+      {
+        "name": "tex/actors/skins/wolf_female.png",
+        "size": [
+          0,
+          0
+        ],
+        "path": "//tex/skin/wolf_female.png",
+        "packed": false
+      },
+      {
+        "name": "wolf_female.png",
+        "size": [
+          1024,
+          1024
+        ],
+        "path": "//game/data/tex/actor/wolf_female.png",
+        "packed": true
+      },
+      {
+        "name": "wolf_male.png",
+        "size": [
+          0,
+          0
+        ],
+        "path": "//tex/skin/wolf_male.png",
+        "packed": false
+      }
+    ],
+    "embedded_texts": []
+  },
+  "quaternius_wolf": {
+    "file": "assets/v8/combat/quaternius/Wolf.blend",
+    "fps": 30,
+    "frames": [
+      1,
+      32
+    ],
+    "objects": [
+      {
+        "name": "AnimalArmature",
+        "type": "ARMATURE",
+        "dimensions": [
+          0.7343040108680725,
+          6.328005790710449,
+          2.6015374660491943
+        ],
+        "vertices": null,
+        "bones": 51,
+        "materials": [],
+        "nla": [
+          {
+            "name": "NlaTrack",
+            "strips": [
+              {
+                "name": "Attack",
+                "action": "Attack",
+                "frames": [
+                  0.0,
+                  40.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.001",
+            "strips": [
+              {
+                "name": "Death",
+                "action": "Death",
+                "frames": [
+                  0.0,
+                  32.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.002",
+            "strips": [
+              {
+                "name": "Eating",
+                "action": "Eating",
+                "frames": [
+                  0.0,
+                  76.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.003",
+            "strips": [
+              {
+                "name": "Gallop",
+                "action": "Gallop",
+                "frames": [
+                  0.0,
+                  17.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.004",
+            "strips": [
+              {
+                "name": "Gallop_Jump",
+                "action": "Gallop_Jump",
+                "frames": [
+                  0.0,
+                  28.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.008",
+            "strips": [
+              {
+                "name": "Idle_HitReact_Left",
+                "action": "Idle_HitReact_Left",
+                "frames": [
+                  0.0,
+                  20.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.009",
+            "strips": [
+              {
+                "name": "Idle_HitReact_Right",
+                "action": "Idle_HitReact_Right",
+                "frames": [
+                  0.0,
+                  20.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.010",
+            "strips": [
+              {
+                "name": "Jump_ToIdle",
+                "action": "Jump_ToIdle",
+                "frames": [
+                  0.0,
+                  40.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.011",
+            "strips": [
+              {
+                "name": "Walk",
+                "action": "Walk",
+                "frames": [
+                  0.0,
+                  32.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.007",
+            "strips": [
+              {
+                "name": "Idle_2_HeadLow",
+                "action": "Idle_2_HeadLow",
+                "frames": [
+                  0.0,
+                  120.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.006",
+            "strips": [
+              {
+                "name": "Idle_2",
+                "action": "Idle_2",
+                "frames": [
+                  0.0,
+                  100.0
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NlaTrack.005",
+            "strips": [
+              {
+                "name": "Idle",
+                "action": "Idle",
+                "frames": [
+                  0.0,
+                  100.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wolf",
+        "type": "MESH",
+        "dimensions": [
+          1.056564211845398,
+          5.272342681884766,
+          2.701021671295166
+        ],
+        "vertices": 983,
+        "bones": null,
+        "materials": [
+          "Main",
+          "Nose",
+          "Main_Light",
+          "Eyes_Black"
+        ],
+        "nla": []
+      }
+    ],
+    "actions": [
+      {
+        "name": "Attack",
+        "frames": [
+          0.0,
+          40.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Death",
+        "frames": [
+          0.0,
+          32.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Eating",
+        "frames": [
+          0.0,
+          76.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Gallop",
+        "frames": [
+          0.0,
+          17.0
+        ],
+        "fcurves": 322
+      },
+      {
+        "name": "Gallop_Jump",
+        "frames": [
+          0.0,
+          28.0
+        ],
+        "fcurves": 322
+      },
+      {
+        "name": "Idle",
+        "frames": [
+          0.0,
+          100.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Idle_2",
+        "frames": [
+          0.0,
+          100.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Idle_2_HeadLow",
+        "frames": [
+          0.0,
+          120.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Idle_HitReact_Left",
+        "frames": [
+          0.0,
+          20.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Idle_HitReact_Right",
+        "frames": [
+          0.0,
+          20.0
+        ],
+        "fcurves": 315
+      },
+      {
+        "name": "Jump_ToIdle",
+        "frames": [
+          0.0,
+          40.0
+        ],
+        "fcurves": 322
+      },
+      {
+        "name": "Walk",
+        "frames": [
+          0.0,
+          32.0
+        ],
+        "fcurves": 322
+      }
+    ],
+    "images": [
+      {
+        "name": "Render Result",
+        "size": [
+          0,
+          0
+        ],
+        "path": "",
+        "packed": false
+      },
+      {
+        "name": "Texture.png",
+        "size": [
+          0,
+          0
+        ],
+        "path": "//../\u00a0/Blender/DavidThorn/Library/Large/Texture.png",
+        "packed": false
+      },
+      {
+        "name": "WolfSide.png",
+        "size": [
+          0,
+          0
+        ],
+        "path": "//../../../../../../WolfSide.png",
+        "packed": false
+      }
+    ],
+    "embedded_texts": []
+  }
+}

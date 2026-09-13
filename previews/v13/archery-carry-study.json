@@ -1,0 +1,282 @@
+[
+  {
+    "frame": 1,
+    "angle": 0,
+    "camera_distance_m": 0.020683301612734795,
+    "grid_coverage": 0.5111111111111111,
+    "near_coverage": 0.5111111111111111
+  },
+  {
+    "frame": 1,
+    "angle": -10,
+    "camera_distance_m": 0.07098869979381561,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 1,
+    "angle": -20,
+    "camera_distance_m": 0.15359826385974884,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 1,
+    "angle": -35,
+    "camera_distance_m": 0.27339643239974976,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 1,
+    "angle": -50,
+    "camera_distance_m": 0.37836870551109314,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 1,
+    "angle": -65,
+    "camera_distance_m": 0.4608098566532135,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 1,
+    "angle": 35,
+    "camera_distance_m": 0.2610378861427307,
+    "grid_coverage": 0.037037037037037035,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 1,
+    "angle": 50,
+    "camera_distance_m": 0.3463291525840759,
+    "grid_coverage": 0.007407407407407408,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 4,
+    "angle": 0,
+    "camera_distance_m": 0.02863060124218464,
+    "grid_coverage": 0.4666666666666667,
+    "near_coverage": 0.4666666666666667
+  },
+  {
+    "frame": 4,
+    "angle": -10,
+    "camera_distance_m": 0.06974897533655167,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 4,
+    "angle": -20,
+    "camera_distance_m": 0.14818081259727478,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 4,
+    "angle": -35,
+    "camera_distance_m": 0.2651123106479645,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 4,
+    "angle": -50,
+    "camera_distance_m": 0.36821407079696655,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 4,
+    "angle": -65,
+    "camera_distance_m": 0.4497850835323334,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 4,
+    "angle": 35,
+    "camera_distance_m": 0.258573442697525,
+    "grid_coverage": 0.037037037037037035,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 4,
+    "angle": 50,
+    "camera_distance_m": 0.3412298262119293,
+    "grid_coverage": 0.007407407407407408,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 7,
+    "angle": 0,
+    "camera_distance_m": 0.0589829757809639,
+    "grid_coverage": 0.31851851851851853,
+    "near_coverage": 0.31851851851851853
+  },
+  {
+    "frame": 7,
+    "angle": -10,
+    "camera_distance_m": 0.09424389153718948,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 7,
+    "angle": -20,
+    "camera_distance_m": 0.16617260873317719,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 7,
+    "angle": -35,
+    "camera_distance_m": 0.27880388498306274,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 7,
+    "angle": -50,
+    "camera_distance_m": 0.3796517252922058,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 7,
+    "angle": -65,
+    "camera_distance_m": 0.45935070514678955,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 7,
+    "angle": 35,
+    "camera_distance_m": 0.26044362783432007,
+    "grid_coverage": 0.07407407407407407,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 7,
+    "angle": 50,
+    "camera_distance_m": 0.3434598445892334,
+    "grid_coverage": 0.02962962962962963,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 8,
+    "angle": 0,
+    "camera_distance_m": 0.059236735105514526,
+    "grid_coverage": 0.3037037037037037,
+    "near_coverage": 0.3037037037037037
+  },
+  {
+    "frame": 8,
+    "angle": -10,
+    "camera_distance_m": 0.09277907013893127,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 8,
+    "angle": -20,
+    "camera_distance_m": 0.16594915091991425,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 8,
+    "angle": -35,
+    "camera_distance_m": 0.2795425355434418,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 8,
+    "angle": -50,
+    "camera_distance_m": 0.3817577064037323,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 8,
+    "angle": -65,
+    "camera_distance_m": 0.46246346831321716,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 8,
+    "angle": 35,
+    "camera_distance_m": 0.2656550407409668,
+    "grid_coverage": 0.06666666666666667,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 8,
+    "angle": 50,
+    "camera_distance_m": 0.3490702211856842,
+    "grid_coverage": 0.037037037037037035,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 9,
+    "angle": 0,
+    "camera_distance_m": 0.05631546676158905,
+    "grid_coverage": 0.3111111111111111,
+    "near_coverage": 0.3111111111111111
+  },
+  {
+    "frame": 9,
+    "angle": -10,
+    "camera_distance_m": 0.09686063230037689,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 9,
+    "angle": -20,
+    "camera_distance_m": 0.17203103005886078,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 9,
+    "angle": -35,
+    "camera_distance_m": 0.2858983874320984,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 9,
+    "angle": -50,
+    "camera_distance_m": 0.3873211443424225,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 9,
+    "angle": -65,
+    "camera_distance_m": 0.4670656621456146,
+    "grid_coverage": 0.0,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 9,
+    "angle": 35,
+    "camera_distance_m": 0.2602732479572296,
+    "grid_coverage": 0.06666666666666667,
+    "near_coverage": 0.0
+  },
+  {
+    "frame": 9,
+    "angle": 50,
+    "camera_distance_m": 0.3454243540763855,
+    "grid_coverage": 0.02962962962962963,
+    "near_coverage": 0.0
+  }
+]

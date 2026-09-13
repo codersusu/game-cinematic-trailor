@@ -1,0 +1,38 @@
+[
+  {
+    "file": "boar/boar.blend",
+    "url": "https://opengameart.org/sites/default/files/boar_0.blend",
+    "bytes": 1780848,
+    "sha256": "c16625680d056f0402d1be209c41d16a63394aec94b082a63ad32f562e9f2d2d"
+  },
+  {
+    "file": "boar/source-preview.jpg",
+    "url": "https://opengameart.org/sites/default/files/%21screenie_6.jpg",
+    "bytes": 112409,
+    "sha256": "f66a0a01f9ff4df9180e10e2ed918cc96fc160ea0cb13eec61852e688c924271"
+  },
+  {
+    "file": "coincoin-wolf/low-poly-wolf.zip",
+    "url": "https://opengameart.org/sites/default/files/low-poly-wolf.zip",
+    "bytes": 3096809,
+    "sha256": "6ea91928a630225fdd7dd76a84371d2390fe78be8e07bc410681e7b5e87e79be"
+  },
+  {
+    "file": "coincoin-wolf/source-preview.png",
+    "url": "https://opengameart.org/sites/default/files/vignette_3.png",
+    "bytes": 482308,
+    "sha256": "56d44a5d35239b0685848cf6cde3fbcc25e5ffeaece71f69e7557612bbdbaf2a"
+  },
+  {
+    "file": "tomek-wolf/wolf.blend",
+    "url": "https://opengameart.org/sites/default/files/wolf_1.blend",
+    "bytes": 2197528,
+    "sha256": "98cb707d20ba11da8f6a215177ebe7fa731db60083bed90a416fa27ff8499161"
+  },
+  {
+    "file": "tomek-wolf/source-preview.png",
+    "url": "https://opengameart.org/sites/default/files/wolf_4.png",
+    "bytes": 80605,
+    "sha256": "02f0a795ce39cea222a59fc542e379f1ebf979fad8a104e598ce57aeaa5d3dd2"
+  }
+]

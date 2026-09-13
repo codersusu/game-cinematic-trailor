@@ -1,0 +1,14 @@
+{
+  "scene": "option-a-bow-guardian.blend",
+  "sha256": "53d6be0046e6a76e17a05b1018683613c84db3e51bccc074e71c7eb7081bb413",
+  "resolution": [
+    768,
+    432
+  ],
+  "fps": 12,
+  "source_fps": 12.0,
+  "source_frame_start": 1,
+  "source_frame_end": 96,
+  "engine": "EEVEE",
+  "samples": 8
+}

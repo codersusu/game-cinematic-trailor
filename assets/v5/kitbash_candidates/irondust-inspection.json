@@ -1,0 +1,310 @@
+{
+  "objects": [
+    {
+      "name": "Barrel",
+      "type": "MESH",
+      "vertices": 32,
+      "dimensions": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Camera",
+      "type": "CAMERA",
+      "vertices": 0,
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Crate",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Cube",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        1.5054744482040405,
+        0.20000004768371582,
+        0.5
+      ],
+      "materials": []
+    },
+    {
+      "name": "Door1",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        2.0000009536743164,
+        0.5000002384185791,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Door2",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        2.0000009536743164,
+        0.5000002384185791,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Floor",
+      "type": "MESH",
+      "vertices": 4,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Floor2",
+      "type": "MESH",
+      "vertices": 4,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Floor3",
+      "type": "MESH",
+      "vertices": 4,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Floor4",
+      "type": "MESH",
+      "vertices": 4,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Floor5",
+      "type": "MESH",
+      "vertices": 16,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Floor6",
+      "type": "MESH",
+      "vertices": 16,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Floor7",
+      "type": "MESH",
+      "vertices": 16,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Floor8",
+      "type": "MESH",
+      "vertices": 16,
+      "dimensions": [
+        4.0,
+        4.0,
+        0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "Locker1",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        1.0000004768371582,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Locker2",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        1.0000004768371582,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Wall1",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Wall2",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Wall3",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Wall4",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Wall5",
+      "type": "MESH",
+      "vertices": 12,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Wall6",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Wall7",
+      "type": "MESH",
+      "vertices": 8,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    },
+    {
+      "name": "Window",
+      "type": "MESH",
+      "vertices": 24,
+      "dimensions": [
+        4.000001907348633,
+        1.0000004768371582,
+        4.0
+      ],
+      "materials": [
+        "Material"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "BluePack_Albedo.tga",
+      "filename": "BluePack_Albedo.tga",
+      "size": [
+        0,
+        0
+      ],
+      "packed": false
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material",
+      "nodes": false
+    }
+  ],
+  "embedded_texts": []
+}

@@ -1,0 +1,26 @@
+{
+  "view": "third",
+  "technical_checks": "passed",
+  "frames": 144,
+  "fps": 12,
+  "duration_seconds": 12,
+  "source": {
+    "scene": "bear-bow-forest-v10.blend",
+    "sha256": "2f438e256ab943120b68d1f9ff219d714c781396679bf6ddf30b4f117499b461",
+    "view": "third",
+    "frames": 144,
+    "fps": 12,
+    "seconds": 12,
+    "resolution": [
+      960,
+      540
+    ],
+    "engine": "EEVEE",
+    "samples": 16,
+    "heavy_render": false
+  },
+  "sha256": "5fde0dc2e43923638e0c8445f188f142f3cf8afcf7952e92776ef5f948f31266",
+  "visual_review": "Contact sheet frames 20,35,55,64,96,140 and native frames 20,59,90,126 reviewed: wooded backgrounds continuous, action and doorway legible. Temporary heroine and coarse bear surface remain preview limitations; bear partially occludes heroine near doorway.",
+  "full_realtime_playback": false,
+  "heavy_render": false
+}

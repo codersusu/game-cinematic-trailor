@@ -1,0 +1,4232 @@
+{
+  "modified_frame_range": [
+    37,
+    224
+  ],
+  "preserved_frame_range": [
+    225,
+    576
+  ],
+  "preserved_from_frame": 225,
+  "source_action": "V8 | Native approach and curious index-finger reach",
+  "action": "V12 | Native run entry, doorway check, then walk",
+  "character_scale_unchanged": 0.9357154965400696,
+  "native_run": "f_run_stop.max.fbx",
+  "native_run_source_fps": 30,
+  "native_frames_per_film_frame": 1.25,
+  "start_ground": [
+    -3.8000001907348633,
+    -7.7415361404418945,
+    0.14000000059604645
+  ],
+  "endpoint_ground": [
+    -3.770160675048828,
+    -0.800000011920929,
+    0.14000000059604645
+  ],
+  "native_total_travel_m": 6.941600076340929,
+  "door_check_frames": [
+    56,
+    108
+  ],
+  "door_check_peak": [
+    77,
+    88
+  ],
+  "gaze_strategy": "Right shoulder: distributed torso46deg + neck18 + head76 + eyes22, directed back toward entrance",
+  "face_morph_animation_unchanged": true,
+  "single_later_wonder_preserved": true,
+  "sources": {
+    "run_stop": {
+      "file": "assets/character/heroine_v12/f_run_stop.max.fbx",
+      "duration_frames": 50.0,
+      "root_delta": [
+        1.220703097715159e-06,
+        -3.064300775527954,
+        0.056281983852386475
+      ]
+    },
+    "start": {
+      "file": "assets/character/heroine_v4/f_walk_start.max.fbx",
+      "duration_frames": 28.0,
+      "root_delta": [
+        0.0,
+        -0.7682530283927917,
+        -0.005801379680633545
+      ]
+    },
+    "walk": {
+      "file": "assets/character/heroine_v4/f_walk_neutral_01.max.fbx",
+      "duration_frames": 36.0,
+      "root_delta": [
+        0.0,
+        -1.4565207958221436,
+        0.0
+      ]
+    },
+    "stop": {
+      "file": "assets/character/heroine_v4/f_walk_stop.max.fbx",
+      "duration_frames": 53.0,
+      "root_delta": [
+        -0.03188999742269516,
+        -0.6728299856185913,
+        0.005801379680633545
+      ]
+    },
+    "idle": {
+      "file": "assets/character/heroine_v4/f_idle_breathe_01.max.fbx",
+      "duration_frames": 80.0,
+      "root_delta": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "frames": [
+    {
+      "frame": 37,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000004291534424,
+        -7.741536617279053,
+        0.9423637390136719
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.789940595626831,
+        -7.704881191253662,
+        1.508022427558899
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.516057137779697e-08
+    },
+    {
+      "frame": 38,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -7.649550437927246,
+        0.9587011337280273
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7732348442077637,
+        -7.6026291847229,
+        1.5238475799560547
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 5.754717644079754e-08
+    },
+    {
+      "frame": 39,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -7.557520389556885,
+        0.9818253517150879
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.751389980316162,
+        -7.500800609588623,
+        1.5444432497024536
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.1771382457670398e-07
+    },
+    {
+      "frame": 40,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -7.465925216674805,
+        1.0017924308776855
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.735774040222168,
+        -7.398090362548828,
+        1.5612213611602783
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.013452836104100677,
+      "minimum_boot_clearance_m": 0.01345270132192411
+    },
+    {
+      "frame": 41,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -7.375543594360352,
+        1.0243752002716064
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.728893756866455,
+        -7.300939083099365,
+        1.582001805305481
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.05103559772961889,
+      "minimum_boot_clearance_m": 0.051035736904593815
+    },
+    {
+      "frame": 42,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -7.285122394561768,
+        1.0496522188186646
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.733981132507324,
+        -7.220770835876465,
+        1.6094015836715698
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.07781836941413126,
+      "minimum_boot_clearance_m": 0.07781803987213876
+    },
+    {
+      "frame": 43,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -7.192867279052734,
+        1.007261037826538
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7426204681396484,
+        -7.144167900085449,
+        1.5692797899246216
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.04742848993346474,
+      "minimum_boot_clearance_m": 0.047429105901810875
+    },
+    {
+      "frame": 44,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -7.097200870513916,
+        0.9776702523231506
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7470905780792236,
+        -7.069016456604004,
+        1.5408464670181274
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.011893405741301407,
+      "minimum_boot_clearance_m": 0.011893396155412128
+    },
+    {
+      "frame": 45,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -6.996830463409424,
+        0.9466632008552551
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.737736940383911,
+        -6.977536678314209,
+        1.5080939531326294
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -5.243442424696099e-08
+    },
+    {
+      "frame": 46,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -6.891274452209473,
+        0.9284616708755493
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.739196300506592,
+        -6.867498397827148,
+        1.4889401197433472
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.873167855825919e-07
+    },
+    {
+      "frame": 47,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -6.7823262214660645,
+        0.920465350151062
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7608814239501953,
+        -6.751028060913086,
+        1.4836965799331665
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.3060197190671872e-07
+    },
+    {
+      "frame": 48,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999475479126,
+        -6.670947074890137,
+        0.9249866008758545
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7831203937530518,
+        -6.636471271514893,
+        1.4900673627853394
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 6.536137897583671e-08
+    },
+    {
+      "frame": 49,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999713897705,
+        -6.5466461181640625,
+        0.9370740652084351
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.796422243118286,
+        -6.514687538146973,
+        1.502527117729187
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -7.620760231197288e-08
+    },
+    {
+      "frame": 50,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999713897705,
+        -6.425939559936523,
+        0.949731707572937
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.800058603286743,
+        -6.392082691192627,
+        1.514393925666809
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.007194024305966199,
+      "minimum_boot_clearance_m": 0.007194050513807226
+    },
+    {
+      "frame": 51,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.799999713897705,
+        -6.3232927322387695,
+        0.9603484272956848
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8044488430023193,
+        -6.291366100311279,
+        1.5249640941619873
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0451735042970898,
+      "minimum_boot_clearance_m": 0.04517334907754811
+    },
+    {
+      "frame": 52,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000001907348633,
+        -6.226068496704102,
+        0.9498844146728516
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8041634559631348,
+        -6.205369472503662,
+        1.5150395631790161
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.04159816284386089,
+      "minimum_boot_clearance_m": 0.04159778490241961
+    },
+    {
+      "frame": 53,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000001907348633,
+        -6.1330485343933105,
+        0.9308230876922607
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.803860902786255,
+        -6.138948440551758,
+        1.4960250854492188
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.005068506811408277,
+      "minimum_boot_clearance_m": 0.005068116991654215
+    },
+    {
+      "frame": 54,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000001907348633,
+        -6.045244216918945,
+        0.9086490273475647
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.818607807159424,
+        -6.083122253417969,
+        1.4728347063064575
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.005970195708839196,
+      "minimum_boot_clearance_m": 0.005970101835878983
+    },
+    {
+      "frame": 55,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000001907348633,
+        -5.961643695831299,
+        0.885037899017334
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8210225105285645,
+        -6.022968769073486,
+        1.4456802606582642
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.00420831301837524,
+      "minimum_boot_clearance_m": 0.004208367766784682
+    },
+    {
+      "frame": 56,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.880267143249512,
+        0.8787103891372681
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8209612369537354,
+        -5.954408168792725,
+        1.4360427856445312
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0015911863877214076,
+      "minimum_boot_clearance_m": 0.0015909878377008968
+    },
+    {
+      "frame": 57,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.8043904304504395,
+        0.877373993396759
+      ],
+      "glance_weight": 0.006586761688802504,
+      "head": [
+        -3.8096325397491455,
+        -5.868722438812256,
+        1.4383537769317627
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.7350223591172664e-08
+    },
+    {
+      "frame": 58,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.73036003112793,
+        0.8843808770179749
+      ],
+      "glance_weight": 0.025483209156678538,
+      "head": [
+        -3.8019111156463623,
+        -5.788210391998291,
+        1.4471769332885742
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.1910999428432767e-07
+    },
+    {
+      "frame": 59,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.638236999511719,
+        0.8964778184890747
+      ],
+      "glance_weight": 0.0553935860058309,
+      "head": [
+        -3.7970473766326904,
+        -5.694243431091309,
+        1.459460735321045
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.026687409006911e-07
+    },
+    {
+      "frame": 60,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.525842189788818,
+        0.9066625833511353
+      ],
+      "glance_weight": 0.09502213583846235,
+      "head": [
+        -3.793640613555908,
+        -5.5900468826293945,
+        1.4681825637817383
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.85572333061468e-07
+    },
+    {
+      "frame": 61,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.414468288421631,
+        0.904556393623352
+      ],
+      "glance_weight": 0.14307310225677572,
+      "head": [
+        -3.7923355102539062,
+        -5.490467071533203,
+        1.4640424251556396
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.343315486652564e-07
+    },
+    {
+      "frame": 62,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.3521833419799805,
+        0.8936672210693359
+      ],
+      "glance_weight": 0.19825072886297376,
+      "head": [
+        -3.79357647895813,
+        -5.443492889404297,
+        1.4511146545410156
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.1522491683301226e-07
+    },
+    {
+      "frame": 63,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.317873477935791,
+        0.8911399841308594
+      ],
+      "glance_weight": 0.25925925925925924,
+      "head": [
+        -3.7904109954833984,
+        -5.424583911895752,
+        1.4463272094726562
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.718042800304744e-07
+    },
+    {
+      "frame": 64,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.2834978103637695,
+        0.8814697861671448
+      ],
+      "glance_weight": 0.32480293704783497,
+      "head": [
+        -3.7907345294952393,
+        -5.393857479095459,
+        1.4353241920471191
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.9510849086644697e-07
+    },
+    {
+      "frame": 65,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.234295845031738,
+        0.8899715542793274
+      ],
+      "glance_weight": 0.39358600583090375,
+      "head": [
+        -3.796618700027466,
+        -5.341121673583984,
+        1.4433143138885498
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.1233294669742442e-07
+    },
+    {
+      "frame": 66,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.182185173034668,
+        0.9061905741691589
+      ],
+      "glance_weight": 0.4643127092106683,
+      "head": [
+        -3.801374673843384,
+        -5.282270431518555,
+        1.4602919816970825
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 3.5043587476302207e-09
+    },
+    {
+      "frame": 67,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.140384674072266,
+        0.9215960502624512
+      ],
+      "glance_weight": 0.5356872907893316,
+      "head": [
+        -3.80757474899292,
+        -5.231236934661865,
+        1.4772355556488037
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.3634277978846754e-07
+    },
+    {
+      "frame": 68,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.099485397338867,
+        0.9377201199531555
+      ],
+      "glance_weight": 0.6064139941690961,
+      "head": [
+        -3.813554525375366,
+        -5.180830001831055,
+        1.4946321249008179
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.2740333843463958e-07
+    },
+    {
+      "frame": 69,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.061553001403809,
+        0.9542271494865417
+      ],
+      "glance_weight": 0.675197062952165,
+      "head": [
+        -3.8183627128601074,
+        -5.135086536407471,
+        1.5118452310562134
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.732327427894642e-07
+    },
+    {
+      "frame": 70,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.031367778778076,
+        0.967715322971344
+      ],
+      "glance_weight": 0.7407407407407407,
+      "head": [
+        -3.8189048767089844,
+        -5.095604419708252,
+        1.5263800621032715
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.4161455788586075e-07
+    },
+    {
+      "frame": 71,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -5.002711296081543,
+        0.978974461555481
+      ],
+      "glance_weight": 0.8017492711370262,
+      "head": [
+        -3.8192636966705322,
+        -5.058174133300781,
+        1.5387234687805176
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.723617218013956e-09
+    },
+    {
+      "frame": 72,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -4.975866317749023,
+        0.9845911264419556
+      ],
+      "glance_weight": 0.8569268977432242,
+      "head": [
+        -3.8212459087371826,
+        -5.028265476226807,
+        1.5444464683532715
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.2078991570851905e-07
+    },
+    {
+      "frame": 73,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -4.951114654541016,
+        0.9902580976486206
+      ],
+      "glance_weight": 0.9049778641615376,
+      "head": [
+        -3.8204925060272217,
+        -4.998073101043701,
+        1.550857424736023
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.2925606082681007e-07
+    },
+    {
+      "frame": 74,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000006675720215,
+        -4.929677963256836,
+        0.9955543875694275
+      ],
+      "glance_weight": 0.9446064139941691,
+      "head": [
+        -3.8177647590637207,
+        -4.967006683349609,
+        1.5572717189788818
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.951164046998244e-08
+    },
+    {
+      "frame": 75,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000011444091797,
+        -4.910655975341797,
+        0.9995386600494385
+      ],
+      "glance_weight": 0.9745167908433215,
+      "head": [
+        -3.814815044403076,
+        -4.9386701583862305,
+        1.5620102882385254
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.4585320728954798e-08
+    },
+    {
+      "frame": 76,
+      "segment": "native run and deceleration",
+      "root": [
+        -3.8000011444091797,
+        -4.892640113830566,
+        1.001409888267517
+      ],
+      "glance_weight": 0.9934132383111975,
+      "head": [
+        -3.8124027252197266,
+        -4.913773536682129,
+        1.564299464225769
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.4161156275394049e-08
+    },
+    {
+      "frame": 77,
+      "segment": "check doorway",
+      "root": [
+        -3.8000011444091797,
+        -4.874222755432129,
+        1.0021440982818604
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.8085429668426514,
+        -4.886506080627441,
+        1.5654613971710205
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.7571851807239867e-07
+    },
+    {
+      "frame": 78,
+      "segment": "check doorway",
+      "root": [
+        -3.8000006675720215,
+        -4.874223709106445,
+        1.0020129680633545
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.809661626815796,
+        -4.888197422027588,
+        1.5652192831039429
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.2017897061132885e-08
+    },
+    {
+      "frame": 79,
+      "segment": "check doorway",
+      "root": [
+        -3.8000006675720215,
+        -4.874225616455078,
+        1.002036690711975
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.810962438583374,
+        -4.890096664428711,
+        1.565101981163025
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -5.835832134204466e-08
+    },
+    {
+      "frame": 80,
+      "segment": "check doorway",
+      "root": [
+        -3.8000006675720215,
+        -4.8742265701293945,
+        1.0021016597747803
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.8116557598114014,
+        -4.890987873077393,
+        1.56508207321167
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.6383533696373576e-08
+    },
+    {
+      "frame": 81,
+      "segment": "check doorway",
+      "root": [
+        -3.8000001907348633,
+        -4.874228477478027,
+        1.0021394491195679
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.8116986751556396,
+        -4.890791416168213,
+        1.5651066303253174
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -5.033002936638553e-08
+    },
+    {
+      "frame": 82,
+      "segment": "check doorway",
+      "root": [
+        -3.8000001907348633,
+        -4.874229431152344,
+        1.0021750926971436
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.811668872833252,
+        -4.890392780303955,
+        1.5651410818099976
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.45062673434704e-08
+    },
+    {
+      "frame": 83,
+      "segment": "check doorway",
+      "root": [
+        -3.8000001907348633,
+        -4.87423038482666,
+        1.0022082328796387
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.811657190322876,
+        -4.890039920806885,
+        1.5651744604110718
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.296419274327448e-08
+    },
+    {
+      "frame": 84,
+      "segment": "check doorway",
+      "root": [
+        -3.8000001907348633,
+        -4.874231338500977,
+        1.0022391080856323
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.8117306232452393,
+        -4.889909267425537,
+        1.5652000904083252
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.038571986189396e-07
+    },
+    {
+      "frame": 85,
+      "segment": "check doorway",
+      "root": [
+        -3.799999713897705,
+        -4.874232292175293,
+        1.00226628780365
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.8118796348571777,
+        -4.8899970054626465,
+        1.5652183294296265
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -4.4664266229954563e-08
+    },
+    {
+      "frame": 86,
+      "segment": "check doorway",
+      "root": [
+        -3.799999713897705,
+        -4.874233245849609,
+        1.002289891242981
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.811939239501953,
+        -4.889928817749023,
+        1.5652488470077515
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.074280472529892e-08
+    },
+    {
+      "frame": 87,
+      "segment": "native start 0",
+      "root": [
+        -3.8000011444091797,
+        -4.874222755432129,
+        1.0022354125976562
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.8120272159576416,
+        -4.890633583068848,
+        1.5651848316192627
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.3571740675732968e-09
+    },
+    {
+      "frame": 88,
+      "segment": "native start 0",
+      "root": [
+        -3.8013365268707275,
+        -4.862651348114014,
+        1.0001710653305054
+      ],
+      "glance_weight": 1,
+      "head": [
+        -3.814983367919922,
+        -4.881531238555908,
+        1.5631742477416992
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.542919308705759e-07
+    },
+    {
+      "frame": 89,
+      "segment": "native start 0",
+      "root": [
+        -3.801936149597168,
+        -4.849324703216553,
+        0.9999001026153564
+      ],
+      "glance_weight": 0.99275,
+      "head": [
+        -3.8160362243652344,
+        -4.867720127105713,
+        1.5633137226104736
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -9.96455900847959e-08
+    },
+    {
+      "frame": 90,
+      "segment": "native start 0",
+      "root": [
+        -3.8032684326171875,
+        -4.835690498352051,
+        0.9993888735771179
+      ],
+      "glance_weight": 0.972,
+      "head": [
+        -3.817777156829834,
+        -4.852081775665283,
+        1.5632367134094238
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.642414567854416e-08
+    },
+    {
+      "frame": 91,
+      "segment": "native start 0",
+      "root": [
+        -3.805408000946045,
+        -4.821724891662598,
+        0.9979653358459473
+      ],
+      "glance_weight": 0.93925,
+      "head": [
+        -3.8210625648498535,
+        -4.836501121520996,
+        1.562037706375122
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -6.167064700579594e-08
+    },
+    {
+      "frame": 92,
+      "segment": "native start 0",
+      "root": [
+        -3.808959484100342,
+        -4.80699348449707,
+        0.9945728778839111
+      ],
+      "glance_weight": 0.896,
+      "head": [
+        -3.825222969055176,
+        -4.819681167602539,
+        1.5588889122009277
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -6.041373568077546e-09
+    },
+    {
+      "frame": 93,
+      "segment": "native start 0",
+      "root": [
+        -3.812839984893799,
+        -4.791116714477539,
+        0.9891811609268188
+      ],
+      "glance_weight": 0.84375,
+      "head": [
+        -3.8290069103240967,
+        -4.802128314971924,
+        1.5537410974502563
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.7495913740294142e-08
+    },
+    {
+      "frame": 94,
+      "segment": "native start 0",
+      "root": [
+        -3.8163483142852783,
+        -4.77359676361084,
+        0.9821180105209351
+      ],
+      "glance_weight": 0.784,
+      "head": [
+        -3.831493377685547,
+        -4.782589435577393,
+        1.5469303131103516
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.4860552805549005e-08
+    },
+    {
+      "frame": 95,
+      "segment": "native start 0",
+      "root": [
+        -3.8191111087799072,
+        -4.7540082931518555,
+        0.9735985994338989
+      ],
+      "glance_weight": 0.71825,
+      "head": [
+        -3.83251953125,
+        -4.759382724761963,
+        1.538638949394226
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.4565079687354228e-09
+    },
+    {
+      "frame": 96,
+      "segment": "native start 0",
+      "root": [
+        -3.8213064670562744,
+        -4.730170249938965,
+        0.9635556936264038
+      ],
+      "glance_weight": 0.6479999999999999,
+      "head": [
+        -3.831834554672241,
+        -4.732413291931152,
+        1.5287418365478516
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.6773044614625263e-08
+    },
+    {
+      "frame": 97,
+      "segment": "native start 0",
+      "root": [
+        -3.8228189945220947,
+        -4.701803207397461,
+        0.9525406360626221
+      ],
+      "glance_weight": 0.5747499999999999,
+      "head": [
+        -3.8301336765289307,
+        -4.70416784286499,
+        1.5178519487380981
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -4.8702809812839476e-08
+    },
+    {
+      "frame": 98,
+      "segment": "native start 0",
+      "root": [
+        -3.8231794834136963,
+        -4.6689910888671875,
+        0.94135981798172
+      ],
+      "glance_weight": 0.5,
+      "head": [
+        -3.8273873329162598,
+        -4.675265312194824,
+        1.506842851638794
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -5.933635094379497e-08
+    },
+    {
+      "frame": 99,
+      "segment": "native start 0",
+      "root": [
+        -3.8221027851104736,
+        -4.6309099197387695,
+        0.9321792721748352
+      ],
+      "glance_weight": 0.4252499999999999,
+      "head": [
+        -3.8237507343292236,
+        -4.643659591674805,
+        1.497789978981018
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.5641349326855902e-08
+    },
+    {
+      "frame": 100,
+      "segment": "native start 0",
+      "root": [
+        -3.8181464672088623,
+        -4.585204124450684,
+        0.9275395274162292
+      ],
+      "glance_weight": 0.352,
+      "head": [
+        -3.8209569454193115,
+        -4.605006217956543,
+        1.4930475950241089
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -7.40523042330743e-08
+    },
+    {
+      "frame": 101,
+      "segment": "native start 0",
+      "root": [
+        -3.8121979236602783,
+        -4.53282356262207,
+        0.9290216565132141
+      ],
+      "glance_weight": 0.28174999999999994,
+      "head": [
+        -3.818711280822754,
+        -4.561095714569092,
+        1.494197964668274
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 5.194277064024533e-09
+    },
+    {
+      "frame": 102,
+      "segment": "native start 0",
+      "root": [
+        -3.806885242462158,
+        -4.479216575622559,
+        0.9357361793518066
+      ],
+      "glance_weight": 0.21600000000000008,
+      "head": [
+        -3.8182625770568848,
+        -4.5174641609191895,
+        1.500243902206421
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.0869985356265488e-07
+    },
+    {
+      "frame": 103,
+      "segment": "native start 0",
+      "root": [
+        -3.801295042037964,
+        -4.423589706420898,
+        0.9455164670944214
+      ],
+      "glance_weight": 0.15625,
+      "head": [
+        -3.814903974533081,
+        -4.4766130447387695,
+        1.5089240074157715
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.3474708976390914e-07
+    },
+    {
+      "frame": 104,
+      "segment": "native start 0",
+      "root": [
+        -3.798743724822998,
+        -4.368695259094238,
+        0.9585563540458679
+      ],
+      "glance_weight": 0.10399999999999987,
+      "head": [
+        -3.812335252761841,
+        -4.43467378616333,
+        1.5206151008605957
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.7451620198949414e-07
+    },
+    {
+      "frame": 105,
+      "segment": "native start 0",
+      "root": [
+        -3.799215793609619,
+        -4.322329521179199,
+        0.969211995601654
+      ],
+      "glance_weight": 0.06075000000000008,
+      "head": [
+        -3.8135180473327637,
+        -4.392169952392578,
+        1.5306402444839478
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.8391374534409977e-10
+    },
+    {
+      "frame": 106,
+      "segment": "native start 0",
+      "root": [
+        -3.799003839492798,
+        -4.284784317016602,
+        0.9764009118080139
+      ],
+      "glance_weight": 0.028000000000000025,
+      "head": [
+        -3.8131184577941895,
+        -4.3508830070495605,
+        1.538185715675354
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.380484257462733e-08
+    },
+    {
+      "frame": 107,
+      "segment": "native start 0",
+      "root": [
+        -3.7978157997131348,
+        -4.247932434082031,
+        0.9821935892105103
+      ],
+      "glance_weight": 0.007249999999999979,
+      "head": [
+        -3.8103137016296387,
+        -4.3093719482421875,
+        1.5445019006729126
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 9.79791989763612e-08
+    },
+    {
+      "frame": 108,
+      "segment": "native start 0",
+      "root": [
+        -3.7976248264312744,
+        -4.208681106567383,
+        0.9873480796813965
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.808466672897339,
+        -4.263126373291016,
+        1.5504480600357056
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.290512822993417e-07
+    },
+    {
+      "frame": 109,
+      "segment": "native start 0",
+      "root": [
+        -3.7991833686828613,
+        -4.170475959777832,
+        0.9911597371101379
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.808222532272339,
+        -4.215953350067139,
+        1.5551860332489014
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.1666095448004121e-07
+    },
+    {
+      "frame": 110,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -4.1291093826293945,
+        0.9893677234649658
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8121416568756104,
+        -4.224184989929199,
+        1.5456342697143555
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 9.641068560162225e-08
+    },
+    {
+      "frame": 111,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -4.085365295410156,
+        0.988991379737854
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8140370845794678,
+        -4.144837856292725,
+        1.5482559204101562
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.5991296101479655e-07
+    },
+    {
+      "frame": 112,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -4.041680335998535,
+        0.9831303358078003
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.815746784210205,
+        -4.067865371704102,
+        1.5447196960449219
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.4717965729781355e-09
+    },
+    {
+      "frame": 113,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.998079299926758,
+        0.971765398979187
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8160486221313477,
+        -4.008838176727295,
+        1.534476399421692
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.313478331683605e-07
+    },
+    {
+      "frame": 114,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.954237461090088,
+        0.9613866806030273
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8152382373809814,
+        -3.9626877307891846,
+        1.5245082378387451
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.2151086675737943e-07
+    },
+    {
+      "frame": 115,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.9098684787750244,
+        0.9547513723373413
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.814525604248047,
+        -3.9167182445526123,
+        1.5182162523269653
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.306645844885047e-07
+    },
+    {
+      "frame": 116,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.864621877670288,
+        0.952499508857727
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8139443397521973,
+        -3.871246576309204,
+        1.5162357091903687
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.1063573474023869e-07
+    },
+    {
+      "frame": 117,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.8185558319091797,
+        0.9583263397216797
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8134372234344482,
+        -3.8266403675079346,
+        1.5222593545913696
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.638534654653135e-07
+    },
+    {
+      "frame": 118,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.7721498012542725,
+        0.9621098041534424
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.812901735305786,
+        -3.783759117126465,
+        1.5261412858963013
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 8.07729749557895e-07
+    },
+    {
+      "frame": 119,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.7256438732147217,
+        0.9603185653686523
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.812209129333496,
+        -3.7424135208129883,
+        1.5243221521377563
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.8846436239682305e-08
+    },
+    {
+      "frame": 120,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.679014205932617,
+        0.9732205867767334
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8112900257110596,
+        -3.701904773712158,
+        1.5370457172393799
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.0600538560834316e-07
+    },
+    {
+      "frame": 121,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.632277250289917,
+        0.9838435649871826
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8101065158843994,
+        -3.661288022994995,
+        1.5473742485046387
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 3.539504944694016e-08
+    },
+    {
+      "frame": 122,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.585427761077881,
+        0.9925085306167603
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.808715343475342,
+        -3.619877338409424,
+        1.555686116218567
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 9.459188535232421e-08
+    },
+    {
+      "frame": 123,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.538466453552246,
+        0.9974976778030396
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8072550296783447,
+        -3.577028751373291,
+        1.5603502988815308
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -4.390624835926005e-09
+    },
+    {
+      "frame": 124,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.491366386413574,
+        0.9978353977203369
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8059487342834473,
+        -3.531766653060913,
+        1.56052827835083
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.7569462662514468e-08
+    },
+    {
+      "frame": 125,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.4441452026367188,
+        0.9940413236618042
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.804572105407715,
+        -3.4844753742218018,
+        1.5567415952682495
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.7835711669552694e-08
+    },
+    {
+      "frame": 126,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.3968000411987305,
+        0.9865189790725708
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8030736446380615,
+        -3.4356560707092285,
+        1.5493382215499878
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.479380883351311e-07
+    },
+    {
+      "frame": 127,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.3493285179138184,
+        0.9766623973846436
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8016340732574463,
+        -3.3857016563415527,
+        1.5396589040756226
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.3316030934038565e-08
+    },
+    {
+      "frame": 128,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.3017029762268066,
+        0.9666640758514404
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8004977703094482,
+        -3.3349759578704834,
+        1.5298558473587036
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.1968183000199417e-08
+    },
+    {
+      "frame": 129,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.2539443969726562,
+        0.9580805897712708
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7998759746551514,
+        -3.2840840816497803,
+        1.5214483737945557
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.47355466057131e-08
+    },
+    {
+      "frame": 130,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000006675720215,
+        -3.2060494422912598,
+        0.9504925012588501
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.799955129623413,
+        -3.2334749698638916,
+        1.5140025615692139
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 9.461089442441839e-08
+    },
+    {
+      "frame": 131,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -3.1580142974853516,
+        0.9474549293518066
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8008828163146973,
+        -3.1835873126983643,
+        1.5110573768615723
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.798832510724324e-08
+    },
+    {
+      "frame": 132,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -3.1098098754882812,
+        0.9524220824241638
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8029441833496094,
+        -3.134460210800171,
+        1.516050100326538
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.4150613991681382e-07
+    },
+    {
+      "frame": 133,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -3.061152458190918,
+        0.957676887512207
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8057546615600586,
+        -3.0851850509643555,
+        1.5212469100952148
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -9.558418112565192e-08
+    },
+    {
+      "frame": 134,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -3.011115074157715,
+        0.9688720107078552
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.808929681777954,
+        -3.034649133682251,
+        1.5322540998458862
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.4064378267851794e-10
+    },
+    {
+      "frame": 135,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -2.9596991539001465,
+        0.9797333478927612
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.81211519241333,
+        -2.9827053546905518,
+        1.542766809463501
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.354844410081604e-08
+    },
+    {
+      "frame": 136,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -2.9073424339294434,
+        0.9884164333343506
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.814335823059082,
+        -2.929326057434082,
+        1.5509330034255981
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.1215428348007066e-08
+    },
+    {
+      "frame": 137,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -2.8549180030822754,
+        0.9968336820602417
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8161349296569824,
+        -2.876167058944702,
+        1.5587023496627808
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.689252179421402e-08
+    },
+    {
+      "frame": 138,
+      "segment": "native walk 1",
+      "root": [
+        -3.8000009059906006,
+        -2.802842140197754,
+        0.9994008541107178
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.817249298095703,
+        -2.823450803756714,
+        1.560890555381775
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.4530666861987136e-07
+    },
+    {
+      "frame": 139,
+      "segment": "native walk 2",
+      "root": [
+        -3.8000009059906006,
+        -2.7574710845947266,
+        0.998798668384552
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8174262046813965,
+        -2.7767560482025146,
+        1.560349941253662
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.1428639420940634e-07
+    },
+    {
+      "frame": 140,
+      "segment": "native walk 2",
+      "root": [
+        -3.8000009059906006,
+        -2.7137341499328613,
+        0.9945279359817505
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8160150051116943,
+        -2.7278592586517334,
+        1.556414246559143
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.304695850303574e-09
+    },
+    {
+      "frame": 141,
+      "segment": "native walk 2",
+      "root": [
+        -3.8000009059906006,
+        -2.670072555541992,
+        0.9834740161895752
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8158888816833496,
+        -2.681666374206543,
+        1.5457704067230225
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.038950632499148e-07
+    },
+    {
+      "frame": 142,
+      "segment": "native walk 2",
+      "root": [
+        -3.8000009059906006,
+        -2.6264681816101074,
+        0.9695855379104614
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8158774375915527,
+        -2.6367292404174805,
+        1.5323867797851562
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.3702861925701804e-07
+    },
+    {
+      "frame": 143,
+      "segment": "native walk 2",
+      "root": [
+        -3.8000009059906006,
+        -2.582550048828125,
+        0.959186315536499
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.815077543258667,
+        -2.5905661582946777,
+        1.522383451461792
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.3867636428077645e-07
+    },
+    {
+      "frame": 144,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.537961483001709,
+        0.9541855454444885
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.814406156539917,
+        -2.544715642929077,
+        1.5177072286605835
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.0665201694015636e-07
+    },
+    {
+      "frame": 145,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.4925589561462402,
+        0.9530254602432251
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.813839912414551,
+        -2.4993367195129395,
+        1.5168068408966064
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.63291916630104e-07
+    },
+    {
+      "frame": 146,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.4463963508605957,
+        0.9599809646606445
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8133351802825928,
+        -2.454979419708252,
+        1.52394437789917
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 3.5507767534581625e-07
+    },
+    {
+      "frame": 147,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.3999733924865723,
+        0.9612086415290833
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8127763271331787,
+        -2.4124209880828857,
+        1.5252500772476196
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.8859039141737597e-07
+    },
+    {
+      "frame": 148,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.3534317016601562,
+        0.9631097316741943
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.812052011489868,
+        -2.3714239597320557,
+        1.5270850658416748
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.2885777500869509e-07
+    },
+    {
+      "frame": 149,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.3067851066589355,
+        0.9754989147186279
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.81107497215271,
+        -2.330927848815918,
+        1.5392720699310303
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 9.721284219277315e-08
+    },
+    {
+      "frame": 150,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.2600293159484863,
+        0.9857367277145386
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8098349571228027,
+        -2.290221929550171,
+        1.5491985082626343
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -6.772761454443277e-08
+    },
+    {
+      "frame": 151,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.2131614685058594,
+        0.9939167499542236
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8084046840667725,
+        -2.248628616333008,
+        1.557019591331482
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 9.420592497755287e-08
+    },
+    {
+      "frame": 152,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.1661605834960938,
+        0.9978384375572205
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.807002544403076,
+        -2.205162525177002,
+        1.5606536865234375
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.3498681556155532e-08
+    },
+    {
+      "frame": 153,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.1190404891967773,
+        0.9973727464675903
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.805687665939331,
+        -2.159531593322754,
+        1.5600582361221313
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 6.022628434854127e-08
+    },
+    {
+      "frame": 154,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.071798801422119,
+        0.9927855730056763
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8042781352996826,
+        -2.11195707321167,
+        1.5555007457733154
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -4.260696545577147e-09
+    },
+    {
+      "frame": 155,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -2.0244340896606445,
+        0.9846352934837341
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8027751445770264,
+        -2.062910556793213,
+        1.5474834442138672
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -7.102170257455853e-08
+    },
+    {
+      "frame": 156,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.9769182205200195,
+        0.9747495651245117
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8013827800750732,
+        -2.012678384780884,
+        1.5377867221832275
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 5.430061661426677e-08
+    },
+    {
+      "frame": 157,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.9292716979980469,
+        0.9648721814155579
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.800328016281128,
+        -1.9619035720825195,
+        1.5281012058258057
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.149219913150091e-09
+    },
+    {
+      "frame": 158,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.8814897537231445,
+        0.9564695358276367
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7998154163360596,
+        -1.9110256433486938,
+        1.5198695659637451
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.518971714692846e-08
+    },
+    {
+      "frame": 159,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.8335704803466797,
+        0.9488478899002075
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.800025224685669,
+        -1.8604944944381714,
+        1.5123833417892456
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -8.122169878332919e-08
+    },
+    {
+      "frame": 160,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.7854886054992676,
+        0.9488118886947632
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.801267623901367,
+        -1.8108667135238647,
+        1.5124225616455078
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.292054077090988e-08
+    },
+    {
+      "frame": 161,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.737260341644287,
+        0.9531266689300537
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8034708499908447,
+        -1.7617747783660889,
+        1.5167505741119385
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.581942355444177e-07
+    },
+    {
+      "frame": 162,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.6884245872497559,
+        0.959771990776062
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.806363344192505,
+        -1.712348222732544,
+        1.5233181715011597
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 8.437203119493475e-08
+    },
+    {
+      "frame": 163,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.638106346130371,
+        0.9713197946548462
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8095624446868896,
+        -1.6615307331085205,
+        1.5346513986587524
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 9.715613036309634e-09
+    },
+    {
+      "frame": 164,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.5863432884216309,
+        0.9816256165504456
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8125951290130615,
+        -1.6091593503952026,
+        1.5445636510849
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 7.599628409904469e-08
+    },
+    {
+      "frame": 165,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.533961296081543,
+        0.9902961850166321
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8147053718566895,
+        -1.55572509765625,
+        1.5526905059814453
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.3856369962826918e-08
+    },
+    {
+      "frame": 166,
+      "segment": "native walk 2",
+      "root": [
+        -3.799999952316284,
+        -1.4815540313720703,
+        0.9982151985168457
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.816483974456787,
+        -1.5027662515640259,
+        1.559944987297058
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.627587338323913e-08
+    },
+    {
+      "frame": 167,
+      "segment": "native stop 3",
+      "root": [
+        -3.799999952316284,
+        -1.4295763969421387,
+        1.0053654909133911
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.808973789215088,
+        -1.4003459215164185,
+        1.5666252374649048
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -8.570046061695535e-10
+    },
+    {
+      "frame": 168,
+      "segment": "native stop 3",
+      "root": [
+        -3.799288034439087,
+        -1.3885574340820312,
+        1.0001955032348633
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7991931438446045,
+        -1.3776888847351074,
+        1.5624229907989502
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 6.473668695550217e-08
+    },
+    {
+      "frame": 169,
+      "segment": "native stop 3",
+      "root": [
+        -3.7970147132873535,
+        -1.3423075675964355,
+        0.9897565245628357
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7952980995178223,
+        -1.3629180192947388,
+        1.5538228750228882
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.476396976896055e-09
+    },
+    {
+      "frame": 170,
+      "segment": "native stop 3",
+      "root": [
+        -3.7950987815856934,
+        -1.2943744659423828,
+        0.9780834317207336
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.795431137084961,
+        -1.3352644443511963,
+        1.5423455238342285
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.6207341357876714e-07
+    },
+    {
+      "frame": 171,
+      "segment": "native stop 3",
+      "root": [
+        -3.793947219848633,
+        -1.2472143173217773,
+        0.9684444069862366
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7943921089172363,
+        -1.2930511236190796,
+        1.5322370529174805
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.763168679975614e-08
+    },
+    {
+      "frame": 172,
+      "segment": "native stop 3",
+      "root": [
+        -3.793093204498291,
+        -1.1936688423156738,
+        0.9639798998832703
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7946043014526367,
+        -1.244902491569519,
+        1.5273864269256592
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.7623834336344402e-07
+    },
+    {
+      "frame": 173,
+      "segment": "native stop 3",
+      "root": [
+        -3.793217658996582,
+        -1.1346278190612793,
+        0.9640529155731201
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7936816215515137,
+        -1.1914851665496826,
+        1.5271086692810059
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -7.59233183267316e-08
+    },
+    {
+      "frame": 174,
+      "segment": "native stop 3",
+      "root": [
+        -3.794274091720581,
+        -1.0777196884155273,
+        0.9637936353683472
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.792008638381958,
+        -1.1416634321212769,
+        1.5262218713760376
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.9520497396285919e-07
+    },
+    {
+      "frame": 175,
+      "segment": "native stop 3",
+      "root": [
+        -3.797065019607544,
+        -1.032203197479248,
+        0.9669196009635925
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7936859130859375,
+        -1.1020063161849976,
+        1.5286701917648315
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.32343863487894e-09
+    },
+    {
+      "frame": 176,
+      "segment": "native stop 3",
+      "root": [
+        -3.7968027591705322,
+        -0.9948816299438477,
+        0.974165678024292
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.79579496383667,
+        -1.0675760507583618,
+        1.5354031324386597
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.4137176965189902e-07
+    },
+    {
+      "frame": 177,
+      "segment": "native stop 3",
+      "root": [
+        -3.7945687770843506,
+        -0.9617710113525391,
+        0.9836967587471008
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.796342611312866,
+        -1.0337315797805786,
+        1.544871211051941
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 3.072930143677155e-08
+    },
+    {
+      "frame": 178,
+      "segment": "native stop 3",
+      "root": [
+        -3.7937397956848145,
+        -0.9337944984436035,
+        0.9919758439064026
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7981863021850586,
+        -1.0031681060791016,
+        1.5533576011657715
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.561191006194118e-07
+    },
+    {
+      "frame": 179,
+      "segment": "native stop 3",
+      "root": [
+        -3.794661045074463,
+        -0.9106287956237793,
+        0.9973437190055847
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8012192249298096,
+        -0.9795835614204407,
+        1.558679461479187
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.707372798698259e-09
+    },
+    {
+      "frame": 180,
+      "segment": "native stop 3",
+      "root": [
+        -3.795947790145874,
+        -0.8900561332702637,
+        1.0008679628372192
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8031623363494873,
+        -0.9596378803253174,
+        1.5620251893997192
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -6.724750095665755e-08
+    },
+    {
+      "frame": 181,
+      "segment": "native stop 3",
+      "root": [
+        -3.797300338745117,
+        -0.872215747833252,
+        1.00309157371521
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8049850463867188,
+        -0.9383881688117981,
+        1.564575433731079
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.590166258391701e-07
+    },
+    {
+      "frame": 182,
+      "segment": "native stop 3",
+      "root": [
+        -3.79797625541687,
+        -0.8566527366638184,
+        1.0044569969177246
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.806384801864624,
+        -0.9176214337348938,
+        1.5664762258529663
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.0128754874004784e-07
+    },
+    {
+      "frame": 183,
+      "segment": "native stop 3",
+      "root": [
+        -3.7981836795806885,
+        -0.8428859710693359,
+        1.005319356918335
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.807157516479492,
+        -0.9003344178199768,
+        1.5676788091659546
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.548394568118283e-08
+    },
+    {
+      "frame": 184,
+      "segment": "native stop 3",
+      "root": [
+        -3.797945022583008,
+        -0.8319907188415527,
+        1.0055912733078003
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8073084354400635,
+        -0.8859143853187561,
+        1.56822669506073
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.303676623407249e-08
+    },
+    {
+      "frame": 185,
+      "segment": "native stop 3",
+      "root": [
+        -3.7970802783966064,
+        -0.8235535621643066,
+        1.005480408668518
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8070483207702637,
+        -0.8721833825111389,
+        1.5685123205184937
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -4.662419778034277e-08
+    },
+    {
+      "frame": 186,
+      "segment": "native stop 3",
+      "root": [
+        -3.7960875034332275,
+        -0.8163437843322754,
+        1.0055601596832275
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8066959381103516,
+        -0.8596774339675903,
+        1.5689380168914795
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 2.2369877172856434e-08
+    },
+    {
+      "frame": 187,
+      "segment": "native stop 3",
+      "root": [
+        -3.795644998550415,
+        -0.8097972869873047,
+        1.0054696798324585
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.806558132171631,
+        -0.8486068248748779,
+        1.569077730178833
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.548272647397766e-09
+    },
+    {
+      "frame": 188,
+      "segment": "native stop 3",
+      "root": [
+        -3.79508638381958,
+        -0.8037891387939453,
+        1.0044808387756348
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.805615186691284,
+        -0.8388336896896362,
+        1.5682566165924072
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -4.890936750046038e-08
+    },
+    {
+      "frame": 189,
+      "segment": "native stop 3",
+      "root": [
+        -3.7939271926879883,
+        -0.798823356628418,
+        1.003732442855835
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8039004802703857,
+        -0.8302150964736938,
+        1.5676852464675903
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 3.911496015973626e-09
+    },
+    {
+      "frame": 190,
+      "segment": "native stop 3",
+      "root": [
+        -3.7922611236572266,
+        -0.7950129508972168,
+        1.0032286643981934
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.8017778396606445,
+        -0.8235320448875427,
+        1.567306399345398
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -5.871124858503052e-08
+    },
+    {
+      "frame": 191,
+      "segment": "native stop 3",
+      "root": [
+        -3.7903876304626465,
+        -0.7913060188293457,
+        1.0029436349868774
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7995095252990723,
+        -0.8185375332832336,
+        1.5670431852340698
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.875768241929812e-08
+    },
+    {
+      "frame": 192,
+      "segment": "native stop 3",
+      "root": [
+        -3.788686990737915,
+        -0.7883949279785156,
+        1.0026510953903198
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7973825931549072,
+        -0.8147761821746826,
+        1.566733479499817
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 6.077352787681178e-09
+    },
+    {
+      "frame": 193,
+      "segment": "native stop 3",
+      "root": [
+        -3.7870166301727295,
+        -0.7865147590637207,
+        1.0022419691085815
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7953133583068848,
+        -0.8119125962257385,
+        1.5662963390350342
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.94545206055885e-08
+    },
+    {
+      "frame": 194,
+      "segment": "native stop 3",
+      "root": [
+        -3.785461187362671,
+        -0.7853102684020996,
+        1.0017139911651611
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.793517589569092,
+        -0.809528648853302,
+        1.5657447576522827
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.5887221888055691e-07
+    },
+    {
+      "frame": 195,
+      "segment": "native stop 3",
+      "root": [
+        -3.78421688079834,
+        -0.7843136787414551,
+        1.0011298656463623
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7921109199523926,
+        -0.8076350092887878,
+        1.565128207206726
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.209739685676837e-08
+    },
+    {
+      "frame": 196,
+      "segment": "native stop 3",
+      "root": [
+        -3.7831923961639404,
+        -0.7836270332336426,
+        1.0005322694778442
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7906041145324707,
+        -0.8066754341125488,
+        1.5645051002502441
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.867033127047392e-08
+    },
+    {
+      "frame": 197,
+      "segment": "native stop 3",
+      "root": [
+        -3.7822093963623047,
+        -0.7833962440490723,
+        0.9999682307243347
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7888662815093994,
+        -0.8062902688980103,
+        1.563914179801941
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -9.971447306744707e-09
+    },
+    {
+      "frame": 198,
+      "segment": "native stop 3",
+      "root": [
+        -3.7811596393585205,
+        -0.7835707664489746,
+        0.9996010661125183
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.787010431289673,
+        -0.8061618804931641,
+        1.5634982585906982
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -3.154288846785036e-08
+    },
+    {
+      "frame": 199,
+      "segment": "native stop 3",
+      "root": [
+        -3.7799973487854004,
+        -0.7838377952575684,
+        0.9994962215423584
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.785305976867676,
+        -0.8061184883117676,
+        1.5633102655410767
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -7.603978316450544e-08
+    },
+    {
+      "frame": 200,
+      "segment": "native stop 3",
+      "root": [
+        -3.778827428817749,
+        -0.7843899726867676,
+        0.9995396733283997
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7838282585144043,
+        -0.8067156672477722,
+        1.5632550716400146
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.6431374205705396e-08
+    },
+    {
+      "frame": 201,
+      "segment": "native stop 3",
+      "root": [
+        -3.777796983718872,
+        -0.7855229377746582,
+        0.999599039554596
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.782609462738037,
+        -0.8079947233200073,
+        1.563233733177185
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.9976618387262945e-08
+    },
+    {
+      "frame": 202,
+      "segment": "native stop 3",
+      "root": [
+        -3.776909112930298,
+        -0.787078857421875,
+        0.9996956586837769
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.781656265258789,
+        -0.8096421360969543,
+        1.5632597208023071
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -6.145197850582207e-08
+    },
+    {
+      "frame": 203,
+      "segment": "native stop 3",
+      "root": [
+        -3.775981903076172,
+        -0.7886362075805664,
+        0.9998743534088135
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.780607223510742,
+        -0.8113335967063904,
+        1.5633732080459595
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -1.2784140726584958e-07
+    },
+    {
+      "frame": 204,
+      "segment": "native stop 3",
+      "root": [
+        -3.775001287460327,
+        -0.790219783782959,
+        1.0000971555709839
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7795231342315674,
+        -0.8127442002296448,
+        1.5635555982589722
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -8.392610023610914e-09
+    },
+    {
+      "frame": 205,
+      "segment": "native stop 3",
+      "root": [
+        -3.774121046066284,
+        -0.7918581962585449,
+        1.0003396272659302
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7784502506256104,
+        -0.8142074346542358,
+        1.5637677907943726
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 5.044957626654245e-08
+    },
+    {
+      "frame": 206,
+      "segment": "native stop 3",
+      "root": [
+        -3.773453950881958,
+        -0.7935342788696289,
+        1.0006287097930908
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7778468132019043,
+        -0.8160384893417358,
+        1.563996434211731
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -2.3438161217415043e-08
+    },
+    {
+      "frame": 207,
+      "segment": "native stop 3",
+      "root": [
+        -3.772815465927124,
+        -0.7952322959899902,
+        1.0009349584579468
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7773725986480713,
+        -0.8180575966835022,
+        1.564219355583191
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.367905392932414e-08
+    },
+    {
+      "frame": 208,
+      "segment": "native stop 3",
+      "root": [
+        -3.7719414234161377,
+        -0.7968835830688477,
+        1.0012658834457397
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.776689291000366,
+        -0.8198482990264893,
+        1.5644781589508057
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -4.5654650421278475e-08
+    },
+    {
+      "frame": 209,
+      "segment": "native stop 3",
+      "root": [
+        -3.7707157135009766,
+        -0.7989377975463867,
+        1.0017292499542236
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.775785207748413,
+        -0.8221362829208374,
+        1.564873218536377
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.1311151598691893e-07
+    },
+    {
+      "frame": 210,
+      "segment": "settle to original idle",
+      "root": [
+        -3.770160675048828,
+        -0.7999997138977051,
+        1.0017181634902954
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7754616737365723,
+        -0.8232782483100891,
+        1.5648539066314697
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": -8.858448269366548e-08
+    },
+    {
+      "frame": 211,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7702298164367676,
+        -0.7998647689819336,
+        1.0018367767333984
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7754602432250977,
+        -0.823550283908844,
+        1.5649402141571045
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 1.1291580655992117e-05
+    },
+    {
+      "frame": 212,
+      "segment": "settle to original idle",
+      "root": [
+        -3.770376682281494,
+        -0.7995595932006836,
+        1.0019681453704834
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7755239009857178,
+        -0.8238505721092224,
+        1.5650209188461304
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 4.6670701266460224e-05
+    },
+    {
+      "frame": 213,
+      "segment": "settle to original idle",
+      "root": [
+        -3.770540714263916,
+        -0.7992277145385742,
+        1.002044439315796
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.77567458152771,
+        -0.8237479329109192,
+        1.5650715827941895
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.00010550690263641527
+    },
+    {
+      "frame": 214,
+      "segment": "settle to original idle",
+      "root": [
+        -3.770693302154541,
+        -0.7989897727966309,
+        1.0020897388458252
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.775935173034668,
+        -0.8232681155204773,
+        1.565123200416565
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.00018466271791819922
+    },
+    {
+      "frame": 215,
+      "segment": "settle to original idle",
+      "root": [
+        -3.770763397216797,
+        -0.7989397048950195,
+        1.002173900604248
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7761471271514893,
+        -0.8228586316108704,
+        1.565216064453125
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0002800115803891501
+    },
+    {
+      "frame": 216,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7706291675567627,
+        -0.7991409301757812,
+        1.002313256263733
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7761385440826416,
+        -0.8227365612983704,
+        1.56535804271698
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0003854353401636368
+    },
+    {
+      "frame": 217,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701592445373535,
+        -0.8000054359436035,
+        1.0023449659347534
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7759130001068115,
+        -0.8234155774116516,
+        1.565403938293457
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.000493295321596976
+    },
+    {
+      "frame": 218,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701592445373535,
+        -0.8000054359436035,
+        1.0025291442871094
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7757933139801025,
+        -0.823700487613678,
+        1.5655757188796997
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0006050743438843487
+    },
+    {
+      "frame": 219,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701592445373535,
+        -0.8000054359436035,
+        1.002776861190796
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7756645679473877,
+        -0.8241870403289795,
+        1.5657882690429688
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0007146904260754983
+    },
+    {
+      "frame": 220,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701592445373535,
+        -0.8000063896179199,
+        1.0029726028442383
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.775631904602051,
+        -0.8244763016700745,
+        1.5659546852111816
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0008170661430304538
+    },
+    {
+      "frame": 221,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701592445373535,
+        -0.8000068664550781,
+        1.0030813217163086
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.775723457336426,
+        -0.8243759274482727,
+        1.5660576820373535
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0009093897055061362
+    },
+    {
+      "frame": 222,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701587677001953,
+        -0.8000068664550781,
+        1.0031800270080566
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7758870124816895,
+        -0.8241170644760132,
+        1.566154956817627
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0009883038105862885
+    },
+    {
+      "frame": 223,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701587677001953,
+        -0.8000073432922363,
+        1.0032638311386108
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.776052474975586,
+        -0.8238862156867981,
+        1.5662355422973633
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.001049553491433236
+    },
+    {
+      "frame": 224,
+      "segment": "settle to original idle",
+      "root": [
+        -3.7701587677001953,
+        -0.8000087738037109,
+        1.0033291578292847
+      ],
+      "glance_weight": 0,
+      "head": [
+        -3.7761411666870117,
+        -0.8238573670387268,
+        1.5662919282913208
+      ],
+      "door_target": [
+        -3.8,
+        -5.8,
+        1.5
+      ],
+      "native_airborne_clearance_m": 0.0,
+      "minimum_boot_clearance_m": 0.0010887699517778127
+    }
+  ],
+  "production_render_performed": false,
+  "source_scene": "observatory-v11-single-reaction.blend",
+  "source_sha256": "9372e2afbffc9f8669b89b67904fd3c3def34bfce31cd1bac458ae0d46f55cd6",
+  "scene": "observatory-v12-run-entry.blend",
+  "scene_sha256": "f9b081ad2459c3171d968bfe839a83e3f8923d008049bd9fa1ebee9842f1b23d",
+  "source_scene_unchanged": true,
+  "new_camera": "V12 | Run through threshold and check behind",
+  "later_camera_cuts_unchanged": true
+}

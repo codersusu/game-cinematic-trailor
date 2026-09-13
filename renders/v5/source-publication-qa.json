@@ -1,0 +1,8 @@
+{
+  "stage": "scene and motion proof",
+  "commit": "cfc76272a450605d952f23abe481efc2413e796d",
+  "public_proof_http_status": 200,
+  "public_proof_sha256": "8f954bcbe4ed8cb8ff5744b14e47a31d4d5d9745eee93d5ccd125551c2656341",
+  "matches_local": true,
+  "final_movie_status": "rendering"
+}

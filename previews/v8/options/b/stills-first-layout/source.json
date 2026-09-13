@@ -1,0 +1,14 @@
+{
+  "scene": "option-b-sword-guardian.blend",
+  "sha256": "0d00df00c31bd216085e927eafd32ebe5e17d946b33327e8d502efea7b357e35",
+  "resolution": [
+    768,
+    432
+  ],
+  "fps": 12,
+  "source_fps": 24.0,
+  "source_frame_start": 1,
+  "source_frame_end": 192,
+  "engine": "EEVEE",
+  "samples": 8
+}

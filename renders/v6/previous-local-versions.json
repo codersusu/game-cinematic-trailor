@@ -1,0 +1,62 @@
+{
+  "The Last Observatory - Arrival.mp4": {
+    "bytes": 18883644,
+    "sha256": "36bab720dd262376b6e037ee34fa6693d78180d1052b7eb03cd048badd53e158"
+  },
+  "The Last Observatory - Astra Chamber.mp4": {
+    "bytes": 14660995,
+    "sha256": "013f009eba09363c2b389cd1c5e2c97286742d5d3dee8580cbfed49f995da3a3"
+  },
+  "The Last Observatory - Celestial.mp4": {
+    "bytes": 21230652,
+    "sha256": "fcb0d222d949fc89caf54e66bd499f3448143c0a6ba34d0aed3d85edff08375e"
+  },
+  "The Last Observatory - Wonder.mp4": {
+    "bytes": 19479164,
+    "sha256": "a332b386b66313a92f88a8a08bdc4966c311f88623224c4d16c7d3dba27d4246"
+  },
+  "The Last Observatory.mp4": {
+    "bytes": 18605743,
+    "sha256": "f7a83b4e20974ace8e443cfe4d439a8b3ef1b505630c411440f6b9dafeed8a23"
+  },
+  "observatory-eyes-fixed.blend": {
+    "bytes": 329394703,
+    "sha256": "9376b1b6ca4bcfa9990207393f1e3bb3d20de103e4badcd2493028f7c64ffc29"
+  },
+  "observatory-v2-environment.blend": {
+    "bytes": 35905640,
+    "sha256": "976e8a7f68985a5ed9f6af6f0b11e7624ced09e1cf932bdd579fca0119e55bc4"
+  },
+  "observatory-v2.blend": {
+    "bytes": 97228307,
+    "sha256": "e7cdbce1298d159f001e3908356bd37719c850ae2b42a278566794eb43e290ae"
+  },
+  "observatory-v3-environment.blend": {
+    "bytes": 42388465,
+    "sha256": "c143463e847da8f63f9cc8892b44d4a82695933bb8c830c2e7649fea6a08e44a"
+  },
+  "observatory-v3.blend": {
+    "bytes": 413605272,
+    "sha256": "c0e88be1c1d6ffa515a478b615889ed45bac4e5a3976ce762f722056861ad40b"
+  },
+  "observatory-v4.blend": {
+    "bytes": 29853704,
+    "sha256": "6f745b8ca4607860564a3b790287c3601ef1abcb47d2856754c4fc0ccb8990f7"
+  },
+  "observatory-v5.blend": {
+    "bytes": 57062893,
+    "sha256": "50c416d855eb24389c44683ac7f8f1a1ed2929b5044044344af8ac4c69045f5c"
+  },
+  "observatory.blend": {
+    "bytes": 329394703,
+    "sha256": "9376b1b6ca4bcfa9990207393f1e3bb3d20de103e4badcd2493028f7c64ffc29"
+  },
+  "observatory45.blend": {
+    "bytes": 329306999,
+    "sha256": "47d42de7f3c7b88546db295ffa8a1b1bbab683d98d97be75874a2e384fa30bb8"
+  },
+  "observatory52.blend": {
+    "bytes": 111523664,
+    "sha256": "aa381e1be56003e86f67226f9fcae4aba4d23f1f76a86f64aab89918ca335a98"
+  }
+}
