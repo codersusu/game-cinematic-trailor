@@ -1,0 +1,1540 @@
+{
+  "schema_version": 1,
+  "cutoff_utc_exclusive": "2026-09-14T21:18:44.973Z",
+  "scope": "Cinematic task through prior publication/cleanup; excludes this usage-audit turn",
+  "counts": {
+    "development_agents": 9,
+    "approval_review_threads": 28,
+    "retained_unique_responses_all": 4541
+  },
+  "totals": {
+    "main": {
+      "input_tokens": 304066947,
+      "cached_input_tokens": 300099200,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 787201,
+      "reasoning_output_tokens": 337849,
+      "total_tokens": 304854148,
+      "uncached_input_tokens": 3967747
+    },
+    "development_agents": {
+      "input_tokens": 187311495,
+      "cached_input_tokens": 181674496,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 656569,
+      "reasoning_output_tokens": 189529,
+      "total_tokens": 187968064,
+      "uncached_input_tokens": 5636999
+    },
+    "development_combined": {
+      "input_tokens": 491378442,
+      "cached_input_tokens": 481773696,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1443770,
+      "reasoning_output_tokens": 527378,
+      "total_tokens": 492822212,
+      "uncached_input_tokens": 9604746
+    },
+    "automatic_approval_reviews": {
+      "input_tokens": 62134026,
+      "cached_input_tokens": 52004352,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 76541,
+      "reasoning_output_tokens": 30684,
+      "total_tokens": 62210567,
+      "uncached_input_tokens": 10129674
+    },
+    "all_recorded": {
+      "input_tokens": 553512468,
+      "cached_input_tokens": 533778048,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1520311,
+      "reasoning_output_tokens": 558062,
+      "total_tokens": 555032779,
+      "uncached_input_tokens": 19734420
+    }
+  },
+  "time": {
+    "conversation_start_utc": "2026-09-10T18:55:36.822Z",
+    "last_development_completion_utc": "2026-09-13T17:21:59.982Z",
+    "conversation_elapsed_to_audit_request_seconds": 354188.151,
+    "elapsed_to_publication_completion_seconds": 253583.16,
+    "main_active_seconds": 103853.121,
+    "development_active_wall_seconds": 103875.373,
+    "development_summed_agent_seconds": 126743.83,
+    "missing_main_completion_upper_extra_seconds": 157.687,
+    "active_definition": "Union of main/development-agent turn intervals. Includes research, tools, rendering, waiting, uploads; excludes between-turn idle; parallel intervals counted once.",
+    "pure_coding_or_model_compute_time_seconds": null,
+    "intervals_utc": [
+      [
+        "2026-09-10T18:55:36.822Z",
+        "2026-09-10T18:57:09.298Z"
+      ],
+      [
+        "2026-09-10T19:02:15.739Z",
+        "2026-09-10T19:02:29.969Z"
+      ],
+      [
+        "2026-09-10T19:04:22.205Z",
+        "2026-09-10T19:04:40.670Z"
+      ],
+      [
+        "2026-09-10T19:06:51.407Z",
+        "2026-09-10T19:07:39.775Z"
+      ],
+      [
+        "2026-09-10T22:21:39.650Z",
+        "2026-09-10T22:22:33.900Z"
+      ],
+      [
+        "2026-09-10T22:35:20.171Z",
+        "2026-09-11T02:28:00.656Z"
+      ],
+      [
+        "2026-09-11T06:54:48.521Z",
+        "2026-09-11T09:23:06.630Z"
+      ],
+      [
+        "2026-09-11T10:15:19.343Z",
+        "2026-09-11T10:29:10.384Z"
+      ],
+      [
+        "2026-09-11T10:43:17.857Z",
+        "2026-09-11T14:22:34.201Z"
+      ],
+      [
+        "2026-09-11T15:14:53.161Z",
+        "2026-09-11T18:25:06.938Z"
+      ],
+      [
+        "2026-09-11T19:31:42.930Z",
+        "2026-09-11T19:34:03.047Z"
+      ],
+      [
+        "2026-09-11T21:27:59.007Z",
+        "2026-09-11T21:32:04.928Z"
+      ],
+      [
+        "2026-09-11T21:40:47.305Z",
+        "2026-09-11T21:51:26.048Z"
+      ],
+      [
+        "2026-09-12T07:20:33.454Z",
+        "2026-09-12T11:45:23.211Z"
+      ],
+      [
+        "2026-09-12T12:54:13.175Z",
+        "2026-09-12T14:48:20.201Z"
+      ],
+      [
+        "2026-09-12T14:48:20.276Z",
+        "2026-09-12T16:53:08.250Z"
+      ],
+      [
+        "2026-09-12T16:55:45.937Z",
+        "2026-09-12T17:08:27.085Z"
+      ],
+      [
+        "2026-09-12T17:46:31.405Z",
+        "2026-09-12T18:04:55.761Z"
+      ],
+      [
+        "2026-09-12T18:09:32.681Z",
+        "2026-09-12T18:28:12.154Z"
+      ],
+      [
+        "2026-09-12T18:38:27.791Z",
+        "2026-09-12T18:52:14.699Z"
+      ],
+      [
+        "2026-09-12T19:55:02.844Z",
+        "2026-09-12T20:12:21.075Z"
+      ],
+      [
+        "2026-09-12T20:24:14.306Z",
+        "2026-09-12T21:17:51.629Z"
+      ],
+      [
+        "2026-09-12T21:33:15.714Z",
+        "2026-09-12T21:34:03.456Z"
+      ],
+      [
+        "2026-09-13T10:35:30.212Z",
+        "2026-09-13T10:35:42.907Z"
+      ],
+      [
+        "2026-09-13T10:38:59.416Z",
+        "2026-09-13T10:40:41.736Z"
+      ],
+      [
+        "2026-09-13T10:40:59.898Z",
+        "2026-09-13T10:49:38.497Z"
+      ],
+      [
+        "2026-09-13T11:13:05.656Z",
+        "2026-09-13T11:51:29.888Z"
+      ],
+      [
+        "2026-09-13T12:52:52.077Z",
+        "2026-09-13T14:20:27.714Z"
+      ],
+      [
+        "2026-09-13T14:38:50.167Z",
+        "2026-09-13T14:41:05.800Z"
+      ],
+      [
+        "2026-09-13T15:13:46.144Z",
+        "2026-09-13T17:22:00.137Z"
+      ]
+    ],
+    "issues": [
+      {
+        "agent": "main",
+        "issue": "Missing completion: use final usage timestamp as lower endpoint",
+        "start_utc": "2026-09-12T14:48:20.276Z",
+        "last_usage_utc": "2026-09-12T16:53:08.250Z"
+      }
+    ]
+  },
+  "threads": [
+    {
+      "label": "main",
+      "kind": "main",
+      "tokens": {
+        "input_tokens": 304066947,
+        "cached_input_tokens": 300099200,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 787201,
+        "reasoning_output_tokens": 337849,
+        "total_tokens": 304854148
+      },
+      "retained_response_tokens": {
+        "input_tokens": 304066947,
+        "cached_input_tokens": 300099200,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 787201,
+        "reasoning_output_tokens": 337849,
+        "total_tokens": 304854148
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 2494,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "1f999f48bae55032c718ab1dfec628774cf97877efc70318ab70176d08832610",
+      "completed_turns_with_usage": 29,
+      "inferred_intervals": 1,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 103853.121
+    },
+    {
+      "label": "approval_review_01",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 12263,
+        "cached_input_tokens": 4864,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 137,
+        "reasoning_output_tokens": 82,
+        "total_tokens": 12400
+      },
+      "retained_response_tokens": {
+        "input_tokens": 12263,
+        "cached_input_tokens": 4864,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 137,
+        "reasoning_output_tokens": 82,
+        "total_tokens": 12400
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 1,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "e556775edf6a6a6448b753b0f668891e739d8d6d8d4a72221aeaad219695a649",
+      "completed_turns_with_usage": 1,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 3.709
+    },
+    {
+      "label": "/root/assets",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 16636232,
+        "cached_input_tokens": 15734528,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 58550,
+        "reasoning_output_tokens": 13104,
+        "total_tokens": 16694782
+      },
+      "retained_response_tokens": {
+        "input_tokens": 16636232,
+        "cached_input_tokens": 15734528,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 58550,
+        "reasoning_output_tokens": 13104,
+        "total_tokens": 16694782
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 147,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "0b222799dec1f7a1d1c0606343c23fc2be6f0082a62426d18824a6c35aa21718",
+      "completed_turns_with_usage": 16,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 1762.776
+    },
+    {
+      "label": "approval_review_02",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 2142114,
+        "cached_input_tokens": 1686272,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2535,
+        "reasoning_output_tokens": 933,
+        "total_tokens": 2144649
+      },
+      "retained_response_tokens": {
+        "input_tokens": 2142114,
+        "cached_input_tokens": 1686272,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2535,
+        "reasoning_output_tokens": 933,
+        "total_tokens": 2144649
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 25,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "61a54c4ccc5ba100b707eefc31c8e5b0cc1b2b46a409f165aaf44358b56a2fb4",
+      "completed_turns_with_usage": 25,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 72.001
+    },
+    {
+      "label": "/root/character",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 33553472,
+        "cached_input_tokens": 32912384,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 75424,
+        "reasoning_output_tokens": 22107,
+        "total_tokens": 33628896
+      },
+      "retained_response_tokens": {
+        "input_tokens": 33553472,
+        "cached_input_tokens": 32912384,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 75424,
+        "reasoning_output_tokens": 22107,
+        "total_tokens": 33628896
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 259,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "2fd14b5997ad0285f78d619c9c2c0a2913a14f2951784048df5f6ae4e0dae290",
+      "completed_turns_with_usage": 11,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 3452.582
+    },
+    {
+      "label": "approval_review_03",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 7985496,
+        "cached_input_tokens": 6373376,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 8751,
+        "reasoning_output_tokens": 2404,
+        "total_tokens": 7994247
+      },
+      "retained_response_tokens": {
+        "input_tokens": 314681,
+        "cached_input_tokens": 211200,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 307,
+        "reasoning_output_tokens": 129,
+        "total_tokens": 314988
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 7670815,
+        "cached_input_tokens": 6162176,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 8444,
+        "reasoning_output_tokens": 2275,
+        "total_tokens": 7679259
+      },
+      "retained_responses": 3,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "8bb050a4cc940f9ba5cd98395655b5c5b2715463f48c1a7fb58a492bc85bf4fc",
+      "completed_turns_with_usage": 3,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 3,
+      "active_seconds": 28.239
+    },
+    {
+      "label": "/root/audio",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 7948793,
+        "cached_input_tokens": 7679872,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 38193,
+        "reasoning_output_tokens": 6899,
+        "total_tokens": 7986986
+      },
+      "retained_response_tokens": {
+        "input_tokens": 7948793,
+        "cached_input_tokens": 7679872,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 38193,
+        "reasoning_output_tokens": 6899,
+        "total_tokens": 7986986
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 88,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "99c348895cf2770f00844d267708df79ae0005029c1d4ea935bfa189d1edaf9f",
+      "completed_turns_with_usage": 5,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 1206.653
+    },
+    {
+      "label": "approval_review_04",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 98086,
+        "cached_input_tokens": 30976,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 576,
+        "reasoning_output_tokens": 366,
+        "total_tokens": 98662
+      },
+      "retained_response_tokens": {
+        "input_tokens": 98086,
+        "cached_input_tokens": 30976,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 576,
+        "reasoning_output_tokens": 366,
+        "total_tokens": 98662
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 3,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "3de424cfbedc48d39ff2d6a3d4690415ec5b3260eeaf9bacc5b2cf8cf4b5c90c",
+      "completed_turns_with_usage": 3,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 11.355
+    },
+    {
+      "label": "approval_review_05",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 3338553,
+        "cached_input_tokens": 3050240,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4012,
+        "reasoning_output_tokens": 1591,
+        "total_tokens": 3342565
+      },
+      "retained_response_tokens": {
+        "input_tokens": 3338553,
+        "cached_input_tokens": 3050240,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4012,
+        "reasoning_output_tokens": 1591,
+        "total_tokens": 3342565
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 41,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "4f9205716c5e17a01de53461e1995333f331537a9098c87c8f0b8bf26a67c5f8",
+      "completed_turns_with_usage": 41,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 100.537
+    },
+    {
+      "label": "approval_review_06",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 579189,
+        "cached_input_tokens": 498432,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1661,
+        "reasoning_output_tokens": 784,
+        "total_tokens": 580850
+      },
+      "retained_response_tokens": {
+        "input_tokens": 579189,
+        "cached_input_tokens": 498432,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1661,
+        "reasoning_output_tokens": 784,
+        "total_tokens": 580850
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 13,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "9dbfb395ab0e6f00bdaa23eaec447fb0231b88586c5149467ec5c9efc500c689",
+      "completed_turns_with_usage": 11,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 44.039
+    },
+    {
+      "label": "approval_review_07",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 129333,
+        "cached_input_tokens": 102912,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1066,
+        "reasoning_output_tokens": 676,
+        "total_tokens": 130399
+      },
+      "retained_response_tokens": {
+        "input_tokens": 129333,
+        "cached_input_tokens": 102912,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1066,
+        "reasoning_output_tokens": 676,
+        "total_tokens": 130399
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 6,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "2cf2e0b965c10911c502c593b24ce54813d64951e836a423e7b6f716420a2828",
+      "completed_turns_with_usage": 6,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 25.503
+    },
+    {
+      "label": "approval_review_08",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 4682395,
+        "cached_input_tokens": 4354560,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4255,
+        "reasoning_output_tokens": 1670,
+        "total_tokens": 4686650
+      },
+      "retained_response_tokens": {
+        "input_tokens": 4682395,
+        "cached_input_tokens": 4354560,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4255,
+        "reasoning_output_tokens": 1670,
+        "total_tokens": 4686650
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 42,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "1cf93e4bddc4d9d6c5e24cda3583a0d9bf8712aa82afb414adcef6805c26f141",
+      "completed_turns_with_usage": 42,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 168.298
+    },
+    {
+      "label": "/root/native_character",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 28738587,
+        "cached_input_tokens": 27743872,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 91415,
+        "reasoning_output_tokens": 23498,
+        "total_tokens": 28830002
+      },
+      "retained_response_tokens": {
+        "input_tokens": 28738587,
+        "cached_input_tokens": 27743872,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 91415,
+        "reasoning_output_tokens": 23498,
+        "total_tokens": 28830002
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 228,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "e01bcb69d6086fc270acf9ca17227fac46bd1bdf7b7f529609b69e396e16f992",
+      "completed_turns_with_usage": 18,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 2864.086
+    },
+    {
+      "label": "approval_review_09",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 6980478,
+        "cached_input_tokens": 5320960,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 7871,
+        "reasoning_output_tokens": 3084,
+        "total_tokens": 6988349
+      },
+      "retained_response_tokens": {
+        "input_tokens": 1774801,
+        "cached_input_tokens": 1519104,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1413,
+        "reasoning_output_tokens": 771,
+        "total_tokens": 1776214
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 5205677,
+        "cached_input_tokens": 3801856,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 6458,
+        "reasoning_output_tokens": 2313,
+        "total_tokens": 5212135
+      },
+      "retained_responses": 10,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "f5435f32d3fe71343ef6c44a07e13d4b53ffb3468cd3835ceeec880f3e8f6355",
+      "completed_turns_with_usage": 10,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 10,
+      "active_seconds": 53.501
+    },
+    {
+      "label": "/root/walk_diagnosis",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 8923941,
+        "cached_input_tokens": 8672512,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 51051,
+        "reasoning_output_tokens": 20859,
+        "total_tokens": 8974992
+      },
+      "retained_response_tokens": {
+        "input_tokens": 8923941,
+        "cached_input_tokens": 8672512,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 51051,
+        "reasoning_output_tokens": 20859,
+        "total_tokens": 8974992
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 105,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "4be5b1df3726ce73a0f2f841d3c52c0b778e108b5fe762642db79be3fd18ed46",
+      "completed_turns_with_usage": 5,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 1905.957
+    },
+    {
+      "label": "approval_review_10",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 533591,
+        "cached_input_tokens": 355584,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1347,
+        "reasoning_output_tokens": 616,
+        "total_tokens": 534938
+      },
+      "retained_response_tokens": {
+        "input_tokens": 533591,
+        "cached_input_tokens": 355584,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1347,
+        "reasoning_output_tokens": 616,
+        "total_tokens": 534938
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 11,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "c96d90817045904acece68137118e732a55f56b1a4fa29319e38f94063a3720d",
+      "completed_turns_with_usage": 11,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 32.719
+    },
+    {
+      "label": "approval_review_11",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 1956097,
+        "cached_input_tokens": 1620736,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2301,
+        "reasoning_output_tokens": 1231,
+        "total_tokens": 1958398
+      },
+      "retained_response_tokens": {
+        "input_tokens": 1956097,
+        "cached_input_tokens": 1620736,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2301,
+        "reasoning_output_tokens": 1231,
+        "total_tokens": 1958398
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 17,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "c0cd22e129d990725ca8a17fbaa1d676f18ad8077c17ff72dd312df374078a57",
+      "completed_turns_with_usage": 17,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 73.344
+    },
+    {
+      "label": "/root/sound_v4",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 3430140,
+        "cached_input_tokens": 3200768,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 20285,
+        "reasoning_output_tokens": 3939,
+        "total_tokens": 3450425
+      },
+      "retained_response_tokens": {
+        "input_tokens": 3430140,
+        "cached_input_tokens": 3200768,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 20285,
+        "reasoning_output_tokens": 3939,
+        "total_tokens": 3450425
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 54,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "76f54a11b757e4bb029ee4537fe52837823cc3e4e87616a058316a5a62471422",
+      "completed_turns_with_usage": 6,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 880.908
+    },
+    {
+      "label": "approval_review_12",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 113916,
+        "cached_input_tokens": 51456,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 605,
+        "reasoning_output_tokens": 399,
+        "total_tokens": 114521
+      },
+      "retained_response_tokens": {
+        "input_tokens": 113916,
+        "cached_input_tokens": 51456,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 605,
+        "reasoning_output_tokens": 399,
+        "total_tokens": 114521
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 3,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "6b97b6d0db08959d67b1f05cb3bdda97a665c9d0a68549d16cdc3f5e03ed8332",
+      "completed_turns_with_usage": 3,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 10.971
+    },
+    {
+      "label": "approval_review_13",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 1220676,
+        "cached_input_tokens": 1107456,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2072,
+        "reasoning_output_tokens": 950,
+        "total_tokens": 1222748
+      },
+      "retained_response_tokens": {
+        "input_tokens": 1220676,
+        "cached_input_tokens": 1107456,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2072,
+        "reasoning_output_tokens": 950,
+        "total_tokens": 1222748
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 18,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "7c5fb1a4493fa2334013e233fb8ec6b5a7fa24e159d34c1ee9eaa662f8004797",
+      "completed_turns_with_usage": 18,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 68.865
+    },
+    {
+      "label": "approval_review_14",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 81181,
+        "cached_input_tokens": 63488,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 522,
+        "reasoning_output_tokens": 272,
+        "total_tokens": 81703
+      },
+      "retained_response_tokens": {
+        "input_tokens": 81181,
+        "cached_input_tokens": 63488,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 522,
+        "reasoning_output_tokens": 272,
+        "total_tokens": 81703
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 4,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "8a342c551a044c48bfcc3d65eff962753d8a2e8e4addb4f40a0f23e07e24512f",
+      "completed_turns_with_usage": 4,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 12.186
+    },
+    {
+      "label": "approval_review_15",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 652829,
+        "cached_input_tokens": 582656,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1885,
+        "reasoning_output_tokens": 1044,
+        "total_tokens": 654714
+      },
+      "retained_response_tokens": {
+        "input_tokens": 652829,
+        "cached_input_tokens": 582656,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1885,
+        "reasoning_output_tokens": 1044,
+        "total_tokens": 654714
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 12,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "90203cdb415f1670420fe3aa8e41b6e673b16dfc4c99892ba705d1912df4ed55",
+      "completed_turns_with_usage": 11,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 45.426
+    },
+    {
+      "label": "approval_review_16",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 87846,
+        "cached_input_tokens": 51200,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 612,
+        "reasoning_output_tokens": 344,
+        "total_tokens": 88458
+      },
+      "retained_response_tokens": {
+        "input_tokens": 87846,
+        "cached_input_tokens": 51200,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 612,
+        "reasoning_output_tokens": 344,
+        "total_tokens": 88458
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 4,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "18396b7e70377a536bc2d5f14a0861f277913aa740815409a506b0b75f6ba353",
+      "completed_turns_with_usage": 4,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 14.861
+    },
+    {
+      "label": "approval_review_17",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 3394869,
+        "cached_input_tokens": 2787328,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4069,
+        "reasoning_output_tokens": 1721,
+        "total_tokens": 3398938
+      },
+      "retained_response_tokens": {
+        "input_tokens": 662755,
+        "cached_input_tokens": 539136,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1016,
+        "reasoning_output_tokens": 645,
+        "total_tokens": 663771
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 2732114,
+        "cached_input_tokens": 2248192,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 3053,
+        "reasoning_output_tokens": 1076,
+        "total_tokens": 2735167
+      },
+      "retained_responses": 6,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "9f5c046fbbb0183e9b6bcfb446317c26550d8b513104b35bbc4e1ccff6b49350",
+      "completed_turns_with_usage": 6,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 6,
+      "active_seconds": 50.43
+    },
+    {
+      "label": "approval_review_18",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 2897939,
+        "cached_input_tokens": 2653440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2416,
+        "reasoning_output_tokens": 1062,
+        "total_tokens": 2900355
+      },
+      "retained_response_tokens": {
+        "input_tokens": 2897939,
+        "cached_input_tokens": 2653440,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2416,
+        "reasoning_output_tokens": 1062,
+        "total_tokens": 2900355
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 23,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "6d7dcf9fc2a5e62f0ddc2c98e3d349306e293d432947c97be6cfedcb07f992ca",
+      "completed_turns_with_usage": 23,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 85.774
+    },
+    {
+      "label": "/root/combat_assets_v8",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 50307033,
+        "cached_input_tokens": 48920320,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 190264,
+        "reasoning_output_tokens": 65221,
+        "total_tokens": 50497297
+      },
+      "retained_response_tokens": {
+        "input_tokens": 50307033,
+        "cached_input_tokens": 48920320,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 190264,
+        "reasoning_output_tokens": 65221,
+        "total_tokens": 50497297
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 424,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "9242006700484b686a4f8258d742fbd92f5fa3a273c24e2b35a3d3afc9fdec6e",
+      "completed_turns_with_usage": 12,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 6839.166
+    },
+    {
+      "label": "approval_review_19",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 3567885,
+        "cached_input_tokens": 3394304,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4100,
+        "reasoning_output_tokens": 1423,
+        "total_tokens": 3571985
+      },
+      "retained_response_tokens": {
+        "input_tokens": 3567885,
+        "cached_input_tokens": 3394304,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4100,
+        "reasoning_output_tokens": 1423,
+        "total_tokens": 3571985
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 41,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "0c0c800c7396437e58b88b7e76063c9ad3907bf305fbea555e54b579eab237cf",
+      "completed_turns_with_usage": 41,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 122.983
+    },
+    {
+      "label": "/root/finger_reach_v8",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 16858221,
+        "cached_input_tokens": 16288896,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 75110,
+        "reasoning_output_tokens": 24314,
+        "total_tokens": 16933331
+      },
+      "retained_response_tokens": {
+        "input_tokens": 16858221,
+        "cached_input_tokens": 16288896,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 75110,
+        "reasoning_output_tokens": 24314,
+        "total_tokens": 16933331
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 149,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "092865425021e04fc1a2ab121bfd09e781a4b99dfe411a1c00cd24252ff9094a",
+      "completed_turns_with_usage": 7,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 2260.006
+    },
+    {
+      "label": "approval_review_20",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 1764839,
+        "cached_input_tokens": 1428992,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2890,
+        "reasoning_output_tokens": 1177,
+        "total_tokens": 1767729
+      },
+      "retained_response_tokens": {
+        "input_tokens": 1764839,
+        "cached_input_tokens": 1428992,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2890,
+        "reasoning_output_tokens": 1177,
+        "total_tokens": 1767729
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 26,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "bdb339c1266065dd8d305fb36ea171f7cdd89f572cafe25dc353bf230f5ffaa0",
+      "completed_turns_with_usage": 26,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 84.861
+    },
+    {
+      "label": "/root/forest_assets_v8",
+      "kind": "development_agent",
+      "tokens": {
+        "input_tokens": 20915076,
+        "cached_input_tokens": 20521344,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 56277,
+        "reasoning_output_tokens": 9588,
+        "total_tokens": 20971353
+      },
+      "retained_response_tokens": {
+        "input_tokens": 20915076,
+        "cached_input_tokens": 20521344,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 56277,
+        "reasoning_output_tokens": 9588,
+        "total_tokens": 20971353
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 161,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "8bc147e4d72cbff110eb1b5bfc3608eda38b6401616d0e92e5089e144a33eb8d",
+      "completed_turns_with_usage": 14,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 1718.575
+    },
+    {
+      "label": "approval_review_21",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 2263715,
+        "cached_input_tokens": 2029824,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2842,
+        "reasoning_output_tokens": 1054,
+        "total_tokens": 2266557
+      },
+      "retained_response_tokens": {
+        "input_tokens": 2263715,
+        "cached_input_tokens": 2029824,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2842,
+        "reasoning_output_tokens": 1054,
+        "total_tokens": 2266557
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 27,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "f5ae2b927be2b893474aaf8208335f35b3c646684cadbcdf5dd3085a977afb52",
+      "completed_turns_with_usage": 27,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 74.066
+    },
+    {
+      "label": "approval_review_22",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 4757243,
+        "cached_input_tokens": 3399936,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 5829,
+        "reasoning_output_tokens": 1593,
+        "total_tokens": 4763072
+      },
+      "retained_response_tokens": {
+        "input_tokens": 697533,
+        "cached_input_tokens": 410368,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 633,
+        "reasoning_output_tokens": 365,
+        "total_tokens": 698166
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 4059710,
+        "cached_input_tokens": 2989568,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 5196,
+        "reasoning_output_tokens": 1228,
+        "total_tokens": 4064906
+      },
+      "retained_responses": 5,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "b34e4f22279abff17e24f464695b1e5bc8fb41bc12cce1a356f47a5f155461f8",
+      "completed_turns_with_usage": 5,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 5,
+      "active_seconds": 35.237
+    },
+    {
+      "label": "approval_review_23",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 3569379,
+        "cached_input_tokens": 3367168,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2994,
+        "reasoning_output_tokens": 963,
+        "total_tokens": 3572373
+      },
+      "retained_response_tokens": {
+        "input_tokens": 3569379,
+        "cached_input_tokens": 3367168,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 2994,
+        "reasoning_output_tokens": 963,
+        "total_tokens": 3572373
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 31,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "11026ea9206d2322645370d54d1337f4cb1a979bf1b5d6bca9a65de12db95bb3",
+      "completed_turns_with_usage": 31,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 118.479
+    },
+    {
+      "label": "approval_review_24",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 647461,
+        "cached_input_tokens": 512000,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 998,
+        "reasoning_output_tokens": 504,
+        "total_tokens": 648459
+      },
+      "retained_response_tokens": {
+        "input_tokens": 647461,
+        "cached_input_tokens": 512000,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 998,
+        "reasoning_output_tokens": 504,
+        "total_tokens": 648459
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 8,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "0f9e8debef5ea92e74c68e78f109a66cb9e4b26a85773bbf759fc0d07b874e13",
+      "completed_turns_with_usage": 7,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 24.593
+    },
+    {
+      "label": "approval_review_25",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 1544637,
+        "cached_input_tokens": 1340672,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1852,
+        "reasoning_output_tokens": 906,
+        "total_tokens": 1546489
+      },
+      "retained_response_tokens": {
+        "input_tokens": 1544637,
+        "cached_input_tokens": 1340672,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1852,
+        "reasoning_output_tokens": 906,
+        "total_tokens": 1546489
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 15,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "cfeb29b33dc9725bb20cdcb495bf11227751d21e1ba99d6c5b5bceb5faf499c2",
+      "completed_turns_with_usage": 15,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 70.416
+    },
+    {
+      "label": "approval_review_26",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 4034288,
+        "cached_input_tokens": 3081728,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 4658,
+        "reasoning_output_tokens": 1898,
+        "total_tokens": 4038946
+      },
+      "retained_response_tokens": {
+        "input_tokens": 1675773,
+        "cached_input_tokens": 1216000,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1649,
+        "reasoning_output_tokens": 1032,
+        "total_tokens": 1677422
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 2358515,
+        "cached_input_tokens": 1865728,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 3009,
+        "reasoning_output_tokens": 866,
+        "total_tokens": 2361524
+      },
+      "retained_responses": 10,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "b9e5f81ee8fdcd6421e266e993f2de1304609c650eb053192f2a214133f5ff78",
+      "completed_turns_with_usage": 10,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 10,
+      "active_seconds": 58.637
+    },
+    {
+      "label": "approval_review_27",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 2997089,
+        "cached_input_tokens": 2689024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 3194,
+        "reasoning_output_tokens": 1633,
+        "total_tokens": 3000283
+      },
+      "retained_response_tokens": {
+        "input_tokens": 2997089,
+        "cached_input_tokens": 2689024,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 3194,
+        "reasoning_output_tokens": 1633,
+        "total_tokens": 3000283
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 24,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "3c226ffaff0d0c09e86fe7090853fb116444e8186ae81c672d9616115b33b00d",
+      "completed_turns_with_usage": 24,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 112.327
+    },
+    {
+      "label": "approval_review_28",
+      "kind": "approval_review",
+      "tokens": {
+        "input_tokens": 100639,
+        "cached_input_tokens": 64768,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 491,
+        "reasoning_output_tokens": 304,
+        "total_tokens": 101130
+      },
+      "retained_response_tokens": {
+        "input_tokens": 100639,
+        "cached_input_tokens": 64768,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 491,
+        "reasoning_output_tokens": 304,
+        "total_tokens": 101130
+      },
+      "cumulative_only_tokens": {
+        "input_tokens": 0,
+        "cached_input_tokens": 0,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 0,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 0
+      },
+      "retained_responses": 3,
+      "duplicate_records_skipped": 0,
+      "retained_usage_sha256": "3bc07e6de1a5800476702b940281b596baff973c85253b8ab4e07f21b9f357b5",
+      "completed_turns_with_usage": 3,
+      "inferred_intervals": 0,
+      "normalized_start_timestamps": 0,
+      "active_seconds": 11.796
+    }
+  ],
+  "methodology": [
+    "Use durable token_usage_record.thread_token_usage once per owning thread, after verifying monotonicity; never sum cumulative snapshots.",
+    "Deduplicate response_id and compare retained per-response usage against durable cumulative totals.",
+    "Main and all nine development agents have complete per-response sums matching cumulative totals.",
+    "Five approval-review logs retain cumulative counters for earlier removed responses; their extra totals are separately identified.",
+    "Ignore event_msg.token_count rolling counters and SQLite tokens_used for lifetime usage, as they disagree after context changes.",
+    "Cached input is a subset of input; reasoning output is a subset of output. Total equals input plus output.",
+    "No subscription charge, API bill, external Meshy/ElevenLabs usage, or model-compute duration is inferred."
+  ]
+}
